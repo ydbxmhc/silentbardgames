@@ -135,7 +135,7 @@ body.drawer-open { overflow: hidden; }
   top: 0; left: 0;
   width: var(--drawer-width);
   height: 100vh;
-  background: var(--bg-drawer);
+  background-color: var(--bg-drawer);
   color: #e8d9b8;
   z-index: 200;
   transform: translateX(-100%);
@@ -144,6 +144,19 @@ body.drawer-open { overflow: hidden; }
   display: flex;
   flex-direction: column;
 }
+/* Pseudo-element holds the image at 20% opacity without affecting text */
+#drawer::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Raven_and_Toad-BW.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.20;
+  z-index: 0;
+  pointer-events: none;
+}
+#drawer > * { position: relative; z-index: 1; }
 #drawer.open { transform: translateX(0); }
 
 .drawer-header {
