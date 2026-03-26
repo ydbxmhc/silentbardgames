@@ -157,8 +157,7 @@ body.drawer-open { overflow: hidden; }
   z-index: 199;
   pointer-events: none;
 }
-#drawer.open ~ .drawer-bg,
-.drawer-open .drawer-bg {
+body.drawer-open .drawer-bg {
   display: block;
 }
 #drawer.open { transform: translateX(0); }
