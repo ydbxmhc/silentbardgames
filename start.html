@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>This is a Game? — Level One RPG</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header">
+    <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="./index.html" class="header-title">
+      <strong>Level One</strong> <span>System Reference Document</span>
+    </a>
+    <div class="header-rule"></div>
+    <span class="header-tagline">a OneSRD game by The Silent Bard</span>
+  </header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true">
+    <div class="drawer-header">
+      <a href="./index.html" class="drawer-logo">Level One RPG<span>silentbardgames.com</span></a>
+    </div>
+    <div class="drawer-nav">
+      <div class="nav-section">
+        <span class="nav-section-label">Getting Started</span>
+        <a href="./start.html" class="nav-item active">This is a Game?</a>
+        <a href="./core-loop.html" class="nav-item">The Core Loop</a>
+        <a href="./quickstart.html" class="nav-item">Quick Start</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Core Mechanics</span>
+        <a href="./mechanics.html" class="nav-item">Dice &amp; Tests</a>
+        <a href="./mechanics.html#actions" class="nav-item nav-sub">Actions &amp; Timing</a>
+        <a href="./mechanics.html#harm" class="nav-item nav-sub">Harm &amp; Recovery</a>
+        <a href="./mechanics.html#gear" class="nav-item nav-sub">Gear</a>
+        <a href="./mechanics.html#karma" class="nav-item nav-sub">Karma</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Characters</span>
+        <a href="./chargen.html" class="nav-item">Building a Character</a>
+        <a href="./hooks.html" class="nav-item">Hooks</a>
+        <a href="./nonhuman.html" class="nav-item">Nonhuman Characters</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Roles</span>
+        <a href="./roles.html" class="nav-item">All Roles</a>
+        <details class="nav-group"><summary>Combat <span class="nav-chevron">&#9658;</span></summary><div class="nav-group-items">
+          <a href="./roles/warrior.html" class="nav-item nav-sub">Warrior</a>
+          <a href="./roles/sniper.html" class="nav-item nav-sub">Sniper</a>
+        </div></details>
+        <details class="nav-group"><summary>Social <span class="nav-chevron">&#9658;</span></summary><div class="nav-group-items">
+          <a href="./roles/performer.html" class="nav-item nav-sub">Performer</a>
+          <a href="./roles/sneak.html" class="nav-item nav-sub">Sneak</a>
+        </div></details>
+        <details class="nav-group"><summary>Outdoorsman <span class="nav-chevron">&#9658;</span></summary><div class="nav-group-items">
+          <a href="./roles/naturalist.html" class="nav-item nav-sub">Naturalist</a>
+          <a href="./roles/beast-handler.html" class="nav-item nav-sub">Beast Handler</a>
+          <a href="./roles/athlete.html" class="nav-item nav-sub">Athlete</a>
+        </div></details>
+        <details class="nav-group"><summary>Knowledge &amp; Craft <span class="nav-chevron">&#9658;</span></summary><div class="nav-group-items">
+          <a href="./roles/healer.html" class="nav-item nav-sub">Healer</a>
+          <a href="./roles/loremaster.html" class="nav-item nav-sub">Loremaster</a>
+          <a href="./roles/tinker.html" class="nav-item nav-sub">Tinker</a>
+        </div></details>
+        <details class="nav-group"><summary>Supernatural <span class="nav-chevron">&#9658;</span></summary><div class="nav-group-items">
+          <a href="./roles/adept.html" class="nav-item nav-sub">Adept</a>
+          <a href="./roles/spellweaver.html" class="nav-item nav-sub">Spellweaver</a>
+          <a href="./roles/conjuror.html" class="nav-item nav-sub">Conjuror</a>
+        </div></details>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Running the Game</span>
+        <a href="./gm-rules.html" class="nav-item">Special Rules</a>
+        <a href="./pacing.html" class="nav-item">Pacing</a>
+        <a href="./wealth.html" class="nav-item">Wealth</a>
+        <a href="./traits.html" class="nav-item">Traits</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Magick!</span>
+        <a href="./magick.html" class="nav-item">Overview</a>
+        <a href="./magick/adepts.html" class="nav-item nav-sub">Adept Magic</a>
+        <a href="./magick/spellcraft.html" class="nav-item nav-sub">Spellcraft</a>
+        <a href="./magick/conjuring.html" class="nav-item nav-sub">Conjuring</a>
+        <a href="./magick/spells.html" class="nav-item nav-sub">Spell List</a>
+        <a href="./magick/beyond.html" class="nav-item nav-sub">The Beyond</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Appendices</span>
+        <a href="./glossary.html" class="nav-item">Glossary</a>
+        <a href="./builds.html" class="nav-item">Example Builds</a>
+        <a href="./threats.html" class="nav-item">Threats &amp; Obstacles</a>
+        <a href="./safety.html" class="nav-item">Safety Tools</a>
+      </div>
+    </div>
+    <div class="drawer-footer">
+      Level One RPG &copy; The Silent Bard<br>
+      <a href="https://silentbardgames.com">silentbardgames.com</a>
+    </div>
+  </nav>
+
+  <main id="main">
+    <div class="content-wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>This is a Game?</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">Getting Started</span>
+        <h1>This is a Game?</h1>
+        <p class="page-tagline">You probably already knew that.</p>
+      </header>
+
+      <p>People have been enjoying popular tabletop <em>Role-Playing</em> games, or TTRPGs, for over half a century, yet most still explain what RPGs <em>are</em> at the beginning of the book. As a nod to tradition, and on the off chance you're actually new to this, I'll sum it up by saying it's a set of standard rules and methods for representing the character as the "role" you'll be playing, and fairly deciding whether things they try to do will succeed.</p>
+
+      <p>You probably already knew that, or would figure it out pretty quickly. You didn't open this for me to waste your time, so let's get to the point — how do you do it? What are those rules?</p>
+
+      <h2>The Short Version</h2>
+
+      <p>Grab some dice — any common dice will do. When your character tries something, figure out how good they are by adding up your bonuses. Grab that many dice and roll 'em, and count the odd numbers. The person running the game will total up the things working against you and roll as well. If you roll better than they do you succeed by the difference.</p>
+
+      <p>Everything in the game works this way. If you punch the drunk in the bar, how much better you roll determines how hard you hit him. If he rolls better, he blocks and punches you!</p>
+
+      <h2>The Rest of the Book</h2>
+
+      <p>The resolution system is simple and standard, but "add up your bonuses" is vague, and what about damage? Initiative? Cooperative effort? Extra effort? Multiple attackers? Multiple targets?</p>
+
+      <p>How do I build a barbarian? An assassin? What about magic? What if I want to play a werewolf?</p>
+
+      <p><em>"The devil's in the details."</em></p>
+
+      <p>How is this game any different from a hundred others? <em>It depends.</em> You might think the deep end of the dice options — completely <em>unconstrained</em> dice — is pretty radical, but those are options.</p>
+
+      <p>No reason to be sketchy. Let's see what it looks like in action.</p>
+
+      <div class="box gm-note">
+        <span class="box-title">A Note on Classes</span>
+        <p>There are no classes in <em>Level One</em>. There are no preset packages. You build the character concept you want from thematically simple <strong><a href="roles.html">Roles</a></strong> combined however makes sense for your story. What you <em>do</em> well is up to you. What you <em>will</em> do is up to your <strong><a href="hooks.html">Hooks</a></strong>.</p>
+      </div>
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="index.html" class="prev">
+          <span class="page-nav-label">&#8592; Back</span>
+          <span class="page-nav-title">Home</span>
+        </a>
+        <a href="core-loop.html" class="next">
+          <span class="page-nav-label">Next &#8594;</span>
+          <span class="page-nav-title">The Core Loop</span>
+        </a>
+      </nav>
+    </div>
+  </main>
+
+  <script src="./nav.js"></script>
+</body>
+</html>

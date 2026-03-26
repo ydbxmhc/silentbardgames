@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pacing — Level One RPG</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <div id="overlay" role="presentation"></div>
+
+  <header id="site-header">
+    <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="./index.html" class="header-title">
+      <strong>Level One</strong> <span>System Reference Document</span>
+    </a>
+    <div class="header-rule"></div>
+    <span class="header-tagline">a OneSRD game by The Silent Bard</span>
+  </header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true">
+    <div class="drawer-header">
+      <a href="./index.html" class="drawer-logo">Level One RPG<span>silentbardgames.com</span></a>
+    </div>
+    <div class="drawer-nav">
+      <div class="nav-section">
+        <span class="nav-section-label">Getting Started</span>
+        <a href="./start.html" class="nav-item">This is a Game?</a>
+        <a href="./core-loop.html" class="nav-item">The Core Loop</a>
+        <a href="./quickstart.html" class="nav-item">Quick Start</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Core Mechanics</span>
+        <a href="./mechanics.html" class="nav-item">Dice &amp; Tests</a>
+        <a href="./mechanics.html#actions" class="nav-item nav-sub">Actions &amp; Timing</a>
+        <a href="./mechanics.html#harm" class="nav-item nav-sub">Harm &amp; Recovery</a>
+        <a href="./mechanics.html#gear" class="nav-item nav-sub">Gear</a>
+        <a href="./mechanics.html#karma" class="nav-item nav-sub">Karma</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Characters</span>
+        <a href="./chargen.html" class="nav-item">Building a Character</a>
+        <a href="./hooks.html" class="nav-item">Hooks</a>
+        <a href="./nonhuman.html" class="nav-item">Nonhuman Characters</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Roles</span>
+        <a href="./roles.html" class="nav-item">All Roles</a>
+        <details class="nav-group">
+          <summary>Combat <span class="nav-chevron">▶</span></summary>
+          <div class="nav-group-items">
+            <a href="./roles/warrior.html" class="nav-item nav-sub">Warrior</a>
+            <a href="./roles/sniper.html" class="nav-item nav-sub">Sniper</a>
+          </div>
+        </details>
+        <details class="nav-group">
+          <summary>Social <span class="nav-chevron">▶</span></summary>
+          <div class="nav-group-items">
+            <a href="./roles/performer.html" class="nav-item nav-sub">Performer</a>
+            <a href="./roles/sneak.html" class="nav-item nav-sub">Sneak</a>
+          </div>
+        </details>
+        <details class="nav-group">
+          <summary>Outdoorsman <span class="nav-chevron">▶</span></summary>
+          <div class="nav-group-items">
+            <a href="./roles/naturalist.html" class="nav-item nav-sub">Naturalist</a>
+            <a href="./roles/beast-handler.html" class="nav-item nav-sub">Beast Handler</a>
+            <a href="./roles/athlete.html" class="nav-item nav-sub">Athlete</a>
+          </div>
+        </details>
+        <details class="nav-group">
+          <summary>Knowledge &amp; Craft <span class="nav-chevron">▶</span></summary>
+          <div class="nav-group-items">
+            <a href="./roles/healer.html" class="nav-item nav-sub">Healer</a>
+            <a href="./roles/loremaster.html" class="nav-item nav-sub">Loremaster</a>
+            <a href="./roles/tinker.html" class="nav-item nav-sub">Tinker</a>
+          </div>
+        </details>
+        <details class="nav-group">
+          <summary>Supernatural <span class="nav-chevron">▶</span></summary>
+          <div class="nav-group-items">
+            <a href="./roles/adept.html" class="nav-item nav-sub">Adept</a>
+            <a href="./roles/spellweaver.html" class="nav-item nav-sub">Spellweaver</a>
+            <a href="./roles/conjuror.html" class="nav-item nav-sub">Conjuror</a>
+          </div>
+        </details>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Running the Game</span>
+        <a href="./gm-rules.html" class="nav-item">Special Rules</a>
+        <a href="./pacing.html" class="nav-item">Pacing</a>
+        <a href="./wealth.html" class="nav-item">Wealth</a>
+        <a href="./traits.html" class="nav-item">Traits</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Magick!</span>
+        <a href="./magick.html" class="nav-item">Overview</a>
+        <a href="./magick/adepts.html" class="nav-item nav-sub">Adept Magic</a>
+        <a href="./magick/spellcraft.html" class="nav-item nav-sub">Spellcraft</a>
+        <a href="./magick/conjuring.html" class="nav-item nav-sub">Conjuring</a>
+        <a href="./magick/spells.html" class="nav-item nav-sub">Spell List</a>
+        <a href="./magick/beyond.html" class="nav-item nav-sub">The Beyond</a>
+      </div>
+      <div class="nav-section">
+        <span class="nav-section-label">Appendices</span>
+        <a href="./glossary.html" class="nav-item">Glossary</a>
+        <a href="./builds.html" class="nav-item">Example Builds</a>
+        <a href="./threats.html" class="nav-item">Threats &amp; Obstacles</a>
+        <a href="./safety.html" class="nav-item">Safety Tools</a>
+      </div>
+    </div>
+    <div class="drawer-footer">
+      Level One RPG &copy; The Silent Bard<br>
+      <a href="https://silentbardgames.com">silentbardgames.com</a>
+    </div>
+  </nav>
+
+  <main id="main">
+    <div class="content-wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="./index.html">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Running the Game</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">Running the Game</span>
+        <h1>Pacing</h1>
+      </header>
+      <div class="box" style="border-left:3px solid var(--gold)">
+        <span class="box-title">Content Coming Soon</span>
+        <p style="margin:0">This page is reserved for <strong>Pacing</strong> content from the Level One rulebook. Check back as the SRD is built out.</p>
+      </div>
+    </div>
+  </main>
+
+  <script src="./nav.js"></script>
+</body>
+</html>
