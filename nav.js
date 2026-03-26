@@ -1,5 +1,6 @@
 // Shared drawer navigation script
-// config.js must be loaded before this file (see page <script> tags)
+// config.js must be loaded before this file
+
 (function() {
   const menuBtn = document.getElementById('menu-btn');
   const drawer  = document.getElementById('drawer');
