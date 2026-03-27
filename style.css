@@ -135,7 +135,7 @@ body.drawer-open { overflow: hidden; }
   top: 0; left: 0;
   width: var(--drawer-width);
   height: 100vh;
-  background-color: rgba(42,31,14,0.88);
+  background-color: var(--bg-drawer);
   color: #e8d9b8;
   z-index: 200;
   transform: translateX(-100%);
@@ -144,22 +144,21 @@ body.drawer-open { overflow: hidden; }
   display: flex;
   flex-direction: column;
 }
-/* Background image — lives outside drawer, fixed to viewport behind it */
+/* Background image sits inside drawer, absolutely positioned behind content */
 .drawer-bg {
-  display: none;
-  position: fixed;
-  top: 0; left: 0;
-  width: var(--drawer-width);
-  height: 100vh;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  object-position: center;
-  opacity: 0.20;
-  z-index: 199;
+  object-position: center top;
+  opacity: 0.18;
+  z-index: 1;
   pointer-events: none;
-}
-body.drawer-open .drawer-bg {
   display: block;
 }
+/* All direct drawer children sit above the bg image */
+#drawer > *:not(.drawer-bg) { position: relative; z-index: 2; }
 #drawer.open { transform: translateX(0); }
 
 .drawer-header {
