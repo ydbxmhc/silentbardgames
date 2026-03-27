@@ -135,11 +135,11 @@ body.drawer-open { overflow: hidden; }
   top: 0; left: 0;
   width: var(--drawer-width);
   height: 100vh;
-  background-color: rgba(42,31,14,0.92);
+  background-color: rgba(42,31,14,0.85);
   background-image: url('https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Raven_and_Toad-BW.jpg');
   background-size: cover;
   background-position: center top;
-  background-blend-mode: multiply;
+  background-blend-mode: normal;
   color: #e8d9b8;
   z-index: 200;
   transform: translateX(-100%);
@@ -496,4 +496,6 @@ hr.ornamental::before { content: "— ✦ —"; }
   .page-nav { flex-direction: column; }
   .page-nav a { max-width: 100%; }
   .page-nav .next { text-align: left; margin-left: 0; }
+  .text-image-block { flex-direction: column; }
+  .text-image-block > div:last-child { width: 100%; }
 }
