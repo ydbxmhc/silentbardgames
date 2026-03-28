@@ -150,13 +150,14 @@ body.drawer-open { overflow: hidden; }
 }
 /* drawer-bg img from nav.html — hidden, CSS background handles it */
 .drawer-bg { display: none; }
-#drawer > * { position: relative; z-index: 1; }
 #drawer.open { transform: translateX(0); }
 
 .drawer-header {
   padding: 1.25rem 1.25rem 1rem;
   border-bottom: 1px solid rgba(200,169,110,0.25);
   flex-shrink: 0;
+  position: relative;
+  z-index: 1;
 }
 .drawer-logo {
   font-family: var(--font-display);
@@ -178,7 +179,7 @@ body.drawer-open { overflow: hidden; }
   margin-top: 2px;
 }
 
-.drawer-nav { padding: 0.75rem 0 2rem; flex: 1; overflow-y: auto; }
+.drawer-nav { padding: 0.75rem 0 2rem; flex: 1; overflow-y: auto; position: relative; z-index: 1; }
 .nav-section { margin-bottom: 0.25rem; }
 .nav-section-label {
   display: block;
@@ -237,6 +238,8 @@ body.drawer-open { overflow: hidden; }
   color: rgba(200,169,110,0.4);
   line-height: 1.5;
   flex-shrink: 0;
+  position: relative;
+  z-index: 1;
 }
 .drawer-footer a { color: rgba(200,169,110,0.55); text-decoration: none; }
 .drawer-footer a:hover { color: var(--gold); }
