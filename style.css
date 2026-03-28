@@ -399,7 +399,7 @@ a:hover { color: var(--accent-light); text-decoration-color: var(--accent-light)
   margin-top: 0.15rem;
 }
 .step-list li p { margin: 0; }
-.step-list li strong { display: block; margin-bottom: 0.2rem; }
+.step-list li > div > strong:first-child { display: block; margin-bottom: 0.2rem; }
 
 /* ============================================================
    STAT / ROLL BLOCKS (in-text mechanical callouts)
