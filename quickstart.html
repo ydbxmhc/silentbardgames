@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Quick Start - Level One RPG</title>
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div id="overlay" role="presentation"></div>
@@ -12,93 +12,113 @@
     <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
       <span></span><span></span><span></span>
     </button>
-    <a href="./index.html" class="header-title">
+    <a href="index.html" class="header-title">
       <strong>Level One</strong> <span>System Reference Document</span>
     </a>
     <div class="header-rule"></div>
     <span class="header-tagline">a OneSRD game by The Silent Bard</span>
   </header>
-
   <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
 
-    <main id="main">
-    <img data-src="the tale.jpg" alt="" style="width:100%; display:block; margin-bottom:0;">
+  <img data-src="the tale.jpg" alt="" style="width:100%; display:block; margin-bottom:0;">
+
+  <main id="main">
     <div class="content-wrap">
+
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="index.html">Home</a>
         <span class="breadcrumb-sep">›</span>
         <span>Quick Start</span>
       </nav>
+
       <header class="page-header">
         <span class="page-category">Getting Started</span>
         <h1>Quick Start</h1>
-        <p class="page-tagline">As with everything, <em>always</em> start with the story.</p>
       </header>
 
-      <h2>Character Concept</h2>
+      <p>As with everything, <em>always</em> start with the story.</p>
+
+      <h2 id="character-concept">Character Concept</h2>
 
       <div class="example-play">
-        <p><em>"Her name is Kessa — she's a smart-mouthed thief! She grew up in the merchant quarter and knows every alley and rooftop, and looks out for the neighborhood kids. She can pick pockets and locks, right?"</em></p>
+        <p><em>"Her name is Kessa - she's a smart-mouthed thief! She grew up in the merchant quarter and knows every alley and rooftop, and looks out for the neighborhood kids. She can pick pockets and locks, right?"</em></p>
       </div>
 
-      <p>In some systems a 'thief class' defines whatever abilities the designers thought thieves should have, but <strong>there's no thief class</strong> in <em>Level One</em>. There are no "classes" at all. You build the character concept you want from thematically simple <a href="/roles.html">Roles</a> combined however makes sense for your story.</p>
+      <p>In some systems a 'thief class' defines whatever abilities the designers thought thieves should have, but <em>there's no thief class</em> in <em>Level One</em>. There are no "classes" at all. You build the character concept you want from thematically simple <strong>Roles</strong> combined however makes sense for your story.</p>
 
-      <h2>Roles and Maneuvers</h2>
+      <h2 id="roles-and-maneuvers">Roles and Maneuvers</h2>
 
       <div class="example-play">
-        <p><span class="speaker">GM:</span> <span class="gm-voice">"Great concept! You'll want <span class="role"><a href="/roles/sneak.html" class="quiet">Sneak</a></span> for stealth. Picking pockets isn't a whole Role — it would be a Sleight of Hand Maneuver on <span class="role"><a href="/roles/sneak.html" class="quiet">Sneak</a></span> or <span class="role"><a href="/roles/performer.html" class="quiet">Performer</a></span>. Knowing the streets could be <span class="role"><a href="/roles/loremaster.html" class="quiet">Loremaster</a></span>, or maybe a specialized Sneak Maneuver if it only applies to being stealthy. Locks would need <span class="role"><a href="/roles/tinker.html" class="quiet">Tinker</a></span>."</span></p>
+        <p><span class="speaker">GM:</span> <span class="gm-voice">"Great concept! You'll want <span class="role">Sneak</span> for stealth. Picking pockets isn't a whole Role, it would be a Sleight of Hand Maneuver on <span class="role">Sneak</span> or <span class="role">Performer</span>. Knowing the streets could be <span class="role">Loremaster</span>, or maybe a specialized Sneak Maneuver if it only applies to being stealthy. Locks would need <span class="role">Tinker</span>."</span></p>
         <p><em>"I don't really care about locks so much, but Performer sounds like fun! I can have both? She could juggle and busk for extra coins while scoping out targets!"</em></p>
         <p><span class="speaker">GM:</span> <span class="gm-voice">"Mixing Roles is the whole idea!"</span></p>
         <p><em>"What do I get at level 2?"</em></p>
-        <p><span class="speaker">GM:</span> <span class="gm-voice">"Levelling up makes you a little better at <em>everything</em> and a little tougher, but never gives you any new skills. It just means you've seen more and have more grit. Skills come from Roles. Getting better at a Role means increasing its rank <em>instead</em> of your Level."</span></p>
+        <p><span class="speaker">GM:</span> <span class="gm-voice">"Levelling up makes you a little better at <em>everything</em> and a little tougher, but never gives you any new skills. It just means you've seen more and have more grit. Skills come from Roles. Getting better at a Role means increasing its rank <em>instead</em> of your Level. More abilities means advancing a Role and picking up new Maneuvers, or spending Karma to add other Roles."</span></p>
       </div>
 
-      <p>Roles are <em>thematic</em>. You customize them with the Maneuvers you choose at each rank. Characters always start at Level 1 for free, but Level increases always cost the <em>new</em> value in <strong>Karma</strong>, the unit of experience. A Role can never be higher than your Level.</p>
+      <p>Roles are <em>thematic</em>. You customize with the Maneuvers you choose at each rank.
+      Characters always start at Level 1 for free, but Level increases always cost the <em>new</em> value in <em>Karma</em>, the unit of experience. A Role can never be higher than your Level.</p>
 
-      <p>The first rank of any Role is always one Karma, and each increase costs the current value. Groups can start with any amount of initial Karma, but we suggest 0–5.</p>
-
-      <h2>Negotiating Details</h2>
+      <p>The first rank of any Role is always one Karma, and each increase costs the <em>current</em> value. Groups can start with any amount of initial Karma, but we suggest 0-5. With zero, you are Level 1, <em>period</em> - you have no Karma to buy even one role.</p>
 
       <div class="example-play">
-        <p><em>"I like being better at the basics more than just ok at more stuff. She grew up in the school of hard knocks! I'll take Level 2. I can afford one more Role — <span class="role"><a href="/roles/loremaster.html" class="quiet">Loremaster</a></span> isn't just dusty old books? She really knows her way around!"</em></p>
-        <p><span class="speaker">GM:</span> <span class="gm-voice">"Ok. <span class="role"><a href="/roles/performer.html" class="quiet">Performer</a></span> for social engineering, with <em>Sleight of Hand</em> for picking pockets, street magic, juggling and such. <span class="role"><a href="/roles/loremaster.html" class="quiet">Loremaster</a></span> for a detailed mental map, with <em>Street Network</em> for shortcuts, hiding places, gang turfs and patrol beat schedules. <span class="role"><a href="/roles/sneak.html" class="quiet">Sneak</a></span> for stealth, urban-focused — let's call it a <em>Child of the City Shadows</em> Maneuver. All we need is a Hook."</span></p>
+        <p><em>"OH! I really like her being super sneaky anywhere in the city, but also knowing people and little hidey-holes. Maybe not so great out in the woods though?"</em></p>
+        <p><span class="speaker">GM:</span> <span class="gm-voice">"Sounds like <span class="role">Sneak</span>, <span class="role">Performer</span>, and <span class="role">Loremaster</span>. Making a minstrel?"</span></p>
+        <p><em>"Nope! Just a charismatic grifter! Is that ok?"</em></p>
+        <p><span class="speaker">GM:</span> <span class="gm-voice">"Absolutely. Roles are what you say they are, as long as you use them to do what they do. Let's start out with 5 Karma to build."</span></p>
       </div>
 
-      <h2>Character Drives — Hooks</h2>
+      <h2 id="negotiating-details">Negotiating Details</h2>
+
+      <div class="example-play">
+        <p><em>"I like being better at the basics more than just ok at more stuff. She grew up in this school of hard knocks! I'll take Level 2. I can afford one more Role - <span class="role">Loremaster</span> isn't just dusty old books? She really knows her way around!"</em></p>
+        <p><span class="speaker">GM:</span> <span class="gm-voice">"Ok. <span class="role">Performer</span> for social engineering, with <em>Sleight of Hand</em> for picking pockets, street magic, juggling and such. <span class="role">Loremaster</span> for a detailed mental map, with <em>Street Network</em> for shortcuts, hiding places, gang turfs and patrol beat schedules. <span class="role">Sneak</span> for Stealth, urban-focused - let's call it a <em>Child of the City Shadows</em> Maneuver. All we need is a Hook."</span></p>
+      </div>
+
+      <h2 id="character-drives">Character Drives</h2>
 
       <p>It may seem like an afterthought, but this is really the core of good character creation. What's <em>important</em> to them? What motivates them?</p>
 
       <div class="example-play">
         <p><em>"Well, how about 'She watches out for the neighborhood kids.' Could that be it?"</em></p>
-        <p><span class="speaker">GM:</span> <span class="gm-voice">"That's almost perfect. Let's make it a little more dramatic and flexible. How about <strong>'We Take Care Of Our Own'</strong>? It doesn't <em>have</em> to be kids, but certainly applies. Sound good?"</span></p>
+        <p><span class="speaker">GM:</span> <span class="gm-voice">"That's almost perfect. Let's make it a little more dramatic and flexible.
+        How about 'We Take Care Of Our Own'? It doesn't <em>have</em> to be kids, but certainly applies.
+        Sound good?"</span></p>
         <p><em>"Yeah! She also watches out for the blind beggar who sits by the market gate, and the old woman who takes in laundry to earn a few coins. This is getting good!"</em></p>
       </div>
 
-      <p>This Hook should create dilemmas. Kessa is <em>driven</em> to care for and protect the folk of her downtrodden underworld, but feeding them often means stealing. Getting caught means a head-first dash through the bazaar or being thrown in the dungeon. Crime hurts people, and the Market Street Urchins she feeds sometimes don't approve — but she'll still throw herself into a fight she can't win if one is in trouble.</p>
+      <p>This should create dilemmas. She is <em>driven</em> to care for and protect the folk of her downtrodden underworld, but feeding them often means stealing. Getting caught means a head-first dash through the bazaar to get away, or being thrown in the city's dungeon. Crime hurts people, and the Market Street Urchins she feeds sometimes don't approve&#8230; but she'll still throw herself into a fight she can't win if one is in trouble.</p>
 
-      <p>Hooks cause <em>problems</em> — this should happen at least once every session. This is how she earns more Karma.</p>
+      <p>It also means protecting them from other criminals in the area - petty crooks who would rob the beggar and extort the washerwoman. Kessa's not a fighter, so she'll have to figure out how to deal with these threats. Hooks cause <em>problems</em> which should happen at least once every session; this is how she earns more Karma!</p>
 
-      <h2>Putting It Together</h2>
+      <h2 id="putting-it-together">Putting It Together</h2>
 
-      <p>Meet Kessa. With 5 starting Karma to spend she buys Level 2 (2 Karma), then the first rank of three Roles — each of which comes with a free Maneuver:</p>
+      <p>Meet Kessa. With 5 starting Karma to spend she buys Level 2 (2 Karma).</p>
 
-      <div class="box rule">
-        <span class="box-title">Kessa — Level 2</span>
-        <p><strong><span class="role"><a href="/roles/sneak.html" class="quiet">Sneak</a></span> 1</strong> (1 Karma) — for moving unseen and unheard<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<em>Child of the City Shadows</em> — staying unnoticed in urban environments</p>
-        <p><strong><span class="role"><a href="/roles/performer.html" class="quiet">Performer</a></span> 1</strong> (1 Karma) — for fast-talk and social manipulation<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<em>Sleight of Hand</em> — pickpocketing and small object manipulation</p>
-        <p><strong><span class="role"><a href="/roles/loremaster.html" class="quiet">Loremaster</a></span> 1</strong> (1 Karma) — she really does know those streets<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<em>Street Network</em> — contacts, shortcuts, and hideaways</p>
-        <p style="margin-bottom:0"><strong>Hook:</strong> <em>We Take Care Of Our Own</em> 1 (free, starts at rank 1)</p>
-      </div>
+      <p>She buys the first rank of three Roles, each of which comes with a free Maneuver:</p>
 
-      <p>We've built a "thief" character who can steal, lie, hide, and navigate the urban underworld, and she has a <em>reason</em> to do these things — to take risks and get in trouble. She still can't pick locks or climb very well. <em>Level One</em> doesn't give you abilities you didn't choose, and that's intentional. Those skills can come later as the story demands.</p>
+      <p><span class="role">Sneak</span> 1 (1 Karma) - for moving unseen and unheard</p>
+      <ul>
+        <li><em>Child of the City Shadows</em> - staying unnoticed in urban environments</li>
+      </ul>
 
-      <div class="box gm-note">
-        <span class="box-title">Ready to go deeper?</span>
-        <p>This is just the surface. For the full mechanical picture, head to <a href="/mechanics.html">Core Mechanics</a>. To understand how Hooks really work at the table, see <a href="/hooks.html">Hooks</a>. To browse all available Roles, visit <a href="/roles.html">Roles</a>.</p>
-      </div>
+      <p><span class="role">Performer</span> 1 (1 Karma) - for fast-talk and social manipulation</p>
+      <ul>
+        <li><em>Sleight of Hand</em> - pickpocketing and small object manipulation</li>
+      </ul>
+
+      <p><span class="role">Loremaster</span> 1 (1 Karma) - she really does know those streets</p>
+      <ul>
+        <li><em>Street Network</em> - contacts, shortcuts, and hideaways</li>
+      </ul>
+
+      <p>Her Hook: We Take Care Of Our Own 1 (free, starts at rank 1)</p>
+
+      <p>We've built a "thief" character who can steal, lie, hide, and navigate the urban underworld, and she has a <em>reason</em> to do these things, to take risks and get in trouble. Notice she still can't pick locks or climb very well. <em>Level One</em> doesn't give you abilities you didn't choose, and that's intentional. Those skills can come later as the story demands, after she's earned some more Karma&#8230;or not, if she decides she doesn't want them.</p>
+
+      <p>She doesn't fight very well, but she can always just use her base Level of 2, and she <em>can</em> use the skills she <em>does</em> have - she can taunt with <span class="role">Performer</span>, give herself <em>social</em> advantages that apply in a fight, and possibly cut someone so deep with a biting comment that they decide to retire from the conflict! In <em>Level One</em> you have options&#8230;</p>
+
+      <p>At only Level 2 she's pretty green and weak, but she has more spine than some. She can take a <em>small</em> hit or setback and press on, but she's still fragile. She'll need to be careful, and get some Karma under her belt, but that's easy, as we'll see.</p>
 
       <nav class="page-nav" aria-label="Page navigation">
         <a href="core-loop.html" class="prev">
@@ -107,13 +127,14 @@
         </a>
         <a href="mechanics.html" class="next">
           <span class="page-nav-label">Next &#8594;</span>
-          <span class="page-nav-title">Core Mechanics</span>
+          <span class="page-nav-title">Dice &amp; Tests</span>
         </a>
       </nav>
+
     </div>
   </main>
 
-  <script src="./config.js"></script>
-  <script src="./nav.js"></script>
+  <script src="config.js"></script>
+  <script src="nav.js"></script>
 </body>
 </html>
