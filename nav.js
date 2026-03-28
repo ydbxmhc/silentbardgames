@@ -1,7 +1,6 @@
-// Shared drawer navigation script
-// config.js must be loaded before this file
+// nav.js — fetches /nav.html, injects into #drawer, sets active state
+(function () {
 
-(function() {
   const menuBtn = document.getElementById('menu-btn');
   const drawer  = document.getElementById('drawer');
   const overlay = document.getElementById('overlay');
@@ -25,19 +24,18 @@
     body.classList.remove('drawer-open');
   }
 
-  if (menuBtn) {
-    menuBtn.addEventListener('click', () =>
-      drawer.classList.contains('open') ? closeDrawer() : openDrawer()
-    );
-  }
-  if (overlay) overlay.addEventListener('click', closeDrawer);
+  function initDrawerEvents() {
+    if (menuBtn) {
+      menuBtn.addEventListener('click', () =>
+        drawer.classList.contains('open') ? closeDrawer() : openDrawer()
+      );
+    }
+    if (overlay) overlay.addEventListener('click', closeDrawer);
 
-  document.addEventListener('keydown', e => {
-    if (e.key === 'Escape' && drawer && drawer.classList.contains('open')) closeDrawer();
-  });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && drawer.classList.contains('open')) closeDrawer();
+    });
 
-  // Close on nav link click (mobile)
-  if (drawer) {
     drawer.querySelectorAll('.nav-item').forEach(link => {
       link.addEventListener('click', () => {
         if (window.innerWidth < 900) closeDrawer();
@@ -45,8 +43,40 @@
     });
   }
 
-  // Auto-open nav-group for active page
-  document.querySelectorAll('.nav-group').forEach(group => {
-    if (group.querySelector('.active')) group.setAttribute('open', '');
-  });
+  function setActiveLink() {
+    const path = window.location.pathname.replace(/\/$/, '') || '/index.html';
+    drawer.querySelectorAll('.nav-item').forEach(link => {
+      const href = link.getAttribute('href');
+      if (!href) return;
+      const linkPath = href.split('#')[0];
+      if (linkPath === path || (path === '/' && linkPath === '/index.html')) {
+        link.classList.add('active');
+        const group = link.closest('.nav-group');
+        if (group) group.setAttribute('open', '');
+      }
+    });
+  }
+
+  function resolveImgSrcs() {
+    if (typeof SiteConfig !== 'undefined') {
+      drawer.querySelectorAll('img[data-src]').forEach(el => {
+        el.src = SiteConfig.CDN_BASE + '/' + el.dataset.src;
+        el.removeAttribute('data-src');
+      });
+    }
+  }
+
+  fetch('/nav.html')
+    .then(r => r.text())
+    .then(html => {
+      drawer.innerHTML = html;
+      setActiveLink();
+      resolveImgSrcs();
+      initDrawerEvents();
+    })
+    .catch(err => {
+      console.warn('nav.html failed to load:', err);
+      initDrawerEvents();
+    });
+
 })();
