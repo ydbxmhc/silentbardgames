@@ -135,11 +135,11 @@ body.drawer-open { overflow: hidden; }
   top: 0; left: 0;
   width: var(--drawer-width);
   height: 100vh;
-  background-color: rgba(42,31,14,0.88);
+  background-color: rgba(42,31,14,0.92);
   background-image: url('https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Raven_and_Toad-BW.jpg');
   background-size: cover;
   background-position: center top;
-  background-blend-mode: normal;
+  background-blend-mode: luminosity;
   color: #e8d9b8;
   z-index: 200;
   transform: translateX(-100%);
