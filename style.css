@@ -152,7 +152,7 @@ body.drawer-open { overflow: hidden; }
   content: '';
   position: absolute;
   inset: 0;
-  background-color: rgba(42,31,14,0.50);
+  background-color: rgba(42,31,14,0.20);
   z-index: 0;
   pointer-events: none;
 }
