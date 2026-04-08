@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dice &amp; Tests - Level One RPG</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header">
+    <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="./index.html" class="header-title">
+      <strong>Level One</strong> <span>System Reference Document</span>
+    </a>
+    <div class="header-rule"></div>
+    <span class="header-tagline">a OneSRD game by The Silent Bard</span>
+  </header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+
+  <main id="main">
+    <div class="content-wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Core Mechanics</span>
+        <span class="breadcrumb-sep">›</span>
+        <span>Dice &amp; Tests</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">Core Mechanics</span>
+        <h1>Dice &amp; Tests</h1>
+      </header>
+
+      <h2 id="dice-and-tests">Dice and Tests - The Heart of the System</h2>
+
+      <p>Rolling is simple. Effective Level, or EL, determines how generally competent you are <em>for a particular task</em>, and all modifiers tweak that number. When the GM asks for a test, always start with your base Level. Add as many modifiers as make sense. Would a Role apply? Would another <em>also</em> apply? Maneuvers? Active boosts? Situational bonuses? Add them all.</p>
+
+      <p>Is the character hurt? Blindfolded? Holding their breath against poison? Those modifiers <em>reduce</em> EL for that action. If your EL drops below 1, the task becomes impossible until you find ways to boost it back above zero. Negotiate disagreements. Once you establish the EL for a task, that's your target number. If it's something that <em>can't</em> be done without training, only add as much base Level as your rank in the relevant Role - your best, if you have more than one.</p>
+
+      <p>As ability increases, your best results improve and your chances of failure decrease unless you choose your dice <em>very</em> badly. If you're using zero-base dice, which we'll discuss later, then a zero always generates no effect. No matter how well you choose your dice, if every die starts at zero there's always <em>some</em> chance for a zero total. If you default to an even/odd Simple Pool, even numbers are zero and odd numbers are 1's. This makes it simple and easy.</p>
+
+      <p>EL can be radically different from task to task, for a lot of reasons. You might switch from using a Role you're not very good at to one at which you excel, with well-developed Maneuvers to apply. Circumstances and Boosts can improve it, while Harm and opposing conditions drag it down.</p>
+
+      <p>Success just means rolling better than zero, but at or under your EL; anything higher is beyond your current ability and fails. Within that range, roll as <em>high</em> as possible for maximum effect that is hardest to resist or oppose. A roll of 1 technically "succeeds", but it's weak and easy to thwart since rolled result is seldom the final effect. Even if you punch well, your opponent might still block better. The actual effect is your roll <em>minus any opposition or resistance</em>, which means ties go to the defender.</p>
+
+      <p>Think of it this way: even at EL1 you can roll one even/odd die for a 50% chance of success. Without opposition to push back, nothing would <em>ever</em> be harder than a coin flip, which is absurd. Opposition is what creates real challenge, turning that basic 50/50 into genuine uncertainty.</p>
+
+      <h3 id="resistance-and-opposition">Resistance and Opposition</h3>
+
+      <p>Of course NPCs fight back, but even inanimate objects can present obstacles. A simple, well-oiled lock has low EL, while a complex or rusted mechanism presents a much higher challenge. The world rolls dice against your ambitions; <em>everything</em> pushes back. When you attempt something hard, roll your EL against the <em>task's</em> EL. The higher roll wins.<sup><a href="#fn1" id="ref1">1</a></sup></p>
+
+      <p>If you roll a 7 and the task rolls a 4, you achieve 3 points of effect, <em>as long as you didn't go over your own EL</em>. It works the same whether you're fighting a goblin, picking a lock, or sweet-talking a guard, with one very important difference: some things just resist, but others hit back. (We keep mentioning that you can roll over your EL; we'll explain how that's possible later.)</p>
+
+      <p><strong>Resistance</strong> is passive. It never uses your turn, but it also never <em>generates</em> effect without special circumstances. If a locked door isn't trapped it's not likely to hurt you, though it still has a job to do. When Resistance wins a roll all effect is canceled out; this is the same whether something is resisting the actions of your character, or your character is the one resisting. Locks don't open, rocks won't budge, or poison just doesn't work. It might be boring or frustrating, but it's simple.</p>
+
+      <p><strong>Opposition</strong> means whatever you are trying to affect is trying to affect you back and it's a contest. The <em>difference</em> becomes the winner's effect. Sometimes the door <em>is</em> trapped. If your opposition rolls higher, <em>they</em> get effect against <em>you</em>!</p>
+
+      <p>This absolutely means that on "your turn" the goblin can hurt you, but the important distinction is that Resistance doesn't use a turn - it's virtually always a free action. If the goblin hits you on your turn it's because they spent their turn opposing you, and it takes skill and planning to get another turn. (You can get multiple turns if you're good enough - that's called <em>Splitting</em>, we'll get to that in a bit.)</p>
+
+      <h3 id="can-i-try-again"><em>"Can I Try Again?"</em></h3>
+
+      <p>When you roll dice, we assume you're already doing your best, so the answer is: "<em>It depends.</em>"</p>
+
+      <p>Something needs to change before another attempt makes sense. Find a better approach, get help from an ally, or discover new information. Create a Boost - a preparatory action that improves your position for the next roll. If you have a <em>better</em> EL, you can try again unless the GM thinks you're just metagaming the system (this isn't a video game.)</p>
+
+      <p>Without change, you'd just get the same result. The exception is when the GM tells you your effect <em>accumulates</em>.</p>
+
+      <h3 id="accumulated-progress">Beyond All-or-Nothing: Accumulated Progress</h3>
+
+      <p><em>(or "How To Eat An Elephant 101")</em></p>
+
+      <p>Important obstacles rarely fall to a single roll. You have to keep chipping away at them; it's a little like whittling down a foe's health one strike at a time. This model works far beyond combat.</p>
+
+      <p>If a door is barred and you decide to chop it down with an axe the GM might assign a Difficulty Level. (If you see DL instead of EL it just means whatever's resisting you is probably inanimate/passive.) You hit the door, and it rolls resistance only. If it rolls better than you it has resisted your effort, but if you get even a little bit of effect it weakens the door.</p>
+
+      <p>The only reason to do it this way is when <em>time matters</em>. If there's no time pressure, why roll? If you have an axe, you can eventually get through any normal door. Most of the time it's better to go straight to opposition. If the door rolls against you and <em>wins</em> then it generates effect!</p>
+
+      <p>What kind of effect could a door generate? Noise, for one thing; guards might respond to enough racket. We already mentioned traps. Maybe the recoil rattles your teeth. Maybe the effect isn't literally <em>from</em> the door, but the room is filling with water and you will drown if you don't get it open in time...</p>
+
+      <p>In a rooftop chase where you must leap an alley, a single roll trivializes a jump that could potentially kill you. Treat it like a fight! If it wins a roll you hit the far wall, knock the wind out of yourself (a <em>Complication</em>), and scramble to hold on, but pull yourself up and continue the chase. A worthwhile<sup><a href="#fn2" id="ref2">2</a></sup> obstacle is a challenge in its own right, rolling against you with purpose and potential.</p>
+
+      <hr>
+
+      <h2 id="actions-and-timing">Actions and Timing</h2>
+
+      <p>Most things a character tries don't require a roll. Walking into a tavern, drawing a sword, having a conversation - if there's no meaningful obstacle or uncertainty, just describe what happens and enjoy it. The dice only come out when the outcome matters and success isn't guaranteed.</p>
+
+      <p>When you do need a roll, it will be one of these.</p>
+
+      <h3 id="free-actions">Free Actions</h3>
+
+      <p>Some rolls don't use up your turn - they happen in response to something else or alongside your main action. Common examples include resistance rolls when someone tries to affect you, quick perception checks to notice something happening around you, or memory rolls to recall relevant information mid-conversation. Opposition rolls for free actions are implicitly <em>also</em> free so long as you have a reasonable justification...</p>
+
+      <h3 id="direct-actions">Direct Actions</h3>
+
+      <p>Tackle a problem head-on. Punch the guard, climb the wall, haggle a lower price. Each success chips at whatever stands in your way, making the obstacle weaker and your next attempt easier. When you accumulate enough progress you've overcome the challenge entirely.</p>
+
+      <h4 id="direct-opposition">Direct Opposition</h4>
+
+      <p>Opposition rolls are really just a compression of the usual sequence. Rather than you acting and them resisting, then them acting and you resisting, instead both sides roll simultaneously and compare results. This keeps the action flowing and reduces "swinginess" while representing the give-and-take of real conflict, but you can always do it the long way if you want.</p>
+
+      <p>Note that actions <em>can</em> be simultaneous, which is what opposition shows. Even if you do each piece separately, they can be happening at the same time; that's one way <em>both</em> combatants can kill each other. Another is bleed damage, or poison&#8230; Be as detailed and realistic as you need.</p>
+
+      <h3 id="boost-actions">Boost Actions</h3>
+
+      <p>Sometimes the smart move is to take a minute and set yourself up for success first, rather than charging ahead. <em>Create</em> the advantage you need - study your opponent's fighting style, offer the client a drink to soften him up, maybe drink a potion first, or set up incense and sigils before a summoning. Success gives you a temporary bonus that makes a following action more likely to succeed.</p>
+
+      <p>Opposition to a Boost works the same way. If you think someone is studying your fighting style, you can always try to disguise it. The client might turn the tables by accusing you of trying to get him drunk.</p>
+
+      <h4 id="boosts-with-duration">Boosts With Duration</h4>
+
+      <p>For boosts that should last longer than the next action, use the Wagering mechanic below to dedicate persistent points - generally such fabricated Boosts last the rest of the scene, though the GM may rule that it goes away sooner, or lasts longer, as appropriate.</p>
+
+      <h4 id="free-action-boosts">Free Action Access to Pre-existing Boosts</h4>
+
+      <p>Sometimes there's already something available in the scene that would help an action, just sitting there waiting to be added to a roll. Players can always propose an idea, and if the GM agrees he can declare the roll to use/incorporate that Boost as a free action. If you see that the knight has backed himself up to the fallen log, it's reasonable to body slam him back in the hope that he'll trip over it - the log is an environmental factor the player can roll as a free action, because it takes <em>no time to set up</em>. The value of the roll is added to the attack EL, and can be included in splits or Wagered effects.</p>
+
+      <h3 id="resistance">Resistance</h3>
+
+      <p>Resistance is virtually always a free action - it doesn't use up your turn. When someone tries to impose an effect on you, you get to resist. This is true whether you're resisting magic, poison, intimidation, or just a punch in the gut. Your natural toughness, willpower, and/or training might be enough to shrug off what they're trying to do to you.</p>
+
+      <p>The limitation is that if you're taking advantage of the free action, you don't get to impose effect in return. Resisting a punch is just grunting and taking it, tightening up your muscles and breathing through it, maybe dodging, but even if you win by a <em>lot</em> the excess is lost unless you have some special trick to change the rules. If you punch back with that roll, that's not resistance, it's opposition, and it would take a turn. Resistance defends - it doesn't attack back, which is why it's a free action.</p>
+
+      <p>A common example is defending against multiple attackers. Any defense that can't hurt your attacker back is resistance rather than opposition - you're just trying to mitigate their success, so it's a free action, meaning you can use it again, and again&#8230; This is why splitting your EL to put a little into active defense is usually such a good bargain in the action economy&#8230;</p>
+
+      <p>What's <em>splitting</em>? I'm so glad you asked!</p>
+
+      <hr>
+
+      <h2 id="multiple-actions">Multiple Actions</h2>
+
+      <p>You can almost always defend as a free action as many times as required. If you don't know it's required you might not be able to apply bonuses like Roles, but at worst you should always be able to use base Level.</p>
+
+      <p>Sometimes, though, you want to do more than one thing on your turn, like hit more than one opponent, or rally the troops while you continue to fight, and those aren't free actions. Here's how you do those things.</p>
+
+      <h3 id="splitting-actions">Splitting Actions</h3>
+
+      <p>Doing multiple things is distracting, but your EL determines how much you can divide your attention. Split your EL among the intended actions; each portion becomes the EL for <em>that</em> action. Have EL8, but want to hit two goblins? Give them each a roll at EL4. Simple.</p>
+
+      <p>Roll them in whatever order serves the story.</p>
+
+      <p><strong>Free Actions</strong><br>
+      The swashbuckling hero is a classic trope, laughing as he defends against a room full of the villain's henchmen. Points spent on defense can only be applied against attacks you knew were coming, but skill allocated exclusively for <em>defense</em> can still be used as a free action, and so used more than once in the same turn.</p>
+
+      <p><strong>Cross-Role Splits</strong><br>
+      Sometimes you'll want to use different abilities in an exchange: rally your troops while fighting, shoot while moving but maintain stealth, or memorize a floor plan while charming an heiress. The trick for this is <em>order</em> - not to do them, but to assign points of split.</p>
+
+      <p>Calculate the EL for each role. Start with the <em>lowest</em> EL and assign points to it, then reduce ALL your ELs by that amount. Move to the next lowest remaining EL and repeat until you've assigned points to everything you want to attempt.<sup><a href="#fn3" id="ref3">3</a></sup></p>
+
+      <p><strong>Split Action Example</strong><br>
+      A PC has Performer EL10 and Warrior EL20. She assigns 8 points to rally her gang (Performer), reducing <em>both</em> ELs by 8 to Performer EL2, Warrior EL12. She assigns 6 points from Warrior to attack, reducing both by 6; Performer is eliminated, Warrior becomes 6. She puts her remaining 6 Warrior points into active defense for the turn.</p>
+
+      <hr>
+
+      <h2 id="wagered-actions">Wagered Actions</h2>
+
+      <p>When you're doing something familiar, you can focus on a specific outcome. This lets you <em>wager</em> some of your EL toward a specific effect, but those dedicated points reduce your chance of success.</p>
+
+      <p>Remove the wagered points from your EL before rolling. If your action succeeds and generates <em>any</em> effect after opposition/resistance, add your dedicated points to the intended result. Successfully wagered points are applied <em>after</em> opposition. The wagered points are counted as having succeeded only if the roll succeeds without them.</p>
+
+      <p><strong>Residual Effects</strong><br>
+      This is the mechanic used above for Persistent Boost. Wager the points you want on the Boost and succeed with what's left after they are set aside, get a named bonus that can be added directly to the EL of other relevant rolls for the rest of the scene.</p>
+
+      <p>This can also be the setup for a separate standalone roll. If you set someone on fire, the fire continues to attack on its own. Instead of a Persistent Boost, it is a residual condition that gets to make rolls of its own to burn the target, while he rolls to control the damage and put it out.</p>
+
+      <p><strong>Contingent Splits</strong><br>
+      When action B requires you first succeed at action A. If A happens, roll B with the points set aside for it - otherwise they are wasted. This is technically just a normal split, but it's a wager since you have to succeed on the first roll to <em>get</em> the second one. If want to catch the incoming potion bottle and throw it back at the evil alchemist, you don't get to throw it unless you succeed in catching it <em>without it blowing up</em>.</p>
+
+      <p><strong>Dedicated Effect</strong><br>
+      This is the "called shot" rule. Wager points of your EL and specify what you are attempting to do with them. If the roll succeeds without them, those points <em>all count as having succeeded</em>, and you get to specify something about the effect they cause. You can say those points are dedicated Injury instead of just Complication, even when unarmed - narrate the justification, such as trapping a punch and overextending the elbow to break it. Name the result so it can be used in the narrative. As long as what you want is reasonably something that might have happened anyway with the narrative excuse, it's good.</p>
+
+      <p>If you want to do something that has <em>other</em> side effects, you must allocate points for those as well. Poking someone in the eye to cause Injury <em>seems</em> like it should also give them a Hindrance since it's hard to see now. That would require another allocation of points wagered, but it isn't necessary; just narrate the impaired vision into the reduced effectiveness due to the Injury itself.</p>
+
+      <p>You can never dedicate more points than your rank in the relevant Role.</p>
+
+      <p><strong>Dedicated Effect Example - crunching some numbers</strong><br>
+      A warrior with EL10 wagers 3 points as dedicated Harm.<br>
+      She removes those from her EL, leaving 7 for her attack roll.<br>
+      She rolls a 5.</p>
+
+      <p>Her target defends with a 4, leaving only 1 point of effect, but her 3 points of dedicated effect are all treated as successes and are added for a total of 4.</p>
+
+      <p>If the target uses their armor to boost their resistance EL by 1 it cancels her only point of unmodified effect, so the wagered points are wasted. You don't get the advantage if you can't succeed without them.</p>
+
+      <hr>
+
+      <section class="footnotes">
+        <h4>Notes</h4>
+        <ol>
+          <li id="fn1"><strong>Fails</strong><br>
+          If either fails and the other succeeds, then the winner gets their whole rolled result as their effect.<br>
+          If <em>both</em> fail&#8230; well, that's just sad. Try to make it sound cool anyway, ok?
+          <a href="#ref1" aria-label="Return to text">&#8617;</a></li>
+          <li id="fn2"><strong><em>Worthwhile</em> Obstacles&#8230;</strong> @@
+          <a href="#ref2" aria-label="Return to text">&#8617;</a></li>
+          <li id="fn3"><strong>Barrage Effect?</strong> @@
+          <a href="#ref3" aria-label="Return to text">&#8617;</a></li>
+        </ol>
+      </section>
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="quickstart.html" class="prev">
+          <span class="page-nav-label">&#8592; Previous</span>
+          <span class="page-nav-title">Quick Start</span>
+        </a>
+        <a href="luck.html" class="next">
+          <span class="page-nav-label">Next &#8594;</span>
+          <span class="page-nav-title">Luck Tokens</span>
+        </a>
+      </nav>
+    </div>
+  </main>
+
+  <script src="./config.js"></script>
+  <script src="./nav.js"></script>
+</body>
+</html>
