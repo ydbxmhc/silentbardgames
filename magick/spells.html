@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Spell List — Level One RPG</title>
+  <title>Spell List - Level One RPG</title>
   <link rel="stylesheet" href="../style.css">
 </head>
 <body>
@@ -23,21 +23,112 @@
 
   <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
 
-    <main id="main">
+  <main id="main">
     <div class="content-wrap">
+
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="../index.html">Home</a>
         <span class="breadcrumb-sep">›</span>
-        <span>Magick! › Spells</span>
+        <span>Magick! › Spell List</span>
       </nav>
+
       <header class="page-header">
         <span class="page-category">Magick!</span>
         <h1>Spell List</h1>
       </header>
-      <div class="box" style="border-left:3px solid var(--gold)">
-        <span class="box-title">Content Coming Soon</span>
-        <p style="margin:0">This page is reserved for <strong>Spell List</strong> content from the Level One rulebook. Check back as the SRD is built out.</p>
-      </div>
+
+      <h2>Spells</h2>
+      <p>Spells are learned Maneuvers for Spellweavers. Each spell defines a specific magical effect with known behaviors. Like all Maneuvers, spells are limited by their governing Role's rank and add their own rank to the caster's Effective Level when casting.</p>
+
+      <h3>Duration</h3>
+      <p>Spells can operate at different levels of persistence depending on how they're cast and what the situation demands.</p>
+      <p><strong>Instant</strong> effects perform their function and end immediately. A Light spell cast as a blinding flash attack works this way.</p>
+      <p><strong>Trivial Persistence</strong> effects don't require rolls, and last until they naturally fade. A gentle Light spell for examining a room might last until the caster leaves the area, falls asleep, or dismisses it.</p>
+      <p><strong>Concentration/Maintenance</strong> is usually the default. The caster actively maintains the spell by devoting attention to it. This allows the caster to make opposition rolls with it but maintain an effect in between - but prevents the caster from taking other actions without splitting their rolls.</p>
+      <p><strong>Focus Persistence</strong> dedicates Focus points when casting, creating an effect that persists independently using the dedicated EL. This typically lasts for the scene, though longer durations may be possible with GM permission.</p>
+      <p><strong>Enchantment</strong> creates "permanent" magical effects with extensive rituals and Karma expenditure, with similar costs to Role and Maneuver advancement.</p>
+
+      <h3>Difficulty</h3>
+      <p>Most basic spells are rolled directly against the target's resistance without requiring a separate casting roll, but some spells have special features that make them more inherently Difficult, requiring a separate roll to cast successfully. This is a free action; the difficulty of the spell tries to cause it to destabilize and fail; the caster resists. If they are successful, they may proceed with their casting action normally. If not, the spell fails and is lost until they bind it again.</p>
+      <p>Difficult spells typically have one or more Traits that make them unusually powerful. For each Trait that makes the spell more useful and dangerous such as Insidious, Area Blanket, or Contagious, add one to the spell difficulty EL, to a minimum of zero. When you successfully cast a Difficult spell, the difficulty EL becomes a fixed inexorable effect that bypasses normal resistance, while any other resistance remains.</p>
+
+      <hr>
+
+      <h2>Creating Spells</h2>
+      <p>Spells are simple. Decide what they do, define it with a brief description, and identify any relevant Traits as required or forbidden. All others are generally considered optional if they make sense. Most Traits are optional for most spells, meaning the caster can apply them to modify the spell at casting time, though individual spells can alter this.</p>
+      <p>Groups can also customize their world by setting certain Traits as always required or forbidden. If all spells are always Violent and Immutable, and you have two positive Traits for free, changing the balance of power at the cost of no recasting.</p>
+
+      <hr>
+
+      <h2>Example Spells</h2>
+
+      <h3>Light</h3>
+      <p>Creates magical illumination at the targeted point. Effect cancels visibility penalties from Darkness but diminishes by distance from source. Can be cast on objects to move them. If used as an attack, causes Glare or Blinded Hindrances.</p>
+      <blockquote>"The wizard's light blazed forth, bright as noon sun in the depths of the cavern."</blockquote>
+
+      <h3>Tanglebones <em>(Entangle, Grasping Ghosts)</em></h3>
+      <p>Required: <em>Insidious</em></p>
+      <p>Apply Effect as movement Hindrances. If total effect exceeds target's Level, they're not Down, but are still Staggered with dedicated EL.</p>
+      <blockquote>"He spoke a curse, and my limbs failed me; I stumbled to the earth and could not rise."</blockquote>
+
+      <h3>Narkos</h3>
+      <p>Required: <em>Insidious, Subtle</em></p>
+      <p>Apply Effect as one of the "Drowsy" Complications. Bypasses armor but can be resisted with supernatural abilities.</p>
+      <blockquote>"A sprinkle of dust and softly murmured words struck my guards with waves of fatigue such that one passed out entirely."</blockquote>
+
+      <h3>BaleFire</h3>
+      <p>Required: <em>Insidious, Subtle, Selective (Supernatural Only)</em></p>
+      <p>Channels through the caster's aura to supernatural targets. Has no effect whatsoever on mundane mortals - they cannot even perceive it. Fully effective against spirits, possessed beings, and anyone currently wielding supernatural power.</p>
+      <blockquote>"She cast the flaming sword from my hand with a shouted curse, but left me untouched."</blockquote>
+
+      <h3>Fax Iacta <em>(Wizard's Torch)</em></h3>
+      <p>Creates a ball of light in the caster's palm that provides light and heat without burning the caster's flesh, though flames it ignites on other things carry no such immunity.</p>
+      <blockquote>"He spoke a flame into being and thrust their arms into the burning tree above the camp so we could see what carnage the wolves had wrought."</blockquote>
+
+      <hr>
+
+      <h3>Thorn Dart <em>(Druid's Wrath, Rose's Revenge)</em></h3>
+      <p>Required: <em>Poison (Delayed, Consumed, Ablative)</em></p>
+      <p>Launch sharp thorns at a target as Harm. Caster may voluntarily increase the difficulty to strengthen the poison - initial hit is subject to armor, but if that does any damage the poison effect doesn't transfer. The poison stays in the target's location and continues to attack its rating each exchange until it has rolled its effect, whether neutralized or not.</p>
+      <blockquote>"A Novice might persuade a milkmaid to extract a worrisome splinter, but Arch'Druid Berit struck down most of her enemies with a single casting - most died forming a resistance or not."</blockquote>
+
+      <h3>Stone Shape</h3>
+      <p>Required: <em>Insidious, Blanket Effect</em></p>
+      <p>Creates a stationary mass of poisonous vapor.</p>
+      <blockquote>"The green mist settled over the battlefield, and strong men fell choking in armor that offered no protection."</blockquote>
+
+      <h3>Wards</h3>
+      <p>Required: <em>Subtle, Status</em></p>
+      <p>Apply effect to create a Boost of Strength.</p>
+      <blockquote>"The old man lifted the fallen tree from the child as if he were ten lumberjacks."</blockquote>
+
+      <h3>Beguile</h3>
+      <p>Required: <em>Subtle, Status</em></p>
+      <p>Advances the target's emotions and judgment as mental Hindrance that only biases the target toward the caster's requests. Completely out of character behavior immediately gives a free resistance with a bonus based on how odd it would be, and can break the spell entirely. A Hindrance greater than their base Level makes them so smitten with the caster's every idea that they won't even roll to resist unless the action is drastically out of character. The target will go out of their way to paint their actions as reasonable.</p>
+      <blockquote>"Though I knew she was my enemy, her words seemed purest wisdom, and I found myself nodding in grudging agreement."</blockquote>
+
+      <hr>
+
+      <h3>Phantasmal Veil</h3>
+      <p>Required: <em>Subtle</em></p>
+      <p>Influences the target's perceptions. This is a Glamour, so it cannot alter the physical world other than through a target's perceptions, but within that thematic limitation can be used like any other spell. A phantasmal fog can Hinder vision; an illusory arrow can only cause Complications, but the target won't know until they vanish. In all cases, effect and interpretation determine the final outcome.</p>
+      <blockquote>"He vanished from my sight, though I still catch glimpses and hear his movements."</blockquote>
+
+      <h3>Scry</h3>
+      <p>Required: <em>Insidious, Subtle, Persistent, Guidable, Blanket (target area)</em></p>
+      <p>Special: This spell may require a series of rolls to seek the target in Astral space. Creates an ethereal sensor and grants the caster the ability to detach their astral self to seek out a target through the Borderlands, towing the sensor with them. If they find the target, they can leave the sensor and return to their body, and then use the sensor to see and hear normally at the target location.</p>
+      <blockquote>"Through crystal ball and mystic sight, she watched the enemy's council from miles away."</blockquote>
+
+      <h3>Spirit Walk</h3>
+      <p>Required: <em>Subtle</em></p>
+      <p>This spell requires a series of rolls to seek the target in Astral space. The caster transforms themselves bodily into an etheric form in the Borderlands. The transformation is unstable and will only last a few moments, minutes at most, but in that time they can fly at the speed of thought along the currents and ley lines of that realm. If they are able to locate their intended location they can release the transformation and appear at that site, but any failure may drop them elsewhere and lose the spell.</p>
+      <blockquote>"Between one heartbeat and the next, the wizard vanished from the tower and appeared beside us in the courtyard below."</blockquote>
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="conjuring.html" class="page-nav-prev">← Conjuring</a>
+        <a href="beyond.html" class="page-nav-next">The Beyond →</a>
+      </nav>
+
     </div>
   </main>
 
