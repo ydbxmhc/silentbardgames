@@ -10,3 +10,6 @@ Thumbs.db
 # Editor artifacts
 *.swp
 *~
+
+# Session logs
+stderr.log
