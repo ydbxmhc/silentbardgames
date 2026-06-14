@@ -207,6 +207,13 @@ html[data-reducemotion="on"] *::after {
 .toc ul { list-style: none; padding-left: 1.75rem; margin: 0; }
 .toc a { color: var(--ink); text-decoration: none; }
 .toc a:hover { color: var(--accent); }
+a.nav-section-link {
+  cursor: pointer;
+  text-decoration: none;
+  user-select: auto;
+}
+a.nav-section-link:hover { color: rgba(200,169,110,0.8); }
+
 .toc > li > a {
   font-variant: small-caps;
   letter-spacing: 0.06em;
