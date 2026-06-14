@@ -1,18 +1,29 @@
 /* ============================================================
-   LEVEL ONE RPG — SITE STYLESHEET
-   CSS variables at the top — change these to retheme everything
+   ONESRD.CSS — Shared structural stylesheet
+   All OneSRD games load this file first.
+   CSS custom properties defined here are defaults only;
+   each game's style.css overrides them for its own theme.
+
+   Load order in HTML:
+     <link rel="stylesheet" href="/resources/onesrd.css">
+     <link rel="stylesheet" href="/[game]/style.css">
+   ============================================================ */
+
+/* ============================================================
+   DEFAULT VARIABLE DEFINITIONS
+   Games override these in their own style.css :root block.
    ============================================================ */
 :root {
-  --bg:           #fdf2d5;
-  --bg-dark:      #f0e0b0;
-  --bg-drawer:    #2a1f0e;
-  --ink:          #1a1008;
-  --ink-mid:      #4a3520;
-  --ink-light:    #7a6045;
-  --accent:       #8b3a0f;
-  --accent-light: #c4621a;
-  --gold:         #b8860b;
-  --rule:         #c8a96e;
+  --bg:           #ffffff;
+  --bg-dark:      #f0f0f0;
+  --bg-drawer:    #2a2a2a;
+  --ink:          #1a1a1a;
+  --ink-mid:      #444444;
+  --ink-light:    #777777;
+  --accent:       #555555;
+  --accent-light: #777777;
+  --gold:         #888800;
+  --rule:         #cccccc;
 
   --font-body:    Georgia, 'Times New Roman', serif;
   --font-display: Georgia, 'Times New Roman', serif;
@@ -26,8 +37,8 @@
   --header-h:     56px;
   --content-max:  780px;
 
-  --shadow-sm:    0 1px 3px rgba(26,16,8,0.15);
-  --shadow-md:    0 4px 12px rgba(26,16,8,0.2);
+  --shadow-sm:    0 1px 3px rgba(0,0,0,0.15);
+  --shadow-md:    0 4px 12px rgba(0,0,0,0.2);
   --transition:   0.28s ease;
 }
 
@@ -43,9 +54,6 @@ body {
   line-height: var(--line-height);
   color: var(--ink);
   background-color: var(--bg);
-  background-image:
-    radial-gradient(ellipse at 20% 0%, rgba(184,134,11,0.06) 0%, transparent 60%),
-    radial-gradient(ellipse at 80% 100%, rgba(139,58,15,0.05) 0%, transparent 60%);
   min-height: 100vh;
 }
 body.drawer-open { overflow: hidden; }
@@ -54,15 +62,20 @@ body.drawer-open { overflow: hidden; }
    OVERLAY
    ============================================================ */
 #overlay {
-  display: none;
   position: fixed;
   inset: 0;
-  background: rgba(26,16,8,0.5);
+  background: rgba(0,0,0,0.5);
   z-index: 100;
   opacity: 0;
-  transition: opacity var(--transition);
+  visibility: hidden;
+  transition: opacity var(--transition), visibility var(--transition);
+  pointer-events: none;
 }
-#overlay.visible { display: block; opacity: 1; }
+#overlay.visible {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
 
 /* ============================================================
    HEADER
@@ -97,7 +110,7 @@ body.drawer-open { overflow: hidden; }
   flex-shrink: 0;
   transition: border-color var(--transition), background var(--transition);
 }
-#menu-btn:hover { border-color: var(--accent); background: rgba(139,58,15,0.06); }
+#menu-btn:hover { border-color: var(--accent); background: rgba(0,0,0,0.04); }
 #menu-btn span {
   display: block;
   width: 100%;
@@ -122,9 +135,14 @@ body.drawer-open { overflow: hidden; }
   flex: 1;
 }
 .header-title strong { color: var(--accent); font-style: italic; }
-.header-title span { color: var(--ink-light); font-size: 0.85rem; font-style: italic; }
-.header-rule { width: 1px; height: 24px; background: var(--rule); }
-.header-tagline { font-size: var(--size-small); color: var(--ink-light); font-style: italic; display: none; }
+.header-title span   { color: var(--ink-light); font-size: 0.85rem; font-style: italic; }
+.header-rule  { width: 1px; height: 24px; background: var(--rule); }
+.header-tagline {
+  font-size: var(--size-small);
+  color: var(--ink-light);
+  font-style: italic;
+  display: none;
+}
 @media (min-width: 600px) { .header-tagline { display: block; } }
 
 /* ============================================================
@@ -135,10 +153,7 @@ body.drawer-open { overflow: hidden; }
   top: 0; left: 0;
   width: var(--drawer-width);
   height: 100vh;
-  background-color: transparent;
-  background-image: url('https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Raven_and_Toad-BW.jpg');
-  background-size: cover;
-  background-position: center top;
+  background-color: var(--bg-drawer);
   color: #e8d9b8;
   z-index: 200;
   transform: translateX(-100%);
@@ -147,20 +162,18 @@ body.drawer-open { overflow: hidden; }
   display: flex;
   flex-direction: column;
 }
-/* Dark overlay sits between image and content */
+/* Overlay layer — games override the colour/opacity in their style.css */
 #drawer::after {
   content: '';
   position: absolute;
   inset: 0;
-  background-color: rgba(42,31,14,0.50);
+  background-color: rgba(0,0,0,0.55);
   z-index: 0;
   pointer-events: none;
 }
-/* All content sits above the overlay */
 .drawer-header,
 .drawer-nav,
 .drawer-footer { position: relative; z-index: 2; }
-/* drawer-bg img from nav.html — hidden, CSS background handles it */
 .drawer-bg { display: none; }
 #drawer.open { transform: translateX(0); }
 
@@ -168,8 +181,6 @@ body.drawer-open { overflow: hidden; }
   padding: 1.25rem 1.25rem 1rem;
   border-bottom: 1px solid rgba(200,169,110,0.25);
   flex-shrink: 0;
-  position: relative;
-  z-index: 1;
 }
 .drawer-logo {
   font-family: var(--font-display);
@@ -190,19 +201,34 @@ body.drawer-open { overflow: hidden; }
   text-transform: uppercase;
   margin-top: 2px;
 }
-.drawer-settings-link {
-  display: block;
+.drawer-header-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-top: 0.6rem;
+}
+.drawer-close-btn {
+  background: var(--bg);
+  color: var(--bg-drawer);
+  border: none;
+  border-radius: 3px;
+  padding: 0.2rem 0.55rem;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: opacity var(--transition);
+}
+.drawer-close-btn:hover { opacity: 0.75; }
+.drawer-settings-link {
   font-size: 0.72rem;
   color: rgba(200,169,110,0.55);
   text-decoration: none;
   letter-spacing: 0.06em;
-  text-align: right;
   transition: color var(--transition);
 }
 .drawer-settings-link:hover { color: var(--gold); }
 
-.drawer-nav { padding: 0.75rem 0 2rem; flex: 1; overflow-y: auto; position: relative; z-index: 1; }
+.drawer-nav { padding: 0.75rem 0 2rem; flex: 1; overflow-y: auto; }
 .nav-section { margin-bottom: 0.25rem; }
 .nav-section-label {
   display: block;
@@ -261,8 +287,6 @@ body.drawer-open { overflow: hidden; }
   color: rgba(200,169,110,0.4);
   line-height: 1.5;
   flex-shrink: 0;
-  position: relative;
-  z-index: 1;
 }
 .drawer-footer a { color: rgba(200,169,110,0.55); text-decoration: none; }
 .drawer-footer a:hover { color: var(--gold); }
@@ -297,14 +321,6 @@ h1 {
   margin-bottom: 0.5rem;
   letter-spacing: -0.01em;
 }
-h1::after {
-  content: '';
-  display: block;
-  width: 4rem;
-  height: 2px;
-  background: linear-gradient(to right, var(--accent), transparent);
-  margin-top: 0.5rem;
-}
 h2 {
   font-size: 1.5rem;
   color: var(--ink);
@@ -329,6 +345,10 @@ h4 {
   letter-spacing: 0.08em;
 }
 p { margin-bottom: 1rem; }
+p.maneuver {
+  padding-left: 1.5rem;
+  margin-top: -0.6rem;
+}
 p.lead {
   font-size: 1.12rem;
   color: var(--ink-mid);
@@ -338,35 +358,50 @@ p.lead {
   margin-bottom: 1.5rem;
 }
 
-/* Game-specific inline styles */
-.role {
-  font-variant: small-caps;
-  letter-spacing: 0.04em;
-}
+.role    { font-variant: small-caps; letter-spacing: 0.04em; }
 .mechanic { font-style: italic; color: var(--accent); }
-.term { font-weight: bold; }
+.term    { font-weight: bold; }
 
-a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; text-decoration-color: rgba(139,58,15,0.35); transition: color var(--transition), text-decoration-color var(--transition); }
+a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(0,0,0,0.25);
+  transition: color var(--transition), text-decoration-color var(--transition);
+}
 a:hover { color: var(--accent-light); text-decoration-color: var(--accent-light); }
 
-/* Quiet links - invisible until hovered, for dense mechanical text */
 a.quiet {
   color: inherit;
   text-decoration: none;
   border-bottom: 1px dotted transparent;
   transition: color var(--transition), border-color var(--transition);
 }
-a.quiet:hover {
-  color: var(--accent);
-  border-bottom-color: var(--accent);
-}
+a.quiet:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* ============================================================
    PAGE HEADER BLOCK
    ============================================================ */
-.page-header { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid var(--rule); }
-.page-category { font-size: 0.72rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-light); margin-bottom: 0.4rem; display: block; }
-.page-tagline { font-style: italic; color: var(--ink-mid); font-size: 1.05rem; margin-top: 0.25rem; margin-bottom: 0; }
+.page-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--rule);
+}
+.page-category {
+  font-size: 0.72rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-light);
+  margin-bottom: 0.4rem;
+  display: block;
+}
+.page-tagline {
+  font-style: italic;
+  color: var(--ink-mid);
+  font-size: 1.05rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
 
 /* ============================================================
    CALLOUT BOXES
@@ -376,7 +411,7 @@ a.quiet:hover {
   border-radius: 2px;
   padding: 1rem 1.25rem;
   margin: 1.5rem 0;
-  background: rgba(200,169,110,0.08);
+  background: rgba(0,0,0,0.03);
 }
 .box-title {
   font-size: 0.72rem;
@@ -386,25 +421,25 @@ a.quiet:hover {
   margin-bottom: 0.5rem;
   display: block;
 }
-.box.example { border-left: 3px solid var(--accent); background: rgba(139,58,15,0.04); }
-.box.gm-note { border-left: 3px solid var(--gold); background: rgba(184,134,11,0.05); }
-.box.rule { border-left: 3px solid var(--ink-mid); background: rgba(26,16,8,0.04); }
+.box.example     { border-left: 3px solid var(--accent); }
+.box.gm-note     { border-left: 3px solid var(--gold); }
+.box.rule        { border-left: 3px solid var(--ink-mid); }
 .box p:last-child { margin-bottom: 0; }
 
-/* Example play — dialogue style */
 .example-play {
   border-left: 3px solid var(--accent);
-  background: rgba(139,58,15,0.04);
   padding: 1rem 1.25rem;
   margin: 1.5rem 0;
   font-size: 0.97rem;
 }
 .example-play p { margin-bottom: 0.6rem; }
 .example-play p:last-child { margin-bottom: 0; }
-.speaker { font-weight: bold; color: var(--ink-mid); }
+.speaker  { font-weight: bold; color: var(--ink-mid); }
 .gm-voice { font-style: italic; color: var(--accent); }
 
-/* Mechanics summary table */
+/* ============================================================
+   STEP LIST
+   ============================================================ */
 .step-list {
   counter-reset: steps;
   list-style: none;
@@ -434,13 +469,12 @@ a.quiet:hover {
   margin-top: 0.15rem;
 }
 .step-list li p { margin: 0; }
-.step-list li > div > strong:first-child { display: block; margin-bottom: 0.2rem; }
 
 /* ============================================================
-   STAT / ROLL BLOCKS (in-text mechanical callouts)
+   ROLL BLOCK
    ============================================================ */
 .roll-block {
-  background: rgba(26,16,8,0.05);
+  background: rgba(0,0,0,0.04);
   border: 1px solid var(--rule);
   border-left: 3px solid var(--ink-mid);
   padding: 0.75rem 1rem;
@@ -467,19 +501,32 @@ a.quiet:hover {
   padding: 1rem;
   text-decoration: none;
   color: var(--ink);
-  background: rgba(200,169,110,0.06);
+  background: rgba(0,0,0,0.03);
   transition: border-color var(--transition), background var(--transition), transform var(--transition);
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
 }
-.role-card:hover { border-color: var(--accent); background: rgba(139,58,15,0.06); transform: translateY(-2px); text-decoration: none; color: var(--ink); }
-.role-card-name { font-style: italic; font-size: 1.05rem; color: var(--accent); }
+.role-card:hover { border-color: var(--accent); transform: translateY(-2px); text-decoration: none; color: var(--ink); }
+.role-card-name    { font-style: italic; font-size: 1.05rem; color: var(--accent); }
 .role-card-tagline { font-size: 0.82rem; color: var(--ink-light); font-style: italic; }
-.role-card-type { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--rule); margin-top: auto; padding-top: 0.5rem; }
+.role-card-type    { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--rule); margin-top: auto; padding-top: 0.5rem; }
 
 /* ============================================================
-   NEXT / PREV PAGE NAV
+   TEXT + IMAGE BLOCK
+   ============================================================ */
+.text-image-block {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+}
+.text-image-img { flex-shrink: 0; }
+.text-image-img img { max-width: 180px; height: auto; display: block; }
+.text-image-text { flex: 1; }
+
+/* ============================================================
+   PAGE NAVIGATION (prev/next)
    ============================================================ */
 .page-nav {
   display: flex;
@@ -494,16 +541,27 @@ a.quiet:hover {
   flex-direction: column;
   gap: 0.2rem;
   text-decoration: none;
-  color: var(--ink-mid);
   padding: 0.75rem 1rem;
-  border: 1px solid var(--rule);
+  border: 1px solid var(--ink-mid);
   border-radius: 2px;
-  transition: border-color var(--transition), background var(--transition);
+  background: var(--ink-mid);
+  color: var(--bg);
+  transition: border-color var(--transition), background var(--transition), color var(--transition);
   max-width: 48%;
 }
-.page-nav a:hover { border-color: var(--accent); background: rgba(139,58,15,0.04); color: var(--ink); }
-.page-nav-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-light); }
-.page-nav-title { font-style: italic; color: var(--accent); }
+.page-nav a:hover {
+  background: var(--bg);
+  color: var(--ink-mid);
+  border-color: var(--accent);
+}
+.page-nav-label {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: inherit;
+  opacity: 0.6;
+}
+.page-nav-title { font-style: italic; color: inherit; }
 .page-nav .next { text-align: right; margin-left: auto; }
 
 /* ============================================================
@@ -511,15 +569,29 @@ a.quiet:hover {
    ============================================================ */
 hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
 hr.ornamental { text-align: center; border: none; margin: 2rem 0; color: var(--rule); font-size: 1.2rem; letter-spacing: 0.5em; }
-hr.ornamental::before { content: "— ✦ —"; }
 
 /* ============================================================
    BREADCRUMB
    ============================================================ */
-.breadcrumb { font-size: var(--size-small); color: var(--ink-light); margin-bottom: 1.5rem; display: flex; gap: 0.4rem; align-items: center; flex-wrap: wrap; }
+.breadcrumb {
+  font-size: var(--size-small);
+  color: var(--ink-light);
+  margin-bottom: 1.5rem;
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
 .breadcrumb a { color: var(--ink-light); text-decoration: none; }
 .breadcrumb a:hover { color: var(--accent); }
 .breadcrumb-sep { opacity: 0.4; }
+
+/* ============================================================
+   FOOTNOTES
+   ============================================================ */
+.footnotes { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-size: var(--size-small); color: var(--ink-light); }
+.footnotes ol { padding-left: 1.5rem; }
+.footnotes li { margin-bottom: 0.4rem; }
 
 /* ============================================================
    RESPONSIVE
@@ -532,33 +604,15 @@ hr.ornamental::before { content: "— ✦ —"; }
   .page-nav a { max-width: 100%; }
   .page-nav .next { text-align: left; margin-left: 0; }
   .text-image-block { flex-direction: column; }
-  .text-image-block > div:last-child { width: 100%; }
+  .text-image-img img { max-width: 100%; }
 }
 
 /* ============================================================
    USER PREFERENCE OVERRIDES
-   Applied via data attributes on <html> by config.js / L1Prefs.
-   All rules are additive — the base theme is the default for
-   anyone who has not visited Settings.
    ============================================================ */
+html[data-navbg="off"] #drawer { background-image: none; }
+html[data-navbg="off"] #drawer::after { display: none; }
 
-/* ---- Navigation background image ---- */
-html[data-navbg="off"] #drawer {
-  background-image: none;
-  background-color: var(--bg-drawer);
-}
-/* Remove the pseudo-element overlay when image is off */
-html[data-navbg="off"] #drawer::after {
-  display: none;
-}
-
-/* Increase default overlay opacity for better readability over the art.
-   The original 50% let the illustration bleed through too strongly. */
-#drawer::after {
-  background-color: rgba(42, 31, 14, 0.80);
-}
-
-/* ---- Dark theme ---- */
 html[data-theme="dark"] {
   --bg:           #1c1208;
   --bg-dark:      #110c05;
@@ -570,12 +624,8 @@ html[data-theme="dark"] {
   --gold:         #c8a030;
   --rule:         #3a2a14;
 }
-html[data-theme="dark"] #site-header {
-  background: var(--bg);
-  border-bottom-color: var(--rule);
-}
+html[data-theme="dark"] #site-header { background: var(--bg); border-bottom-color: var(--rule); }
 
-/* ---- High-contrast theme ---- */
 html[data-theme="high-contrast"] {
   --bg:           #ffffff;
   --bg-dark:      #f0f0f0;
@@ -588,7 +638,6 @@ html[data-theme="high-contrast"] {
   --rule:         #888888;
 }
 
-/* ---- Plain white theme ---- */
 html[data-theme="plain"] {
   --bg:           #ffffff;
   --bg-dark:      #f5f5f5;
@@ -600,23 +649,17 @@ html[data-theme="plain"] {
   --gold:         #7a6000;
   --rule:         #cccccc;
 }
-html[data-theme="plain"] body {
-  background-image: none;
-}
+html[data-theme="plain"] body { background-image: none; }
 
-/* ---- Font size ---- */
 html[data-fontsize="large"] { font-size: 18px; }
 html[data-fontsize="xl"]    { font-size: 21px; }
 
-/* ---- Reduce motion ---- */
 html[data-reducemotion="on"] *,
 html[data-reducemotion="on"] *::before,
 html[data-reducemotion="on"] *::after {
   transition-duration: 0.01ms !important;
   animation-duration:  0.01ms !important;
 }
-
-/* Honour the OS-level preference automatically regardless of user setting. */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     transition-duration: 0.01ms !important;
@@ -624,19 +667,17 @@ html[data-reducemotion="on"] *::after {
   }
 }
 
-/* ---- Settings page layout ---- */
+/* ============================================================
+   SETTINGS PAGE
+   ============================================================ */
 .settings-group {
   margin: 2rem 0;
   padding: 1.25rem 1.5rem;
   border: 1px solid var(--rule);
   border-radius: 2px;
-  background: rgba(200, 169, 110, 0.06);
+  background: rgba(0,0,0,0.03);
 }
-.settings-group h2 {
-  margin-top: 0;
-  border-bottom: none;
-  font-size: 1.1rem;
-}
+.settings-group h2 { margin-top: 0; border-bottom: none; font-size: 1.1rem; }
 .settings-group label {
   display: flex;
   align-items: center;
@@ -669,26 +710,9 @@ html[data-reducemotion="on"] *::after {
   border: 2px solid var(--accent);
   transition: background var(--transition), color var(--transition);
 }
-.btn-primary {
-  background: var(--accent);
-  color: var(--bg);
-}
-.btn-primary:hover {
-  background: transparent;
-  color: var(--accent);
-}
-.btn-secondary {
-  background: transparent;
-  color: var(--accent);
-}
-.btn-secondary:hover {
-  background: var(--accent);
-  color: var(--bg);
-}
-.settings-saved {
-  display: none;
-  color: var(--gold);
-  font-style: italic;
-  font-size: var(--size-small);
-}
+.btn-primary  { background: var(--accent); color: var(--bg); }
+.btn-primary:hover  { background: transparent; color: var(--accent); }
+.btn-secondary { background: transparent; color: var(--accent); }
+.btn-secondary:hover { background: var(--accent); color: var(--bg); }
+.settings-saved { display: none; color: var(--gold); font-style: italic; font-size: var(--size-small); }
 .settings-saved.visible { display: inline; }

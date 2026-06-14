@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Display Settings - Level One RPG</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/L1/style.css">
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header"></header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+
+  <main id="main">
+    <div class="content-wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Display Settings</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">Preferences</span>
+        <h1>Display Settings</h1>
+        <p class="page-tagline">These preferences are saved in your browser and apply across all pages.</p>
+      </header>
+
+      <div class="settings-group">
+        <h2>Navigation Panel</h2>
+        <label>
+          <input type="checkbox" id="pref-navbg">
+          Show background image in the navigation panel
+        </label>
+      </div>
+
+      <div class="settings-group">
+        <h2>Color Theme</h2>
+        <label><input type="radio" name="theme" value="default"> Default <span style="color:var(--ink-light);font-size:0.85em;">(warm parchment)</span></label>
+        <label><input type="radio" name="theme" value="dark"> Dark</label>
+        <label><input type="radio" name="theme" value="high-contrast"> High contrast</label>
+        <label><input type="radio" name="theme" value="plain"> Plain white</label>
+      </div>
+
+      <div class="settings-group">
+        <h2>Text Size</h2>
+        <label><input type="radio" name="fontsize" value="normal"> Normal</label>
+        <label><input type="radio" name="fontsize" value="large"> Large</label>
+        <label><input type="radio" name="fontsize" value="xl"> Extra large</label>
+      </div>
+
+      <div class="settings-group">
+        <h2>Motion</h2>
+        <label>
+          <input type="checkbox" id="pref-reducemotion">
+          Reduce motion <span style="color:var(--ink-light);font-size:0.85em;">(disables animations and transitions)</span>
+        </label>
+        <p style="margin:0.75rem 0 0; font-size:var(--size-small); color:var(--ink-light);">
+          Note: if your operating system has "reduce motion" enabled, this site honours that automatically.
+        </p>
+      </div>
+
+      <div class="settings-actions">
+        <button class="btn btn-primary" id="save-btn">Save Settings</button>
+        <button class="btn btn-secondary" id="reset-btn">Reset to Defaults</button>
+        <span class="settings-saved" id="saved-msg" aria-live="polite">Settings saved.</span>
+      </div>
+
+    </div>
+  </main>
+
+  <script src="/L1/config.js"></script>
+  <script src="/resources/nav.js"></script>
+  <script>
+    /* ---- Populate form from current preferences ---- */
+    document.addEventListener('DOMContentLoaded', () => {
+
+      // Nav background checkbox
+      document.getElementById('pref-navbg').checked =
+        (L1Prefs.get('navbg') === 'on');
+
+      // Theme radios
+      const themeVal = L1Prefs.get('theme');
+      const themeRadio = document.querySelector(`input[name="theme"][value="${themeVal}"]`);
+      if (themeRadio) themeRadio.checked = true;
+
+      // Font size radios
+      const sizeVal = L1Prefs.get('fontsize');
+      const sizeRadio = document.querySelector(`input[name="fontsize"][value="${sizeVal}"]`);
+      if (sizeRadio) sizeRadio.checked = true;
+
+      // Reduce motion checkbox
+      document.getElementById('pref-reducemotion').checked =
+        (L1Prefs.get('reducemotion') === 'on');
+
+      /* ---- Live preview as user changes controls ---- */
+      document.querySelectorAll('input[name="theme"]').forEach(r => {
+        r.addEventListener('change', () => L1Prefs._apply('theme', r.value));
+      });
+      document.querySelectorAll('input[name="fontsize"]').forEach(r => {
+        r.addEventListener('change', () => L1Prefs._apply('fontsize', r.value));
+      });
+      document.getElementById('pref-navbg').addEventListener('change', e => {
+        L1Prefs._apply('navbg', e.target.checked ? 'on' : 'off');
+      });
+      document.getElementById('pref-reducemotion').addEventListener('change', e => {
+        L1Prefs._apply('reducemotion', e.target.checked ? 'on' : 'off');
+      });
+
+      /* ---- Save button ---- */
+      document.getElementById('save-btn').addEventListener('click', () => {
+        L1Prefs.set('navbg',
+          document.getElementById('pref-navbg').checked ? 'on' : 'off');
+
+        const checkedTheme = document.querySelector('input[name="theme"]:checked');
+        if (checkedTheme) L1Prefs.set('theme', checkedTheme.value);
+
+        const checkedSize = document.querySelector('input[name="fontsize"]:checked');
+        if (checkedSize) L1Prefs.set('fontsize', checkedSize.value);
+
+        L1Prefs.set('reducemotion',
+          document.getElementById('pref-reducemotion').checked ? 'on' : 'off');
+
+        const msg = document.getElementById('saved-msg');
+        msg.classList.add('visible');
+        setTimeout(() => msg.classList.remove('visible'), 3000);
+      });
+
+      /* ---- Reset button ---- */
+      document.getElementById('reset-btn').addEventListener('click', () => {
+        L1Prefs.reset();
+
+        // Re-sync form to defaults
+        document.getElementById('pref-navbg').checked = true;
+        const defTheme = document.querySelector('input[name="theme"][value="default"]');
+        if (defTheme) defTheme.checked = true;
+        const defSize = document.querySelector('input[name="fontsize"][value="normal"]');
+        if (defSize) defSize.checked = true;
+        document.getElementById('pref-reducemotion').checked = false;
+
+        const msg = document.getElementById('saved-msg');
+        msg.textContent = 'Settings reset to defaults.';
+        msg.classList.add('visible');
+        setTimeout(() => {
+          msg.classList.remove('visible');
+          msg.textContent = 'Settings saved.';
+        }, 3000);
+      });
+
+    });
+  </script>
+</body>
+</html>

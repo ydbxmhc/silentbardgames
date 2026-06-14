@@ -3,231 +3,159 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Level One RPG — System Reference Document</title>
-  <link rel="stylesheet" href="style.css">
+  <title>OneSRD — Games by The Silent Bard</title>
   <style>
-    #main {
-      padding-top: calc(var(--header-h));
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #1a1410;
+      --ink:     #e8d9c0;
+      --ink-mid: #a09070;
+      --accent:  #c4621a;
+      --gold:    #b8860b;
+      --rule:    #3a2c1a;
     }
-    .home-wrap {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 2rem 1.5rem 4rem;
-      text-align: center;
+
+    html { font-size: 16px; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background-color: var(--bg);
+      color: var(--ink);
+      min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 1.5rem;
+      justify-content: center;
+      padding: 3rem 1.5rem;
     }
-    .home-cover {
+
+    .hub {
+      max-width: 560px;
       width: 100%;
-      max-width: 420px;
-      height: auto;
-      display: block;
-      box-shadow: var(--shadow-md);
+      text-align: center;
     }
-    .home-title {
-      font-family: var(--font-display);
-      font-size: 2.4rem;
+
+    .hub-wordmark {
+      font-size: 0.72rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--ink-mid);
+      margin-bottom: 0.5rem;
+    }
+
+    .hub-title {
+      font-size: 2.8rem;
       color: var(--accent);
       font-style: italic;
-      letter-spacing: -0.01em;
-      margin: 0;
-      line-height: 1.1;
+      line-height: 1;
+      margin-bottom: 0.4rem;
     }
-    .home-title::after { display: none; }
-    .home-subtitle {
-      font-size: 0.8rem;
+
+    .hub-rule {
+      width: 3rem;
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 1.25rem auto;
+    }
+
+    .hub-byline {
+      font-size: 0.82rem;
+      color: var(--ink-mid);
+      font-style: italic;
+      margin-bottom: 3rem;
+    }
+
+    .game-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin-bottom: 3rem;
+    }
+
+    .game-card {
+      display: block;
+      border: 1px solid var(--rule);
+      padding: 1.25rem 1.5rem;
+      text-decoration: none;
+      text-align: left;
+      transition: border-color 0.2s ease, background 0.2s ease;
+    }
+    .game-card:hover {
+      border-color: var(--accent);
+      background: rgba(196,98,26,0.05);
+    }
+
+    .game-label {
+      font-size: 0.65rem;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: var(--ink-light);
-      margin: -0.75rem 0 0;
-    }
-    .home-tagline {
-      font-style: italic;
       color: var(--ink-mid);
-      font-size: 1.05rem;
-      margin: 0;
-      max-width: 380px;
+      margin-bottom: 0.3rem;
     }
-    .home-enter {
-      display: inline-block;
-      padding: 0.75rem 2.5rem;
-      background: var(--accent);
-      color: var(--bg);
-      text-decoration: none;
-      font-family: var(--font-display);
-      font-style: italic;
-      font-size: 1.1rem;
-      letter-spacing: 0.04em;
-      border: 2px solid var(--accent);
-      transition: background var(--transition), color var(--transition);
-    }
-    .home-enter:hover {
-      background: transparent;
+
+    .game-name {
+      font-size: 1.4rem;
       color: var(--accent);
+      font-style: italic;
+      line-height: 1.2;
+      margin-bottom: 0.25rem;
+    }
+
+    .game-tagline {
+      font-size: 0.85rem;
+      color: var(--ink-mid);
+    }
+
+    .game-card.coming-soon {
+      opacity: 0.4;
+      pointer-events: none;
+      cursor: default;
+    }
+    .game-card.coming-soon .game-label::after {
+      content: ' — Coming Soon';
+    }
+
+    .hub-footer {
+      font-size: 0.72rem;
+      color: var(--ink-mid);
+      font-style: italic;
+    }
+    .hub-footer a {
+      color: var(--ink-mid);
       text-decoration: none;
     }
-    .home-links {
-      display: flex;
-      gap: 1.5rem;
-      font-size: var(--size-small);
-      color: var(--ink-light);
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .home-links a { color: var(--ink-light); text-decoration: none; }
-    .home-links a:hover { color: var(--accent); }
-    hr.home-rule { width: 4rem; border: none; border-top: 1px solid var(--rule); margin: 0; }
-    .home-byline { font-size: 0.75rem; color: var(--ink-light); font-style: italic; margin: 0; }
+    .hub-footer a:hover { color: var(--accent); }
   </style>
 </head>
 <body>
+  <div class="hub">
 
-  <div id="overlay" role="presentation"></div>
+    <p class="hub-wordmark">silentbardgames.com</p>
+    <h1 class="hub-title">OneSRD</h1>
+    <hr class="hub-rule">
+    <p class="hub-byline">System Reference Documents by The Silent Bard</p>
 
-  <header id="site-header">
-    <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
-      <span></span><span></span><span></span>
-    </button>
-    <a href="index.html" class="header-title">
-      <strong>Level One</strong> <span>System Reference Document</span>
-    </a>
-    <div class="header-rule"></div>
-    <span class="header-tagline">a OneSRD game by The Silent Bard</span>
-  </header>
+    <div class="game-grid">
 
-  <nav id="drawer" aria-label="Site navigation" aria-hidden="true">
-    <div class="drawer-header">
-      <a href="index.html" class="drawer-logo">Level One RPG<span>silentbardgames.com</span></a>
+      <a href="/L1/" class="game-card">
+        <p class="game-label">Fantasy RPG</p>
+        <p class="game-name">Level One</p>
+        <p class="game-tagline">No classes. Any dice. Stories first.</p>
+      </a>
+
+      <div class="game-card coming-soon">
+        <p class="game-label">Sci-Fi RPG</p>
+        <p class="game-name">Future Title</p>
+        <p class="game-tagline">Coming when it's done.</p>
+      </div>
+
     </div>
-    <div class="drawer-nav">
-      <div class="nav-section">
-        <span class="nav-section-label">Getting Started</span>
-        <a href="start.html" class="nav-item">This is a Game?</a>
-        <a href="core-loop.html" class="nav-item">The Core Loop</a>
-        <a href="quickstart.html" class="nav-item">Quick Start</a>
-      </div>
-      <div class="nav-section">
-        <span class="nav-section-label">Core Mechanics</span>
-        <a href="mechanics.html" class="nav-item">Dice &amp; Tests</a>
-        <a href="mechanics.html#actions" class="nav-item nav-sub">Actions &amp; Timing</a>
-        <a href="mechanics.html#harm" class="nav-item nav-sub">Harm &amp; Recovery</a>
-        <a href="mechanics.html#gear" class="nav-item nav-sub">Gear</a>
-        <a href="mechanics.html#karma" class="nav-item nav-sub">Karma</a>
-      </div>
-      <div class="nav-section">
-        <span class="nav-section-label">Characters</span>
-        <a href="chargen.html" class="nav-item">Building a Character</a>
-        <a href="hooks.html" class="nav-item">Hooks</a>
-        <a href="nonhuman.html" class="nav-item">Nonhuman Characters</a>
-      </div>
-      <div class="nav-section">
-        <span class="nav-section-label">Roles</span>
-        <a href="roles.html" class="nav-item">All Roles</a>
-        <details class="nav-group">
-          <summary>Combat <span class="nav-chevron">▶</span></summary>
-          <div class="nav-group-items">
-            <a href="roles/warrior.html" class="nav-item nav-sub">Warrior</a>
-            <a href="roles/sniper.html" class="nav-item nav-sub">Sniper</a>
-          </div>
-        </details>
-        <details class="nav-group">
-          <summary>Social <span class="nav-chevron">▶</span></summary>
-          <div class="nav-group-items">
-            <a href="roles/performer.html" class="nav-item nav-sub">Performer</a>
-            <a href="roles/sneak.html" class="nav-item nav-sub">Sneak</a>
-          </div>
-        </details>
-        <details class="nav-group">
-          <summary>Outdoorsman <span class="nav-chevron">▶</span></summary>
-          <div class="nav-group-items">
-            <a href="roles/naturalist.html" class="nav-item nav-sub">Naturalist</a>
-            <a href="roles/beast-handler.html" class="nav-item nav-sub">Beast Handler</a>
-            <a href="roles/athlete.html" class="nav-item nav-sub">Athlete</a>
-          </div>
-        </details>
-        <details class="nav-group">
-          <summary>Knowledge &amp; Craft <span class="nav-chevron">▶</span></summary>
-          <div class="nav-group-items">
-            <a href="roles/healer.html" class="nav-item nav-sub">Healer</a>
-            <a href="roles/loremaster.html" class="nav-item nav-sub">Loremaster</a>
-            <a href="roles/tinker.html" class="nav-item nav-sub">Tinker</a>
-          </div>
-        </details>
-        <details class="nav-group">
-          <summary>Supernatural <span class="nav-chevron">▶</span></summary>
-          <div class="nav-group-items">
-            <a href="roles/adept.html" class="nav-item nav-sub">Adept</a>
-            <a href="roles/spellweaver.html" class="nav-item nav-sub">Spellweaver</a>
-            <a href="roles/conjuror.html" class="nav-item nav-sub">Conjuror</a>
-          </div>
-        </details>
-      </div>
-      <div class="nav-section">
-        <span class="nav-section-label">Running the Game</span>
-        <a href="gm-rules.html" class="nav-item">Special Rules</a>
-        <a href="pacing.html" class="nav-item">Pacing</a>
-        <a href="wealth.html" class="nav-item">Wealth</a>
-        <a href="traits.html" class="nav-item">Traits</a>
-      </div>
-      <div class="nav-section">
-        <span class="nav-section-label">Magick!</span>
-        <a href="magick.html" class="nav-item">Overview</a>
-        <a href="magick/adepts.html" class="nav-item nav-sub">Adept Magic</a>
-        <a href="magick/spellcraft.html" class="nav-item nav-sub">Spellcraft</a>
-        <a href="magick/conjuring.html" class="nav-item nav-sub">Conjuring</a>
-        <a href="magick/spells.html" class="nav-item nav-sub">Spell List</a>
-        <a href="magick/beyond.html" class="nav-item nav-sub">The Beyond</a>
-      </div>
-      <div class="nav-section">
-        <span class="nav-section-label">Appendices</span>
-        <a href="glossary.html" class="nav-item">Glossary</a>
-        <a href="builds.html" class="nav-item">Example Builds</a>
-        <a href="threats.html" class="nav-item">Threats &amp; Obstacles</a>
-        <a href="safety.html" class="nav-item">Safety Tools</a>
-      </div>
-    </div>
-    <div class="drawer-footer">
-      Level One RPG &copy; The Silent Bard<br>
+
+    <p class="hub-footer">
+      &copy; The Silent Bard &nbsp;&middot;&nbsp;
       <a href="https://silentbardgames.com">silentbardgames.com</a>
-    </div>
-  </nav>
+    </p>
 
-  <main id="main">
-    <div class="home-wrap">
-
-      <img data-src="cover-fullBox.png"
-           alt="Level One RPG cover"
-           class="home-cover">
-
-      <h1 class="home-title">Level One</h1>
-      <p class="home-subtitle">a OneSRD game by The Silent Bard</p>
-
-      <hr class="home-rule">
-
-      <p class="home-tagline">No classes. Any dice. Stories first.</p>
-
-      <a href="start.html" class="home-enter">Open the Book</a>
-
-      <div class="home-links">
-        <a href="quickstart.html">Quick Start</a>
-        <a href="roles.html">Browse Roles</a>
-        <a href="mechanics.html">Core Mechanics</a>
-        <a href="builds.html">Example Builds</a>
-      </div>
-
-      <hr class="home-rule">
-      <p class="home-byline">Art by Sabrina Alexander &amp; others. See <a href="start.html#credits">credits</a>.</p>
-
-    </div>
-  </main>
-
-  <script src="config.js"></script>
-  <script src="nav.js"></script>
+  </div>
 </body>
 </html>

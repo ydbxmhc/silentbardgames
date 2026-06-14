@@ -1,5 +1,8 @@
 /* ============================================================
    LEVEL ONE RPG — SITE CONFIGURATION
+   BASE_PATH tells nav.js where to fetch header.html and nav.html
+   and where to root all relative nav links.
+
    Change CDN_BASE here to update all image references sitewide.
    When moving to a custom domain, update this one line:
      https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev
@@ -7,30 +10,24 @@
    ============================================================ */
 
 const SiteConfig = {
-  CDN_BASE: "https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev",
-  SITE_NAME: "Level One RPG",
-  SITE_URL: "https://silentbardgames.com",
+  BASE_PATH: '/L1/',
+  CDN_BASE:  'https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev',
+  SITE_NAME: 'Level One RPG',
+  SITE_URL:  'https://silentbardgames.com',
 };
 
 /* Helper — use this everywhere you need an image URL:
-   img(filename)  →  full CDN URL
-
-   Example:
-     <img src="" data-src="roles/warrior.jpg" class="cdn-img">
-   Or in JS:
-     document.querySelector('img').src = img("roles/warrior.jpg");
-*/
+   img("roles/warrior.jpg")  →  full CDN URL */
 function img(path) {
   return `${SiteConfig.CDN_BASE}/${path}`;
 }
 
 /* Auto-resolve any <img> with data-src attribute.
-   Use data-src="filename.jpg" instead of src="" in HTML,
-   and this script will fill in the full CDN URL on load. */
-document.addEventListener("DOMContentLoaded", () => {
-  document.querySelectorAll("img[data-src]").forEach(el => {
+   Use data-src="filename.jpg" in HTML; this fills in the CDN URL on load. */
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('img[data-src]').forEach(el => {
     el.src = img(el.dataset.src);
-    el.removeAttribute("data-src");
+    el.removeAttribute('data-src');
   });
 });
 
@@ -46,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
      l1-reducemotion  off     | on
 
    CSS targets: html[data-theme="dark"] { ... } etc.
-   See style.css for the rules.
+   See /resources/onesrd.css and /L1/style.css for the rules.
    ============================================================ */
 
 const L1Prefs = {
