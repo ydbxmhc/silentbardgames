@@ -1,0 +1,12 @@
+# PDF source files - not for version control
+*.pdf
+*.PDF
+*.zip
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+*.swp
+*~
