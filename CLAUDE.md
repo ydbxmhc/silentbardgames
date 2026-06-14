@@ -225,6 +225,10 @@ how I want to handle it rather than improvising.
 4. Wait for my confirmation before moving on.
 5. When I approve, commit that page and continue to the next batch.
 
+**Work cycle** = one round trip in the chat: the user sends a message, Claude
+responds. Commit at the end of every work cycle in which files changed.
+Push only when the user explicitly says to push.
+
 Do not run ahead and rewrite many pages at once. Small, verifiable increments.
 
 ---
