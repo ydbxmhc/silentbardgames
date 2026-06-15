@@ -321,3 +321,14 @@ a.nav-section-link:hover { color: rgba(200,169,110,0.8); }
   border: 1.5px solid var(--rule);
 }
 .btn-secondary:hover { border-color: var(--ink-mid); color: var(--ink); }
+
+/* Chapter epigraph — right-aligned pull quote */
+blockquote.epigraph {
+  width: 50%;
+  margin-left: auto;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  text-align: right;
+}
+blockquote.epigraph p { margin: 0; }
+blockquote.epigraph footer { margin-top: 0.25em; font-style: italic; }
