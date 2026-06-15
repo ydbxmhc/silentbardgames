@@ -322,6 +322,12 @@ a.nav-section-link:hover { color: rgba(200,169,110,0.8); }
 }
 .btn-secondary:hover { border-color: var(--ink-mid); color: var(--ink); }
 
+/* Body content lists */
+.content-wrap ul {
+  padding-left: 1.5rem;
+}
+.content-wrap ul li { margin-bottom: 0.25rem; }
+
 /* Chapter epigraph — right-aligned pull quote */
 p.epigraph {
   width: 50%;
