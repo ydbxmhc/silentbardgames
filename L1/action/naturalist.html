@@ -3,37 +3,87 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>A Naturalist In Action — Level One RPG</title>
-  <link rel="stylesheet" href="/resources/onesrd.css">
-  <link rel="stylesheet" href="/L1/style.css">
+  <title>A Naturalist In Action - Level One RPG</title>
+  <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-
   <div id="overlay" role="presentation"></div>
-
-  <header id="site-header"></header>
-
+  <header id="site-header">
+    <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="../index.html" class="header-title">
+      <strong>Level One</strong> <span>System Reference Document</span>
+    </a>
+    <div class="header-rule"></div>
+    <span class="header-tagline">a OneSRD game by The Silent Bard</span>
+  </header>
   <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
-
-    <main id="main">
+  <main id="main">
     <div class="content-wrap">
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="../index.html">Home</a>
         <span class="breadcrumb-sep">›</span>
-        <span>Roles › Naturalist › In Action</span>
+        <span>Roles › A Naturalist In Action</span>
       </nav>
       <header class="page-header">
-        <span class="page-category">Outdoorsman Role</span>
+        <span class="page-category">Outdoorsman Roles</span>
         <h1>A Naturalist In Action</h1>
       </header>
-      <div class="box" style="border-left:3px solid var(--gold)">
-        <span class="box-title">Content Coming Soon</span>
-        <p style="margin:0">This page is reserved for <strong>A Naturalist In Action</strong> content from the Level One rulebook. Check back as the SRD is built out.</p>
+
+      <p><em>Kestrel shepherds a mountain crossing using unconstrained dice.</em></p>
+
+      <div class="box">
+        <p class="box-title">Kestrel is Level 2, Naturalist 2 with <em>Mountain Guide 2</em> and <em>Weather Sense 2</em>.<br>
+        Note that she has paid Karma to improve both her Maneuvers.</p>
       </div>
+
+      <p>Leading a merchant caravan through a treacherous mountain pass in late autumn, Kestrel faces the challenge of getting people and pack animals across before winter snows make the route impassable. The weather has been deteriorating, and the merchants are pushing for speed over safety. She assesses the sky for cloud patterns, wind direction, and other signs; a major storm system is moving in, but it won't hit till roughly sunset tomorrow. There's enough time to reach the sheltering caves at Eagle's Rest, but only if they move efficiently.</p>
+
+      <div class="box">
+        <p>With Level 2 + Naturalist 2 + Weather Sense 2 = EL6. Rolling <strong>3d[0-2]</strong> for (2,1,2) a 5.<br>
+        The GM rolls <strong>1d6</strong> for the weather and gets a 4 — Kestrel's expertise wins by a point.</p>
+      </div>
+
+      <p>The merchants want to push the heavily loaded pack animals up the steepest section during daylight, but Kestrel recognizes this as a mistake. She needs to convince the lead merchant to follow her plan. She's not much of a talker, but takes a moment to identify and demonstrate specific dangers, and shows loose scree patterns indicating recent rockfall, wind-carved formations revealing dangerous gusts, and animal tracks that reveal safer alternate paths. The evidence is compelling — he's convinced to follow her plan, but tells her he may change his mind.</p>
+
+      <div class="box">
+        <p>She rolls Level 2 + Naturalist 2 + <em>Mountain Guide 2</em> = EL6 (<strong>3d[0-2]</strong> again) getting (2,1,1) for a 4 against the mountain's passive resistance of <strong>1d4</strong> for a 2. Success by 2 — she creates a <em>Compelling Evidence 2</em> Boost with it. The merchant is Level 3 + Performer 2 = EL5. This is social persuasion, so Kestrel uses Level 2 + Performer 0 + <em>Compelling Evidence 2</em> = EL4. She rolls <strong>2d[0-2]</strong> (2,1) for a 3 against his Level 3 (<strong>1d[0-3]</strong>) + Performer 2 (<strong>1d[0-2]</strong>) = EL5 roll of (2,0) for a 2.</p>
+      </div>
+
+      <p>Over the next 16 hours, Kestrel's mountain expertise proves invaluable multiple times:</p>
+      <ul>
+        <li>She identifies apparently solid ground that would collapse under the animals' weight</li>
+        <li>She finds a natural windbreak where they can rest during the worst gusts</li>
+        <li>She gathers forage for the animals to keep them strong while they travel</li>
+        <li>She spots the approach to Eagle's Rest caves even in gathering darkness and blowing snow</li>
+      </ul>
+
+      <p>The caravan reaches shelter just as the first serious snowfall begins. As they settle in, Kestrel quickly gets a warming fire started in the cave using dry tinder she gathered along the way — even in the mountains, a skilled naturalist finds what they need. She adds some high-altitude herbs to their evening stew, turning trail rations into something almost pleasant.</p>
+
+      <p>The merchants, initially frustrated by the "unnecessary" delays and detours, now understand they owe their lives to Kestrel's expertise as they listen to the wind scream outside the mouth of the cave. The lead merchant quietly doubles her promised fee. "Next time I hire a guide, I'm listening to everything they tell me, the moment they tell me — and that guide will be you."</p>
+
+      <p><em>Professional wilderness expertise — it's the difference between making it home and becoming another cautionary tale told around tavern fires.</em></p>
+
+      <div class="text-image-block">
+        <div class="text-image-img">
+          <img data-src="naturalist-action.jpg" alt="Ocean waves">
+        </div>
+      </div>
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="../roles/naturalist.html" class="prev">
+          <span class="page-nav-label">&#8592; Previous</span>
+          <span class="page-nav-title">Naturalist</span>
+        </a>
+        <a href="../roles/beast-handler.html" class="next">
+          <span class="page-nav-label">Next &#8594;</span>
+          <span class="page-nav-title">Beast Handler</span>
+        </a>
+      </nav>
     </div>
   </main>
-
-  <script src="/L1/config.js"></script>
-  <script src="/resources/nav.js"></script>
+  <script src="../config.js"></script>
+  <script src="../nav.js"></script>
 </body>
 </html>

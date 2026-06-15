@@ -3,37 +3,77 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Spellweaver — Level One RPG</title>
-  <link rel="stylesheet" href="/resources/onesrd.css">
-  <link rel="stylesheet" href="/L1/style.css">
+  <title>Spellweaver - Level One RPG</title>
+  <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-
   <div id="overlay" role="presentation"></div>
-
-  <header id="site-header"></header>
-
+  <header id="site-header">
+    <button id="menu-btn" aria-label="Open navigation menu" aria-expanded="false" aria-controls="drawer">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="../index.html" class="header-title">
+      <strong>Level One</strong> <span>System Reference Document</span>
+    </a>
+    <div class="header-rule"></div>
+    <span class="header-tagline">a OneSRD game by The Silent Bard</span>
+  </header>
   <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
-
-    <main id="main">
+  <main id="main">
     <div class="content-wrap">
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="../index.html">Home</a>
         <span class="breadcrumb-sep">›</span>
-        <span>Roles › Spellweaver</span>
+        <a href="../roles.html">Roles</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Spellweaver</span>
       </nav>
       <header class="page-header">
-        <span class="page-category">Supernatural Role</span>
+        <span class="page-category">Supernatural Roles</span>
         <h1>Spellweaver</h1>
       </header>
-      <div class="box" style="border-left:3px solid var(--gold)">
-        <span class="box-title">Content Coming Soon</span>
-        <p style="margin:0">This page is reserved for <strong>Spellweaver</strong> content from the Level One rulebook. Check back as the SRD is built out.</p>
-      </div>
+
+      <p><em>"The universe speaks in mathematics and metaphor - I simply learned the language and taught it better grammar."</em></p>
+
+      <p>The Spellweaver approaches magic as both science and art, transforming cosmic forces into reproducible effects through elaborate ritual preparation. Where other supernatural practitioners rely on intuition or negotiation, Spellweavers dissect magical principles like natural philosophers, cataloguing patterns and binding divine and arcane energies into spells. Their sanctums often resemble equal parts laboratory, temple, and library, filled with reference texts, component storage in racks and bins and shelves, and ritual circles marked with permanent geometric inlay.</p>
+
+      <p>This is magic made systematic. Each spell represents a complex, proven theorem bound through precise ritual work. These require long minutes of ceremonial preparation but can be unleashed instantly when needed, or channeled repeatedly through the established magical framework. The Spellweaver's power lies in understanding exactly how to thread her will through occult patterns for specific desired outcomes.</p>
+
+      <hr>
+
+      <h2>Binding the Powers</h2>
+
+      <p>The heart of Spellweaver magic is the binding ritual. These ceremonies require uninterrupted concentration, formal ritual components, sacred geometry drawn in salt or chalk or iron filings, rare reagents, and specialized implements. These aren't theatrical flourishes but necessary elements for gathering and constraining cosmic forces into stable patterns. A <em>Fax Iacta</em> ("Thrown Torch") binding might demand powdered charcoal, amber resin, geometric calculations based on flame temperatures, and careful intonation of words that shape fire into useful form.</p>
+
+      <p>During binding, the Spellweaver dedicates actual ranks from their Spellweaver Role into specific spell constructs. These bound ranks become unavailable for other magical work (they can still count toward countering similar effects), but create lasting access to that spell until deliberately released, or lost through a fumbled casting. A beginning Spellweaver with one Role rank must bind it entirely into their first spell, while masters might spread eight ranks across multiple effects… or concentrate significant power into a single formula.</p>
+
+      <p>Each spell offers three casting approaches. Full ritual casting recreates the original lengthy ceremony - handy when time permits but offering no mechanical advantage over normal recasting except that it allows the spell to be cast without pre-binding. <em>Release</em> triggers the stored energy of a bound spell instantly without rolling, providing guaranteed effect equal to the bound ranks, but consumes the spell entirely, and it can usually still be resisted. <em>Recasting</em> is the norm, carefully channeling fresh energy through the bound framework using normal dice mechanics, allowing repeated use while preserving the binding unless the roll utterly fails.</p>
+
+      <hr>
+
+      <h2>Advanced Applications</h2>
+
+      <p>Unbound Spellweaver ranks always apply to disrupting hostile magic, while bound spells provide additional capability against related effects. The Spellweaver who has lost most prepared spells becomes paradoxically more effective at protecting allies from enemy magic, their free ranks creating maximum counterspell flexibility.</p>
+
+      <p>Spreading ranks across many spells provides versatility but reduces the potential power of each. Concentrating ranks creates stronger instant-release effects for that spell but reduces options. Leaving more ranks unbound increases the power and flexibility of all the spells that are bound as well as any counterspells, but reduces the number of spells available to use. Advanced practitioners learn to sacrifice (release) noncritical utility spells for combat, freeing up their bound ranks to strengthen remaining combat magic and general defense, but be careful: if you release a spell that is currently active it winks out. The same happens if recasting fails and destabilizes it.</p>
+
+      <p>Spells persist according to their nature and <em>Trait</em> (see that section), and the needs and application of the caster. A <em>Light</em> typically continues glowing as long as the caster needs and maintains it, and vanishes when she allows it, but can be cast as <em>Persistent</em> to last throughout the scene without maintenance, and can even be duplicated with no ill effect so long as the caster still has the spell. <em>Fax Iacta</em> exemplifies versatility - once cast, the conjured flame can be held to serve as torch or thrown as a weapon. The same binding creates multiple problem-solving options through creative use rather than rigid definitions.</p>
+
+      <p>&#8594; See <a href="../action/spellweaver.html">A Spellweaver In Action</a> for a full example of the Spellweaver Role in play.</p>
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="../action/adept.html" class="prev">
+          <span class="page-nav-label">&#8592; Previous</span>
+          <span class="page-nav-title">An Adept In Action</span>
+        </a>
+        <a href="action/spellweaver.html" class="next">
+          <span class="page-nav-label">Next &#8594;</span>
+          <span class="page-nav-title">A Spellweaver In Action</span>
+        </a>
+      </nav>
     </div>
   </main>
-
-  <script src="/L1/config.js"></script>
-  <script src="/resources/nav.js"></script>
+  <script src="../config.js"></script>
+  <script src="../nav.js"></script>
 </body>
 </html>
