@@ -1,0 +1,18 @@
+[Home](index.html) › Characters › [Hooks](hooks.html) › How They Work in Play
+
+Characters
+
+# How They Work in Play
+
+Say your character has a rank 2 Hook of *Protect the Innocent*. Dealing with a corrupt baron, you could:
+
+- Add its rank of 2 to one intimidation roll over their exploitation of workers
+- Earn Karma when you refuse a profitable bribe because it would harm common folk
+- Get an automatic bonus of its rank of 2 (GM's call) on *any* roll to deal with a threat to workers' families!
+
+Hooks make you *better* at the things your character cares about most, while creating the kind of complications that drive the stories you want to tell.
+
+---
+
+- [← Previous: Hooks - Your Character’s Engine](hooks.html)
+- [Next →: Crafting Good Hooks](crafting-good-hooks.html)
