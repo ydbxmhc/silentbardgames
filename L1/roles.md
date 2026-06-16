@@ -1,4 +1,4 @@
-[Home](index.html) › Roles
+[Home](index.md) › Roles
 
 Roles
 
@@ -8,5 +8,5 @@ If Hooks define what drives your character, Roles define what they're capable of
 
 ---
 
-- [← Previous: Nonhuman As A Hook](nonhuman-as-a-hook.html)
-- [Next →: The Nature of Roles](the-nature-of-roles.html)
+- [← Previous: Nonhuman As A Hook](nonhuman-as-a-hook.md)
+- [Next →: The Nature of Roles](the-nature-of-roles.md)

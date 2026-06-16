@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › A Tinker In Action
+[Home](../index.md) › Roles › A Tinker In Action
 
 Knowledge and Craft Roles
 
@@ -100,5 +100,5 @@ It didn't take very much to get them drunk.
 
 ---
 
-- [← Previous: Tinker](../roles/tinker.html)
-- [Next →: Adept](../roles/adept.html)
+- [← Previous: Tinker](../roles/tinker.md)
+- [Next →: Adept](../roles/adept.md)

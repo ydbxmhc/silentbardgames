@@ -1,4 +1,4 @@
-[Home](index.html) › [Roles](roles.html) › Role Synergy
+[Home](index.md) › [Roles](roles.md) › Role Synergy
 
 Roles
 
@@ -10,5 +10,5 @@ The Role explanations below list a few synergy examples, but players and GMs sho
 
 ---
 
-- [← Previous: Examples in Practice](examples-in-practice.html)
-- [Next →: Warrior](roles/warrior.html)
+- [← Previous: Examples in Practice](examples-in-practice.md)
+- [Next →: Warrior](roles/warrior.md)

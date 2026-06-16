@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › Nonhuman Characters
+[Home](index.md) › Characters › Nonhuman Characters
 
 Characters
 
@@ -24,5 +24,5 @@ Sometimes, to make a nonhuman, all you really need is the idea. "My character is
 
 ---
 
-- [← Previous: Hooks and Growth](hooks-and-growth.html)
-- [Next →: Nonhuman As A Hook](nonhuman-as-a-hook.html)
+- [← Previous: Hooks and Growth](hooks-and-growth.md)
+- [Next →: Nonhuman As A Hook](nonhuman-as-a-hook.md)

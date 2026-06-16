@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › The Beyond
+[Home](../index.md) › Magick! › The Beyond
 
 Magick!
 
@@ -119,5 +119,5 @@ Understanding the Spirit Realm transforms how practitioners approach traditional
 
 ---
 
-- [](spells.html)
-- [](../safety.html)
+- [](spells.md)
+- [](../safety.md)

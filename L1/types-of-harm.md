@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Three Types of Harm - and One More
+[Home](index.md) › Core Mechanics › Three Types of Harm - and One More
 
 Core Mechanics
 
@@ -16,9 +16,9 @@ All these reduce EL, but Hindrances don't count toward being Down; they are situ
 
 It is important to understand that Harm *does not mean damage*. Harm is anything which impedes a character, or takes away their *agency*. Psychological Harm that results in ongoing loss of confidence can be as debilitating as a broken leg. Social Harm that affects a character's reputation can certainly make them less effective in many situations, though if the *character* doesn't care about such things, the GM should be careful to apply something that *would* matter to them. Most of these can and should still be handled with the usual rules.
 
-Still, it is possible that the result someone takes from losing a resistance roll is an Imposed Hook. See the section on [Hooks](hooks.html) for more info.
+Still, it is possible that the result someone takes from losing a resistance roll is an Imposed Hook. See the section on [Hooks](hooks.md) for more info.
 
 ---
 
-- [← Previous: Harm and Recovery](harm.html)
-- [Next →: Feeling Down?](feeling-down.html)
+- [← Previous: Harm and Recovery](harm.md)
+- [Next →: Feeling Down?](feeling-down.md)

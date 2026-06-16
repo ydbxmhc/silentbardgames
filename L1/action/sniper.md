@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Sniper](../roles/sniper.html) › A Sniper In Action
+[Home](../index.md) › [Roles](../roles.md) › [Sniper](../roles/sniper.md) › A Sniper In Action
 
 Combat Roles
 
@@ -32,5 +32,5 @@ Professional. Clean. Precise.
 
 ---
 
-- [← Previous: Advanced Applications](../roles/sniper-advanced.html)
-- [Next →: Performer](../roles/performer.html)
+- [← Previous: Advanced Applications](../roles/sniper-advanced.md)
+- [Next →: Performer](../roles/performer.md)

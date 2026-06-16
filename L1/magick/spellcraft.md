@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Spellcraft
+[Home](../index.md) › Magick! › Spellcraft
 
 Magick!
 
@@ -108,5 +108,5 @@ Environmental and convenience magic can solve problems mundane skills cannot. *L
 
 ---
 
-- [← Previous: Adept Magic](adepts.html)
-- [Next →: Conjuring](conjuring.html)
+- [← Previous: Adept Magic](adepts.md)
+- [Next →: Conjuring](conjuring.md)

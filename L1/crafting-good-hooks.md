@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › [Hooks](hooks.html) › Crafting Good Hooks
+[Home](index.md) › Characters › [Hooks](hooks.md) › Crafting Good Hooks
 
 Characters
 
@@ -16,5 +16,5 @@ Hooks can be **Player-Driven**! You *should* invoke your own Hooks for Karma and
 
 ---
 
-- [← Previous: How They Work in Play](hooks-how-they-work.html)
-- [Next →: Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.html)
+- [← Previous: How They Work in Play](hooks-how-they-work.md)
+- [Next →: Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.md)

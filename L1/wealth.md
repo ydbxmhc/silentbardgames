@@ -1,4 +1,4 @@
-[Home](./index.html) › Running the Game
+[Home](./index.md) › Running the Game
 
 Running the Game
 

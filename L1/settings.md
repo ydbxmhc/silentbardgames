@@ -1,4 +1,4 @@
-[Home](index.html) › Display Settings
+[Home](index.md) › Display Settings
 
 Preferences
 

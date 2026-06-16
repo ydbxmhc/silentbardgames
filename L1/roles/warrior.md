@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Warrior
+[Home](../index.md) › [Roles](../roles.md) › Warrior
 
 Roles
 
@@ -16,5 +16,5 @@ This doesn't mean they instinctively know the specialized techniques for exotic 
 
 ---
 
-- [← Previous: Role Synergy](../role-synergy.html)
-- [Next →: Common Warrior Maneuvers](warrior-maneuvers.html)
+- [← Previous: Role Synergy](../role-synergy.md)
+- [Next →: Common Warrior Maneuvers](warrior-maneuvers.md)

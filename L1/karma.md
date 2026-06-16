@@ -1,4 +1,4 @@
-[Home](index.html) › How Characters Improve
+[Home](index.md) › How Characters Improve
 
 Core Mechanics
 
@@ -34,5 +34,5 @@ The GM should feel free to hand out a Karma just like Luck Tokens for any truly 
 
 ---
 
-- [← Previous: Other Gear](other-gear.html)
-- [Next →: Spending Karma](spending-karma.html)
+- [← Previous: Other Gear](other-gear.md)
+- [Next →: Spending Karma](spending-karma.md)

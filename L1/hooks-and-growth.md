@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › [Hooks](hooks.html) › Hooks and Growth
+[Home](index.md) › Characters › [Hooks](hooks.md) › Hooks and Growth
 
 Characters
 
@@ -16,5 +16,5 @@ This creates a living system where your character's motivations strengthen when 
 
 ---
 
-- [← Previous: Common Pitfalls](common-pitfalls.html)
-- [Next →: Nonhuman Characters](nonhuman.html)
+- [← Previous: Common Pitfalls](common-pitfalls.md)
+- [Next →: Nonhuman Characters](nonhuman.md)

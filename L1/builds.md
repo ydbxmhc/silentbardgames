@@ -1,4 +1,4 @@
-[Home](./index.html) › Appendices
+[Home](./index.md) › Appendices
 
 Appendices
 

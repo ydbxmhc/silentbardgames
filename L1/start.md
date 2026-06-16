@@ -1,4 +1,4 @@
-[Home](index.html) › This is a Game?
+[Home](index.md) › This is a Game?
 
 Getting Started
 
@@ -30,5 +30,5 @@ No reason to be sketchy. Let's see what it looks like in action.
 
 ---
 
-- [← Back: Home](index.html)
-- [Next →: The Core Loop](core-loop.html)
+- [← Back: Home](index.md)
+- [Next →: The Core Loop](core-loop.md)

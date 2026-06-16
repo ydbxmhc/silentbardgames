@@ -1,4 +1,4 @@
-[Home](index.html) › [Gear](gear.html) › Weapons
+[Home](index.md) › [Gear](gear.md) › Weapons
 
 Gear
 
@@ -14,5 +14,5 @@ Significantly longer reach weapons allow a free action each turn to maintain a *
 
 ---
 
-- [← Previous: Armor](armor.html)
-- [Next →: Other Gear](other-gear.html)
+- [← Previous: Armor](armor.md)
+- [Next →: Other Gear](other-gear.md)

@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Wagered Actions
+[Home](index.md) › Core Mechanics › Wagered Actions
 
 Core Mechanics
 
@@ -9,7 +9,7 @@ When you're doing something familiar, you can focus on a specific outcome. This 
 Remove the wagered points from your EL before rolling. If your action succeeds and generates *any* effect after opposition/resistance, add your dedicated points to the intended result. Successfully wagered points are applied *after* opposition. The wagered points are counted as having succeeded only if the roll succeeds without them.
 
 **Residual Effects**  
-This is the mechanic used for [Persistent Boosts](actions-and-timing.html#boosts-with-duration). Wager the points you want on the Boost and succeed with what's left after they are set aside, get a named bonus that can be added directly to the EL of other relevant rolls for the rest of the scene.
+This is the mechanic used for [Persistent Boosts](actions-and-timing.md#boosts-with-duration). Wager the points you want on the Boost and succeed with what's left after they are set aside, get a named bonus that can be added directly to the EL of other relevant rolls for the rest of the scene.
 
 This can also be the setup for a separate standalone roll. If you set someone on fire, the fire continues to attack on its own. Instead of a Persistent Boost, it is a residual condition that gets to make rolls of its own to burn the target, while he rolls to control the damage and put it out.
 
@@ -34,5 +34,5 @@ If the target uses their armor to boost their resistance EL by 1 it cancels her 
 
 ---
 
-- [← Previous: Multiple Actions](multiple-actions.html)
-- [Next →: Luck Tokens](luck.html)
+- [← Previous: Multiple Actions](multiple-actions.md)
+- [Next →: Luck Tokens](luck.md)

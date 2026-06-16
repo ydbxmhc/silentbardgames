@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › A Healer In Action
+[Home](../index.md) › Roles › A Healer In Action
 
 Knowledge and Craft Roles
 
@@ -107,5 +107,5 @@ In the corner, the tired midwife dropped a small pile of silver coins on his mak
 
 ---
 
-- [← Previous: Healer](../roles/healer.html)
-- [Next →: Loremaster](../roles/loremaster.html)
+- [← Previous: Healer](../roles/healer.md)
+- [Next →: Loremaster](../roles/loremaster.md)

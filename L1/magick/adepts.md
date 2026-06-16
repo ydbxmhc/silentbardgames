@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Adept Magic
+[Home](../index.md) › Magick! › Adept Magic
 
 Magick!
 
@@ -40,5 +40,5 @@ The GM and player should negotiate the theme's boundaries during character creat
 
 ---
 
-- [← Previous: Overview](../magick.html)
-- [Next →: Spellcraft](spellcraft.html)
+- [← Previous: Overview](../magick.md)
+- [Next →: Spellcraft](spellcraft.md)

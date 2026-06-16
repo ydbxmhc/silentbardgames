@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Sniper](sniper.html) › Common Sniper Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Common Sniper Maneuvers
 
 Combat Roles
 
@@ -24,5 +24,5 @@ Note that *Battlefield Tactics* makes good Warrior synergy!
 
 ---
 
-- [← Previous: Sniper](sniper.html)
-- [Next →: Advanced Applications](sniper-advanced.html)
+- [← Previous: Sniper](sniper.md)
+- [Next →: Advanced Applications](sniper-advanced.md)

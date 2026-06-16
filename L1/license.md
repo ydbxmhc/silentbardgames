@@ -1,4 +1,4 @@
-[Home](/L1/index.html) › License & Credits
+[Home](/L1/index.md) › License & Credits
 
 Appendices
 

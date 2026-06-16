@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › A Conjuror In Action
+[Home](../index.md) › [Roles](../roles.md) › A Conjuror In Action
 
 Supernatural Roles
 
@@ -46,5 +46,5 @@ Mira held him as the spirit released her to go with her husband into the beyond.
 
 ---
 
-- [← Previous: Conjuror](../roles/conjuror.html)
-- [Next →: Special Rules](../gm-rules.html)
+- [← Previous: Conjuror](../roles/conjuror.md)
+- [Next →: Special Rules](../gm-rules.md)

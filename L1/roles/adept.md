@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Adept
+[Home](../index.md) › Roles › Adept
 
 Supernatural Roles
 
@@ -56,9 +56,9 @@ Other options are possible -
 - **Theme Adjacency** ranks would help offset high difficulty for actions on a specific far corner of the theme, like a Storm Adept summoning frost with *Ice Adjacency* . (It wouldn't *reduce* the difficulty, just offset it.)
 - **Transcendence** is the Adept's ability to briefly become more than human, taking on aspects of their Source in ways that fundamentally alter their nature and capabilities. A storm Adept might become partially incorporeal to leap as lightning at impossible speed, passing through tiny gaps. A Stone Adept could phase directly into and through a wall without damaging it. These transformative states are difficult and rarely last long, but they represent the Adept's ultimate expression of unity with their power.
 
-→ See [An Adept In Action](../action/adept.html) for a full example of the Adept Role in play.
+→ See [An Adept In Action](../action/adept.md) for a full example of the Adept Role in play.
 
 ---
 
-- [← Previous: A Tinker In Action](../action/tinker.html)
-- [Next →: An Adept In Action](action/adept.html)
+- [← Previous: A Tinker In Action](../action/tinker.md)
+- [Next →: An Adept In Action](action/adept.md)

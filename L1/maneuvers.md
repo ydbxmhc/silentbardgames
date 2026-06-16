@@ -1,4 +1,4 @@
-[Home](index.html) › [Roles](roles.html) › Maneuvers
+[Home](index.md) › [Roles](roles.md) › Maneuvers
 
 Roles
 
@@ -12,5 +12,5 @@ When your Maneuver applies to a situation, it typically provides an additional +
 
 ---
 
-- [← Previous: Mechanical Function](mechanical-function.html)
-- [Next →: The Sweet Spot](the-sweet-spot.html)
+- [← Previous: Mechanical Function](mechanical-function.md)
+- [Next →: The Sweet Spot](the-sweet-spot.md)

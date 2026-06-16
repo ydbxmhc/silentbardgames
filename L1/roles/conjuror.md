@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Conjuror
+[Home](../index.md) › [Roles](../roles.md) › Conjuror
 
 Supernatural Roles
 
@@ -94,9 +94,9 @@ The **True Names** of spirits have power. Note that spirits can grow in power by
 - *Sensitivity* : skill at detecting supernatural presences without using the Third Eye
 - *Aura Hardening* : "armor" for spiritual combats
 
-→ See [A Conjuror In Action](../action/conjuror.html) for a full example of the Conjuror Role in play.
+→ See [A Conjuror In Action](../action/conjuror.md) for a full example of the Conjuror Role in play.
 
 ---
 
-- [← Previous: A Spellweaver In Action](../action/spellweaver.html)
-- [Next →: A Conjuror In Action](../action/conjuror.html)
+- [← Previous: A Spellweaver In Action](../action/spellweaver.md)
+- [Next →: A Conjuror In Action](../action/conjuror.md)

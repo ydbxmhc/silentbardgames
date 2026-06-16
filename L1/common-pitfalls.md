@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › [Hooks](hooks.html) › Common Pitfalls
+[Home](index.md) › Characters › [Hooks](hooks.md) › Common Pitfalls
 
 Characters
 
@@ -16,5 +16,5 @@ These questions make the mechanical choices for Role and Maneuvers easier becaus
 
 ---
 
-- [← Previous: Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.html)
-- [Next →: Hooks and Growth](hooks-and-growth.html)
+- [← Previous: Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.md)
+- [Next →: Hooks and Growth](hooks-and-growth.md)

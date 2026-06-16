@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › [Hooks](hooks.html) › How They Work in Play
+[Home](index.md) › Characters › [Hooks](hooks.md) › How They Work in Play
 
 Characters
 
@@ -14,5 +14,5 @@ Hooks make you *better* at the things your character cares about most, while cre
 
 ---
 
-- [← Previous: Hooks - Your Character’s Engine](hooks.html)
-- [Next →: Crafting Good Hooks](crafting-good-hooks.html)
+- [← Previous: Hooks - Your Character’s Engine](hooks.md)
+- [Next →: Crafting Good Hooks](crafting-good-hooks.md)

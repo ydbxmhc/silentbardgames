@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Warrior](../roles/warrior.html) › A Warrior In Action
+[Home](../index.md) › [Roles](../roles.md) › [Warrior](../roles/warrior.md) › A Warrior In Action
 
 Combat Roles
 
@@ -93,5 +93,5 @@ Difference in EL matters more than difference in Level.*
 
 ---
 
-- [← Previous: Common Warrior Maneuvers](../roles/warrior-maneuvers.html)
-- [Next →: Sniper](../roles/sniper.html)
+- [← Previous: Common Warrior Maneuvers](../roles/warrior-maneuvers.md)
+- [Next →: Sniper](../roles/sniper.md)

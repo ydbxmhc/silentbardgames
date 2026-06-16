@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Beast Handler
+[Home](../index.md) › Roles › Beast Handler
 
 Outdoorsman Roles
 
@@ -65,9 +65,9 @@ As mentioned above, a Handler's companion beast is an extension of the character
 
 Companions aren't the only value for the Role, though. A racing jockey needs to understand and cajole his mount, not just teach it to run.
 
-→ See [A Beast Handler In Action](../action/beast-handler.html) for a full example of the Beast Handler Role in play.
+→ See [A Beast Handler In Action](../action/beast-handler.md) for a full example of the Beast Handler Role in play.
 
 ---
 
-- [← Previous: Naturalist](naturalist.html)
-- [Next →: Athlete](../roles/athlete.html)
+- [← Previous: Naturalist](naturalist.md)
+- [Next →: Athlete](../roles/athlete.md)

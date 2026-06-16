@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › Building a Character
+[Home](index.md) › Characters › Building a Character
 
 Characters
 
@@ -27,5 +27,5 @@ Before you spend any Karma, get an idea who the character is, what their *story*
 
 ---
 
-- [← Previous: Spending Karma](spending-karma.html)
-- [Next →: Hooks](hooks.html)
+- [← Previous: Spending Karma](spending-karma.md)
+- [Next →: Hooks](hooks.md)

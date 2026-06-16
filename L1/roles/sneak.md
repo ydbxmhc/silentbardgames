@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Sneak
+[Home](../index.md) › Roles › Sneak
 
 Social Roles
 
@@ -34,9 +34,9 @@ Sneak Maneuvers are anything that makes a character less conspicuous somehow:
 
 ---
 
-→ See [A Sneak In Action](../action/sneak.html) for a full example of the Sneak Role in play.
+→ See [A Sneak In Action](../action/sneak.md) for a full example of the Sneak Role in play.
 
 ---
 
-- [← Previous: Performer](performer.html)
-- [Next →: Naturalist](../roles/naturalist.html)
+- [← Previous: Performer](performer.md)
+- [Next →: Naturalist](../roles/naturalist.md)

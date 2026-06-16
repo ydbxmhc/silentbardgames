@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › A Beast Handler In Action
+[Home](../index.md) › Roles › A Beast Handler In Action
 
 Outdoorsman Roles
 
@@ -45,5 +45,5 @@ Six months later, Thornwick hasn't lost livestock to any predator, and no bandit
 
 ---
 
-- [← Previous: Beast Handler](../roles/beast-handler.html)
-- [Next →: Athlete](../roles/athlete.html)
+- [← Previous: Beast Handler](../roles/beast-handler.md)
+- [Next →: Athlete](../roles/athlete.md)

@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Recovery
+[Home](index.md) › Core Mechanics › Recovery
 
 Core Mechanics
 
@@ -20,5 +20,5 @@ Players may say they want the character to back out of the fight for a minute to
 
 ---
 
-- [← Previous: Feeling Down?](feeling-down.html)
-- [Next →: The Oddball Rule](oddball-rule.html)
+- [← Previous: Feeling Down?](feeling-down.md)
+- [Next →: The Oddball Rule](oddball-rule.md)

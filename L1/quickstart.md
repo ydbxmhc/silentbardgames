@@ -1,4 +1,4 @@
-[Home](index.html) › Quick Start
+[Home](index.md) › Quick Start
 
 Getting Started
 
@@ -84,5 +84,5 @@ At only Level 2 she's pretty green and weak, but she has more spine than some. S
 
 ---
 
-- [← Previous: The Core Loop](core-loop.html)
-- [Next →: Core Mechanics](core-mechanics.html)
+- [← Previous: The Core Loop](core-loop.md)
+- [Next →: Core Mechanics](core-mechanics.md)

@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Resistance and Opposition
+[Home](index.md) › Core Mechanics › Resistance and Opposition
 
 Core Mechanics
 
@@ -22,5 +22,5 @@ This absolutely means that on "your turn" the goblin can hurt you, but the impor
 
 ---
 
-- [← Previous: Dice & Tests](mechanics.html)
-- [Next →: Can I Try Again?](can-i-try-again.html)
+- [← Previous: Dice & Tests](mechanics.md)
+- [Next →: Can I Try Again?](can-i-try-again.md)

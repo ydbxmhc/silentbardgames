@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › A Loremaster In Action
+[Home](../index.md) › Roles › A Loremaster In Action
 
 Knowledge and Craft Roles
 
@@ -105,5 +105,5 @@ A matchmaker's work is never done — but in a small village, that work might ju
 
 ---
 
-- [← Previous: Loremaster](../roles/loremaster.html)
-- [Next →: Tinker](../roles/tinker.html)
+- [← Previous: Loremaster](../roles/loremaster.md)
+- [Next →: Tinker](../roles/tinker.md)

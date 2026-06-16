@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › An Adept In Action
+[Home](../index.md) › Roles › An Adept In Action
 
 Supernatural Roles
 
@@ -30,5 +30,5 @@ She sticks back her static-angry hair and snaps her fingers with a sparkling *po
 
 ---
 
-- [← Previous: Adept](../roles/adept.html)
-- [Next →: Spellweaver](../roles/spellweaver.html)
+- [← Previous: Adept](../roles/adept.md)
+- [Next →: Spellweaver](../roles/spellweaver.md)

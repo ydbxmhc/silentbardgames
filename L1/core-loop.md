@@ -1,4 +1,4 @@
-[Home](index.html) › The Core Loop
+[Home](index.md) › The Core Loop
 
 Getting Started
 
@@ -36,5 +36,5 @@ The relative EL of the opposition always defines the difficulty of the task, and
 
 ---
 
-- [← Previous: This is a Game?](start.html)
-- [Next →: Quick Start](quickstart.html)
+- [← Previous: This is a Game?](start.md)
+- [Next →: Quick Start](quickstart.md)

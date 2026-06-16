@@ -1,4 +1,4 @@
-[Home](index.html) › [Roles](roles.html) › The Nature of Roles
+[Home](index.md) › [Roles](roles.md) › The Nature of Roles
 
 Roles
 
@@ -16,5 +16,5 @@ They are also intentionally *limited*. Roles are *not* labels that hand you a li
 
 ---
 
-- [← Previous: Roles — What You Do Well](roles.html)
-- [Next →: Mechanical Function](mechanical-function.html)
+- [← Previous: Roles — What You Do Well](roles.md)
+- [Next →: Mechanical Function](mechanical-function.md)

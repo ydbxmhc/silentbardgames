@@ -1,4 +1,4 @@
-[Home](./index.html) › Magick!
+[Home](./index.md) › Magick!
 
 Magick!
 

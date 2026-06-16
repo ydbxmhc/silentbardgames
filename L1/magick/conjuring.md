@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Conjuring
+[Home](../index.md) › Magick! › Conjuring
 
 Magick!
 
@@ -124,5 +124,5 @@ Physical Manifestation is *difficult*. The physical form a spirit creates is typ
 
 ---
 
-- [← Previous: Spellcraft](spellcraft.html)
-- [Next →: Spell List](spells.html)
+- [← Previous: Spellcraft](spellcraft.md)
+- [Next →: Spell List](spells.md)

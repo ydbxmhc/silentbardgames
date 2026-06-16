@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Tinker
+[Home](../index.md) › Roles › Tinker
 
 Knowledge and Craft Roles
 
@@ -55,9 +55,9 @@ Tinkers rarely solve problems through brute force — instead, they apply levera
 >
 > **Creative Problem-Solving:** The best tinkers see connections others miss, applying principles from one field to solve problems in another. A locksmith's understanding of precision mechanisms might improve metallurgical processes.
 
-→ See [A Tinker In Action](../action/tinker.html) for a full example of the Tinker Role in play.
+→ See [A Tinker In Action](../action/tinker.md) for a full example of the Tinker Role in play.
 
 ---
 
-- [← Previous: Loremaster](loremaster.html)
-- [Next →: Adept](../roles/adept.html)
+- [← Previous: Loremaster](loremaster.md)
+- [Next →: Adept](../roles/adept.md)

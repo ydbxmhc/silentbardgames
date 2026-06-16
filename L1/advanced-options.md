@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Advanced Options
+[Home](index.md) › Core Mechanics › Advanced Options
 
 Core Mechanics
 
@@ -16,5 +16,5 @@ Core Mechanics
 
 ---
 
-- [← Previous: So…What Do I Roll?](what-do-i-roll.html)
-- [Next →: Gear](gear.html)
+- [← Previous: So…What Do I Roll?](what-do-i-roll.md)
+- [Next →: Gear](gear.md)

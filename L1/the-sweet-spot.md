@@ -1,4 +1,4 @@
-[Home](index.html) › [Roles](roles.html) › [Maneuvers](maneuvers.html) › The Sweet Spot
+[Home](index.md) › [Roles](roles.md) › [Maneuvers](maneuvers.md) › The Sweet Spot
 
 Roles
 
@@ -32,5 +32,5 @@ Maneuvers *can* be:
 
 ---
 
-- [← Previous: Maneuvers](maneuvers.html)
-- [Next →: Examples in Practice](examples-in-practice.html)
+- [← Previous: Maneuvers](maneuvers.md)
+- [Next →: Examples in Practice](examples-in-practice.md)

@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › [Hooks](hooks.html) › Self-Hooking and Table Courtesy
+[Home](index.md) › Characters › [Hooks](hooks.md) › Self-Hooking and Table Courtesy
 
 Characters
 
@@ -14,5 +14,5 @@ The goal is more interesting stories for everyone, not just more screen time for
 
 ---
 
-- [← Previous: Crafting Good Hooks](crafting-good-hooks.html)
-- [Next →: Common Pitfalls](common-pitfalls.html)
+- [← Previous: Crafting Good Hooks](crafting-good-hooks.md)
+- [Next →: Common Pitfalls](common-pitfalls.md)

@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Sniper
+[Home](../index.md) › [Roles](../roles.md) › Sniper
 
 Combat Roles
 
@@ -16,5 +16,5 @@ Obviously, Snipers get *excellent* synergy with *Sneak*, and work well with *War
 
 ---
 
-- [← Previous: A Warrior In Action](../action/warrior.html)
-- [Next →: Common Sniper Maneuvers](sniper-maneuvers.html)
+- [← Previous: A Warrior In Action](../action/warrior.md)
+- [Next →: Common Sniper Maneuvers](sniper-maneuvers.md)

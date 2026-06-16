@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Performer](../roles/performer.html) › A Performer In Action
+[Home](../index.md) › [Roles](../roles.md) › [Performer](../roles/performer.md) › A Performer In Action
 
 Social Roles
 
@@ -30,5 +30,5 @@ Perfect. His Lordship will never realize he was just expertly manipulated.
 
 ---
 
-- [← Previous: Advanced Applications](../roles/performer-advanced.html)
-- [Next →: Sneak](../roles/sneak.html)
+- [← Previous: Advanced Applications](../roles/performer-advanced.md)
+- [Next →: Sneak](../roles/sneak.md)

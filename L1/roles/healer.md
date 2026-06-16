@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Healer
+[Home](../index.md) › Roles › Healer
 
 Knowledge and Craft Roles
 
@@ -36,9 +36,9 @@ So that means they're not limited to bandages and bed rest - Healers can be mili
 - *Burns* - Specialized care for those subjected to extreme heat
 - *Social Care* - Bedside manner, helping emotional trauma
 
-→ See [A Healer In Action](../action/healer.html) for a full example of the Healer Role in play.
+→ See [A Healer In Action](../action/healer.md) for a full example of the Healer Role in play.
 
 ---
 
-- [← Previous: Athlete](../roles/athlete.html)
-- [Next →: Loremaster](loremaster.html)
+- [← Previous: Athlete](../roles/athlete.md)
+- [Next →: Loremaster](loremaster.md)

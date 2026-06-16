@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › A Naturalist In Action
+[Home](../index.md) › Roles › A Naturalist In Action
 
 Outdoorsman Roles
 
@@ -35,5 +35,5 @@ The merchants, initially frustrated by the "unnecessary" delays and detours, now
 
 ---
 
-- [← Previous: Naturalist](../roles/naturalist.html)
-- [Next →: Beast Handler](../roles/beast-handler.html)
+- [← Previous: Naturalist](../roles/naturalist.md)
+- [Next →: Beast Handler](../roles/beast-handler.md)

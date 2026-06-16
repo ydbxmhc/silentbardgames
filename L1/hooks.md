@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › Hooks
+[Home](index.md) › Characters › Hooks
 
 Characters
 
@@ -16,5 +16,5 @@ They **Generate Karma!** When Hooks complicate life, you get paid. The more dram
 
 ---
 
-- [← Previous: Building a Character](chargen.html)
-- [Next →: How They Work in Play](hooks-how-they-work.html)
+- [← Previous: Building a Character](chargen.md)
+- [Next →: How They Work in Play](hooks-how-they-work.md)

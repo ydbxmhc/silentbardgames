@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Athlete
+[Home](../index.md) › Roles › Athlete
 
 Outdoorsman Roles
 
@@ -34,9 +34,9 @@ The best Athletes make physical excellence a way of life. They find ways to achi
 
 ---
 
-→ See [An Athlete In Action](../action/athlete.html) for a full example of the Athlete Role in play.
+→ See [An Athlete In Action](../action/athlete.md) for a full example of the Athlete Role in play.
 
 ---
 
-- [← Previous: Beast Handler](beast-handler.html)
-- [Next →: Healer](../roles/healer.html)
+- [← Previous: Beast Handler](beast-handler.md)
+- [Next →: Healer](../roles/healer.md)

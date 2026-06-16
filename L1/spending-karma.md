@@ -1,4 +1,4 @@
-[Home](index.html) › [How Characters Improve](karma.html) › Spending Karma
+[Home](index.md) › [How Characters Improve](karma.md) › Spending Karma
 
 Core Mechanics
 
@@ -16,5 +16,5 @@ Sometimes it's good to have a little Karma on your side.
 
 ---
 
-- [← Previous: How Characters Improve](karma.html)
-- [Next →: Building a Character](chargen.html)
+- [← Previous: How Characters Improve](karma.md)
+- [Next →: Building a Character](chargen.md)

@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › An Athlete In Action
+[Home](../index.md) › Roles › An Athlete In Action
 
 Outdoorsman Roles
 
@@ -87,5 +87,5 @@ Korine accepts a cup of hot broth with hands that barely shake despite her exhau
 
 ---
 
-- [← Previous: Athlete](../roles/athlete.html)
-- [Next →: Healer](../roles/healer.html)
+- [← Previous: Athlete](../roles/athlete.md)
+- [Next →: Healer](../roles/healer.md)

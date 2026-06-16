@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Can I Try Again?
+[Home](index.md) › Core Mechanics › Can I Try Again?
 
 Core Mechanics
 
@@ -12,5 +12,5 @@ Without change, you'd just get the same result. The exception is when the GM tel
 
 ---
 
-- [← Previous: Resistance and Opposition](resistance-and-opposition.html)
-- [Next →: Accumulated Progress](accumulated-progress.html)
+- [← Previous: Resistance and Opposition](resistance-and-opposition.md)
+- [Next →: Accumulated Progress](accumulated-progress.md)

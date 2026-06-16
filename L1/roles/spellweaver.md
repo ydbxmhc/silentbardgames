@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Spellweaver
+[Home](../index.md) › [Roles](../roles.md) › Spellweaver
 
 Supernatural Roles
 
@@ -30,9 +30,9 @@ Spreading ranks across many spells provides versatility but reduces the potentia
 
 Spells persist according to their nature and *Trait* (see that section), and the needs and application of the caster. A *Light* typically continues glowing as long as the caster needs and maintains it, and vanishes when she allows it, but can be cast as *Persistent* to last throughout the scene without maintenance, and can even be duplicated with no ill effect so long as the caster still has the spell. *Fax Iacta* exemplifies versatility - once cast, the conjured flame can be held to serve as torch or thrown as a weapon. The same binding creates multiple problem-solving options through creative use rather than rigid definitions.
 
-→ See [A Spellweaver In Action](../action/spellweaver.html) for a full example of the Spellweaver Role in play.
+→ See [A Spellweaver In Action](../action/spellweaver.md) for a full example of the Spellweaver Role in play.
 
 ---
 
-- [← Previous: An Adept In Action](../action/adept.html)
-- [Next →: A Spellweaver In Action](action/spellweaver.html)
+- [← Previous: An Adept In Action](../action/adept.md)
+- [Next →: A Spellweaver In Action](action/spellweaver.md)

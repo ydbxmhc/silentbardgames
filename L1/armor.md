@@ -1,4 +1,4 @@
-[Home](index.html) › [Gear](gear.html) › Armor
+[Home](index.md) › [Gear](gear.md) › Armor
 
 Gear
 
@@ -14,5 +14,5 @@ After combat, if the GM grants a recovery roll for Complications (and they usual
 
 ---
 
-- [← Previous: What Gear Does](what-gear-does.html)
-- [Next →: Weapons](weapons.html)
+- [← Previous: What Gear Does](what-gear-does.md)
+- [Next →: Weapons](weapons.md)

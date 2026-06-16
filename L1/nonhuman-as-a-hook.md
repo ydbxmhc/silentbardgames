@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › [Nonhuman Characters](nonhuman.html) › Nonhuman As A Hook
+[Home](index.md) › Characters › [Nonhuman Characters](nonhuman.md) › Nonhuman As A Hook
 
 Characters
 
@@ -16,5 +16,5 @@ A Pixie with an Entangle spell or a rank of Adept(Pixie Magic) is perfectly reas
 
 ---
 
-- [← Previous: Nonhuman Characters](nonhuman.html)
-- [Next →: Roles](roles.html)
+- [← Previous: Nonhuman Characters](nonhuman.md)
+- [Next →: Roles](roles.md)

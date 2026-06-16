@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Actions and Timing
+[Home](index.md) › Core Mechanics › Actions and Timing
 
 Core Mechanics
 
@@ -30,7 +30,7 @@ Opposition to a Boost works the same way. If you think someone is studying your 
 
 ### Boosts With Duration
 
-For boosts that should last longer than the next action, use the [Wagering](wagered-actions.html) mechanic to dedicate persistent points - generally such fabricated Boosts last the rest of the scene, though the GM may rule that it goes away sooner, or lasts longer, as appropriate.
+For boosts that should last longer than the next action, use the [Wagering](wagered-actions.md) mechanic to dedicate persistent points - generally such fabricated Boosts last the rest of the scene, though the GM may rule that it goes away sooner, or lasts longer, as appropriate.
 
 ### Free Action Access to Pre-existing Boosts
 
@@ -38,5 +38,5 @@ Sometimes there's already something available in the scene that would help an ac
 
 ---
 
-- [← Previous: Accumulated Progress](accumulated-progress.html)
-- [Next →: Resistance](resistance.html)
+- [← Previous: Accumulated Progress](accumulated-progress.md)
+- [Next →: Resistance](resistance.md)

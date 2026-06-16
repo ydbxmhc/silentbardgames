@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › A Sneak In Action
+[Home](../index.md) › Roles › A Sneak In Action
 
 Social Roles
 
@@ -24,5 +24,5 @@ He thanks her and sips as she flirts up the baroness across the room for several
 
 ---
 
-- [← Previous: Sneak](../roles/sneak.html)
-- [Next →: Naturalist](../roles/naturalist.html)
+- [← Previous: Sneak](../roles/sneak.md)
+- [Next →: Naturalist](../roles/naturalist.md)

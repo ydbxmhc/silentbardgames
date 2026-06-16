@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Loremaster
+[Home](../index.md) › Roles › Loremaster
 
 Knowledge and Craft Roles
 
@@ -57,9 +57,9 @@ Different Loremasters focus their scholarly attention in various ways. They cert
 >
 > **Cultural Mediation:** Knowledge of different customs and belief systems allows loremasters to bridge gaps between groups, translating not just languages but entire ways of understanding the world to facilitate understanding and cooperation.
 
-→ See [A Loremaster In Action](../action/loremaster.html) for a full example of the Loremaster Role in play.
+→ See [A Loremaster In Action](../action/loremaster.md) for a full example of the Loremaster Role in play.
 
 ---
 
-- [← Previous: Healer](healer.html)
-- [Next →: Tinker](tinker.html)
+- [← Previous: Healer](healer.md)
+- [Next →: Tinker](tinker.md)

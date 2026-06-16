@@ -1,4 +1,4 @@
-[Home](index.html) › [Roles](roles.html) › [Maneuvers](maneuvers.html) › Examples in Practice
+[Home](index.md) › [Roles](roles.md) › [Maneuvers](maneuvers.md) › Examples in Practice
 
 Roles
 
@@ -12,5 +12,5 @@ Maneuvers are how you customize a Role to match your character concept. Want you
 
 ---
 
-- [← Previous: The Sweet Spot](the-sweet-spot.html)
-- [Next →: Role Synergy](role-synergy.html)
+- [← Previous: The Sweet Spot](the-sweet-spot.md)
+- [Next →: Role Synergy](role-synergy.md)

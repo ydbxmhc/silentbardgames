@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Accumulated Progress
+[Home](index.md) › Core Mechanics › Accumulated Progress
 
 Core Mechanics
 
@@ -22,5 +22,5 @@ In a rooftop chase where you must leap an alley, a single roll trivializes a jum
 
 ---
 
-- [← Previous: Can I Try Again?](can-i-try-again.html)
-- [Next →: Actions and Timing](actions-and-timing.html)
+- [← Previous: Can I Try Again?](can-i-try-again.md)
+- [Next →: Actions and Timing](actions-and-timing.md)

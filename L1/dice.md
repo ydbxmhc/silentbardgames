@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Picking Your Dice
+[Home](index.md) › Core Mechanics › Picking Your Dice
 
 Core Mechanics
 
@@ -12,7 +12,7 @@ Perfect for groups who want fast resolution and love throwing lots of dice!
 
 Use any dice you want as long as it has an even distribution of even/odd numbers. Roll dice equal to your EL and count the odd numbers. That’s it! At EL 8, grab eight dice (or eight coins) and let them fly. This is a great option if you don’t have zero-base dice, because it doesn’t matter what the actual numbers are. Just count the dice that roll odd numbers and you’re done.
 
-*Extra Effort:* If you want to try for better odds of a higher value, just add a few *extra effort* dice. You decide how many! The more you roll this way, the better the odds of getting a result closer to half the number of dice, but now you’ve introduced the possibility of rolling higher than your EL, which always completely fails with a total effect of zero. This is a risk/reward decision that you totally control. The benefit is finer control of your rolls; the cost is the chance of total failure, and loss of potential critical successes – see [Extreme Results](extreme-results.html).
+*Extra Effort:* If you want to try for better odds of a higher value, just add a few *extra effort* dice. You decide how many! The more you roll this way, the better the odds of getting a result closer to half the number of dice, but now you’ve introduced the possibility of rolling higher than your EL, which always completely fails with a total effect of zero. This is a risk/reward decision that you totally control. The benefit is finer control of your rolls; the cost is the chance of total failure, and loss of potential critical successes – see [Extreme Results](extreme-results.md).
 
 ## A Closer Look
 
@@ -60,5 +60,5 @@ Just figure out your EL and the opposition, and assume that’s what you each ro
 
 ---
 
-- [← Previous: Luck Tokens](luck.html)
-- [Next →: Extreme Results](extreme-results.html)
+- [← Previous: Luck Tokens](luck.md)
+- [Next →: Extreme Results](extreme-results.md)

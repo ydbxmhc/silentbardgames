@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Dice & Tests
+[Home](index.md) › Core Mechanics › Dice & Tests
 
 Core Mechanics
 
@@ -20,5 +20,5 @@ Think of it this way: even at EL1 you can roll one even/odd die for a 50% chance
 
 ---
 
-- [← Previous: Core Mechanics](core-mechanics.html)
-- [Next →: Resistance and Opposition](resistance-and-opposition.html)
+- [← Previous: Core Mechanics](core-mechanics.md)
+- [Next →: Resistance and Opposition](resistance-and-opposition.md)

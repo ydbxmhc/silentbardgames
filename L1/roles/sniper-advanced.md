@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Sniper](sniper.html) › Advanced Applications
+[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Advanced Applications
 
 Combat Roles
 
@@ -26,5 +26,5 @@ The threat of an unseen sniper changes battlefield dynamics. Smart snipers lever
 
 ---
 
-- [← Previous: Common Sniper Maneuvers](sniper-maneuvers.html)
-- [Next →: A Sniper In Action](../action/sniper.html)
+- [← Previous: Common Sniper Maneuvers](sniper-maneuvers.md)
+- [Next →: A Sniper In Action](../action/sniper.md)

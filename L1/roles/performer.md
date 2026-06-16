@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Performer
+[Home](../index.md) › [Roles](../roles.md) › Performer
 
 Roles
 
@@ -18,5 +18,5 @@ They don't all have to be flashy entertainers — a Performer might be a subtle 
 
 ---
 
-- [← Previous: A Sniper In Action](../action/sniper.html)
-- [Next →: Common Performer Maneuvers](performer-maneuvers.html)
+- [← Previous: A Sniper In Action](../action/sniper.md)
+- [Next →: Common Performer Maneuvers](performer-maneuvers.md)

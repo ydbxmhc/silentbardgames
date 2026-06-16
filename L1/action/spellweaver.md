@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › A Spellweaver In Action
+[Home](../index.md) › [Roles](../roles.md) › A Spellweaver In Action
 
 Supernatural Roles
 
@@ -69,5 +69,5 @@ The goblins squeal and turn to flee. Berlis quickly throws a Light into that hal
 
 ---
 
-- [← Previous: Spellweaver](../roles/spellweaver.html)
-- [Next →: Conjuror](../roles/conjuror.html)
+- [← Previous: Spellweaver](../roles/spellweaver.md)
+- [Next →: Conjuror](../roles/conjuror.md)

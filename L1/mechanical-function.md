@@ -1,4 +1,4 @@
-[Home](index.html) › [Roles](roles.html) › Mechanical Function
+[Home](index.md) › [Roles](roles.md) › Mechanical Function
 
 Roles
 
@@ -14,5 +14,5 @@ Within a Role you can learn relevant skills to improve your use of Role-specific
 
 ---
 
-- [← Previous: The Nature of Roles](the-nature-of-roles.html)
-- [Next →: Maneuvers](maneuvers.html)
+- [← Previous: The Nature of Roles](the-nature-of-roles.md)
+- [Next →: Maneuvers](maneuvers.md)

@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Spell List
+[Home](../index.md) › Magick! › Spell List
 
 Magick!
 
@@ -138,5 +138,5 @@ This spell requires a series of rolls to seek the target in Astral space. The ca
 
 ---
 
-- [](conjuring.html)
-- [](beyond.html)
+- [](conjuring.md)
+- [](beyond.md)

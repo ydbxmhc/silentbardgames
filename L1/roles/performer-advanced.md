@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Performer](performer.html) › Advanced Applications
+[Home](../index.md) › [Roles](../roles.md) › [Performer](performer.md) › Advanced Applications
 
 Social Roles
 
@@ -10,5 +10,5 @@ Looking to sing for their supper at the local tavern? Before they walk into the 
 
 ---
 
-- [← Previous: Common Performer Maneuvers](performer-maneuvers.html)
-- [Next →: A Performer In Action](../action/performer.html)
+- [← Previous: Common Performer Maneuvers](performer-maneuvers.md)
+- [Next →: A Performer In Action](../action/performer.md)

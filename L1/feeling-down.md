@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Feeling Down?
+[Home](index.md) › Core Mechanics › Feeling Down?
 
 Core Mechanics
 
@@ -18,5 +18,5 @@ Yes, this means positive EL in ANY Role counts toward staying awake enough to at
 
 ---
 
-- [← Previous: Three Types of Harm](types-of-harm.html)
-- [Next →: Recovery](recovery.html)
+- [← Previous: Three Types of Harm](types-of-harm.md)
+- [Next →: Recovery](recovery.md)

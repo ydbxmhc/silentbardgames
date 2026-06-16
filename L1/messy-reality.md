@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › The Messy Reality
+[Home](index.md) › Core Mechanics › The Messy Reality
 
 Core Mechanics
 
@@ -12,9 +12,9 @@ Smart GMs call for a recovery roll soon after a conflict, once characters have h
 
 This means it's better to describe Harm as "stunned and bleeding" rather than "gaping chest wound." Let the post-fight recovery roll reveal how much was just shock and how much was real damage. Again, you can tune your game by deciding whether to include Harm penalties in this roll; for new damage, the default is to assume it's all Injury until you know otherwise, but if you want your heroes to *walk it off* more easily, don't include unclassified Harm.
 
-If it doesn't make sense for an Injury to impede the character for ongoing rolls, perhaps it should have been treated as *explicit* Complication, but instead of designating it as Injury, the GM may also convert it to a temporary [Hook](hooks.html). This allows it to be applied thematically, to alter the character's motivations, but to be normally Recoverable.
+If it doesn't make sense for an Injury to impede the character for ongoing rolls, perhaps it should have been treated as *explicit* Complication, but instead of designating it as Injury, the GM may also convert it to a temporary [Hook](hooks.md). This allows it to be applied thematically, to alter the character's motivations, but to be normally Recoverable.
 
 ---
 
-- [← Previous: The Oddball Rule](oddball-rule.html)
-- [Next →: So…What Do I Roll?](what-do-i-roll.html)
+- [← Previous: The Oddball Rule](oddball-rule.md)
+- [Next →: So…What Do I Roll?](what-do-i-roll.md)

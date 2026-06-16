@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Multiple Actions
+[Home](index.md) › Core Mechanics › Multiple Actions
 
 Core Mechanics
 
@@ -31,5 +31,5 @@ A PC has Performer EL10 and Warrior EL20. She assigns 8 points to rally her gang
 
 ---
 
-- [← Previous: Resistance](resistance.html)
-- [Next →: Wagered Actions](wagered-actions.html)
+- [← Previous: Resistance](resistance.md)
+- [Next →: Wagered Actions](wagered-actions.md)

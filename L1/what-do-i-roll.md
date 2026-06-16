@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › So…What Do I Roll?
+[Home](index.md) › Core Mechanics › So…What Do I Roll?
 
 Core Mechanics
 
@@ -12,5 +12,5 @@ GMs who want a harsher game can include active Complications. For a lighter game
 
 ---
 
-- [← Previous: The Messy Reality](messy-reality.html)
-- [Next →: Advanced Options](advanced-options.html)
+- [← Previous: The Messy Reality](messy-reality.md)
+- [Next →: Advanced Options](advanced-options.md)

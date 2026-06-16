@@ -1,4 +1,4 @@
-[Home](index.html) › [Gear](gear.html) › What Gear Does
+[Home](index.md) › [Gear](gear.md) › What Gear Does
 
 Gear
 
@@ -8,7 +8,7 @@ Gear
 
 **Provides Mechanical Benefits** - Gear can amplify existing skills, but avoid the trap of flat numeric bonuses. A knife doesn't make someone a better fighter - training makes better fighters. Focus on gear as a vehicle for skill, where ranks in weapon or armor type Maneuvers add to relevant rolls. A warrior trained with swords applies those Maneuver ranks when using one - and not just fighting, but any time it reasonably applies. A heavy weapon will slow a PC in a chase, but familiarity helps!
 
-Weapons also have sharp points and edges, add leverage, and can change the type of harm done. Some gear might have unique [*Traits*](traits.html) that can bend the rules, but that will usually be special items, not just mundane gear. An unbreakable sword, silent boots, or a ring of invisibility change the narrative, which is always more powerful than just adding numbers.
+Weapons also have sharp points and edges, add leverage, and can change the type of harm done. Some gear might have unique [*Traits*](traits.md) that can bend the rules, but that will usually be special items, not just mundane gear. An unbreakable sword, silent boots, or a ring of invisibility change the narrative, which is always more powerful than just adding numbers.
 
 **Creates More Narrative!** - Gear often comes with built-in drawbacks or "Snags" that generate story complications. Like Plot Hooks, these limitations can sometimes work in your favor - but they don't provide Karma.
 
@@ -20,5 +20,5 @@ Don't swim in chainmail or attempt delicate calligraphy in plate gauntlets. Heav
 
 ---
 
-- [← Previous: Gear](gear.html)
-- [Next →: Armor](armor.html)
+- [← Previous: Gear](gear.md)
+- [Next →: Armor](armor.md)

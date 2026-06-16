@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Gear
+[Home](index.md) › Core Mechanics › Gear
 
 Core Mechanics
 
@@ -12,5 +12,5 @@ Keep inventory simple. Characters are competent people who pack what they need f
 
 ---
 
-- [← Previous: Advanced Options](advanced-options.html)
-- [Next →: What Gear Does](what-gear-does.html)
+- [← Previous: Advanced Options](advanced-options.md)
+- [Next →: What Gear Does](what-gear-does.md)

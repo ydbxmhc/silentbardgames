@@ -1,4 +1,4 @@
-[Home](../index.html) › Roles › Naturalist
+[Home](../index.md) › Roles › Naturalist
 
 Outdoorsman Roles
 
@@ -43,9 +43,9 @@ Naturalists are good at wilderness survival: finding food and shelter, predictin
 
 ---
 
-→ See [A Naturalist In Action](../action/naturalist.html) for a full example of the Naturalist Role in play.
+→ See [A Naturalist In Action](../action/naturalist.md) for a full example of the Naturalist Role in play.
 
 ---
 
-- [← Previous: Sneak](../roles/sneak.html)
-- [Next →: Beast Handler](beast-handler.html)
+- [← Previous: Sneak](../roles/sneak.md)
+- [Next →: Beast Handler](beast-handler.md)
