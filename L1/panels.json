@@ -1,0 +1,16 @@
+{
+  "defaults": { "left": "toc", "right": "random" },
+  "art": [
+    "reader.png",
+    "corner-dice.jpg",
+    "Raven_and_Toad-BW.jpg",
+    "cover-fullBox.png"
+  ],
+  "sources": [
+    { "id": "toc",      "label": "Table of Contents", "kind": "fragment", "src": "toc.html",      "extract": "ul.toc",          "rewrite": true },
+    { "id": "settings", "label": "Display Settings",  "kind": "fragment", "src": "settings.html", "extract": ".settings-group", "wire": "settings" },
+    { "id": "itch",     "label": "Get the PDF",       "kind": "fragment", "src": "panels/itch.html",        "promo": true },
+    { "id": "ks",       "label": "Kickstarter",       "kind": "fragment", "src": "panels/kickstarter.html", "promo": true },
+    { "id": "random",   "label": "Art",               "kind": "random",                                    "promo": true }
+  ]
+}

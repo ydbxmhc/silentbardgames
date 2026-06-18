@@ -127,4 +127,12 @@
     if (e.key === 'Escape' && drawer && drawer.classList.contains('open')) closeDrawer();
   });
 
+  /* ---- Load the gutter-rails enhancement (side panels). It self-checks for a
+         .content-wrap, so it no-ops on the cover and on fragment pages. ---- */
+  (function loadRails() {
+    const s = document.createElement('script');
+    s.src = '/resources/rails.js';
+    document.body.appendChild(s);
+  })();
+
 })();

@@ -1,1 +1,0 @@
-silentbardgames.com OneSRD System Reference Documents by The Silent Bard [ Fantasy RPG Level One No classes. Any dice. Stories first. ](/L1/) Sci-Fi RPG Future Title Coming when it's done. © The Silent Bard · [silentbardgames.com](https://silentbardgames.com)

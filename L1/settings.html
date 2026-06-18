@@ -60,6 +60,19 @@
         </p>
       </div>
 
+      <div class="settings-group">
+        <h2>Side Panels</h2>
+        <label>
+          <input type="checkbox" id="pref-rails">
+          Show side panels when the window is wide enough
+        </label>
+        <p style="margin:0.5rem 0 0.75rem; font-size:var(--size-small); color:var(--ink-light);">
+          Panels (table of contents, art, and more) appear in the empty margins on wider screens.
+        </p>
+        <label><input type="radio" name="railside" value="left"> When only one fits, keep it on the left</label>
+        <label><input type="radio" name="railside" value="right"> When only one fits, keep it on the right</label>
+      </div>
+
       <div class="settings-actions">
         <button class="btn btn-primary" id="save-btn">Save Settings</button>
         <button class="btn btn-secondary" id="reset-btn">Reset to Defaults</button>
@@ -93,6 +106,11 @@
       document.getElementById('pref-reducemotion').checked =
         (L1Prefs.get('reducemotion') === 'on');
 
+      // Side panels
+      document.getElementById('pref-rails').checked = (L1Prefs.get('rails') === 'on');
+      const railSideRadio = document.querySelector(`input[name="railside"][value="${L1Prefs.get('railside')}"]`);
+      if (railSideRadio) railSideRadio.checked = true;
+
       /* ---- Live preview as user changes controls ---- */
       document.querySelectorAll('input[name="theme"]').forEach(r => {
         r.addEventListener('change', () => L1Prefs._apply('theme', r.value));
@@ -105,6 +123,12 @@
       });
       document.getElementById('pref-reducemotion').addEventListener('change', e => {
         L1Prefs._apply('reducemotion', e.target.checked ? 'on' : 'off');
+      });
+      document.getElementById('pref-rails').addEventListener('change', e => {
+        L1Prefs._apply('rails', e.target.checked ? 'on' : 'off');
+      });
+      document.querySelectorAll('input[name="railside"]').forEach(r => {
+        r.addEventListener('change', () => L1Prefs._apply('railside', r.value));
       });
 
       /* ---- Save button ---- */
@@ -120,6 +144,11 @@
 
         L1Prefs.set('reducemotion',
           document.getElementById('pref-reducemotion').checked ? 'on' : 'off');
+
+        L1Prefs.set('rails',
+          document.getElementById('pref-rails').checked ? 'on' : 'off');
+        const checkedSide = document.querySelector('input[name="railside"]:checked');
+        if (checkedSide) L1Prefs.set('railside', checkedSide.value);
 
         const msg = document.getElementById('saved-msg');
         msg.classList.add('visible');
@@ -137,6 +166,9 @@
         const defSize = document.querySelector('input[name="fontsize"][value="normal"]');
         if (defSize) defSize.checked = true;
         document.getElementById('pref-reducemotion').checked = false;
+        document.getElementById('pref-rails').checked = true;
+        const defSide = document.querySelector('input[name="railside"][value="left"]');
+        if (defSide) defSide.checked = true;
 
         const msg = document.getElementById('saved-msg');
         msg.textContent = 'Settings reset to defaults.';

@@ -336,3 +336,104 @@ p.epigraph {
   font-style: italic;
   text-align: right;
 }
+
+/* ============================================================
+   GUTTER RAILS (side panels) — injected by /resources/rails.js
+   Three-state layout: 0 = single column, 1 = one panel (column
+   shifts), 2 = a panel on each side. TOC + Settings panels reuse
+   the existing .toc / .settings-group styles.
+   ============================================================ */
+:root {
+  --rail-w:   240px;   /* MIN rail width; sets the breakpoints below */
+  --rail-gap: 2rem;    /* gap between column and panel */
+  --card-max: 340px;   /* cap for card-style content (art / promo) */
+}
+
+.rail { display: none; }
+.reading-layout[data-rails="off"] .rail { display: none !important; }
+.rail-inner { position: sticky; top: calc(var(--header-h) + 1rem); }
+.rail figure { margin: 0; }
+
+.rail-art {
+  width: 100%; max-width: var(--card-max); height: auto;
+  display: block; margin: 0 auto;
+  border: 1px solid var(--rule); box-shadow: var(--shadow-md);
+}
+.rail-cap {
+  font-size: var(--size-small); font-style: italic; color: var(--ink-light);
+  text-align: center; margin-top: 0.5rem;
+}
+
+.rail-controls { display: flex; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem; }
+.rail-controls button {
+  width: 1.8rem; height: 1.8rem; line-height: 1;
+  display: flex; align-items: center; justify-content: center;
+  background: none; border: 1px solid var(--rule); border-radius: 4px;
+  color: var(--ink-mid); cursor: pointer; font-family: var(--font-body); font-size: 1rem;
+  transition: border-color var(--transition), color var(--transition), background var(--transition);
+}
+.rail-controls button:hover { border-color: var(--accent); color: var(--accent); }
+.rail-controls .rc-pin.pinned { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+.rail[data-open="true"]  .rc-open { display: none; }
+.rail[data-open="false"] .rc-pin,
+.rail[data-open="false"] .rc-prev,
+.rail[data-open="false"] .rc-next,
+.rail[data-open="false"] .rc-close { display: none; }
+.rail[data-open="false"] figure { display: none; }
+.rail[data-open="false"] .rail-controls { justify-content: flex-start; }
+
+.rail-host {
+  max-width: var(--card-max); margin-inline: auto;
+  border: 1px solid var(--rule); border-radius: 2px; background: rgba(0,0,0,0.02);
+  overflow: hidden;
+}
+/* TOC fills the rail and scrolls within it; drop the card chrome */
+.rail-host.rail-wide {
+  max-width: none; border: 0; background: none;
+  max-height: calc(100vh - var(--header-h) - 3rem); overflow: auto;
+}
+.rail-host .toc { margin: 0; font-size: 0.9rem; }
+.rail-host .settings-group { margin: 0 0 1rem; padding: 0.9rem 1rem; }
+.rail-host .settings-group:last-child { margin-bottom: 0; }
+.rail-loading { padding: 2rem 1rem; text-align: center; color: var(--ink-light); font-style: italic; }
+.rail-error { padding: 1rem; font-size: var(--size-small); color: var(--ink-mid); border: 1px dashed var(--rule); }
+
+/* Promo mini-page */
+.rail .promo { padding: 1rem 0.9rem; text-align: center; }
+.rail .promo .kicker { font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-light); }
+.rail .promo h1 { font-size: 1.15rem; color: var(--accent); font-style: italic; margin: 0.3rem 0 0.5rem; }
+.rail .promo h1::after { display: none; }
+.rail .promo p { font-size: 0.85rem; color: var(--ink-mid); margin-bottom: 0.9rem; }
+.rail .promo .cover { width: 100%; height: auto; display: block; border: 1px solid var(--rule); margin-bottom: 0.8rem; }
+.rail .promo .promo-btn {
+  display: inline-block; padding: 0.45rem 1.05rem; font-size: 0.9rem;
+  background: var(--accent); color: var(--bg); text-decoration: none; border-radius: 3px;
+}
+.rail .promo .promo-btn:hover { background: var(--accent-light); color: var(--bg); }
+
+/* ---- STATE 1: one panel (~1060-1339px); rail fills the open margin ---- */
+@media (min-width: 1060px) and (max-width: 1339.98px) {
+  .reading-layout[data-rails="on"][data-side="right"] {
+    display: grid; align-items: stretch; column-gap: var(--rail-gap);
+    grid-template-columns: var(--content-max) 1fr; padding-inline: 1.5rem;
+  }
+  .reading-layout[data-rails="on"][data-side="right"] .content-wrap { margin: 0; }
+  .reading-layout[data-rails="on"][data-side="right"] .rail-right { display: block; }
+
+  .reading-layout[data-rails="on"][data-side="left"] {
+    display: grid; align-items: stretch; column-gap: var(--rail-gap);
+    grid-template-columns: 1fr var(--content-max); padding-inline: 1.5rem;
+  }
+  .reading-layout[data-rails="on"][data-side="left"] .content-wrap { margin: 0; }
+  .reading-layout[data-rails="on"][data-side="left"] .rail-left { display: block; }
+}
+
+/* ---- STATE 2: two panels (>=1340px); each rail fills its gutter ---- */
+@media (min-width: 1340px) {
+  .reading-layout[data-rails="on"] {
+    display: grid; align-items: stretch; column-gap: var(--rail-gap);
+    grid-template-columns: 1fr var(--content-max) 1fr; padding-inline: 1.5rem;
+  }
+  .reading-layout[data-rails="on"] .content-wrap { margin: 0; grid-column: 2; }
+  .reading-layout[data-rails="on"] .rail { display: block; }
+}

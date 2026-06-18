@@ -53,6 +53,8 @@ const L1Prefs = {
     fontsize:     'normal',
     navbg:        'on',
     reducemotion: 'off',
+    rails:        'on',
+    railside:     'left',
   },
 
   /* Read one preference (falls back to default if not set). */
