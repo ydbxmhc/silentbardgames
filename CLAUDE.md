@@ -243,3 +243,24 @@ If you are ever unsure whether you're allowed to write something that isn't
 directly on the page in front of you, the answer is no. Read the image, copy the
 words, ask if anything is unclear.
 
+---
+
+## Open items / deferred work
+
+These are known gaps to revisit — do NOT silently fix them; ask the author first.
+
+### Content pages awaiting author revision
+- **`roles/beast-handler.html`** (and maneuvers + in-action pages): PDF draft is
+  too dense/wrong; the author intends to rewrite the Beast Handler section before
+  these pages can be properly transcribed. Current stub pages are placeholders.
+- **`roles/naturalist.html`**: Several sections were "glossed over" in the current
+  PDF draft. The author needs to add content before those sections can be filled in.
+
+### Side-panel / rails follow-ups
+- **Real promo URLs**: `L1/panels/itch.html` and `L1/panels/kickstarter.html` both
+  use placeholder hrefs. Replace with the real itch.io and Kickstarter campaign URLs
+  when they are live.
+- **Suppress rails on meta-pages**: `toc.html` and `settings.html` currently show
+  the side panels (TOC beside the TOC, etc.). Suppress with a `body[data-no-rails]`
+  check in `rails.js` if desired — harmless for now.
+
