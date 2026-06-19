@@ -10,7 +10,7 @@ Knowledge and Craft Roles
 
 ***"Fine, then!"***
 
-The workshop doors slammed simultaneously from opposite ends of the long stone chamber, leaving the space eerily quiet except for the steady *drip… drip… drip* of Sigmont's malfunctioning apparatus. The younger duergar brother glared at the traitorous contraption, his beard bristling with frustrated rage.
+The workshop doors slammed simultaneously from opposite ends of the long stone chamber, leaving the space eerily quiet except for the steady *drip… drip… drip* of Sigmont's malfunctioning apparatus. The younger duer brother glared at the traitorous contraption, his beard bristling with frustrated rage.
 
 Six months of work, and still the cursed thing leaked at the worst possible moments. The distillation process required perfect sealing — even the tiniest air gap could ruin the entire batch. And he was so close! The theoretical work was sound, the materials properly prepared, but every time he reached the critical stage…
 
@@ -26,7 +26,7 @@ Olberict approached the apparatus with professional interest. "Sloppy work," he 
 
 ## Sigmont's Dream
 
-Sigmont Ironwright (Level 3, Tinker 3, Performer 1) had spent years studying the weaknesses of the fae courts, developing what he believed would be the perfect tool for duergar diplomacy — a distilled essence so pure and intoxicating that even the proudest sidhe lord couldn't resist its allure.
+Sigmont Ironwright (Level 3, Tinker 3, Performer 1) had spent years studying the weaknesses of the fae courts, developing what he believed would be the perfect tool for duer diplomacy — a distilled essence so pure and intoxicating that even the proudest sidhe lord couldn't resist its allure.
 
 > **Tinker Maneuvers:**
 > *Alchemy* 3 — Distillation, purification, and understanding of chemical properties
@@ -44,7 +44,7 @@ Sigmont Ironwright (Level 3, Tinker 3, Performer 1) had spent years studying the
 
 ## Olberict's Problem
 
-Olberict Ironwright (Level 3, Tinker 3, Warrior 1) had his own obsession — creating a portable stone-breaking device that didn't require external power. Duergar mining operations too often depended on water wheels, limiting where they could work, or picks and carts that slowed the harvest.
+Olberict Ironwright (Level 3, Tinker 3, Warrior 1) had his own obsession — creating a portable stone-breaking device that didn't require external power. Duer mining operations too often depended on water wheels, limiting where they could work, or picks and carts that slowed the harvest.
 
 > **Tinker Maneuvers:**
 > *Engineering* 3 — Mechanical systems, pressure dynamics, and structural design
