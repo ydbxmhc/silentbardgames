@@ -32,7 +32,7 @@
 
 **Knowledge & Craft**
 
-[Healer](roles/healer.html) [A Healer In Action](action/healer.html) [Loremaster](roles/loremaster.html) [A Loremaster In Action](action/loremaster.html) [Tinker](roles/tinker.html)
+[Healer](roles/healer.html) [A Healer In Action](action/healer.html) [Loremaster](roles/loremaster.html) [A Loremaster In Action](action/loremaster.html) [Tinker](roles/tinker.html) [Tinkers In Action](action/tinker.html)
 
 **Supernatural**
 
