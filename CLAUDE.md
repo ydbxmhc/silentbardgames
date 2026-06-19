@@ -1,4 +1,4 @@
-# CLAUDE.md — Steering file for SilentBardGames / OneSRD repo
+# CLAUDE.md -- Steering file for SilentBardGames / OneSRD repo
 
 This file contains standing instructions for any Claude session working in this repository.
 Read it before doing anything else. These rules are non-negotiable.
@@ -13,12 +13,12 @@ Read it before doing anything else. These rules are non-negotiable.
   is directly relevant to the output you are capturing.
 - Before assuming "file not found," check whether an error was actually logged.
 - `stderr.log` is not tracked by git and may not exist; create it with `touch` if needed,
-  but note the sandbox may not be able to create files in the repo root — use
+  but note the sandbox may not be able to create files in the repo root -- use
   `/sessions/.../mnt/outputs/stderr.log` as a fallback.
 
 ---
 
-## Content integrity — THE PRIME DIRECTIVE
+## Content integrity -- THE PRIME DIRECTIVE
 
 This is an SRD (System Reference Document) for a published TTRPG rulebook.
 **Do not rewrite, rephrase, "improve," or editorialize any rulebook content. Ever.**
@@ -30,7 +30,7 @@ Your job here is FORMATTING and STRUCTURE only:
 - Page organization to match the source PDF
 
 If you find yourself changing a word the author wrote, **stop and ask.**
-The PDF is the source of truth. The HTML must match it — not improve on it.
+The PDF is the source of truth. The HTML must match it -- not improve on it.
 
 ---
 
@@ -44,27 +44,27 @@ The PDF is the source of truth. The HTML must match it — not improve on it.
 
 ---
 
-## Repository structure — OneSRD multi-game platform
+## Repository structure -- OneSRD multi-game platform
 
 This is not a single-game site. It hosts multiple games under one domain.
 
 ```
-/                          ← Root: OneSRD dispatch page (index.html only)
+/                          <-- Root: OneSRD dispatch page (index.html only)
 /resources/
-  onesrd.css               ← Shared structural CSS (all games load this first)
-  nav.js                   ← Shared nav/header injection script
-/L1/                       ← Level One RPG (game subfolder)
-  index.html               ← L1 home page
-  config.js                ← L1 config: BASE_PATH='/L1/', CDN, L1Prefs
-  style.css                ← L1 theme CSS (overrides onesrd.css vars)
-  header.html              ← L1 header inner content (injected by nav.js)
-  nav.html                 ← L1 drawer nav (injected by nav.js)
-  settings.html            ← User preference page
-  *.html                   ← All L1 rules pages
-  roles/                   ← Role rules pages
-  action/                  ← Narrative "In Action" vignette pages
-  magick/                  ← Magic system pages
-/[future-game]/            ← Future games follow the same pattern as /L1/
+  onesrd.css               <-- Shared structural CSS (all games load this first)
+  nav.js                   <-- Shared nav/header injection script
+/L1/                       <-- Level One RPG (game subfolder)
+  index.html               <-- L1 home page
+  config.js                <-- L1 config: BASE_PATH='/L1/', CDN, L1Prefs
+  style.css                <-- L1 theme CSS (overrides onesrd.css vars)
+  header.html              <-- L1 header inner content (injected by nav.js)
+  nav.html                 <-- L1 drawer nav (injected by nav.js)
+  settings.html            <-- User preference page
+  *.html                   <-- All L1 rules pages
+  roles/                   <-- Role rules pages
+  action/                  <-- Narrative "In Action" vignette pages
+  magick/                  <-- Magic system pages
+/[future-game]/            <-- Future games follow the same pattern as /L1/
 ```
 
 ### CSS load order (every L1 page)
@@ -87,22 +87,22 @@ Do not modify `nav.js` or `config.js` without explicit instruction.
 Links in `/L1/nav.html` use **game-relative paths** (no leading slash):
   `start.html`, `roles/warrior.html`, `magick/spells.html`
 `nav.js` rewrites these to absolute paths by prepending `BASE_PATH`.
-Do **not** add leading slashes to nav links — they will not be rewritten.
+Do **not** add leading slashes to nav links -- they will not be rewritten.
 
 ### header.html
-Contains only the inner elements of `<header id="site-header">` — no wrapping tag.
+Contains only the inner elements of `<header id="site-header">` -- no wrapping tag.
 The home link uses an absolute path: `/L1/index.html`.
 
 ---
 
-## Key files — do not modify without explicit instruction
+## Key files -- do not modify without explicit instruction
 
-- `/resources/onesrd.css` — shared structural styles
-- `/resources/nav.js` — shared nav loader
-- `/L1/config.js` — game config and user preferences
-- `/L1/nav.html` — single source of truth for L1 drawer nav
-- `/L1/header.html` — L1 header inner content
-- `/L1/settings.html` — must remain readable with all styles/images off
+- `/resources/onesrd.css` -- shared structural styles
+- `/resources/nav.js` -- shared nav loader
+- `/L1/config.js` -- game config and user preferences
+- `/L1/nav.html` -- single source of truth for L1 drawer nav
+- `/L1/header.html` -- L1 header inner content
+- `/L1/settings.html` -- must remain readable with all styles/images off
 
 ---
 
@@ -117,7 +117,7 @@ The PDF is the source of truth for all rulebook content.
 
 I am publishing the *Level One RPG* rulebook (by The Silent Bard) as a set of
 web pages. The website already exists as static HTML/CSS/JS. Your job is to make
-the web pages reproduce the book **functionally exactly** — as close to the PDF
+the web pages reproduce the book **functionally exactly** -- as close to the PDF
 as the medium allows.
 
 I will hand you the source PDFs. Everything you produce must come **from those
@@ -137,7 +137,7 @@ transcription of the PDF.**
 - Do **not** generate *any* original wording to fill gaps.
 - Do **not** reorder or merge the author's sentences.
 
-If the book says it, the page says it — identically. If the book doesn't say it,
+If the book says it, the page says it -- identically. If the book doesn't say it,
 it does **not** appear on the page. There is no acceptable amount of invented or
 rephrased text. The correct quantity is zero.
 
@@ -146,7 +146,7 @@ rephrased text. The correct quantity is zero.
 My readers are tabletop RPG enthusiasts. They can spot AI-generated or
 paraphrased text instantly, and they will reject the entire product over it. A
 single fabricated example or reworded rule discredits the whole book. This is
-not a stylistic preference — it is the core requirement of the job. Accuracy
+not a stylistic preference -- it is the core requirement of the job. Accuracy
 beats everything, including speed.
 
 ---
@@ -157,11 +157,11 @@ beats everything, including speed.
 - I will reject a page for a single invented example, a single dropped clause,
   a single "improved" phrasing, or a changed heading.
 - I do not want you to "capture the meaning." I want the **words**.
-- If you are tempted to make the text read better — don't. The author already
+- If you are tempted to make the text read better -- don't. The author already
   chose the words. Your taste is irrelevant here.
 - "Close enough" is a failure. Punctuation, italics, bold, capitalization,
   numbers, and list order all matter.
-- If a passage is unclear in the PDF image, **stop and tell me** — do not guess
+- If a passage is unclear in the PDF image, **stop and tell me** -- do not guess
   and do not fill it in with plausible-sounding text.
 
 ---
@@ -187,9 +187,9 @@ extraction returns nothing. You must read the pages **as images**, visually.
   came from an agent paraphrasing or inventing text instead of copying it. The
   session that reads the image must be the one that writes the words.
 - **Do NOT** transcribe from memory, from a previous summary, or from the
-  existing pages on the site (some existing pages contain fabricated content —
+  existing pages on the site (some existing pages contain fabricated content --
   trust only the PDF).
-- **Do NOT** rely on `pdftotext` / text extraction — it produces nothing
+- **Do NOT** rely on `pdftotext` / text extraction -- it produces nothing
   useful for these files.
 
 ---
@@ -206,7 +206,7 @@ the web medium reasonably allows**:
   visual elements, matching where they appear relative to the body text.
 - Preserve **list structure** (bulleted vs. numbered, and item order).
 - Preserve **art placement** relative to the text. I can move/swap the actual
-  image assets myself — just put the placeholder/image in the right spot and
+  image assets myself -- just put the placeholder/image in the right spot and
   tell me what art belongs there.
 - Match the existing site's HTML structure and CSS conventions for these
   elements (inspect the existing pages to reuse the right classes); do not
@@ -247,7 +247,7 @@ words, ask if anything is unclear.
 
 ## Open items / deferred work
 
-These are known gaps to revisit — do NOT silently fix them; ask the author first.
+These are known gaps to revisit -- do NOT silently fix them; ask the author first.
 
 ### Content pages awaiting author revision
 - **`roles/beast-handler.html`** (and maneuvers + in-action pages): PDF draft is
@@ -256,11 +256,21 @@ These are known gaps to revisit — do NOT silently fix them; ask the author fir
 - **`roles/naturalist.html`**: Several sections were "glossed over" in the current
   PDF draft. The author needs to add content before those sections can be filled in.
 
+### Content errata (fix on the page's next rewrite)
+- **`magick/beyond.html`** (pending rewrite). These errors exist in both the live
+  page and the source document:
+  - **Mundis** is the correct spelling throughout (live page currently has "Mundus").
+  - "thus little **know**" --> *little known* (Dreamlands paragraph).
+  - "processing messages" --> *projecting* messages (Communication Magic section).
+  - Emotional Currents paragraph is missing its first half: the massacre/rage
+    example was dropped, leaving only the euphoria half. Full version: *"A projector
+    exploring the spiritual echo of a massacre might become consumed with rage or
+    despair, while investigating a site of great joy could leave them euphorically
+    unable to focus on their mission."*
+  - Unclosed italics: `*rarely.` at end of Psychic Predators --> should be `*rarely.*`
+
 ### Side-panel / rails follow-ups
-- **Real promo URLs**: `L1/panels/itch.html` and `L1/panels/kickstarter.html` both
-  use placeholder hrefs. Replace with the real itch.io and Kickstarter campaign URLs
-  when they are live.
 - **Suppress rails on meta-pages**: `toc.html` and `settings.html` currently show
   the side panels (TOC beside the TOC, etc.). Suppress with a `body[data-no-rails]`
-  check in `rails.js` if desired — harmless for now.
+  check in `rails.js` if desired -- harmless for now.
 

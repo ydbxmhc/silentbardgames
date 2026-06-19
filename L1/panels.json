@@ -11,6 +11,7 @@
     { "id": "settings", "label": "Display Settings",  "kind": "fragment", "src": "settings.html", "extract": ".settings-group", "wire": "settings" },
     { "id": "itch",     "label": "Get the PDF",       "kind": "fragment", "src": "panels/itch.html",        "promo": true },
     { "id": "ks",       "label": "Kickstarter",       "kind": "fragment", "src": "panels/kickstarter.html", "promo": true },
+    { "id": "coffee",   "label": "Buy Me a Coffee",   "kind": "fragment", "src": "panels/coffee.html",      "promo": true },
     { "id": "random",   "label": "Art",               "kind": "random",                                    "promo": true }
   ]
 }
