@@ -14,7 +14,7 @@ An Adept doesn't "study" magic, they **are** the magic, manifest in mortal form 
 
 An Adept's Source, their *theme,* isn't merely what they *do* — it's what they *are*. Pyromancers don't just wield flame; they live in terms of consumption, transformation, and brilliant intensity. Aeromancers don't "control" winds, they *breathe* freedom, movement, and the space between things. Their power is their essential nature.
 
-This primal nature usually manifest as a Hook. The storm-touched are volatile and impetuous, lycanthropes seethe with barely-contained passions, and Shadow Adepts shun the light. These aren't weaknesses — they're the price and proof of power.
+This primal nature usually manifests as a Hook. The storm-touched are volatile and impetuous, lycanthropes seethe with barely-contained passions, and Shadow Adepts shun the light. These aren't weaknesses — they're the price and proof of power.
 
 ### The Intuitive Path
 
