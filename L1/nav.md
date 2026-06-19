@@ -36,7 +36,7 @@
 
 **Supernatural**
 
-[Adept](roles/adept.html) [Spellweaver](roles/spellweaver.html) [Conjuror](roles/conjuror.html)
+[Adept](roles/adept.html) [An Adept In Action](action/adept.html) [Spellweaver](roles/spellweaver.html) [Conjuror](roles/conjuror.html)
 
 **Running the Game**
 
