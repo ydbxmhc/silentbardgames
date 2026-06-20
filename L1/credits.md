@@ -1,4 +1,4 @@
-[Home](/L1/index.md) › Art Credits
+[Home](./index.html) › Art Credits
 
 Appendices
 
@@ -6,4 +6,8 @@ Appendices
 
 > **Content Coming Soon**
 >
-> Art credits (from p.2) will go here.
+> Art credits for **Level One RPG** will appear here.
+
+---
+
+- [← Previous: License](license.html)

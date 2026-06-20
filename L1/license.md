@@ -1,9 +1,14 @@
-[Home](/L1/index.md) › License & Credits
+[Home](./index.html) › License
 
 Appendices
 
-# License & Credits
+# License
 
 > **Content Coming Soon**
 >
-> Licensing statement (from p.1 footnote) and art credits (p.2) will go here.
+> License terms for **Level One RPG** will appear here.
+
+---
+
+- [← Previous: Threats & Obstacles](threats.html)
+- [Next →: Art Credits](credits.html)
