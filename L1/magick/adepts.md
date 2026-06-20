@@ -1,4 +1,4 @@
-[Home](../index.md) › Magick! › Adept Magic
+[Home](../index.html) › Magick! › Adept Magic
 
 Magick!
 
@@ -6,31 +6,27 @@ Magick!
 
 ## Adepts: Intuitive Power and *Thematic* Magic
 
-*– The power flows through me like breathing; I don't cast spells, I simply am*
+*— The power flows through me like breathing; I don't cast spells, I simply am.*
 
----
+The intuitive approach makes Adept magic both powerful and personal. Not all pyromancers work identically — one might specialize in precise flame shaping while another focuses on explosive force. The magic reflects the practitioner's personality and grows with their understanding of their chosen theme.
 
-The intuitive approach makes Adept magic both powerful and personal. Not all pyromancers work identically — one might focus on massive flaming explosion while another focuses on explosive force. The magic reflects the practitioner's personality and grows with their understanding of their chosen theme.
+At any time, without rolling, an Adept can produce minor effects that match their theme. These little tricks have no mechanical cost but could have significant narrative impact. Anything that generates points of effect requires an actual roll, but *be generous* with these little incidental perqs! If you allow an Adept, they cannot help but be who they are. The Aeromancer will dust his cloak with a wave before he *thinks* about it.
 
-At any level, without rolling, an Adept can produce minor effects that match their theme. These little tricks have no mechanical cost but could have significant narrative impact. Anything that generates of sorts of effect requires an actual roll. You can be given the effects of these little incidental perks! If you allow an Adept, they cannot help but be who they are. The Aeromancer will dust his cloak with a wave before he thinks about it.
-
-These little bits of color can't directly cause harm or provide mechanical bonuses, but they solve incredibly small problems and create atmosphere: the Pyromancer can maintain small flames, which isn't much until you're completely in the dark. Try lighting a candle in absolute darkness without matches — that's where the Pyromancer's trivial power becomes invaluable.
+These little bits of color can't directly cause harm or provide mechanical bonuses, but they solve countless small problems and create atmospheric moments. Pyromancers light or snuff pipes and small flames, which isn't much until you're completely in the *dark*. Try lighting a torch in absolute darkness without matches — suddenly that Pyromancer's trivial power becomes *invaluable*.
 
 ### Nontrivial Magic
 
-Anything beyond trivial effects requires a roll. The Adept channels their theme's power through their roll, adding their rank and any relevant Maneuvers to their EL. Success creates points of effect that can be applied just like any other action.
+Anything beyond trivial effects requires a roll. The Adept channels their theme's power through their will, adding their Adept rank and any relevant Maneuvers to their EL. Success creates points of effect that can be applied just like any other action.
 
-The key limitation is overpowering: if your roll exceeds your Adept rank, you face a choice. You can reduce the effect to make the effect safe — or you can channel the full power and make a resistance roll against the difficulty, taking any unreasonable amount as harm — usually Fatigue Complications, potentially worse. This isn't a strict either/or proposition; Adept magic is as natural as breathing to them, so they can absorb any part of the rolled overpowering to attempt, "pulling their punch" a little if they don't want to take any harm, to some whole value, as long as a roll itself was an actual success.
+The key limitation is overchannelling: if your rolled effect exceeds your Adept rank, you face a choice. You can voluntarily reduce the effect to match your rank, wasting the excess but staying safe — or you can channel the full power and make a resistance roll against the difference, taking any unresisted amount as harm… usually fatigue Complications, but potentially worse. This isn't a strict either/or proposition; Adept magic is as natural as breathing to them, so they can choose any amount of the rolled overchannelling to attempt, "pulling their punch" a little if they don't want to whole value, *as long as the roll itself was an actual success.*
 
 > **Example**
 >
-> Marcus is Level 4, Adept(Fire) 3 and rolls 7 points for a flame blast. He can:
+> Marcus is Level 4, Adept(Fire) 3 and rolls 7 points of effect for a flame blast. He can:
 >
 > - Reduce it to 3 points, which is safe but wastes 4 points of potential; or
-> - Channel all 7 points but roll resistance against the difficulty 7, he takes 2 points of Harm from overpowering;
-> - Split the difference and roll against a 4, or 5, or 6… but you must commit to an amount, and it doesn't matter whether or not he succeeds in the resistance roll.
-
----
+> - Channel all 7 points but roll resistance against 4; if he only resists 2, he takes 2 points of Harm from overchanneling.
+> - Split the difference and roll against a 4, or 5, or 6…but you must commit to an amount, and it doesn't matter whether or not the target resists.
 
 ### Thematic Flexibility
 
@@ -40,5 +36,5 @@ The GM and player should negotiate the theme's boundaries during character creat
 
 ---
 
-- [← Previous: Overview](../magick.md)
-- [Next →: Spellcraft](spellcraft.md)
+- [← Previous: Overview](../magick.html)
+- [Next →: Spellcraft](spellcraft.html)
