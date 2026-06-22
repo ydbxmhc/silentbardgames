@@ -1,4 +1,4 @@
-[Home](index.md) › [Gear](gear.md) › Other Gear
+[Home](index.html) › [Gear](gear.html) › Other Gear
 
 Gear
 
@@ -12,5 +12,5 @@ Be wary of letting players use this rule on an item that has Maneuver ranks of i
 
 ---
 
-- [← Previous: Weapons](weapons.md)
-- [Next →: How Characters Improve](karma.md)
+- [← Previous: Weapons](weapons.html)
+- [Next →: Gear Traits](gear-traits.html)
