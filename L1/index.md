@@ -8,10 +8,10 @@ a OneSRD game by The Silent Bard
 
 No classes. Any dice. Stories first.
 
-[Open the Book](start.md)
+[Open the Book](start.html)
 
-[Quick Start](quickstart.md) [Browse Roles](roles.md) [Core Mechanics](mechanics.md) [Example Builds](builds.md)
+[Quick Start](quickstart.html) [Browse Roles](roles.html) [Core Mechanics](mechanics.html) [Example Builds](builds.html)
 
 ---
 
-Art by Sabrina Alexander & others. See [credits](start.md#credits).
+Art by Sabrina Alexander & others. See [credits](credits.html).
