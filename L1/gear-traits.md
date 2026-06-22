@@ -34,7 +34,7 @@ Note that a really skillful opponent will notice you leaning on techniques that 
 
 A rated Trait has a number attached, and that number represents **contingent points** that activate automatically under the right conditions — no roll required. Think of them as a pre-rolled [Wager](wagered-actions.html) built into the item. The points are just *there*, waiting for a successful action to deliver them.
 
-A *Sharp 1* blade adds 1 contingent point of damage to every successful hit. You don’t roll for them, you don’t dedicate them from your EL, and they don’t reduce your chance to hit. They’re the weapon’s contribution, not yours.
+A *Sharp 1* blade adds 1 contingent point of damage to every successful hit. You don’t roll for them, you don’t dedicate them from your EL, and they neither reduce nor increase your chance to hit. They’re the weapon’s contribution, not yours.
 
 The danger: on an Extreme Failure, those contingent points are part of the catastrophe. They activate — but not the way you intended. A *Sharp 1* sword fumble doesn’t just mean you dropped your weapon. It means that point of dedicated cutting power went somewhere *wrong*, like into your foot. The higher the rating, the worse the failure mode.
 
@@ -51,7 +51,7 @@ Yes, it *is* still possible to be “just grazed” by a halberd (or a shotgun) 
 
 ## Combining Traits
 
-An item can have both rated and unrated Traits. A master-forged sword might be *Sharp 1* (rated — always a little extra bite) and *Balanced* (unrated — a skilled user can leverage the handling for a free-action Boost). The rated points are automatic; the unrated Boost requires a roll.
+A truly exceptional item might have both rated and unrated Traits. A master-forged sword might be *Sharp 1* (rated — always a little extra bite) and *Balanced* (unrated — a skilled user can leverage the handling for a free-action Boost). The rated points are automatic; the unrated Boost requires a roll.
 
 An item can also have multiple rated Traits. A *Sharp 1, Flaming 2* sword delivers 1 contingent point of cutting damage and 2 contingent points of fire damage on every successful hit, subject to the narrative — a target **[Immune to Fire](traits.html)** won’t care about the *Flaming*, but the *Sharp* might still bite.
 
