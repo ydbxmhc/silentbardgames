@@ -1,4 +1,4 @@
-[Home](index.md) › Core Mechanics › Extreme Results
+[Home](index.html) › Core Mechanics › Extreme Results
 
 Core Mechanics
 
@@ -10,7 +10,7 @@ An optional rule, extreme rolls add drama. You can only get *extreme* results if
 
 If all the dice roll *zeroes* you don’t just fail – you fail catastrophically. (You can’t get extreme fails without zero-based dice, but opposition can still get extreme successes against you.) Players are encouraged to suggest results, but the GM will make the final decision, and it should be something *bad* for the character. Not only do they *utterly fail* to accomplish anything good for that action, it has negative side effects.
 
-It always means your turn is **over**. If you had other actions in progress, they are aborted. You *cannot* use a [Luck Token](luck.md), though you *may* still use actual Karma – but only to make it just a *simple fail*.
+It always means your turn is **over**. If you had other actions in progress, they are aborted. You *cannot* use a [Luck Token](luck.html), though you *may* still use actual [Karma](karma.html) – but only to make it just a *simple fail*.
 
 There should also be some immediate consequence. This should get more severe as the number of dice rolled increases. For just three dice, maybe the character fumbles and drops his weapon, lockpicks, reins, etc. As more dice are used, maybe the weapon breaks, or in extreme cases they get so off-balance they get no passive resistance rolls for the turn!
 
@@ -20,9 +20,9 @@ The GM is within his rights to say that you can’t roll extreme successes witho
 
 If all the dice are individually the highest value each could roll *AND* the total is *exactly* your EL, you have not merely succeeded, but done so *spectacularly*. Suggest results, but it should be something *good* for the character. Not only do they accomplish their best-possible result for that action, it has additional *positive* side effects.
 
-Extreme successes always award a free Luck Token if the character has room. If opponents use a Luck Token to resist or oppose, get an immediate Karma.
+Extreme successes always award a free [Luck Token](luck.html) if the character has room. If opponents use a [Luck Token](luck.html) to resist or oppose, get an immediate [Karma](karma.html).
 
-There should also be some immediate beneficial result. This too should get more extreme as the number of dice rolled increases. For just three dice, maybe the character disarms their opponent, or creates a Boost for the next roll *in addition to* their intended effect. As more dice are used, maybe they get to assign the results as a split (see [Multiple Actions](multiple-actions.md)) *after* the roll, or in extreme cases their target gets no opposition or passive resistance at all!
+There should also be some immediate beneficial result. This too should get more extreme as the number of dice rolled increases. For just three dice, maybe the character disarms their opponent, or creates a [Boost](actions-and-timing.html#boost-actions) for the next roll *in addition to* their intended effect. As more dice are used, maybe they get to assign the results as a split (see [Multiple Actions](multiple-actions.html)) *after* the roll, or in extreme cases their target gets no opposition or passive resistance at all!
 
 ## Observations
 
@@ -32,5 +32,5 @@ It is also worthy of note that as characters become *more* competent they become
 
 ---
 
-- [← Previous: Picking Your Dice](dice.md)
-- [Next →: Harm & Recovery](harm.md)
+- [← Previous: Picking Your Dice](dice.html)
+- [Next →: Harm & Recovery](harm.html)

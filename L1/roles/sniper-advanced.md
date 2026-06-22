@@ -1,4 +1,4 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Advanced Applications
+[Home](../index.html) › [Roles](../roles.html) › [Sniper](sniper.html) › Advanced Applications
 
 Combat Roles
 
@@ -8,7 +8,7 @@ It's not all about shooting obvious targets.
 
 ### Reconnaissance and Intelligence
 
-Snipers often serve as the eyes and ears of their groups. Their training in observation and patience makes them natural scouts. They can use their Role for:
+Snipers often serve as the eyes and ears of their groups. Their training in observation and patience makes them natural scouts. They can use their [Role](../roles.html) for:
 
 - Spotting distant threats or opportunities
 - Reading enemy movement patterns and numbers
@@ -26,5 +26,5 @@ The threat of an unseen sniper changes battlefield dynamics. Smart snipers lever
 
 ---
 
-- [← Previous: Common Sniper Maneuvers](sniper-maneuvers.md)
-- [Next →: A Sniper In Action](../action/sniper.md)
+- [← Previous: Common Sniper Maneuvers](sniper-maneuvers.html)
+- [Next →: A Sniper In Action](../action/sniper.html)

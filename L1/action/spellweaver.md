@@ -8,7 +8,7 @@ Supernatural Roles
 
 > Level 3, SpellWeaver 3, *Fax Iacta* 1, *Stone Shape* 1, *Mage Light* 1
 
-> Since he has bound a Spellweaver Role rank into each spell, they are unavailable for other spells unless released, so rather than rolling each at Level 3 + Spellweaver 3 + *Spell/Maneuver rank* of **1** he will only be able to use Level 3 + Role **1** + *Spell 1*.
+> Since he has bound a Spellweaver [Role](../roles.html) rank into each spell, they are unavailable for other spells unless released, so rather than rolling each at Level 3 + Spellweaver 3 + *Spell/[Maneuver](../maneuvers.html) rank* of **1** he will only be able to use Level 3 + [Role](../roles.html) **1** + *Spell 1*.
 
 ***"Goblins!"*** Berlis snapped his head up from his notebook at Hilla's cry to see her cradling Dorn as he crumpled with a goblin arrow in his shoulder. Across the chamber to the northwest he saw dark faces peering around the frame of the ruined door.
 
@@ -30,13 +30,13 @@ Dorn slapped Hilla's hand away weakly and pulled out the arrow with a hiss of pa
 
 *"ignes inferni, venite, mihi nunc servite…"*
 
-> With Level 3 + Spellweaver 1 + Fax Iacta 1 = EL5, he banks 2 as a Wager for a final EL3 and rolls three dice, gathering shaped power into a reservoir in the crystal to support casting later. He rolls (1,0,0) a 1 against the DL0 spell (no opposition), enough to mount the power as a lens. The GM gives him a *Focused Fax 2* persistent Boost.
+> With Level 3 + Spellweaver 1 + Fax Iacta 1 = EL5, he banks 2 as a [Wager](../wagered-actions.html) for a final EL3 and rolls three dice, gathering shaped power into a reservoir in the crystal to support casting later. He rolls (1,0,0) a 1 against the DL0 spell (no opposition), enough to mount the power as a lens. The GM gives him a *Focused Fax 2* persistent [Boost](../actions-and-timing.html#boost-actions).
 
 The crystal atop his staff briefly smouldered, then burst into an otherworldly flicker as if there were flames behind it. He held it before him, but no goblins appeared just yet.
 
 That was…good? He was skeptical. He wanted to start building a stronger *Fax Iacta* now, but took his opportunity to diversify. He touched the *Earth* sigil on the staff and called another set of keys to mind. *"vis etiam lapidis, nunc mihi servite…"* He slid his hand down to the leaded iron foot on the staff, and bumped it with his fist.
 
-> With Level 3 + Spellweaver 1 + Stone Shape 1 = EL5 he *again* banked 2 for a Wager bonus, rolling three dice against EL3 (1,1,1) for a critical success! With no Luck Tokens spent he had no room to accept one, but the GM bumps his resulting persistent Wagered Boost to the 3 he rolled instead of the 2 he intended, and names it *Stone Mastery 3*.
+> With Level 3 + Spellweaver 1 + Stone Shape 1 = EL5 he *again* banked 2 for a [Wager](../wagered-actions.html) bonus, rolling three dice against EL3 (1,1,1) for a critical success! With no [Luck Tokens](../luck.html) spent he had no room to accept one, but the GM bumps his resulting persistent [Wagered](../wagered-actions.html) [Boost](../actions-and-timing.html#boost-actions) to the 3 he rolled instead of the 2 he intended, and names it *Stone Mastery 3*.
 
 The shoe of the staff crusted with a sudden film of dust; it thickened into a cap like alabaster which shone in the dim light, a polished semiprecious gem. He held it close, the foot near the floor, his other hand poised behind the glittering crystal, and squinted at the quiescent door.
 
@@ -58,7 +58,7 @@ The first archer also leans out and fires, but with the light so close he is nea
 
 The first archer manages to aim his arrow past the light, but as Berlis extends one hand toward the other door, the crystal atop his staff flares, and the arrow heading for his chest bursts into ashes and smoke in the air!
 
-> Again he cannot accept a Luck Token, but the GM declares that he has been concentrating and preparing so much for the *Fax Iacta* he has yet to use that the keys flare in his mind, and the spell reflexively incinerates the arrow in the air. (It's just drama, but it's fun.) As the bonus for the crit, the GM uses it as a free intimidation attack on all the goblins. None of them are Level 3, and they are not prepared for a powerful wizard! They all immediately roll their resistance checks, and with the remaining effect being more than their base Level even if they succeed, they flee in terror.
+> Again he cannot accept a [Luck Token](../luck.html), but the GM declares that he has been concentrating and preparing so much for the *Fax Iacta* he has yet to use that the keys flare in his mind, and the spell reflexively incinerates the arrow in the air. (It's just drama, but it's fun.) As the bonus for the crit, the GM uses it as a free intimidation attack on all the goblins. None of them are Level 3, and they are not prepared for a powerful wizard! They all immediately roll their resistance checks, and with the remaining effect being more than their base Level even if they succeed, they flee in terror.
 
 The goblins squeal and turn to flee. Berlis quickly throws a *Light* into that hallway with a hastily mumbled "*fiat lux*" so they won't be surprised again, but only sees the last of the goblins turning at speed around the corner farther down. He takes the enormous hat by the brim to slap his knee and briefly wipes his brow before setting it back in place. When he turns back to Hilla and Dorn they are both blinking at him, dumbfounded.
 

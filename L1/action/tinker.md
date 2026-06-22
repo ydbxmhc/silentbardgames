@@ -28,12 +28,12 @@ Olberict approached the apparatus with professional interest. "Sloppy work," he 
 
 Sigmont Ironwright (Level 3, Tinker 3, Performer 1) had spent years studying the weaknesses of the fae courts, developing what he believed would be the perfect tool for duer diplomacy — a distilled essence so pure and intoxicating that even the proudest sidhe lord couldn't resist its allure.
 
-> **Tinker Maneuvers:**
+> **Tinker [Maneuvers](../maneuvers.html):**
 > *Alchemy* 3 — Distillation, purification, and understanding of chemical properties
 > *Herbalism* 2 — Knowledge of plant essences and their extraction
 > *Tool Making* 1 — Creating specialized implements for alchemical work
 >
-> **Performer Maneuver:**
+> **Performer [Maneuver](../maneuvers.html):**
 > *Negotiation* 1 — Understanding what motivates others and how to leverage it
 
 "I'm making *bait*," Sigmont explained, gesturing at the complex arrangement of tubes, chambers, and heating elements. "The fae are always weak for strong drink. If I can distill wine down to its purest essence, even their king won't be able to resist."
@@ -46,12 +46,12 @@ Sigmont Ironwright (Level 3, Tinker 3, Performer 1) had spent years studying the
 
 Olberict Ironwright (Level 3, Tinker 3, Warrior 1) had his own obsession — creating a portable stone-breaking device that didn't require external power. Duer mining operations too often depended on water wheels, limiting where they could work, or picks and carts that slowed the harvest.
 
-> **Tinker Maneuvers:**
+> **Tinker [Maneuvers](../maneuvers.html):**
 > *Engineering* 3 — Mechanical systems, pressure dynamics, and structural design
 > *Clockwork* 2 — Precision mechanisms and energy storage systems
 > *Metalworking* 2 — Advanced alloys and heat treatment
 >
-> **Warrior Maneuver:**
+> **Warrior [Maneuver](../maneuvers.html):**
 > *Tactical Thinking* 1 — Understanding applications and strategic implications
 
 "The principle is simple," Olberict explained, leading Sigmont to his own workbench. "Ignition drives the piston force exactly where needed. The problem is the fuel. Even the best lamp oil isn't hot enough, and leaves soot that gums up the machine."

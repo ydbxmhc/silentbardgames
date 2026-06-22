@@ -6,7 +6,7 @@ Appendices
 
 Before we wrap this up…
 
-Role-playing games are a unique medium. They entertain with the interactive challenge of card and board games as well as the narrative of books and movies. They are about stories, full of drama and catharsis. As such they often touch on dramatic, emotional topics that some will find triggering.
+[Role](roles.html)-playing games are a unique medium. They entertain with the interactive challenge of card and board games as well as the narrative of books and movies. They are about stories, full of drama and catharsis. As such they often touch on dramatic, emotional topics that some will find triggering.
 
 We *strongly* recommend the use of safety tools. This can be as simple as discussing what boundaries to expect, and that all players need to do is raise a hand if something bothers them, but we suggest going over a few options explicitly — players may be surprised at how deeply something disturbs them.
 

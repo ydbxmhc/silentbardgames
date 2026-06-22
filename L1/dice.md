@@ -1,4 +1,4 @@
-[Home](index.md) › Core Mechanics › Picking Your Dice
+[Home](index.html) › Core Mechanics › Picking Your Dice
 
 Core Mechanics
 
@@ -12,7 +12,7 @@ Perfect for groups who want fast resolution and love throwing lots of dice!
 
 Use any dice you want as long as it has an even distribution of even/odd numbers. Roll dice equal to your EL and count the odd numbers. That’s it! At EL 8, grab eight dice (or eight coins) and let them fly. This is a great option if you don’t have zero-base dice, because it doesn’t matter what the actual numbers are. Just count the dice that roll odd numbers and you’re done.
 
-*Extra Effort:* If you want to try for better odds of a higher value, just add a few *extra effort* dice. You decide how many! The more you roll this way, the better the odds of getting a result closer to half the number of dice, but now you’ve introduced the possibility of rolling higher than your EL, which always completely fails with a total effect of zero. This is a risk/reward decision that you totally control. The benefit is finer control of your rolls; the cost is the chance of total failure, and loss of potential critical successes – see [Extreme Results](extreme-results.md).
+*Extra Effort:* If you want to try for better odds of a higher value, just add a few *extra effort* dice. You decide how many! The more you roll this way, the better the odds of getting a result closer to half the number of dice, but now you’ve introduced the possibility of rolling higher than your EL, which always completely fails with a total effect of zero. This is a risk/reward decision that you totally control. The benefit is finer control of your rolls; the cost is the chance of total failure, and loss of potential critical successes – see [Extreme Results](extreme-results.html).
 
 ## A Closer Look
 
@@ -54,11 +54,11 @@ Use a deck of playing cards – if you read red/black as even/odd, just deal out
 
 You can use practically any random number generation system. Make a spinner if it makes you happy.
 
-You can even play completely *without* dice. It will radically change the feel and function of the game, because it shifts more of the mechanics onto tactics and strategy, and making Boosts is going to become very important, but there have been some very successful game systems that have done this.
+You can even play completely *without* dice. It will radically change the feel and function of the game, because it shifts more of the mechanics onto tactics and strategy, and making [Boosts](actions-and-timing.html#boost-actions) is going to become very important, but there have been some very successful game systems that have done this.
 
 Just figure out your EL and the opposition, and assume that’s what you each rolled. *No swinginess, no randomness;* it’s all about the tactics and the story. Have fun!
 
 ---
 
-- [← Previous: Luck Tokens](luck.md)
-- [Next →: Extreme Results](extreme-results.md)
+- [← Previous: Luck Tokens](luck.html)
+- [Next →: Extreme Results](extreme-results.html)

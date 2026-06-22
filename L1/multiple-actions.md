@@ -1,10 +1,10 @@
-[Home](index.md) › Core Mechanics › Multiple Actions
+[Home](index.html) › Core Mechanics › Multiple Actions
 
 Core Mechanics
 
 # Multiple Actions
 
-You can almost always defend as a free action as many times as required. If you don't know it's required you might not be able to apply bonuses like Roles, but at worst you should always be able to use base Level.
+You can almost always defend as a free action as many times as required. If you don't know it's required you might not be able to apply bonuses like [Roles](roles.html), but at worst you should always be able to use base Level.
 
 Sometimes, though, you want to do more than one thing on your turn, like hit more than one opponent, or rally the troops while you continue to fight, and those aren't free actions. Here's how you do those things.
 
@@ -14,10 +14,10 @@ Doing multiple things is distracting, but your EL determines how much you can di
 
 Roll them in whatever order serves the story.
 
-**Free Actions**  
+**[Free Actions](actions-and-timing.html#free-actions)**  
 The swashbuckling hero is a classic trope, laughing as he defends against a room full of the villain's henchmen. Points spent on defense can only be applied against attacks you knew were coming, but skill allocated exclusively for *defense* can still be used as a free action, and so used more than once in the same turn.
 
-**Cross-Role Splits**  
+**Cross-[Role](roles.html) Splits**  
 Sometimes you'll want to use different abilities in an exchange: rally your troops while fighting, shoot while moving but maintain stealth, or memorize a floor plan while charming an heiress. The trick for this is *order* - not to do them, but to assign points of split.
 
 Calculate the EL for each role. Start with the *lowest* EL and assign points to it, then reduce ALL your ELs by that amount. Move to the next lowest remaining EL and repeat until you've assigned points to everything you want to attempt.^[1](#fn1)
@@ -31,5 +31,5 @@ A PC has Performer EL10 and Warrior EL20. She assigns 8 points to rally her gang
 
 ---
 
-- [← Previous: Resistance](resistance.md)
-- [Next →: Wagered Actions](wagered-actions.md)
+- [← Previous: Resistance](resistance.html)
+- [Next →: Wagered Actions](wagered-actions.html)

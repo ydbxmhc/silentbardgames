@@ -1,4 +1,4 @@
-[Home](index.md) › Core Mechanics › Actions and Timing
+[Home](index.html) › Core Mechanics › Actions and Timing
 
 Core Mechanics
 
@@ -30,13 +30,13 @@ Opposition to a Boost works the same way. If you think someone is studying your 
 
 ### Boosts With Duration
 
-For boosts that should last longer than the next action, use the [Wagering](wagered-actions.md) mechanic to dedicate persistent points - generally such fabricated Boosts last the rest of the scene, though the GM may rule that it goes away sooner, or lasts longer, as appropriate.
+For boosts that should last longer than the next action, use the [Wagering](wagered-actions.html) mechanic to dedicate persistent points - generally such fabricated Boosts last the rest of the scene, though the GM may rule that it goes away sooner, or lasts longer, as appropriate.
 
 ### Free Action Access to Pre-existing Boosts
 
-Sometimes there's already something available in the scene that would help an action, just sitting there waiting to be added to a roll. Players can always propose an idea, and if the GM agrees he can declare the roll to use/incorporate that Boost as a free action. If you see that the knight has backed himself up to the fallen log, it's reasonable to body slam him back in the hope that he'll trip over it - the log is an environmental factor the player can roll as a free action, because it takes *no time to set up*. The value of the roll is added to the attack EL, and can be included in splits or Wagered effects.
+Sometimes there's already something available in the scene that would help an action, just sitting there waiting to be added to a roll. Players can always propose an idea, and if the GM agrees he can declare the roll to use/incorporate that Boost as a free action. If you see that the knight has backed himself up to the fallen log, it's reasonable to body slam him back in the hope that he'll trip over it - the log is an environmental factor the player can roll as a free action, because it takes *no time to set up*. The value of the roll is added to the attack EL, and can be included in splits or [Wagered](wagered-actions.html) effects.
 
 ---
 
-- [← Previous: Accumulated Progress](accumulated-progress.md)
-- [Next →: Resistance](resistance.md)
+- [← Previous: Accumulated Progress](accumulated-progress.html)
+- [Next →: Resistance](resistance.html)

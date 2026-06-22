@@ -1,10 +1,10 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Common Sniper Maneuvers
+[Home](../index.html) › [Roles](../roles.html) › [Sniper](sniper.html) › Common Sniper Maneuvers
 
 Combat Roles
 
 # Common Sniper Maneuvers
 
-Good Maneuvers can be any weapon that works beyond melee range, or that helps them create and maintain tactical advantages. Exotic weapons like lassos and boomerangs usually require Maneuvers of their own.
+Good [Maneuvers](../maneuvers.html) can be any weapon that works beyond melee range, or that helps them create and maintain tactical advantages. Exotic weapons like lassos and boomerangs usually require [Maneuvers](../maneuvers.html) of their own.
 
 ### Weapon Mastery
 
@@ -16,13 +16,13 @@ Good Maneuvers can be any weapon that works beyond melee range, or that helps th
 ### Tactical Applications
 
 - *Ricochet* - counts against DL for trick shots
-- *Lockdown* - create Hindrances with suppression fire
+- *Lockdown* - create [Hindrances](../types-of-harm.html) with suppression fire
 - *Spotter* - detect enemy Snipers and other tactical targets
-- *Battlefield Tactics* - recognizing/utilizing terrain Boosts
+- *Battlefield Tactics* - recognizing/utilizing terrain [Boosts](../actions-and-timing.html#boost-actions)
 
 Note that *Battlefield Tactics* makes good Warrior synergy!
 
 ---
 
-- [← Previous: Sniper](sniper.md)
-- [Next →: Advanced Applications](sniper-advanced.md)
+- [← Previous: Sniper](sniper.html)
+- [Next →: Advanced Applications](sniper-advanced.html)

@@ -1,4 +1,4 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sniper](../roles/sniper.md) › A Sniper In Action
+[Home](../index.html) › [Roles](../roles.html) › [Sniper](../roles/sniper.html) › A Sniper In Action
 
 Combat Roles
 
@@ -20,7 +20,7 @@ She takes her time — this is what separates professionals from amateurs. Betwe
 
 No matter — she's good enough for this. She knocks and draws an arrow, accounting for crosswind and the swaying laundry, slowly exhaling, lining up her shot.
 
-> Her EL10 rolls an Aim +5 Boost. No one opposes, DL0.
+> Her EL10 rolls an Aim +5 [Boost](../actions-and-timing.html#boost-actions). No one opposes, DL0.
 > She is now Level 3 + Sniper 3 + *Bows 3 + Urban Hunter 1* + Aim 5 = EL15.
 > The GM adjusts with EL15 - Range 3 - Wind 2 = EL10. She rolls a 7.
 
@@ -32,5 +32,5 @@ Professional. Clean. Precise.
 
 ---
 
-- [← Previous: Advanced Applications](../roles/sniper-advanced.md)
-- [Next →: Performer](../roles/performer.md)
+- [← Previous: Advanced Applications](../roles/sniper-advanced.html)
+- [Next →: Performer](../roles/performer.html)

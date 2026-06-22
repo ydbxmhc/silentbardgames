@@ -4,13 +4,13 @@ Running the Game
 
 # Traits
 
-Gear, spells, and creatures can have **Traits** — special properties that give them unique capabilities or limitations. Think of them as Roles or Maneuvers for non-player stuff, mechanical shortcuts that keep your game flowing without drowning you in lengthy explanations.
+Gear, spells, and creatures can have **Traits** — special properties that give them unique capabilities or limitations. Think of them as [Roles](roles.html) or [Maneuvers](maneuvers.html) for non-player stuff, mechanical shortcuts that keep your game flowing without drowning you in lengthy explanations.
 
-**Conceits** are unrated Traits — narrative truths that can't be measured but are absolutely true within the game world — they won't have numbers attached, same as for player characters. A demon might be *Immune To Fire* (unrated) rather than *Resistant +3* (rated).
+**[Conceits](hooks-in-play.html)** are unrated Traits — narrative truths that can't be measured but are absolutely true within the game world — they won't have numbers attached, same as for player characters. A demon might be *Immune To Fire* (unrated) rather than *Resistant +3* (rated).
 
 Compatible Traits stack normally. *Resistant +2* and *Protected +1* both apply to the same defensive situation (if at different points) while multiple *Immune* traits simply expand the range of things that cannot affect the target.
 
-Many creatures and items will get a "Role" that is just whatever they are — "Bear", for example, or "Sylph" for a type of air elemental. They can then get Maneuvers relevant to that. Special items might get dedicated Maneuver-like rated bonuses in specific situations, such as *Sharp* for a supernally dangerous edge, or *Flaming* that provides light and ignites fuel in addition to its combat bonus.
+Many creatures and items will get a "[Role](roles.html)" that is just whatever they are — "Bear", for example, or "Sylph" for a type of air elemental. They can then get [Maneuvers](maneuvers.html) relevant to that. Special items might get dedicated [Maneuver](maneuvers.html)-like rated bonuses in specific situations, such as *Sharp* for a supernally dangerous edge, or *Flaming* that provides light and ignites fuel in addition to its combat bonus.
 
 This will cover a *lot*, but some things don't really fit well in that framework, and will use Traits to round out the edges. In a lot of cases, Traits are just a quick way to establish a shorthand for things that happen pretty often so the GM can create quick and concise descriptions that communicate the relevant basics on a sticky note or index card. If he makes a quick writeup for a ghost that is *Stationary* it means it's haunting a spot and won't chase the characters outside that area.
 

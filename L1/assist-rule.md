@@ -12,17 +12,17 @@ When the thing you’re working with can *act on its own*, it gets a character s
 
 ## The Rule
 
-When you use something with its own capabilities, it can provide a **[Boost](actions-and-timing.html#boost-actions)** to your roll — but you can only benefit from as much Boost as your own rank in the relevant Role allows. The rest is wasted, not because the item isn’t good enough, but because *you* aren’t skilled enough to leverage what it offers.
+When you use something with its own capabilities, it can provide a **[Boost](actions-and-timing.html#boost-actions)** to your roll — but you can only benefit from as much [Boost](actions-and-timing.html#boost-actions) as your own rank in the relevant [Role](roles.html) allows. The rest is wasted, not because the item isn’t good enough, but because *you* aren’t skilled enough to leverage what it offers.
 
-A *Demon Bow* rated at [Sniper](roles/sniper.html) 4 is wasted on a Sniper 1 archer. He gets 1 point of Boost — the demon tracks, but he can barely keep up with the information it feeds him. A Sniper 4 archer with the same bow gets the full 4 points — the demon handles the grunt work and he’s free to focus on anticipation and timing. Same magic, radically different outcome.
+A *Demon Bow* rated at [Sniper](roles/sniper.html) 4 is wasted on a Sniper 1 archer. He gets 1 point of [Boost](actions-and-timing.html#boost-actions) — the demon tracks, but he can barely keep up with the information it feeds him. A Sniper 4 archer with the same bow gets the full 4 points — the demon handles the grunt work and he’s free to focus on anticipation and timing. Same magic, radically different outcome.
 
-If you have *no* rank in the relevant Role, you get no Boost at all. The item is doing things you can’t understand or use. You’re holding something speaking a completely foreign language.
+If you have *no* rank in the relevant [Role](roles.html), you get no [Boost](actions-and-timing.html#boost-actions) at all. The item is doing things you can’t understand or use. You’re holding something speaking a completely foreign language.
 
 ## Autonomous Operation
 
-Alternatively, the item can act entirely on its own. It rolls its own Level + Role + Maneuvers, with no input from you. This is the enchanted *Dancing* sword fighting by itself while you just hold on, or even let it go.
+Alternatively, the item can act entirely on its own. It rolls its own Level + [Role](roles.html) + [Maneuvers](maneuvers.html), with no input from you. This is the enchanted *Dancing* sword fighting by itself while you just hold on, or even let it go.
 
-Autonomous operation has real advantages — especially when the item’s stats are better than what you could achieve even with its Boost. Sometimes the smart move is to let go and *trust the demon*.
+Autonomous operation has real advantages — especially when the item’s stats are better than what you could achieve even with its [Boost](actions-and-timing.html#boost-actions). Sometimes the smart move is to let go and *trust the demon*.
 
 Autonomous operation has hard limits:
 
@@ -31,7 +31,7 @@ Autonomous operation has hard limits:
 
 The choice between assisted operation and autonomous operation is *usually* the player’s, and it’s always meaningful. Do you trust your own skill augmented by the item, or do you trust the thing on its own? That decision can change from action to action within the same scene.
 
-**You cannot do both for the same action in the same turn.** The item is either Boosting your roll or making its own roll. Not both.
+**You cannot do both for the same action in the same turn.** The item is either [Boosting](actions-and-timing.html#boost-actions) your roll or making its own roll. Not both.
 
 It is also not guaranteed — if the GM defines an item as autonomous only, then it doesn’t have a boost mode. If it is sentient, it may take the choice away from the PC. Stormbringer didn’t always do quite what Elric wanted.
 
@@ -39,15 +39,15 @@ It is also not guaranteed — if the GM defines an item as autonomous only, then
 
 Some items can support multiple smultaneous users.
 
-When multiple people use the same system simultaneously — a ship’s crew or a team of mages performing a group ritual spell — each person benefits independently. The ship’s sleek hydrodynamic design provides a Boost to the helmsman’s maneuvering, the long cannon’s extended range helps the gunner’s aim, and the well-stocked hold helps the engineer’s damage control, all at the same time. Each is capped by their own relevant Role rank. While the GM might define each of these items separately, it’s reasonable to sometimes rank them collectively for simplicity’s sake.
+When multiple people use the same system simultaneously — a ship’s crew or a team of mages performing a group ritual spell — each person benefits independently. The ship’s sleek hydrodynamic design provides a [Boost](actions-and-timing.html#boost-actions) to the helmsman’s maneuvering, the long cannon’s extended range helps the gunner’s aim, and the well-stocked hold helps the engineer’s damage control, all at the same time. Each is capped by their own relevant [Role](roles.html) rank. While the GM might define each of these items separately, it’s reasonable to sometimes rank them collectively for simplicity’s sake.
 
-Two engineers working on separate damage spots will only compete if the supplies providing the Boost are limited — in which case the relevant Trait will be *[Ablative](traits.html)* and disappear as points of bonus are spent.
+Two engineers working on separate damage spots will only compete if the supplies providing the [Boost](actions-and-timing.html#boost-actions) are limited — in which case the relevant [Trait](traits.html) will be *[Ablative](traits.html)* and disappear as points of bonus are spent.
 
-This is why a well-crewed ship is so much more dangerous than an autopilot. An enchanted ship makes one roll per turn. A crew of five makes five rolls, each Boosted by the ship’s capabilities, each drawing on different Roles. The ship is one shared resource that many people tap differently.
+This is why a well-crewed ship is so much more dangerous than an autopilot. An enchanted ship makes one roll per turn. A crew of five makes five rolls, each [Boosted](actions-and-timing.html#boost-actions) by the ship’s capabilities, each drawing on different [Roles](roles.html). The ship is one shared resource that many people tap differently.
 
 ## Assisted Gear Traits
 
-Items with their own sheets can *also* have [Traits](gear-traits.html). A self-aiming crossbow might have a Sniper 2 sheet (for the targeting assist) AND a *Penetrating 1* rated Trait (for the armor-piercing bolts). The Assist Rule governs the targeting Boost. The Trait governs the contingent damage. They’re separate contributions from the same item, each following its own rules.
+Items with their own sheets can *also* have [Traits](gear-traits.html). A self-aiming crossbow might have a Sniper 2 sheet (for the targeting assist) AND a *Penetrating 1* rated [Trait](traits.html) (for the armor-piercing bolts). The Assist Rule governs the targeting [Boost](actions-and-timing.html#boost-actions). The [Trait](traits.html) governs the contingent damage. They’re separate contributions from the same item, each following its own rules.
 
 Don’t overcomplicate items! A powerful, sentient, ancient artifact that can do several things with its own character sheet is going to complicate your game. Remember that players can generally generate their own bonuses; cool items only need to give them an excuse.
 
@@ -55,7 +55,7 @@ Don’t overcomplicate items! A powerful, sentient, ancient artifact that can do
 
 The boundary is simple: ***does it make decisions?***
 
-If it just sits there being sharp, balanced, or magical — it’s a Trait. No sheet needed.
+If it just sits there being sharp, balanced, or magical — it’s a [Trait](traits.html). No sheet needed.
 
 If it aims itself, fights on its own, navigates, diagnoses, opens doors to give you cover, or does anything that requires judgment, however simple — it gets a sheet, and the Assist Rule applies.
 

@@ -8,11 +8,11 @@ Knowledge and Craft Roles
 
 Marta Brightquill (Level 2, Loremaster 2, Performer 1) serves as Millhaven's unofficial matchmaker, librarian, and keeper of family secrets. Her cottage overflows with carefully maintained records spanning four generations — birth dates, family connections, personality quirks, romantic disasters, and the intricate web of relationships that bind a small community together.
 
-> **Loremaster Maneuvers:**
+> **Loremaster [Maneuvers](../maneuvers.html):**
 > *Genealogy* 2 — Family histories, bloodlines, and the complex mathematics of suitable matches
 > *Local Customs* 2 — Village traditions, social expectations, and the unwritten rules of rural courtship
 >
-> **Performer Maneuver:**
+> **Performer [Maneuver](../maneuvers.html):**
 > *Social Mediation* 1 — Gentle guidance and diplomatic resolution of interpersonal conflicts
 
 This morning brings a delicate challenge. Young Willem the carpenter's son has been making eyes at Rosalie, the miller's daughter, but their families nurse a grudge over a disputed property line two decades ago. Meanwhile, Elena the baker's niece just returned from the capital with sophisticated city ways that have all the local boys tongue-tied, and old Henrik's grandson seems determined to court the blacksmith's daughter despite them being utterly unsuited for each other; he's sweet, but not very bright, while she's mean, spoiled, and vain.
@@ -23,7 +23,7 @@ Marta settles at her kitchen table with tea and opens her record books. Time for
 
 First, she needs to understand the full scope of today's romantic complications.
 
-> She decides to Wager her expertise carefully, banking 2 points for sustained strategic thinking throughout the day. With Level 2 + Loremaster 2 + Genealogy 2 + Local Customs 2 — 2 banked = EL6, she maps out family connections, personality matches, and social obstacles. Rolling a nice, safe 3d3: (2,1,0) for 3 against the village's accumulated romantic chaos rated at DL4. The GM rolls 1d5 for 2. Marta's expertise wins by 1, which turns her banked Wager into a *Strategic Overview 2* Boost that will persist through all her matchmaking efforts today.
+> She decides to [Wager](../wagered-actions.html) her expertise carefully, banking 2 points for sustained strategic thinking throughout the day. With Level 2 + Loremaster 2 + Genealogy 2 + Local Customs 2 — 2 banked = EL6, she maps out family connections, personality matches, and social obstacles. Rolling a nice, safe 3d3: (2,1,0) for 3 against the village's accumulated romantic chaos rated at DL4. The GM rolls 1d5 for 2. Marta's expertise wins by 1, which turns her banked [Wager](../wagered-actions.html) into a *Strategic Overview 2* [Boost](../actions-and-timing.html#boost-actions) that will persist through all her matchmaking efforts today.
 
 She identifies the core problem: Willem and Rosalie would actually be perfect together — their personalities complement beautifully, and they're clearly smitten… but that old property dispute creates a social barrier neither youngster can navigate alone.
 
@@ -41,9 +41,9 @@ Rosalie's immediate blush and defensive response — "I'm sure I wouldn't know a
 
 Now comes the delicate part — planting hope without seeming manipulative.
 
-> With her Strategic Overview 2 still active, Marta combines her knowledge with gentle social pressure: Level 2 + Loremaster 2 + Performer 1 + Social Mediation 1 + Strategic Overview 2 = EL8. Rolling 3d4: (3,2,1) for 6 against Rosalie's natural reticence (EL3), rolling 1d4 for 1. Success by 5 — she creates a powerful *Romantic Hope 5* Boost in the girl's thinking.
+> With her Strategic Overview 2 still active, Marta combines her knowledge with gentle social pressure: Level 2 + Loremaster 2 + Performer 1 + Social Mediation 1 + Strategic Overview 2 = EL8. Rolling 3d4: (3,2,1) for 6 against Rosalie's natural reticence (EL3), rolling 1d4 for 1. Success by 5 — she creates a powerful *Romantic Hope 5* [Boost](../actions-and-timing.html#boost-actions) in the girl's thinking.
 
-"You know," Marta muses, "I've been thinking about that old boundary dispute. Such a silly thing to let fester when both families are good people who've contributed so much to our community." She pauses thoughtfully. "Sometimes it takes the younger generation to show us better ways forward." She leaves the Boost for Rosalie to use how she will.
+"You know," Marta muses, "I've been thinking about that old boundary dispute. Such a silly thing to let fester when both families are good people who've contributed so much to our community." She pauses thoughtfully. "Sometimes it takes the younger generation to show us better ways forward." She leaves the [Boost](../actions-and-timing.html#boost-actions) for Rosalie to use how she will.
 
 Rosalie's eyes light up with understanding and possibility.
 

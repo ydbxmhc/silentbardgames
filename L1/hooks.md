@@ -1,10 +1,10 @@
-[Home](index.md) › Characters › Hooks
+[Home](index.html) › Characters › Hooks
 
 Characters
 
 # Hooks - Your Character’s Engine
 
-If Roles define what your character does well, Hooks define what they *will* do, or won't, and why. They're the motivations, drives, and complications that transform a collection of abilities into a *character* with agency in the game world. They're not just character background, they have actual mechanical value that earns Karma and Luck Tokens and provides bonuses when they matter most. Most importantly, they tell the GM what kind of game you want to play, and help him set it up for you. A well-crafted Hook will consistently create opportunities, complicate situations, and reward you for playing your character authentically.
+If [Roles](roles.html) define what your character does well, Hooks define what they *will* do, or won't, and why. They're the motivations, drives, and complications that transform a collection of abilities into a *character* with agency in the game world. They're not just character background, they have actual mechanical value that earns [Karma](karma.html) and [Luck Tokens](luck.html) and provides bonuses when they matter most. Most importantly, they tell the GM what kind of game you want to play, and help him set it up for you. A well-crafted Hook will consistently create opportunities, complicate situations, and reward you for playing your character authentically.
 
 A good Hook serves at least three functions:
 
@@ -12,9 +12,9 @@ They **Drive the Story Forward**. Hooks give your character reasons to take risk
 
 They **Provide Mechanical Bonuses**. Once per scene, you can add your Hook's current rank to any roll where it's relevant. The character is *motivated*. The GM may also apply it for free when it obviously fits. When the story is about the character's Hooks, this should happen pretty often.
 
-They **Generate Karma!** When Hooks complicate life, you get paid. The more dramatically a Hook impacts your choices, the more it's worth. If a Hook has already been triggered this session, triggering it again generates a Luck Token instead; but that's awesomeness in your pocket.
+They **Generate [Karma](karma.html)!** When Hooks complicate life, you get paid. The more dramatically a Hook impacts your choices, the more it's worth. If a Hook has already been triggered this session, triggering it again generates a [Luck Token](luck.html) instead; but that's awesomeness in your pocket.
 
 ---
 
-- [← Previous: Building a Character](chargen.md)
-- [Next →: How They Work in Play](hooks-how-they-work.md)
+- [← Previous: Building a Character](chargen.html)
+- [Next →: How They Work in Play](hooks-how-they-work.html)

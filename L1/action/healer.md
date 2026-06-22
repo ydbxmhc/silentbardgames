@@ -7,9 +7,9 @@ Knowledge and Craft Roles
 *Tamoen demonstrates medical expertise under impossible conditions*
 
 > Level 1, Healer 1, Adept 1, Naturalist 1
-> Healer Maneuver: *Infections 1*
-> Naturalist Maneuver: *Herbalism 1*
-> Adept Maneuver: *Fire Shaper 1*
+> Healer [Maneuver](../maneuvers.html): *Infections 1*
+> Naturalist [Maneuver](../maneuvers.html): *Herbalism 1*
+> Adept [Maneuver](../maneuvers.html): *Fire Shaper 1*
 
 The crow cawed once and settled on his cloak rack as another wounded guard stumbled through the tent flap, clutching his shoulder. Tamoen glanced up from a woman whose arm he was splinting and nodded toward the only empty cot. "Sit. Don't bleed on my clean bandages."
 
@@ -19,7 +19,7 @@ Three days into the siege, the makeshift infirmary had developed its own grim rh
 
 Tam picked a hooked blade from the table. The man squeezed his eye shut, but Tam only began cutting away his compromised armor and clothing to expose his bleeding shoulder. The new arrival was a simple case — a deep puncture from a field-point arrow. Tam was young but well trained for his age. He assessed the wound.
 
-> He's Level 1 + Healer 1 = EL2, rolling a 2. The man's Battlefield Wound 2 rolled 1d[0-2] for a 0 and seemed to hide no secrets, giving Tam a *Diagnosis 2* Boost.
+> He's Level 1 + Healer 1 = EL2, rolling a 2. The man's Battlefield Wound 2 rolled 1d[0-2] for a 0 and seemed to hide no secrets, giving Tam a *Diagnosis 2* [Boost](../actions-and-timing.html#boost-actions).
 
 The wound represented significant trauma, but it was fresh and clean — nothing exotic requiring specialized knowledge. There was muscle damage but no arterial bleeding, no foreign debris, a good chance of full recovery with proper care.
 
@@ -49,7 +49,7 @@ He woke when the crow raised a fuss at more men coming through the tent flap. He
 
 Tam frowned at the sergeant and silenced the babbling of the soldier that had brought him in. "Why are you wearing that boot? I told you to stay off it."
 
-> **Extreme Recovery Failure!**
+> **Extreme [Recovery](../recovery.html) Failure!**
 >
 > Sergeant Doek came to see Tamoen a few days ago for an injured foot. His other hurts have healed, but this one persists. This morning his daily recovery rolled (0,0,0) — an Extreme failure. The foot has become infected and gone septic overnight.
 
@@ -87,7 +87,7 @@ The soldier blinked. "I —" He just shook his head. He didn't want to make the 
 
 By the time the midwife arrived he had everything prepared. The powder in the soup had begun its work, and Doek's troubled murmurs had faded to complete stupor. Fresh bandages were boiling, clamps and pincers and several knives were cleaned and ready, a saw, needles and fine, strong silk thread, strong coffee, a fresh bottle of brandy; he handed the terrified woman a brandy-laced coffee and told her to drink every drop. The poor woman spoke not a word, but did as bid with a fierce grimace, and he assessed her with an approving nod.
 
-> He used the sedative as a Wagered boost for the surgery. At Level 1 + Healer 1 + Naturalist 1 + Herbalism 1 = EL4 he set aside just the one point for a final EL3. He rolled 3d2 (0,0,1) for a 1. The sergeant resisted with only his base level of 3, but his Festering Wound 2 limited him to a single die for a 0, and he slept soundly, giving Tam a *Sedated Patient 1* persistent Boost.
+> He used the sedative as a [Wagered](../wagered-actions.html) boost for the surgery. At Level 1 + Healer 1 + Naturalist 1 + Herbalism 1 = EL4 he set aside just the one point for a final EL3. He rolled 3d2 (0,0,1) for a 1. The sergeant resisted with only his base level of 3, but his Festering Wound 2 limited him to a single die for a 0, and he slept soundly, giving Tam a *Sedated Patient 1* persistent [Boost](../actions-and-timing.html#boost-actions).
 
 > He had prepared his operating space as well as he could with Level 1 + Healer 1 + Infections 1 = EL3, rolling a careful 3d2 (0,0,1) for a 1 vs DL2 Questionable Conditions which rolled 1d3 for a 2, hindering him with a *Poor Environment 1*. The midwife was also Level 1 + Healer 1 = EL2 and she rolled 2d2 (0,0) for a 0 to help, but the DL2 Questionable Conditions also rolled (0,0) for a 0 to make her no hindrance.
 
@@ -99,7 +99,7 @@ Doek's critical condition had been removed, and was now in the bucket at the foo
 
 > **A Changed Man**
 >
-> The sergeant now has an **Amputee** Hook on his character sheet which acts like any other.
+> The sergeant now has an **Amputee** [Hook](../hooks.html) on his character sheet which acts like any other.
 
 As dawn broke over the embattled town, the crow cawed once more and took flight through the open tent flap. Tamoen gathered his tools and prepared for whatever new casualties the day would bring. Behind him, the sergeant slept heavily.
 
