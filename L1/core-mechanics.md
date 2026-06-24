@@ -1,4 +1,4 @@
-[Home](/L1/index.md) › Core Mechanics
+[Home](/L1/index.html) › Core Mechanics
 
 Core Mechanics
 
@@ -10,5 +10,5 @@ A lot of the time you won't need any "mechanics" at all. You've built an interes
 
 ---
 
-- [← Previous: Quick Start](quickstart.md)
-- [Next →: Dice & Tests](mechanics.md)
+- [← Previous: Quick Start](quickstart.html)
+- [Next →: Dice & Tests](mechanics.html)

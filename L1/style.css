@@ -437,3 +437,16 @@ p.epigraph {
   .reading-layout[data-rails="on"] .content-wrap { margin: 0; grid-column: 2; }
   .reading-layout[data-rails="on"] .rail { display: block; }
 }
+
+/* ---- Page footer ---- */
+#page-footer {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+  font-size: var(--size-small);
+  color: var(--ink-light);
+  border-top: 1px solid var(--rule);
+  margin-top: 2rem;
+}
+#page-footer p { margin: 0; }
+#page-footer a { color: var(--ink-light); text-decoration: none; }
+#page-footer a:hover { color: var(--accent); }

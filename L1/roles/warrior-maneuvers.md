@@ -1,4 +1,4 @@
-[Home](../index.md) › [Roles](../roles.md) › [Warrior](warrior.md) › Common Warrior Maneuvers
+[Home](../index.html) › [Roles](../roles.html) › [Warrior](warrior.html) › Common Warrior Maneuvers
 
 Combat Roles
 
@@ -24,5 +24,5 @@ Each represents expertise that transfers between related situations. A Warrior w
 
 ---
 
-- [← Previous: Warrior](warrior.md)
-- [Next →: A Warrior In Action](../action/warrior.md)
+- [← Previous: Warrior](warrior.html)
+- [Next →: A Warrior In Action](../action/warrior.html)

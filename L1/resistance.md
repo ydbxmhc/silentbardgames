@@ -1,4 +1,4 @@
-[Home](index.md) › Core Mechanics › Resistance
+[Home](index.html) › Core Mechanics › Resistance
 
 Core Mechanics
 
@@ -14,5 +14,5 @@ What's *splitting*? I'm so glad you asked!
 
 ---
 
-- [← Previous: Actions and Timing](actions-and-timing.md)
-- [Next →: Multiple Actions](multiple-actions.md)
+- [← Previous: Actions and Timing](actions-and-timing.html)
+- [Next →: Multiple Actions](multiple-actions.html)

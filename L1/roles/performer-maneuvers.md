@@ -1,4 +1,4 @@
-[Home](../index.md) › [Roles](../roles.md) › [Performer](performer.md) › Common Performer Maneuvers
+[Home](../index.html) › [Roles](../roles.html) › [Performer](performer.html) › Common Performer Maneuvers
 
 Social Roles
 
@@ -31,5 +31,5 @@ The most effective Performers understand that their greatest performances happen
 
 ---
 
-- [← Previous: Performer](performer.md)
-- [Next →: Advanced Applications](performer-advanced.md)
+- [← Previous: Performer](performer.html)
+- [Next →: Advanced Applications](performer-advanced.html)

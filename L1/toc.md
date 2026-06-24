@@ -215,4 +215,5 @@
         - [Spectres](threats.html)
         - [Shades](threats.html)
   - [License](license.html)
+  - [Make Your Own](compatibility.html)
   - [Art Credits](credits.html)

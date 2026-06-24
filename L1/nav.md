@@ -4,17 +4,17 @@
 
 ← [⚙ Display Settings](settings.html)
 
-[Table of Contents](toc.html)
+[Table of Contents](toc.html) [Make Your Own →](compatibility.html)
 
 **Getting Started**
 
 [This is a Game?](start.html) [The Core Loop](core-loop.html) [Quick Start](quickstart.html)
 
-[Core Mechanics](core-mechanics.html) [Dice & Tests](mechanics.html) [Resistance & Opposition](resistance-and-opposition.html) [Can I Try Again?](can-i-try-again.html) [Accumulated Progress](accumulated-progress.html) [Actions & Timing](actions-and-timing.html) [Resistance](resistance.html) [Multiple Actions](multiple-actions.html) [Wagered Actions](wagered-actions.html) [Luck Tokens](luck.html) [Picking Your Dice](dice.html) [Extreme Results](extreme-results.html) [Harm and Recovery](harm.html) [Three Types of Harm - and One More](types-of-harm.html) [Feeling Down?](feeling-down.html) [Recovery](recovery.html) [The Oddball Rule](oddball-rule.html) [The Messy Reality](messy-reality.html) [So…What Do I Roll?](what-do-i-roll.html) [Advanced Options](advanced-options.html) [Gear](gear.html) [What Gear Does](what-gear-does.html) [Armor](armor.html) [Weapons](weapons.html) [Other Gear](other-gear.html) [How Characters Improve](karma.html) [Spending Karma](spending-karma.html)
+[Core Mechanics](core-mechanics.html) [Dice & Tests](mechanics.html) [Resistance & Opposition](resistance-and-opposition.html) [Can I Try Again?](can-i-try-again.html) [Accumulated Progress](accumulated-progress.html) [Actions & Timing](actions-and-timing.html) [Resistance](resistance.html) [Multiple Actions](multiple-actions.html) [Wagered Actions](wagered-actions.html) [Luck Tokens](luck.html) [Picking Your Dice](dice.html) [Extreme Results](extreme-results.html) [Harm and Recovery](harm.html) [Three Types of Harm - and One More](types-of-harm.html) [Feeling Down?](feeling-down.html) [Recovery](recovery.html) [The Oddball Rule](oddball-rule.html) [The Messy Reality](messy-reality.html) [So…What Do I Roll?](what-do-i-roll.html) [Advanced Options](advanced-options.html) [Gear](gear.html) [What Gear Does](what-gear-does.html) [Armor](armor.html) [Weapons](weapons.html) [Other Gear](other-gear.html) [Gear Traits](gear-traits.html) [The Assist Rule](assist-rule.html) [How Characters Improve](karma.html) [Spending Karma](spending-karma.html)
 
 **Characters**
 
-[Building a Character](chargen.html) [Hooks](hooks.html) [How They Work in Play](hooks-how-they-work.html) [Crafting Good Hooks](crafting-good-hooks.html) [Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.html) [Common Pitfalls](common-pitfalls.html) [Hooks and Growth](hooks-and-growth.html) [Nonhuman Characters](nonhuman.html) [Nonhuman As A Hook](nonhuman-as-a-hook.html)
+[Building a Character](chargen.html) [Hooks](hooks.html) [How They Work in Play](hooks-how-they-work.html) [Crafting Good Hooks](crafting-good-hooks.html) [Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.html) [Common Pitfalls](common-pitfalls.html) [Hooks and Growth](hooks-and-growth.html) [Hooks on Credit](hooks-on-credit.html) [Nonhuman Characters](nonhuman.html) [Nonhuman As A Hook](nonhuman-as-a-hook.html)
 
 [Roles](roles.html) [Roles — What You Do Well](roles.html) [The Nature of Roles](the-nature-of-roles.html) [Mechanical Function](mechanical-function.html) [Maneuvers](maneuvers.html) [The Sweet Spot](the-sweet-spot.html) [Examples in Practice](examples-in-practice.html) [Role Synergy](role-synergy.html)
 
