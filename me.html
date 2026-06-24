@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Silent Bard &#8212; Leland Waywright</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/L1/style.css">
+  <style>
+    /* ---- me.html layout ---- */
+    .me-outer {
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    .me-layout {
+      max-width: var(--content-max);
+      margin: 0 auto;
+    }
+
+    /* Profile header */
+    .me-profile {
+      text-align: center;
+      padding-bottom: 1.75rem;
+      margin-bottom: 1.75rem;
+      border-bottom: 1px solid var(--rule);
+    }
+    .me-name {
+      font-family: var(--font-display);
+      font-size: 2.2rem;
+      color: var(--accent);
+      font-style: italic;
+      line-height: 1.1;
+      margin-bottom: 0.3rem;
+    }
+    .me-handle {
+      font-size: var(--size-small);
+      color: var(--ink-light);
+      letter-spacing: 0.1em;
+      margin-bottom: 0.6rem;
+    }
+    .me-bio {
+      font-size: 0.95rem;
+      color: var(--ink-mid);
+      font-style: italic;
+    }
+
+    /* Link cards */
+    .me-links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.6rem;
+    }
+
+    .me-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 0.9rem 1.25rem;
+      border: 1px solid var(--rule);
+      text-decoration: none;
+      color: var(--ink);
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .me-card:hover {
+      border-color: var(--accent);
+      background: rgba(196, 98, 26, 0.05);
+      color: var(--ink);
+    }
+    .me-card.featured {
+      border-color: var(--accent);
+      background: rgba(196, 98, 26, 0.07);
+      padding: 1.1rem 1.25rem;
+    }
+    .me-card.featured:hover {
+      background: rgba(196, 98, 26, 0.14);
+    }
+
+    .me-card-body { flex: 1; }
+    .me-card-label {
+      font-size: 0.65rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin-bottom: 0.2rem;
+    }
+    .me-card.featured .me-card-label { color: var(--accent); }
+    .me-card-title {
+      font-family: var(--font-display);
+      font-style: italic;
+      font-size: 1.15rem;
+      color: var(--accent);
+      line-height: 1.2;
+    }
+    .me-card.featured .me-card-title { font-size: 1.3rem; }
+    .me-card-desc {
+      font-size: 0.82rem;
+      color: var(--ink-mid);
+      margin-top: 0.2rem;
+      line-height: 1.4;
+    }
+    .me-card-arrow {
+      color: var(--ink-light);
+      font-size: 1rem;
+      flex-shrink: 0;
+      transition: color 0.2s;
+    }
+    .me-card:hover .me-card-arrow { color: var(--accent); }
+
+    /* Section dividers */
+    .me-section {
+      font-size: 0.65rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      text-align: center;
+      padding: 0.75rem 0 0.4rem;
+    }
+
+    /* Rail promos */
+    .me-rail { display: none; }
+
+    .me-promo {
+      border: 1px solid var(--rule);
+      padding: 1.25rem;
+      text-align: center;
+      position: sticky;
+      top: calc(var(--header-h) + 1.5rem);
+    }
+    .me-promo-eyebrow {
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin-bottom: 0.5rem;
+    }
+    .me-promo-title {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
+      color: var(--accent);
+      font-style: italic;
+      line-height: 1.2;
+      margin-bottom: 0.6rem;
+    }
+    .me-promo-body {
+      font-size: 0.82rem;
+      color: var(--ink-mid);
+      font-style: italic;
+      line-height: 1.55;
+      margin-bottom: 1rem;
+    }
+    .me-promo-btn {
+      display: block;
+      padding: 0.55rem 1rem;
+      background: var(--accent);
+      color: var(--bg);
+      text-decoration: none;
+      font-family: var(--font-display);
+      font-style: italic;
+      font-size: 0.9rem;
+      letter-spacing: 0.03em;
+      transition: background 0.2s, color 0.2s, outline 0.2s;
+    }
+    .me-promo-btn:hover {
+      background: transparent;
+      color: var(--accent);
+      outline: 1px solid var(--accent);
+    }
+
+    /* Two-column layout at medium widths */
+    @media (min-width: 760px) {
+      .me-links {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.6rem;
+      }
+      .me-card.featured,
+      .me-section { grid-column: 1 / -1; }
+    }
+
+    /* Three-column layout with rails at wide widths */
+    @media (min-width: 1100px) {
+      .me-layout {
+        max-width: 1160px;
+        display: grid;
+        grid-template-columns: 200px 1fr 200px;
+        column-gap: 1.75rem;
+        align-items: start;
+      }
+      .me-profile { grid-column: 2; }
+      .me-links   { grid-column: 2; grid-template-columns: 1fr; }
+      .me-section { grid-column: 1 / -1; }
+      .me-rail    { display: block; }
+      .me-rail-left  { grid-column: 1; grid-row: 1 / 10; }
+      .me-rail-right { grid-column: 3; grid-row: 1 / 10; }
+    }
+  </style>
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header"></header>
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+
+  <main id="main">
+    <div class="me-outer">
+      <div class="me-layout">
+
+        <!-- Left rail: free rules -->
+        <aside class="me-rail me-rail-left">
+          <div class="me-promo">
+            <p class="me-promo-eyebrow">Free to Read</p>
+            <p class="me-promo-title">Level One RPG</p>
+            <p class="me-promo-body">No classes. Any dice. Stories first. The complete rules, free on the web.</p>
+            <a href="/L1/" class="me-promo-btn">Open the Book &#8594;</a>
+          </div>
+        </aside>
+
+        <!-- Profile -->
+        <div class="me-profile">
+          <h1 class="me-name">The Silent Bard</h1>
+          <p class="me-handle">Leland Waywright &nbsp;&#183;&nbsp; @talespintavern</p>
+          <p class="me-bio">TTRPG designer &amp; storyteller. Keeper of the Talespin Tavern.</p>
+        </div>
+
+        <!-- Links -->
+        <div class="me-links">
+
+          <a href="https://www.kickstarter.com/projects/thesilentbard/level-one-a-flexible-fantasy-ttrpg" class="me-card featured">
+            <div class="me-card-body">
+              <p class="me-card-label">Kickstarter &#8212; Prelaunch Now</p>
+              <p class="me-card-title">Level One RPG</p>
+              <p class="me-card-desc">Follow the campaign &#8212; be the first to know when we launch.</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <a href="/L1/" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">Free Web Rulebook</p>
+              <p class="me-card-title">Level One RPG</p>
+              <p class="me-card-desc">Read the complete rules free online.</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <a href="https://silentbardgames.itch.io/level-one-rpg" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">itch.io</p>
+              <p class="me-card-title">Level One on Itch</p>
+              <p class="me-card-desc">Download the PDF &amp; support the game.</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <p class="me-section">The Talespin Tavern</p>
+
+          <a href="https://talespintavern.blogspot.com/" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">Blog</p>
+              <p class="me-card-title">Talespin Tavern</p>
+              <p class="me-card-desc">Design notes, actual plays &amp; session stories.</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <a href="https://www.twitch.tv/talespintavern" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">Live on Twitch</p>
+              <p class="me-card-title">Talespin Tavern</p>
+              <p class="me-card-desc">Actual plays, design streams &amp; tavern nights.</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <p class="me-section">Find Me</p>
+
+          <a href="http://bsky.social.talespintavern/" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">BlueSky</p>
+              <p class="me-card-title">@talespintavern</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <a href="https://www.facebook.com/talespintavern" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">Facebook</p>
+              <p class="me-card-title">Talespin Tavern</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+          <a href="https://www.instagram.com/talespintavern/" class="me-card">
+            <div class="me-card-body">
+              <p class="me-card-label">Instagram</p>
+              <p class="me-card-title">@talespintavern</p>
+            </div>
+            <span class="me-card-arrow">&#8594;</span>
+          </a>
+
+        </div><!-- /.me-links -->
+
+        <!-- Right rail: Kickstarter -->
+        <aside class="me-rail me-rail-right">
+          <div class="me-promo">
+            <p class="me-promo-eyebrow">Kickstarter &#8212; Prelaunch</p>
+            <p class="me-promo-title">Level One RPG</p>
+            <p class="me-promo-body">A flexible fantasy TTRPG. No classes. Any dice. Follow the campaign and be first to know when we launch.</p>
+            <a href="https://www.kickstarter.com/projects/thesilentbard/level-one-a-flexible-fantasy-ttrpg" class="me-promo-btn">Follow the Launch &#8594;</a>
+          </div>
+        </aside>
+
+      </div><!-- /.me-layout -->
+    </div><!-- /.me-outer -->
+  </main>
+
+  <footer id="page-footer">
+    <p><em>Level One</em> is free and open under <a href="/L1/license.html">CC BY 4.0</a>. <a href="/L1/compatibility.html">Make your own &#8594;</a></p>
+  </footer>
+
+  <script src="/L1/config.js"></script>
+  <script src="/resources/nav.js"></script>
+</body>
+</html>
