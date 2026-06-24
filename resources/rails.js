@@ -85,6 +85,10 @@
       r.checked = (r.value === L1Prefs.get('railside'));
       r.addEventListener('change', () => { if (r.checked) L1Prefs.set('railside', r.value); });
     });
+    scope.querySelectorAll('input[name="railmode"]').forEach(r => {
+      r.checked = (r.value === L1Prefs.get('railmode'));
+      r.addEventListener('change', () => { if (r.checked) L1Prefs.set('railmode', r.value); });
+    });
     scope.querySelectorAll('.settings-group').forEach(g => {
       const head = (g.querySelector('h2') || {}).textContent || '';
       const cb = g.querySelector('input[type="checkbox"]');
@@ -171,11 +175,125 @@
     return rail;
   }
 
+  /* ---- Drag-to-resize handles (State 2 only). In symmetric mode both handles
+     resize the centered column; in independent mode each sizes its own rail.
+     Widths persist per mode; double-click a handle to reset it. ---- */
+  function setupResize(layout, content) {
+    const root = document.documentElement;
+    const leftRail  = layout.querySelector('.rail-left');
+    const rightRail = layout.querySelector('.rail-right');
+    const MIN_CONTENT = 520, MIN_RAIL = 180, CONTENT_FLOOR = 380, EDGE = 80;
+
+    const hL = document.createElement('div');
+    hL.className = 'rail-resize rail-resize-left';
+    hL.dataset.side = 'left';
+    const hR = document.createElement('div');
+    hR.className = 'rail-resize rail-resize-right';
+    hR.dataset.side = 'right';
+    layout.appendChild(hL);
+    layout.appendChild(hR);
+
+    function reposition() {
+      const lr = layout.getBoundingClientRect();
+      const cr = content.getBoundingClientRect();
+      if (!cr.width) return;
+      hL.style.left = (cr.left - lr.left) + 'px';
+      hR.style.left = (cr.right - lr.left) + 'px';
+    }
+
+    function drag(x, side) {
+      const mode = root.getAttribute('data-railmode') || 'symmetric';
+      const vw = document.documentElement.clientWidth;
+      if (mode === 'symmetric') {
+        let w = 2 * Math.abs(x - vw / 2);
+        w = Math.max(MIN_CONTENT, Math.min(w, vw - 2 * MIN_RAIL - EDGE));
+        layout.style.setProperty('--content-w', Math.round(w) + 'px');
+      } else if (side === 'left') {
+        const other = parseFloat(getComputedStyle(layout).getPropertyValue('--rail-right-w')) || 240;
+        let w = x - leftRail.getBoundingClientRect().left;
+        w = Math.max(MIN_RAIL, Math.min(w, vw - other - CONTENT_FLOOR - EDGE));
+        layout.style.setProperty('--rail-left-w', Math.round(w) + 'px');
+      } else {
+        const other = parseFloat(getComputedStyle(layout).getPropertyValue('--rail-left-w')) || 240;
+        let w = rightRail.getBoundingClientRect().right - x;
+        w = Math.max(MIN_RAIL, Math.min(w, vw - other - CONTENT_FLOOR - EDGE));
+        layout.style.setProperty('--rail-right-w', Math.round(w) + 'px');
+      }
+      reposition();
+    }
+
+    function save() {
+      const mode = root.getAttribute('data-railmode') || 'symmetric';
+      const cs = getComputedStyle(layout);
+      if (mode === 'symmetric') {
+        const v = parseInt(cs.getPropertyValue('--content-w'), 10);
+        if (v) localStorage.setItem('l1-content-width', v);
+      } else {
+        const l = parseInt(cs.getPropertyValue('--rail-left-w'), 10);
+        const r = parseInt(cs.getPropertyValue('--rail-right-w'), 10);
+        if (l) localStorage.setItem('l1-rail-left-width', l);
+        if (r) localStorage.setItem('l1-rail-right-width', r);
+      }
+    }
+
+    function onDown(e) {
+      const h = e.currentTarget, side = h.dataset.side;
+      e.preventDefault();
+      h.setPointerCapture(e.pointerId);
+      h.classList.add('dragging');
+      document.body.classList.add('rails-resizing');
+      const move = ev => drag(ev.clientX, side);
+      const up = () => {
+        h.classList.remove('dragging');
+        document.body.classList.remove('rails-resizing');
+        h.removeEventListener('pointermove', move);
+        h.removeEventListener('pointerup', up);
+        save();
+      };
+      h.addEventListener('pointermove', move);
+      h.addEventListener('pointerup', up);
+    }
+
+    function reset(e) {
+      const side = e.currentTarget.dataset.side;
+      const mode = root.getAttribute('data-railmode') || 'symmetric';
+      if (mode === 'symmetric') {
+        layout.style.removeProperty('--content-w');
+        localStorage.removeItem('l1-content-width');
+      } else if (side === 'left') {
+        layout.style.removeProperty('--rail-left-w');
+        localStorage.removeItem('l1-rail-left-width');
+      } else {
+        layout.style.removeProperty('--rail-right-w');
+        localStorage.removeItem('l1-rail-right-width');
+      }
+      reposition();
+    }
+
+    [hL, hR].forEach(h => {
+      h.title = 'Drag to resize -- double-click to reset';
+      h.addEventListener('pointerdown', onDown);
+      h.addEventListener('dblclick', reset);
+    });
+
+    new ResizeObserver(reposition).observe(content);
+    window.addEventListener('resize', reposition);
+    reposition();
+  }
+
   function init() {
     const layout = document.createElement('div');
     layout.className = 'reading-layout';
     layout.setAttribute('data-rails', 'on');
     layout.setAttribute('data-side', pref('railside', 'left'));
+
+    // Apply any saved drag-resized widths (each resize mode keeps its own).
+    const savedCW = localStorage.getItem('l1-content-width');
+    if (savedCW) layout.style.setProperty('--content-w', savedCW + 'px');
+    const savedLW = localStorage.getItem('l1-rail-left-width');
+    if (savedLW) layout.style.setProperty('--rail-left-w', savedLW + 'px');
+    const savedRW = localStorage.getItem('l1-rail-right-width');
+    if (savedRW) layout.style.setProperty('--rail-right-w', savedRW + 'px');
 
     content.parentNode.insertBefore(layout, content);
     const left = buildRail('left', DEFAULTS.left);
@@ -185,6 +303,7 @@
     layout.appendChild(right.el);
     const rails = [left, right];
     rails.forEach(render);
+    setupResize(layout, content);
 
     // Exposed for a future owner control / auto-rotation: retarget every
     // un-pinned, open rail to a random promo source.

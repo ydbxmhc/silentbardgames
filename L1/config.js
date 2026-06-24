@@ -41,6 +41,9 @@ document.addEventListener('DOMContentLoaded', () => {
      l1-fontsize      normal  | large | xl
      l1-navbg         on      | off
      l1-reducemotion  off     | on
+     l1-rails         on      | off          (show side panels at all)
+     l1-railside      left    | right        (which panel survives the squeeze)
+     l1-railmode      symmetric | independent (resize: one centered handle vs two)
 
    CSS targets: html[data-theme="dark"] { ... } etc.
    See /resources/onesrd.css and /L1/style.css for the rules.
@@ -55,6 +58,7 @@ const L1Prefs = {
     reducemotion: 'off',
     rails:        'on',
     railside:     'left',
+    railmode:     'symmetric',
   },
 
   /* Read one preference (falls back to default if not set). */

@@ -71,6 +71,9 @@
         </p>
         <label><input type="radio" name="railside" value="left"> When only one fits, keep it on the left</label>
         <label><input type="radio" name="railside" value="right"> When only one fits, keep it on the right</label>
+        <p style="margin:0.75rem 0 0.4rem; font-size:var(--size-small); color:var(--ink-light);">When two panels show, the resize handles can:</p>
+        <label><input type="radio" name="railmode" value="symmetric"> Use one handle, keeping the column centered</label>
+        <label><input type="radio" name="railmode" value="independent"> Use two handles, sizing each side independently</label>
       </div>
 
       <div class="settings-actions">
@@ -110,6 +113,8 @@
       document.getElementById('pref-rails').checked = (L1Prefs.get('rails') === 'on');
       const railSideRadio = document.querySelector(`input[name="railside"][value="${L1Prefs.get('railside')}"]`);
       if (railSideRadio) railSideRadio.checked = true;
+      const railModeRadio = document.querySelector(`input[name="railmode"][value="${L1Prefs.get('railmode')}"]`);
+      if (railModeRadio) railModeRadio.checked = true;
 
       /* ---- Live preview as user changes controls ---- */
       document.querySelectorAll('input[name="theme"]').forEach(r => {
@@ -130,6 +135,9 @@
       document.querySelectorAll('input[name="railside"]').forEach(r => {
         r.addEventListener('change', () => L1Prefs._apply('railside', r.value));
       });
+      document.querySelectorAll('input[name="railmode"]').forEach(r => {
+        r.addEventListener('change', () => L1Prefs._apply('railmode', r.value));
+      });
 
       /* ---- Save button ---- */
       document.getElementById('save-btn').addEventListener('click', () => {
@@ -149,6 +157,8 @@
           document.getElementById('pref-rails').checked ? 'on' : 'off');
         const checkedSide = document.querySelector('input[name="railside"]:checked');
         if (checkedSide) L1Prefs.set('railside', checkedSide.value);
+        const checkedMode = document.querySelector('input[name="railmode"]:checked');
+        if (checkedMode) L1Prefs.set('railmode', checkedMode.value);
 
         const msg = document.getElementById('saved-msg');
         msg.classList.add('visible');
@@ -169,6 +179,8 @@
         document.getElementById('pref-rails').checked = true;
         const defSide = document.querySelector('input[name="railside"][value="left"]');
         if (defSide) defSide.checked = true;
+        const defMode = document.querySelector('input[name="railmode"][value="symmetric"]');
+        if (defMode) defMode.checked = true;
 
         const msg = document.getElementById('saved-msg');
         msg.textContent = 'Settings reset to defaults.';

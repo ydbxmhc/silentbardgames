@@ -349,6 +349,7 @@ p.epigraph {
   --card-max: 340px;   /* cap for card-style content (art / promo) */
 }
 
+.reading-layout { position: relative; }
 .rail { display: none; }
 .reading-layout[data-rails="off"] .rail { display: none !important; }
 .rail-inner { position: sticky; top: calc(var(--header-h) + 1rem); }
@@ -411,6 +412,22 @@ p.epigraph {
 }
 .rail .promo .promo-btn:hover { background: var(--accent-light); color: var(--bg); }
 
+/* ---- Drag handles to resize the column / rails (shown in State 2 only) ---- */
+.rail-resize {
+  display: none;
+  position: absolute; top: 0; bottom: 0;
+  width: 14px; transform: translateX(-50%);
+  cursor: col-resize; z-index: 6; touch-action: none;
+}
+.rail-resize::before {
+  content: ''; position: absolute; top: 0; bottom: 0; left: 6px;
+  width: 2px; background: var(--rule);
+  opacity: 0; transition: opacity var(--transition), background var(--transition);
+}
+.rail-resize:hover::before,
+.rail-resize.dragging::before { opacity: 1; background: var(--accent); }
+body.rails-resizing { cursor: col-resize; user-select: none; }
+
 /* ---- STATE 1: one panel (~1060-1339px); rail fills the open margin ---- */
 @media (min-width: 1060px) and (max-width: 1339.98px) {
   .reading-layout[data-rails="on"][data-side="right"] {
@@ -428,14 +445,22 @@ p.epigraph {
   .reading-layout[data-rails="on"][data-side="left"] .rail-left { display: block; }
 }
 
-/* ---- STATE 2: two panels (>=1340px); each rail fills its gutter ---- */
+/* ---- STATE 2: two panels (>=1340px). Symmetric mode = one draggable centered
+        column (rails fill); independent mode = two draggable rail widths. ---- */
 @media (min-width: 1340px) {
   .reading-layout[data-rails="on"] {
     display: grid; align-items: stretch; column-gap: var(--rail-gap);
     grid-template-columns: 1fr var(--content-max) 1fr; padding-inline: 1.5rem;
   }
-  .reading-layout[data-rails="on"] .content-wrap { margin: 0; grid-column: 2; }
+  html[data-railmode="symmetric"] .reading-layout[data-rails="on"] {
+    grid-template-columns: 1fr var(--content-w, var(--content-max)) 1fr;
+  }
+  html[data-railmode="independent"] .reading-layout[data-rails="on"] {
+    grid-template-columns: var(--rail-left-w, var(--rail-w)) 1fr var(--rail-right-w, var(--rail-w));
+  }
+  .reading-layout[data-rails="on"] .content-wrap { margin: 0; grid-column: 2; max-width: none; }
   .reading-layout[data-rails="on"] .rail { display: block; }
+  .reading-layout[data-rails="on"] .rail-resize { display: block; }
 }
 
 /* ---- Page footer ---- */
