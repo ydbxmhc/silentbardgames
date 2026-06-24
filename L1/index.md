@@ -8,12 +8,14 @@ a OneSRD game by The Silent Bard
 
 No classes. Any dice. Stories first.
 
-[Open the Book](start.html)
+[Open the Book](start.md)
 
-[Quick Start](quickstart.html) [Browse Roles](roles.html) [Core Mechanics](mechanics.html) [Example Builds](builds.html)
+[Table of Contents](toc.md) [Quick Start](quickstart.md) [Quick Reference](quick-reference.md) [License](license.md) [Safety Tools](safety.md)
 
-**Free and open.** Level One is licensed under CC BY 4.0 — read it, share it, [build on it](compatibility.html).
+[Get the PDF](https://silentbardgames.itch.io/level-one-rpg) [Kickstarter](https://www.kickstarter.com/projects/thesilentbard/level-one-a-flexible-fantasy-ttrpg) [Buy Me a Coffee](https://buymeacoffee.com/talespintavern)
+
+**Free and open.** Level One is licensed under CC BY 4.0 - read it, share it, [build on it](compatibility.md)!
 
 ---
 
-Art by Sabrina Alexander & others. See [credits](credits.html).
+Art by Sabrina Alexander & others. See [credits](credits.md).

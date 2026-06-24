@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quick Reference - Level One RPG</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/L1/style.css">
+  <style>
+    /* Quick Reference: compact "print" presentation.
+       Toggled on screen by the checkbox; applied automatically when printing
+       (beforeprint adds .compact). The page background is intentionally left
+       alone -- tick "Background graphics" in the print dialog to keep it. */
+    .qr-controls { margin: 0 0 1.25rem; font-size: 0.9rem; color: var(--ink-mid); }
+    .qr-controls input { accent-color: var(--accent); margin-right: 0.4rem; }
+
+    /* Compact view: full width, two columns, tightened spacing. */
+    .content-wrap.compact { max-width: none; columns: 2; column-gap: 1.4rem; }
+    .reading-layout:has(.content-wrap.compact) { display: block; padding: 0; }
+    .reading-layout:has(.content-wrap.compact) .rail,
+    .reading-layout:has(.content-wrap.compact) .rail-resize { display: none; }
+
+    .content-wrap.compact .page-header { column-span: all; margin-bottom: 0.1rem; padding-bottom: 0; border-bottom: none; }
+    .content-wrap.compact h1::after { display: none; }
+    .content-wrap.compact .qr-controls { column-span: all; }
+    .content-wrap.compact .breadcrumb,
+    .content-wrap.compact .page-category,
+    .content-wrap.compact .page-nav { display: none; }
+    .content-wrap.compact h1 { font-size: 1.3rem; margin-bottom: 0.2rem; }
+    .content-wrap.compact h2 { font-size: 0.92rem; margin: 0.38rem 0 0.12rem; padding-bottom: 1px; }
+    .content-wrap.compact h3 { font-size: 0.85rem; margin: 0.28rem 0 0.08rem; }
+    .content-wrap.compact p { margin-bottom: 0.18rem; font-size: 0.78rem; line-height: 1.3; }
+    .content-wrap.compact .roll-block { margin: 0.25rem 0; padding: 0.28rem 0.5rem; font-size: 0.78rem; }
+    .content-wrap.compact .box { margin: 0.25rem 0; padding: 0.25rem 0.5rem; }
+    .content-wrap.compact .box p { font-size: 0.78rem; margin-bottom: 0.12rem; }
+    /* keep related blocks from splitting across columns or pages */
+    .content-wrap.compact h2,
+    .content-wrap.compact h3,
+    .content-wrap.compact .box,
+    .content-wrap.compact .roll-block { break-inside: avoid; }
+    .content-wrap.compact h2 { break-after: avoid; }
+
+    @media print {
+      /* hide site chrome; leave the body background as-is */
+      #site-header, #drawer, #overlay, .qr-controls { display: none !important; }
+      #main { padding-top: 0 !important; padding-bottom: 0 !important; }
+      @page { margin: 0.5in; }
+    }
+  </style>
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header"></header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+
+  <main id="main">
+    <div class="content-wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Quick Reference</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">Appendices</span>
+        <h1>Level One Quick Reference</h1>
+      </header>
+
+      <div class="qr-controls">
+        <label><input type="checkbox" id="qr-compact"> Compact / print view</label>
+      </div>
+
+      <h2>Effective Level</h2>
+      <div class="roll-block">
+        <p>EL = Level + Role + Maneuvers + Modifiers</p>
+      </div>
+      <p>Roll greater than 0 and not greater than your EL. Your result minus opposition or resistance is your <em>Effect</em> - what actually happens.</p>
+      <div class="box">
+        <p>No relevant Role: roll at <strong>Base EL = Level only.</strong></p>
+        <p>Role rank cannot exceed your Level.</p>
+        <p>Maneuver rank cannot exceed its parent Role rank.</p>
+      </div>
+
+      <h2>Rolling Dice</h2>
+      <p><span class="term">Simple Pool.</span> Pick up one die for every point of your Effective Level (EL) and roll them all at once. Count the dice showing odd numbers - that's your result. Any die works as long as it has roughly equal odd and even faces: d6, d8, d10, d12, even coins.</p>
+      <div class="box">
+        <p><em>EL 8 means eight dice. Roll them, count the odds. Five come up odd - your result is 5.</em></p>
+      </div>
+      <p><span class="term">Extra Effort.</span> Roll extra dice beyond your EL. More dice push your result toward the middle, improving odds of a solid outcome. The catch: if your total count <em>exceeds</em> your EL, the roll fails completely - zero effect, regardless of opposition.</p>
+
+      <h2>Action Types</h2>
+      <p><span class="term">Free Action.</span> No turn required. Usable repeatedly - defense, recovery rolls, releasing a bound spell, short statements.</p>
+      <p><span class="term">Direct Action.</span> Attempt to overcome an obstacle or opponent directly. Effect accumulates against the same target across multiple actions.</p>
+      <p><span class="term">Boost Action.</span> Create an advantage. Your effect becomes a bonus added to the next relevant EL. Boosts last until used or the scene ends.</p>
+
+      <h2>Boosts &amp; Persistent Wagers</h2>
+      <p>Instead of directly overcoming an obstacle, create an advantage for a future action. Your effect becomes a bonus added to the next relevant EL.</p>
+      <p><strong>Persistent Wagers</strong> remove points from your EL before rolling. If your roll succeeds without them, the wagered points become a Boost that lasts for the entire scene.</p>
+
+      <h2>Opposition &amp; Resistance</h2>
+      <p><span class="term">Opposition</span> <em>(default).</em> Both sides roll. Higher result wins; the winner's effect can harm the loser. Initiative is typically irrelevant - everyone acts and rolls simultaneously.</p>
+      <p><span class="term">Resistance.</span> Opponent rolls to reduce your effect but generates no effect back. Resistance rolls don't consume the opponent's turn.</p>
+
+      <h2>Hooks</h2>
+      <p>Character motivations, traits, complications, fears, desires. Hooks make your character memorable and mechanically rewarding to play.</p>
+      <p><span class="term">Using Hooks.</span> Once per scene, add your Hook's rank as a bonus to any roll where the Hook is clearly relevant.</p>
+      <p><span class="term">Earning Karma.</span> When a Hook creates meaningful problems, drives difficult decisions, or complicates your life, you earn Karma (once per session) or a Luck Token, and can rank up the Hook after the session (max = Level).</p>
+      <div class="box highlight">
+        <p><strong>Temporary Hook</strong> - Forced behavioral condition from Harm (poison, curse, fear). Acts as a Hook but grants no Karma. The character must act within its constraints until it's resolved.</p>
+      </div>
+
+      <h2>Harm &amp; Recovery</h2>
+      <p><span class="term">Hindrance.</span> Situational obstacle. Does <em>not</em> count toward being Down. Removed through story action - narrate your way out of it.</p>
+      <p><span class="term">Complication.</span> Temporary harm. Disappears on <em>any</em> successful recovery roll.</p>
+      <p><span class="term">Injury.</span> Lasting damage that reduces EL until healed. Requires daily recovery rolls to clear.</p>
+      <p><span class="term">Temporary Hook.</span> Forced behavioral condition. Acts as a Hook but grants no Karma. Poison, disease, fear, and curses often deal this kind of Harm. Must act within its constraints until resolved.</p>
+      <div class="box highlight">
+        <p><strong>Down:</strong> When Injury + Complications &gt; Level. Only Free Actions until total Harm drops below your Level.</p>
+      </div>
+
+      <h2>Recovery</h2>
+      <p><span class="term">Post-Conflict</span> <em>(Free Action, soon after conflict).</em> Roll Level + any Healer boost. Your effect determines how much Harm was Complication (disappears) vs. Injury (remains).</p>
+      <p><span class="term">Armor Second Recovery.</span> After post-conflict recovery, armor grants a second roll - converting remaining Injury to Complications that persist until daily recovery.</p>
+      <p><span class="term">Daily Recovery</span> <em>(Free Action, once per day when rested).</em> Roll Level + any Healer boost against current Injury total. Effect reduces Injury by that amount.</p>
+      <div class="box">
+        <span class="box-title">Without Food &amp; Shelter</span>
+        <p>Characters cannot make recovery rolls and must resist privation daily or suffer escalating fatigue as Harm.</p>
+      </div>
+      <p>Down threshold = Level + 1 Harm</p>
+
+      <h2>Luck Tokens</h2>
+      <p>1 per Level at start; +1 per scene if you spent one last scene.<br>
+      1 Karma Token (the blue chip) = emergency supertoken.</p>
+      <h3>Spend a Token to:</h3>
+      <p><span class="term">Best Possible Roll.</span> Change any die roll to the best possible result - even after seeing the opposition's roll.</p>
+      <p><span class="term">Plot Armor!</span> Have your gear absorb ALL damage from one hit. Gear rating is reduced by the amount absorbed.</p>
+      <p><span class="term">Story Point.</span> Declare a plausible story event or fact. Negotiate with the GM - it must fit the fiction.</p>
+      <p><span class="term">Wager Auto-Succeed.</span> Spend a Token to automatically succeed on a Persistent Wager roll - the wagered dice become a full scene Boost without rolling.</p>
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="index.html" class="prev">
+          <span class="page-nav-label">&#8592; Back</span>
+          <span class="page-nav-title">Home</span>
+        </a>
+        <a href="glossary.html" class="next">
+          <span class="page-nav-label">Next &#8594;</span>
+          <span class="page-nav-title">Glossary</span>
+        </a>
+      </nav>
+    </div>
+  </main>
+
+  <script src="/L1/config.js"></script>
+  <script src="/resources/nav.js"></script>
+  <script>
+    /* Compact/print view toggle. Printing forces compact via beforeprint so
+       the checkbox state does not matter for the printout. */
+    (function () {
+      var cw = document.querySelector('.content-wrap');
+      var cb = document.getElementById('qr-compact');
+      if (!cw || !cb) return;
+      cb.addEventListener('change', function () { cw.classList.toggle('compact', cb.checked); });
+      window.addEventListener('beforeprint', function () { cw.classList.add('compact'); });
+      window.addEventListener('afterprint', function () { if (!cb.checked) cw.classList.remove('compact'); });
+    })();
+  </script>
+</body>
+</html>
