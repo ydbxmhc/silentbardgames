@@ -167,16 +167,26 @@
       outline: 1px solid var(--accent);
     }
 
-    /* Two-column layout at medium widths */
-    @media (min-width: 760px) {
-      .me-links {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 0.6rem;
-      }
-      .me-card.featured,
-      .me-section { grid-column: 1 / -1; }
+    /* Plain text links — no boxes */
+    .me-plain {
+      display: flex;
+      flex-direction: column;
+      margin-top: 0.25rem;
     }
+    .me-plain a {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.7rem 0.25rem;
+      border-bottom: 1px solid var(--rule);
+      color: var(--ink-mid);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.15s;
+    }
+    .me-plain a:first-child { border-top: 1px solid var(--rule); }
+    .me-plain a:hover { color: var(--accent); }
+    .me-plain-arrow { font-size: 0.8rem; color: var(--rule); }
 
     /* Three-column layout with rails at wide widths */
     @media (min-width: 1100px) {
@@ -236,69 +246,29 @@
 
           <a href="/L1/" class="me-card">
             <div class="me-card-body">
-              <p class="me-card-label">Free Web Rulebook</p>
+              <p class="me-card-label">Free to Read Online</p>
               <p class="me-card-title">Level One RPG</p>
-              <p class="me-card-desc">Read the complete rules free online.</p>
             </div>
             <span class="me-card-arrow">&#8594;</span>
           </a>
 
           <a href="https://silentbardgames.itch.io/level-one-rpg" class="me-card">
             <div class="me-card-body">
-              <p class="me-card-label">itch.io</p>
-              <p class="me-card-title">Level One on Itch</p>
-              <p class="me-card-desc">Download the PDF &amp; support the game.</p>
-            </div>
-            <span class="me-card-arrow">&#8594;</span>
-          </a>
-
-          <p class="me-section">The Talespin Tavern</p>
-
-          <a href="https://talespintavern.blogspot.com/" class="me-card">
-            <div class="me-card-body">
-              <p class="me-card-label">Blog</p>
-              <p class="me-card-title">Talespin Tavern</p>
-              <p class="me-card-desc">Design notes, actual plays &amp; session stories.</p>
-            </div>
-            <span class="me-card-arrow">&#8594;</span>
-          </a>
-
-          <a href="https://www.twitch.tv/talespintavern" class="me-card">
-            <div class="me-card-body">
-              <p class="me-card-label">Live on Twitch</p>
-              <p class="me-card-title">Talespin Tavern</p>
-              <p class="me-card-desc">Actual plays, design streams &amp; tavern nights.</p>
-            </div>
-            <span class="me-card-arrow">&#8594;</span>
-          </a>
-
-          <p class="me-section">Find Me</p>
-
-          <a href="https://bsky.app/profile/talespintavern.bsky.social" class="me-card">
-            <div class="me-card-body">
-              <p class="me-card-label">BlueSky</p>
-              <p class="me-card-title">@talespintavern</p>
-            </div>
-            <span class="me-card-arrow">&#8594;</span>
-          </a>
-
-          <a href="https://www.facebook.com/talespintavern" class="me-card">
-            <div class="me-card-body">
-              <p class="me-card-label">Facebook</p>
-              <p class="me-card-title">Talespin Tavern</p>
-            </div>
-            <span class="me-card-arrow">&#8594;</span>
-          </a>
-
-          <a href="https://www.instagram.com/talespintavern/" class="me-card">
-            <div class="me-card-body">
-              <p class="me-card-label">Instagram</p>
-              <p class="me-card-title">@talespintavern</p>
+              <p class="me-card-label">PDF Download</p>
+              <p class="me-card-title">Itch.io</p>
             </div>
             <span class="me-card-arrow">&#8594;</span>
           </a>
 
         </div><!-- /.me-links -->
+
+        <div class="me-plain">
+          <a href="https://talespintavern.blogspot.com/">Blog <span class="me-plain-arrow">&#8594;</span></a>
+          <a href="https://www.twitch.tv/talespintavern">Twitch <span class="me-plain-arrow">&#8594;</span></a>
+          <a href="https://bsky.app/profile/talespintavern.bsky.social">BlueSky <span class="me-plain-arrow">&#8594;</span></a>
+          <a href="https://www.facebook.com/talespintavern">Facebook <span class="me-plain-arrow">&#8594;</span></a>
+          <a href="https://www.instagram.com/talespintavern/">Instagram <span class="me-plain-arrow">&#8594;</span></a>
+        </div>
 
         <!-- Right rail: Kickstarter -->
         <aside class="me-rail me-rail-right">
