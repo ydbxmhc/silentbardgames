@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Display Settings - Tesserae Sortis</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/TS/style.css">
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header"></header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+
+  <main id="main">
+    <div class="content-wrap">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-sep">›</span>
+        <span>Display Settings</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">Preferences</span>
+        <h1>Display Settings</h1>
+        <p class="page-tagline">These preferences are saved in your browser and apply across all pages.</p>
+      </header>
+
+      <div class="settings-group">
+        <h2>Navigation Panel</h2>
+        <label>
+          <input type="checkbox" id="pref-navbg">
+          Show background image in the navigation panel
+        </label>
+      </div>
+
+      <div class="settings-group">
+        <h2>Color Theme</h2>
+        <label><input type="radio" name="theme" value="default"> Default <span style="color:var(--ink-light);font-size:0.85em;">(warm parchment)</span></label>
+        <label><input type="radio" name="theme" value="dark"> Dark</label>
+        <label><input type="radio" name="theme" value="high-contrast"> High contrast</label>
+        <label><input type="radio" name="theme" value="plain"> Plain white</label>
+      </div>
+
+      <div class="settings-group">
+        <h2>Text Size</h2>
+        <label><input type="radio" name="fontsize" value="normal"> Normal</label>
+        <label><input type="radio" name="fontsize" value="large"> Large</label>
+        <label><input type="radio" name="fontsize" value="xl"> Extra large</label>
+      </div>
+
+      <div class="settings-group">
+        <h2>Motion</h2>
+        <label>
+          <input type="checkbox" id="pref-reducemotion">
+          Reduce motion <span style="color:var(--ink-light);font-size:0.85em;">(disables animations and transitions)</span>
+        </label>
+        <p style="margin:0.75rem 0 0; font-size:var(--size-small); color:var(--ink-light);">
+          Note: if your operating system has "reduce motion" enabled, this site honours that automatically.
+        </p>
+      </div>
+
+      <div class="settings-group">
+        <h2>Side Panels</h2>
+        <label>
+          <input type="checkbox" id="pref-rails">
+          Show side panels when the window is wide enough
+        </label>
+        <p style="margin:0.5rem 0 0.75rem; font-size:var(--size-small); color:var(--ink-light);">
+          Panels (table of contents, art, and more) appear in the empty margins on wider screens.
+        </p>
+        <label><input type="radio" name="railside" value="left"> When only one fits, keep it on the left</label>
+        <label><input type="radio" name="railside" value="right"> When only one fits, keep it on the right</label>
+        <p style="margin:0.75rem 0 0.4rem; font-size:var(--size-small); color:var(--ink-light);">When two panels show, the resize handles can:</p>
+        <label><input type="radio" name="railmode" value="symmetric"> Use one handle, keeping the column centered</label>
+        <label><input type="radio" name="railmode" value="independent"> Use two handles, sizing each side independently</label>
+      </div>
+
+      <div class="settings-actions">
+        <button class="btn btn-primary" id="save-btn">Save Settings</button>
+        <button class="btn btn-secondary" id="reset-btn">Reset to Defaults</button>
+        <span class="settings-saved" id="saved-msg" aria-live="polite">Settings saved.</span>
+      </div>
+
+    </div>
+  </main>
+
+  <script src="/TS/config.js"></script>
+  <script src="/resources/nav.js"></script>
+  <script>
+    /* ---- Populate form from current preferences ---- */
+    document.addEventListener('DOMContentLoaded', () => {
+
+      // Nav background checkbox
+      document.getElementById('pref-navbg').checked =
+        (TSPrefs.get('navbg') === 'on');
+
+      // Theme radios
+      const themeVal = TSPrefs.get('theme');
+      const themeRadio = document.querySelector(`input[name="theme"][value="${themeVal}"]`);
+      if (themeRadio) themeRadio.checked = true;
+
+      // Font size radios
+      const sizeVal = TSPrefs.get('fontsize');
+      const sizeRadio = document.querySelector(`input[name="fontsize"][value="${sizeVal}"]`);
+      if (sizeRadio) sizeRadio.checked = true;
+
+      // Reduce motion checkbox
+      document.getElementById('pref-reducemotion').checked =
+        (TSPrefs.get('reducemotion') === 'on');
+
+      // Side panels
+      document.getElementById('pref-rails').checked = (TSPrefs.get('rails') === 'on');
+      const railSideRadio = document.querySelector(`input[name="railside"][value="${TSPrefs.get('railside')}"]`);
+      if (railSideRadio) railSideRadio.checked = true;
+      const railModeRadio = document.querySelector(`input[name="railmode"][value="${TSPrefs.get('railmode')}"]`);
+      if (railModeRadio) railModeRadio.checked = true;
+
+      /* ---- Live preview as user changes controls ---- */
+      document.querySelectorAll('input[name="theme"]').forEach(r => {
+        r.addEventListener('change', () => TSPrefs._apply('theme', r.value));
+      });
+      document.querySelectorAll('input[name="fontsize"]').forEach(r => {
+        r.addEventListener('change', () => TSPrefs._apply('fontsize', r.value));
+      });
+      document.getElementById('pref-navbg').addEventListener('change', e => {
+        TSPrefs._apply('navbg', e.target.checked ? 'on' : 'off');
+      });
+      document.getElementById('pref-reducemotion').addEventListener('change', e => {
+        TSPrefs._apply('reducemotion', e.target.checked ? 'on' : 'off');
+      });
+      document.getElementById('pref-rails').addEventListener('change', e => {
+        TSPrefs._apply('rails', e.target.checked ? 'on' : 'off');
+      });
+      document.querySelectorAll('input[name="railside"]').forEach(r => {
+        r.addEventListener('change', () => TSPrefs._apply('railside', r.value));
+      });
+      document.querySelectorAll('input[name="railmode"]').forEach(r => {
+        r.addEventListener('change', () => TSPrefs._apply('railmode', r.value));
+      });
+
+      /* ---- Save button ---- */
+      document.getElementById('save-btn').addEventListener('click', () => {
+        TSPrefs.set('navbg',
+          document.getElementById('pref-navbg').checked ? 'on' : 'off');
+
+        const checkedTheme = document.querySelector('input[name="theme"]:checked');
+        if (checkedTheme) TSPrefs.set('theme', checkedTheme.value);
+
+        const checkedSize = document.querySelector('input[name="fontsize"]:checked');
+        if (checkedSize) TSPrefs.set('fontsize', checkedSize.value);
+
+        TSPrefs.set('reducemotion',
+          document.getElementById('pref-reducemotion').checked ? 'on' : 'off');
+
+        TSPrefs.set('rails',
+          document.getElementById('pref-rails').checked ? 'on' : 'off');
+        const checkedSide = document.querySelector('input[name="railside"]:checked');
+        if (checkedSide) TSPrefs.set('railside', checkedSide.value);
+        const checkedMode = document.querySelector('input[name="railmode"]:checked');
+        if (checkedMode) TSPrefs.set('railmode', checkedMode.value);
+
+        const msg = document.getElementById('saved-msg');
+        msg.classList.add('visible');
+        setTimeout(() => msg.classList.remove('visible'), 3000);
+      });
+
+      /* ---- Reset button ---- */
+      document.getElementById('reset-btn').addEventListener('click', () => {
+        TSPrefs.reset();
+
+        // Re-sync form to defaults
+        document.getElementById('pref-navbg').checked = true;
+        const defTheme = document.querySelector('input[name="theme"][value="default"]');
+        if (defTheme) defTheme.checked = true;
+        const defSize = document.querySelector('input[name="fontsize"][value="normal"]');
+        if (defSize) defSize.checked = true;
+        document.getElementById('pref-reducemotion').checked = false;
+        document.getElementById('pref-rails').checked = true;
+        const defSide = document.querySelector('input[name="railside"][value="left"]');
+        if (defSide) defSide.checked = true;
+        const defMode = document.querySelector('input[name="railmode"][value="symmetric"]');
+        if (defMode) defMode.checked = true;
+
+        const msg = document.getElementById('saved-msg');
+        msg.textContent = 'Settings reset to defaults.';
+        msg.classList.add('visible');
+        setTimeout(() => {
+          msg.classList.remove('visible');
+          msg.textContent = 'Settings saved.';
+        }, 3000);
+      });
+
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tesserae Sortis — System Reference Document</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/TS/style.css">
+  <style>
+    #main {
+      padding-top: calc(var(--header-h));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .home-wrap {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+    }
+    .home-title {
+      font-family: var(--font-display);
+      font-size: 2.4rem;
+      color: var(--accent);
+      font-style: italic;
+      letter-spacing: -0.01em;
+      margin: 0;
+      line-height: 1.1;
+    }
+    .home-title::after { display: none; }
+    .home-subtitle {
+      font-size: 0.8rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin: -0.75rem 0 0;
+    }
+    .home-tagline {
+      font-style: italic;
+      color: var(--ink-mid);
+      font-size: 1.05rem;
+      margin: 0;
+      max-width: 380px;
+    }
+    hr.home-rule { width: 4rem; border: none; border-top: 1px solid var(--rule); margin: 0; }
+    .home-byline { font-size: 0.75rem; color: var(--ink-light); font-style: italic; margin: 0; }
+  </style>
+</head>
+<body>
+
+  <div id="overlay" role="presentation"></div>
+
+  <header id="site-header"></header>
+
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+
+  <main id="main">
+    <div class="home-wrap">
+
+      <h1 class="home-title">Tesserae Sortis</h1>
+      <p class="home-subtitle">a OneSRD game by The Silent Bard</p>
+
+      <hr class="home-rule">
+
+      <!-- TODO: replace with the real tagline. -->
+      <p class="home-tagline">Coming soon.</p>
+
+      <hr class="home-rule">
+      <p class="home-byline">&copy; The Silent Bard</p>
+
+    </div>
+  </main>
+
+  <script src="/TS/config.js"></script>
+  <script src="/resources/nav.js"></script>
+</body>
+</html>

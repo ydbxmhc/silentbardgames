@@ -1,0 +1,479 @@
+/* ============================================================
+   TESSERAE SORTIS — THEME STYLESHEET
+   Loaded after /resources/onesrd.css.
+
+   PLACEHOLDER: this is a copy of the L1 parchment-and-woodburn
+   theme so TS pages render correctly out of the box. Re-skin
+   the colour & font block below once the TS aesthetic is set.
+
+   Load order in HTML:
+     <link rel="stylesheet" href="/resources/onesrd.css">
+     <link rel="stylesheet" href="/TS/style.css">
+   ============================================================ */
+
+/* ============================================================
+   L1 COLOUR & FONT OVERRIDES
+   ============================================================ */
+:root {
+  --bg:           #fdf2d5;
+  --bg-dark:      #f0e0b0;
+  --bg-drawer:    #2a1f0e;
+  --ink:          #1a1008;
+  --ink-mid:      #4a3520;
+  --ink-light:    #7a6045;
+  --accent:       #8b3a0f;
+  --accent-light: #c4621a;
+  --gold:         #b8860b;
+  --rule:         #c8a96e;
+
+  --font-body:    Georgia, 'Times New Roman', serif;
+  --font-display: Georgia, 'Times New Roman', serif;
+  --font-mono:    'Courier New', Courier, monospace;
+
+  --shadow-sm:    0 1px 3px rgba(26,16,8,0.15);
+  --shadow-md:    0 4px 12px rgba(26,16,8,0.2);
+}
+
+/* ============================================================
+   PARCHMENT BODY BACKGROUND
+   ============================================================ */
+body {
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(ellipse at 20% 0%,  rgba(184,134,11,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 100%, rgba(139,58,15,0.05) 0%, transparent 60%);
+}
+
+/* ============================================================
+   DRAWER — WOODBURN BACKGROUND IMAGE
+   The dark ::after overlay is defined in onesrd.css at 55%;
+   L1 bumps it to 80% for the warmer woodburn image.
+   ============================================================ */
+#drawer {
+  background-image: url('https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Raven_and_Toad-BW.jpg');
+  background-size: cover;
+  background-position: center top;
+}
+
+#drawer::after {
+  background-color: rgba(42,31,14,0.80);
+}
+
+/* Nav background preference toggle */
+html[data-navbg="off"] #drawer {
+  background-image: none;
+}
+html[data-navbg="off"] #drawer::after {
+  background-color: rgba(42,31,14,0.97);
+}
+
+/* ============================================================
+   HEADER SETTINGS LINK
+   ============================================================ */
+.header-settings-link {
+  font-size: var(--size-small);
+  color: var(--ink-light);
+  text-decoration: none;
+  font-style: italic;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: color var(--transition);
+}
+.header-settings-link:hover { color: var(--accent); text-decoration: none; }
+
+/* Hidden on very narrow viewports — same breakpoint as tagline */
+@media (max-width: 599px) { .header-settings-link { display: none; } }
+
+/* ============================================================
+   LINKS — L1 WARM RUST COLOUR
+   onesrd.css sets link colour to --accent; these just flesh
+   out the text-decoration tint with the L1 rust value.
+   ============================================================ */
+a {
+  text-decoration-color: rgba(139,58,15,0.35);
+}
+
+/* ============================================================
+   H1 DECORATIVE RULE
+   ============================================================ */
+h1::after {
+  content: '';
+  display: block;
+  width: 4rem;
+  height: 2px;
+  background: linear-gradient(to right, var(--accent), transparent);
+  margin-top: 0.5rem;
+}
+
+/* ============================================================
+   CALLOUT BOXES — L1 WARM TINTS
+   ============================================================ */
+.box {
+  background: rgba(200,169,110,0.08);
+}
+.box.example   { border-color: var(--gold);         background: rgba(184,134,11,0.06); }
+.box.gm-note   { border-color: var(--accent);       background: rgba(139,58,15,0.06);  }
+.box.warning   { border-color: #8b4513;             background: rgba(139,69,19,0.08);  }
+.box.highlight { border-color: var(--accent-light); background: rgba(196,98,26,0.07);  }
+
+/* ============================================================
+   DARK THEME OVERRIDES
+   ============================================================ */
+html[data-theme="dark"] {
+  --bg:           #1a1410;
+  --bg-dark:      #221c14;
+  --bg-drawer:    #0e0a06;
+  --ink:          #e8d9c0;
+  --ink-mid:      #c8a870;
+  --ink-light:    #907050;
+  --accent:       #d4681a;
+  --accent-light: #e8843a;
+  --gold:         #c8a020;
+  --rule:         #4a3520;
+}
+/* Close button flips: dark bg would vanish on dark drawer, so use ink (light cream) */
+html[data-theme="dark"] .drawer-close-btn {
+  background: var(--ink);
+  color: var(--bg-drawer);
+}
+
+/* ============================================================
+   HIGH-CONTRAST THEME
+   ============================================================ */
+html[data-theme="high-contrast"] {
+  --bg:           #ffffff;
+  --bg-dark:      #f0f0f0;
+  --bg-drawer:    #000000;
+  --ink:          #000000;
+  --ink-mid:      #111111;
+  --ink-light:    #333333;
+  --accent:       #7a0000;
+  --accent-light: #aa0000;
+  --gold:         #7a5500;
+  --rule:         #888888;
+}
+
+/* ============================================================
+   PLAIN THEME (reader mode)
+   ============================================================ */
+html[data-theme="plain"] {
+  --bg:           #ffffff;
+  --bg-dark:      #f5f5f5;
+  --bg-drawer:    #222222;
+  --ink:          #111111;
+  --ink-mid:      #333333;
+  --ink-light:    #666666;
+  --accent:       #333333;
+  --accent-light: #555555;
+  --gold:         #555555;
+  --rule:         #cccccc;
+  --font-body:    system-ui, -apple-system, sans-serif;
+  --font-display: system-ui, -apple-system, sans-serif;
+}
+
+html[data-theme="plain"] body {
+  background-image: none;
+}
+
+html[data-theme="plain"] #drawer {
+  background-image: none;
+}
+
+/* ============================================================
+   FONT SIZE OVERRIDES
+   ============================================================ */
+html[data-fontsize="large"] { font-size: 18px; }
+html[data-fontsize="xl"]    { font-size: 21px; }
+
+/* ============================================================
+   REDUCE MOTION
+   ============================================================ */
+html[data-reducemotion="on"] *,
+html[data-reducemotion="on"] *::before,
+html[data-reducemotion="on"] *::after {
+  transition: none !important;
+  animation: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
+
+/* ============================================================
+   TABLE OF CONTENTS PAGE
+   ============================================================ */
+.toc { list-style: none; padding: 0; margin: 1.5rem 0; line-height: 1.9; }
+.toc ul { list-style: none; padding-left: 1.75rem; margin: 0; }
+.toc a { color: var(--ink); text-decoration: none; }
+.toc a:hover { color: var(--accent); }
+a.nav-section-link {
+  cursor: pointer;
+  text-decoration: none;
+  user-select: auto;
+}
+a.nav-section-link:hover { color: rgba(200,169,110,0.8); }
+
+.toc > li > a {
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  font-size: 1.05rem;
+  color: var(--accent);
+  font-weight: bold;
+}
+.toc > li > ul > li > a {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  font-size: 0.92rem;
+}
+.toc > li > ul > li > ul > li > a {
+  font-size: 0.88rem;
+  color: var(--ink-mid);
+}
+.toc > li > ul > li > ul > li > ul > li > a {
+  font-size: 0.83rem;
+  color: var(--ink-light);
+}
+
+/* ============================================================
+   SETTINGS PAGE
+   ============================================================ */
+.settings-wrap {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.settings-group {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.settings-group:last-of-type {
+  border-bottom: none;
+}
+
+.settings-group h2 {
+  font-size: 1.05rem;
+  color: var(--ink-mid);
+  margin-bottom: 1rem;
+  margin-top: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-style: normal;
+}
+
+.settings-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  margin-bottom: 0.85rem;
+  cursor: pointer;
+}
+
+.settings-option input[type="radio"],
+.settings-option input[type="checkbox"] {
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+  accent-color: var(--accent);
+}
+
+.settings-option-label {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.settings-option-desc {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--ink-light);
+  margin-top: 0.15rem;
+}
+
+.settings-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.btn {
+  padding: 0.55rem 1.4rem;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background var(--transition), color var(--transition), border-color var(--transition);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  border: 1.5px solid var(--accent);
+}
+.btn-primary:hover { background: var(--accent-light); border-color: var(--accent-light); }
+
+.btn-secondary {
+  background: transparent;
+  color: var(--ink-mid);
+  border: 1.5px solid var(--rule);
+}
+.btn-secondary:hover { border-color: var(--ink-mid); color: var(--ink); }
+
+/* Body content lists */
+.content-wrap ul {
+  padding-left: 1.5rem;
+}
+.content-wrap ul li { margin-bottom: 0.25rem; }
+
+/* Chapter epigraph — right-aligned pull quote */
+p.epigraph {
+  width: 50%;
+  margin-left: auto;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  text-align: right;
+}
+
+/* ============================================================
+   GUTTER RAILS (side panels) — injected by /resources/rails.js
+   Three-state layout: 0 = single column, 1 = one panel (column
+   shifts), 2 = a panel on each side. TOC + Settings panels reuse
+   the existing .toc / .settings-group styles.
+   ============================================================ */
+:root {
+  --rail-w:   240px;   /* MIN rail width; sets the breakpoints below */
+  --rail-gap: 2rem;    /* gap between column and panel */
+  --card-max: 340px;   /* cap for card-style content (art / promo) */
+}
+
+.reading-layout { position: relative; }
+.rail { display: none; }
+.reading-layout[data-rails="off"] .rail { display: none !important; }
+.rail-inner { position: sticky; top: calc(var(--header-h) + 1rem); }
+.rail figure { margin: 0; }
+
+.rail-art {
+  width: 100%; max-width: var(--card-max); height: auto;
+  display: block; margin: 0 auto;
+  border: 1px solid var(--rule); box-shadow: var(--shadow-md);
+}
+.rail-cap {
+  font-size: var(--size-small); font-style: italic; color: var(--ink-light);
+  text-align: center; margin-top: 0.5rem;
+}
+
+.rail-controls { display: flex; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem; }
+.rail-controls button {
+  width: 1.8rem; height: 1.8rem; line-height: 1;
+  display: flex; align-items: center; justify-content: center;
+  background: none; border: 1px solid var(--rule); border-radius: 4px;
+  color: var(--ink-mid); cursor: pointer; font-family: var(--font-body); font-size: 1rem;
+  transition: border-color var(--transition), color var(--transition), background var(--transition);
+}
+.rail-controls button:hover { border-color: var(--accent); color: var(--accent); }
+.rail-controls .rc-pin.pinned { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+.rail[data-open="true"]  .rc-open { display: none; }
+.rail[data-open="false"] .rc-pin,
+.rail[data-open="false"] .rc-prev,
+.rail[data-open="false"] .rc-next,
+.rail[data-open="false"] .rc-close { display: none; }
+.rail[data-open="false"] figure { display: none; }
+.rail[data-open="false"] .rail-controls { justify-content: flex-start; }
+
+.rail-host {
+  max-width: var(--card-max); margin-inline: auto;
+  border: 1px solid var(--rule); border-radius: 2px; background: rgba(0,0,0,0.02);
+  overflow: hidden;
+}
+/* TOC fills the rail and scrolls within it; drop the card chrome */
+.rail-host.rail-wide {
+  max-width: none; border: 0; background: none;
+  max-height: calc(100vh - var(--header-h) - 3rem); overflow: auto;
+}
+.rail-host .toc { margin: 0; font-size: 0.9rem; }
+.rail-host .settings-group { margin: 0 0 1rem; padding: 0.9rem 1rem; }
+.rail-host .settings-group:last-child { margin-bottom: 0; }
+.rail-loading { padding: 2rem 1rem; text-align: center; color: var(--ink-light); font-style: italic; }
+.rail-error { padding: 1rem; font-size: var(--size-small); color: var(--ink-mid); border: 1px dashed var(--rule); }
+
+/* Promo mini-page */
+.rail .promo { padding: 1rem 0.9rem; text-align: center; }
+.rail .promo .kicker { font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-light); }
+.rail .promo h1 { font-size: 1.15rem; color: var(--accent); font-style: italic; margin: 0.3rem 0 0.5rem; }
+.rail .promo h1::after { display: none; }
+.rail .promo p { font-size: 0.85rem; color: var(--ink-mid); margin-bottom: 0.9rem; }
+.rail .promo .cover { width: 100%; height: auto; display: block; border: 1px solid var(--rule); margin-bottom: 0.8rem; }
+.rail .promo .promo-btn {
+  display: inline-block; padding: 0.45rem 1.05rem; font-size: 0.9rem;
+  background: var(--accent); color: var(--bg); text-decoration: none; border-radius: 3px;
+}
+.rail .promo .promo-btn:hover { background: var(--accent-light); color: var(--bg); }
+
+/* ---- Drag handles to resize the column / rails (shown in State 2 only) ---- */
+.rail-resize {
+  display: none;
+  position: absolute; top: 0; bottom: 0;
+  width: 14px; transform: translateX(-50%);
+  cursor: col-resize; z-index: 6; touch-action: none;
+}
+.rail-resize::before {
+  content: ''; position: absolute; top: 0; bottom: 0; left: 6px;
+  width: 2px; background: var(--rule);
+  opacity: 0; transition: opacity var(--transition), background var(--transition);
+}
+.rail-resize:hover::before,
+.rail-resize.dragging::before { opacity: 1; background: var(--accent); }
+body.rails-resizing { cursor: col-resize; user-select: none; }
+
+/* ---- STATE 1: one panel (~1060-1339px); rail fills the open margin ---- */
+@media (min-width: 1060px) and (max-width: 1339.98px) {
+  .reading-layout[data-rails="on"][data-side="right"] {
+    display: grid; align-items: stretch; column-gap: var(--rail-gap);
+    grid-template-columns: var(--content-max) 1fr; padding-inline: 1.5rem;
+  }
+  .reading-layout[data-rails="on"][data-side="right"] .content-wrap { margin: 0; }
+  .reading-layout[data-rails="on"][data-side="right"] .rail-right { display: block; }
+
+  .reading-layout[data-rails="on"][data-side="left"] {
+    display: grid; align-items: stretch; column-gap: var(--rail-gap);
+    grid-template-columns: 1fr var(--content-max); padding-inline: 1.5rem;
+  }
+  .reading-layout[data-rails="on"][data-side="left"] .content-wrap { margin: 0; }
+  .reading-layout[data-rails="on"][data-side="left"] .rail-left { display: block; }
+}
+
+/* ---- STATE 2: two panels (>=1340px). Symmetric mode = one draggable centered
+        column (rails fill); independent mode = two draggable rail widths. ---- */
+@media (min-width: 1340px) {
+  .reading-layout[data-rails="on"] {
+    display: grid; align-items: stretch; column-gap: var(--rail-gap);
+    grid-template-columns: 1fr var(--content-max) 1fr; padding-inline: 1.5rem;
+  }
+  html[data-railmode="symmetric"] .reading-layout[data-rails="on"] {
+    grid-template-columns: 1fr var(--content-w, var(--content-max)) 1fr;
+  }
+  html[data-railmode="independent"] .reading-layout[data-rails="on"] {
+    grid-template-columns: var(--rail-left-w, var(--rail-w)) 1fr var(--rail-right-w, var(--rail-w));
+  }
+  .reading-layout[data-rails="on"] .content-wrap { margin: 0; grid-column: 2; max-width: none; }
+  .reading-layout[data-rails="on"] .rail { display: block; }
+  .reading-layout[data-rails="on"] .rail-resize { display: block; }
+}
+
+/* ---- Page footer ---- */
+#page-footer {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+  font-size: var(--size-small);
+  color: var(--ink-light);
+  border-top: 1px solid var(--rule);
+  margin-top: 2rem;
+}
+#page-footer p { margin: 0; }
+#page-footer a { color: var(--ink-light); text-decoration: none; }
+#page-footer a:hover { color: var(--accent); }
