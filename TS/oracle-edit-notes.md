@@ -112,3 +112,54 @@ target — see sourced research in the chat thread):
 the five levers across every face card, suit by suit; then sanity-check the
 pips (which differentiate by Role, not source). Ties into the existing
 master TODO "Lexicon revision pass: two valid interpretations per card."
+
+---
+
+## N3 — NEW PAGE: "the machinery" — design transparency + GM guidance
+**Status: PROPOSED (new page for the /TS/ build)** · raised 2026-06-27
+
+**What the author wants:** a dedicated page that *explicitly names* the
+psychological techniques the oracle uses ("here's what we did and why it
+works"), with **specific examples** drawn from the system, plus **guidance
+for GMs** on leaning into the same effects deliberately at their own tables.
+Framed as transparency, not a trick reveal — turns "isn't this just cold
+reading?" into a feature the game teaches.
+
+**Working titles (suggestions, pick/replace):** "Behind the Cards" ·
+"The Machinery of Meaning" · "Sleight of Mind" · "Why It Feels Like It Knows"
+· "Reading the Reader."
+
+**Scope / content outline (draft):**
+- The two engines already covered in N2: **Barnum/Forer**, **subjective
+  validation**, **projective ambiguity (Jungian)**, **authority+positivity**,
+  **rainbow-ruse structure** — restated for the reader, with examples.
+- Classic **cognitive biases** that generate "artificial depth," each with an
+  oracle example and a GM how-to. Strong candidates (curate the final list in
+  our own words):
+  - **Clustering illusion / apophenia** — patterns in randomness. *Example:*
+    the KS recurring across an unshuffled run reads as "fate." THE core engine.
+  - **Confirmation bias** — players confirm the story they already want; the
+    ambiguous draw supplies the fuel.
+  - **Anchoring** — the first card frames interpretation of the rest
+    (ties to Positional Reading / first = "the face of the situation").
+  - **Framing effect** — the Aperture Principle is literally this.
+  - **Availability / recency** — memorable hits ("the deck knew!") outweigh
+    forgotten misses; why it feels prophetic over a session.
+  - **Sunk cost / commitment & consistency** — the Quaerant Card "bet on
+    self-image" before a Tower reading.
+  - **Halo effect** — face cards as authority; recognition colors everything.
+- **GM guidance section:** how to deploy these honestly at the table — pause
+  on the hit, let players narrate the connection, don't over-explain, when to
+  lean in vs. when it cheapens the moment.
+
+**LICENSING CONSTRAINT (important):** the author pointed to
+https://yourbias.is as inspiration. That site is **CC BY-NC-ND** (School of
+Thought). TS is **CC BY + commercial**, so we **must not** copy yourbias.is
+text, descriptions, or poster art (NC blocks commercial use; ND blocks
+adapting their wording). Bias *names/concepts* are free to discuss. Plan:
+write all descriptions and examples ourselves; **link** yourbias.is as
+further reading only. (Confirm CC BY-NC-ND before publishing.)
+
+**Housekeeping:** this is a structural/new-page item; once the author is done
+editing oracle-master.md, migrate this into the master's `@@TODO` (subsite)
+section so the page plan lives with the other build items.
