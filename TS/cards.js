@@ -24,8 +24,11 @@ const TSCards = {
     j: 'jack', q: 'queen', k: 'king',
   },
 
-  JOKERS: ['joker1', 'joker2'],
-  BACK:   'back',   // cards/back.png — not yet uploaded
+  /* Jokers keep their doc notation as filenames: Xr.png / Xb.png.
+     NOTE: capital X — these are the only non-lowercase codes in the deck,
+     and R2 object keys are case-sensitive. Don't lowercase joker codes. */
+  JOKERS: ['Xr', 'Xb'],   // Xr = red/"potential", Xb = b&w/"teeth"
+  BACK:   'back',         // cards/back.png — not yet uploaded
 
   /* "a","s" -> "as"   |   "10","h" -> "10h" */
   code(rank, suit) {
