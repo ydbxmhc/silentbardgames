@@ -20,23 +20,26 @@
       says it should be. Marked anyway so you see it.
    5. Existing @@ notes/TODOs from both drafts are carried through.
 
-  OPEN @@DECISION POINTS (quick index):
-     A. Title / branding (system name vs "Tesserae Sortis")
-     B. Suit-domain table (correction applied — confirm)
-     C. Aperture text appears twice (Design Principles + Asking the Oracle)
-     D. Tower spread — the two drafts draw the layout differently
-     E. Card Lexicon format — rich prose (working) vs compact table (seed)
+  @@DECISION STATUS (after author review):
+     A. Title/branding — RESOLVED: "Tesserae Sortis" is the title;
+        "The Quaerant's Oracle" is the subtitle.
+     B. Suit-domain table — RESOLVED: corrected wording stands.
+     C. Aperture appears twice — KEEP (deliberate). Flagged for the
+        edit-pass re-evaluation; see the subsite TODO at the bottom.
+     D. Tower spread layout — DEFERRED, sitting at the top of the TODO list.
+     E. Card Lexicon format — RESOLVED: rich prose. The compact seed table
+        is stashed in TS/_stash/lexicon-table-synoptic.md for the eventual
+        synoptic copy.
   =============================================================
 -->
 
-@@DECISION A — TITLE/BRANDING:
-  seed titles this "The Quaerant's Oracle." The game/product is
-  "Tesserae Sortis." Are these the same artifact (TS = the oracle), or is
-  the oracle one component of TS? Pick the H1 below accordingly.
+<!-- @@DECISION A — RESOLVED: "Tesserae Sortis" is the title; "The Quaerant's
+     Oracle" is a subtitle. This is a working initialization copy; the text
+     will get many editing passes before publication (see subsite TODO). -->
 
-# The Quaerant's Oracle
-## A Card-Based Solo Oracle System
-*System Reference Document*
+# Tesserae Sortis
+## The Quaerant's Oracle
+*A Card-Based Solo Oracle System — System Reference Document*
 
 Compatible with Level One TTRPG and adaptable to other systems or none at all.
 
@@ -93,11 +96,9 @@ Aces are **low** (value = 1) throughout.
 
 ### Suit: Narrative Texture & Thematic Domain
 
-@@DECISION B — SUIT TABLE: the corrected (working-draft) wording is used
-  below: Clubs domain ends "...guards, raiders, coercion" and Spades domain
-  begins "tradesfolk, tools...". The seed draft still read "violent
-  criminals" and "menials" respectively — which contradicts its own design
-  note. Confirm the corrected version stands.
+<!-- @@DECISION B — RESOLVED: the corrected wording stands (Clubs "...guards,
+     raiders, coercion"; Spades "tradesfolk, tools..."). Part of an ongoing
+     sensitivity watch — see subsite TODO. -->
 
 | Suit | Texture | Domain |
 |---|---|---|
@@ -159,9 +160,10 @@ Any time the momentum sags, draw some inspiration. The oracle is here to restore
 
 ## ASKING THE ORACLE
 
-@@DECISION C — APERTURE APPEARS TWICE: the Aperture Principle is stated
-  briefly under Design Principles (seed) and again, more fully, here
-  (working draft). Keep both (intro + full treatment), or collapse to one?
+<!-- @@DECISION C — KEEP: the Aperture Principle is important enough to merit
+     repetition, so both the brief (Design Principles) and full (here)
+     statements stay for now. Flagged for re-evaluation during the planned
+     editing passes — see subsite TODO. -->
 
 ### The Aperture Principle
 The player controls how much the oracle can do with any given draw.
@@ -530,8 +532,9 @@ The choice can be made deliberately (selecting a card that feels true to the cha
 **The Question:**
 State the question clearly before drawing. Follow the question framing guidelines above. The Tower rewards specific, open, stakes-acknowledged questions.
 
-@@DECISION D — TOWER LAYOUT: the two drafts diagram this differently.
-  Pick one (or redraw). Both are reproduced verbatim:
+@@DECISION D — TOWER LAYOUT (TOP OF THE TODO LIST, pending author review):
+  the two drafts diagram this differently. Both are reproduced verbatim
+  below; one will be chosen (or redrawn). Until then, BOTH are kept:
 
   --- working-draft layout ---
 ```
@@ -588,11 +591,10 @@ Shuffle and cut the remaining deck. Lay cards in order:
 
 *Non-L1 users: the Role associations can be set aside entirely. Read each card purely from its name, texture, and the brief interpretation provided.*
 
-@@DECISION E — LEXICON FORMAT: reproduced below in the working draft's
-  richer PROSE form (1-3 sentences per card). The seed draft instead used a
-  compact 3-column table (Card | Name | Reading). Prose gives the room the
-  "@@ revision pass" below asks for (two readings per card); the table is
-  more scannable on a page. Choose one format before this becomes pages.
+<!-- @@DECISION E — RESOLVED: rich prose (below) is the canonical lexicon.
+     A compact/synoptic copy will live somewhere too; the seed's 3-column
+     table is stashed as seed material for that in
+     TS/_stash/lexicon-table-synoptic.md. -->
 
 *@@ Revision pass needed: each card should carry at least two valid interpretations. The name itself should support both readings without requiring explanation. Example: Razor's Nick could mean a nick in the razor's edge (the tool is compromised) or a nick caused by the razor (you paid in blood for the precision). Both readings are Yes/but. Both are Tinker. The ambiguity is the feature.*
 
@@ -848,10 +850,20 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 ---
 
-## @@TODO LIST (merged from both drafts)
+## @@TODO — TESSERAE SORTIS SUBSITE (priority order)
 
+**Top of the list**
+- **Tower spread layout** — pick between the two diagrams (@@DECISION D). Awaiting author review.
+
+**Editing & tone (whole subsite)**
+- This is a working initialization copy; the whole text needs **multiple editing / revision passes** before publication.
+- **Sensitivity watch** — catch and smooth subtle insensitivities, improving them **without breaking the basic traditional feel** of the rules. (Continues the suit-language correction already applied; periodically re-check the lexicon too.)
+- **Re-evaluate the deliberate Aperture repetition** (Design Principles + Asking the Oracle) during the edit passes — kept intentionally for now (@@DECISION C).
+
+**Content still unfinished in the source drafts**
 - **Consecutive card rule**: Formalize completely. Currently described as principle only.
 - **Lexicon revision pass**: Every card needs at least two valid interpretations supportable from the name alone without explanation.
+- **Synoptic lexicon**: a compact quick-reference version of the lexicon. Seed material stashed in `TS/_stash/lexicon-table-synoptic.md`.
 - **Three card spreads**: Consider naming each variant formally (The Timeline, The Situation, The Action).
 - **Additional spreads**: Four and five card options under consideration. Nothing more complex than the Tower likely within scope.
 - **Tarot variant rules**: Full alternate version for players with a Tarot deck. Different day, separate section. Key differences: 14 cards per suit (Page added), 22 Major Arcana, reversals naturally available.
