@@ -53,3 +53,62 @@ this is *new prose*, so it stays out of the master until approved):
 
 **Open question for author:** is the example worth including in-text, or kept
 here as design rationale only?
+
+---
+
+## N2 — Face-card differentiation + the psychology of "substantial yet vague"
+**Status: PROPOSED** · raised 2026-06-27 · **applies to the whole lexicon (esp. all face cards)**
+
+**Location:** *The Card Lexicon → Face Cards* (Jacks/Queens/Kings, every suit).
+Author used Hearts (JH/QH/KH) as the worked example.
+
+**Observation:** Within a suit, the King/Queen/Jack readings are currently
+differentiated mostly by color/flavor text, not by *what kind of event* each
+precipitates. JH/QH/KH all read as "a good social thing happens."
+
+**Proposed differentiation rule — by SOURCE of the event** (matches the
+archetypes, per author):
+- **Jack / Adept → internal.** Insight, epiphany, instinct — the character
+  *generates* it from within.
+- **Queen / Conjuror → relational.** A favor granted, a deal that breaks your
+  way, an intercession — it comes *through another party's choosing*.
+- **King / Spellweaver → institutional.** Official, public, recorded
+  recognition/sanction — conferred *by a body or system*.
+
+This generalizes to all four suits. The card *names* mostly already encode it
+(Harpy's Bargain = a deal; Inquisitor's Writ = institutional; Friar's
+Indulgence = a granted pass); the *readings* are what need to foreground the
+source consistently.
+
+**Psychological principles to tune against** (the "substantial yet vague"
+target — see sourced research in the chat thread):
+1. **Barnum/Forer effect** — describe the *shape* of an event, not a fixed
+   event; broad enough to be widely accepted as personally true.
+2. **Subjective validation** — reader matches their own scene and discards
+   misfits; give one concrete hook to latch onto.
+3. **Projective ambiguity (Jungian archetype)** — name a concrete object/act
+   but leave its referent open; the player projects their scene onto it.
+4. **Authority + positivity bias** — Barnum statements land harder positive &
+   from authority. The oracle is the authority; face cards = "fate weighing
+   in." Lean in on the Yes cards.
+5. **Rainbow-ruse structure** — pair benefit with a faint shadow / future
+   hook so it fits more scenes. (The suit and/but split already does this
+   structurally; face readings can echo it.)
+
+**Candidate rewrites — Hearts faces (PROPOSED, not applied):**
+- **JH · Bard's Ode** *(internal/epiphany)*: "An understanding arrives
+  unbidden - the right words, the true shape of someone's heart, a story you
+  suddenly know how to tell. The insight is yours, generated from within, and
+  it opens a door no one handed you the key to."
+- **QH · Enchantress' Boon** *(relational/favor)*: "Someone with the power to
+  refuse chooses instead to grant - a favor, an introduction, a door opened
+  by a hand that didn't have to move. Freely given, but not unremembered."
+- **KH · Guildmaster's Favor** *(institutional/recognition)*: "Recognition
+  arrives with a seal on it. A body that keeps records has entered your name
+  on the right side of the ledger, openly and on purpose. Being public, it
+  travels."
+
+**Next step when we reach the lexicon pass:** apply the source-axis rule +
+the five levers across every face card, suit by suit; then sanity-check the
+pips (which differentiate by Role, not source). Ties into the existing
+master TODO "Lexicon revision pass: two valid interpretations per card."
