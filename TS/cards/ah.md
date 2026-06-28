@@ -10,17 +10,23 @@ The Deck
 
 Yes, and — Social
 
+Keywords, inverted reading, and examples are working drafts — pending author review.
+
+**Keywords** — *Upright:* triumph, acclaim, momentum, a gift on top of the win · *Inverted:* too much of a good thing, hollow acclaim, a target made, overshoot
+
 ### Upright
 
 The fighter's triumph spills over into celebration. The crowd is cheering and something beyond victory arrives with it.
 
 ### Inverted
 
-Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+Victory still — but the extra is *too much*. The triumph overshoots: adulation curdles into expectation you can’t meet, your glory mints a rival, the win draws eyes you’d rather avoid. You succeeded, *and* the success is the problem. (Or, fully reversed: the cheering is hollow and the win doesn’t land.)
 
-### Examples
+### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* Aldric takes the duel and the watching captain offers him a commission on the spot.
+
+*Inverted.* Aldric takes the duel — and now the dead man’s house knows his name. The win bought him an enemy with money.
 
 NotationAH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleAce — Warrior
 

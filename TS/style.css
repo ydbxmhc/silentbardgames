@@ -648,3 +648,8 @@ h1::after {
 .card-reading-block .pending { color: var(--ink-light); }
 
 .lex-table tbody td:nth-of-type(3) { white-space: nowrap; }
+
+/* Card detail — keywords + draft marker */
+.card-keywords { font-size: var(--size-small); color: var(--ink-mid); margin: 0 0 1rem; }
+.draft-note { font-size: var(--size-small); color: var(--ink-light); font-style: italic;
+  border-left: 2px solid var(--rule); padding-left: 0.7rem; margin: 0 0 1rem; }
