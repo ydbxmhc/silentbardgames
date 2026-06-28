@@ -269,3 +269,63 @@ offenders stood out.
 **Action:** roll into the lexicon revision pass (the same one that adds the
 second/inverted reading). When I draft proposed revisions, I'll keep *but*
 results to a qualifier and move any real reversal into the Inverted slot.
+
+---
+
+## N6 — Lexicon revision: sample drafts (4 No,but cards)
+**Status: PROPOSED — not applied** · raised 2026-06-27
+
+First-crack drafts implementing N5: upright keeps the failure with a *small*
+consolation; the over-flip-to-success is relocated to the Inverted slot.
+Author's names/texture/domain unchanged. Apply to master + per-card pages on
+approval; then extend the pattern to all 54.
+
+### 2S — Catapult's Misfire *(No, but — Labor / Sniper)*
+- **Upright:** The mechanism failed and the shot missed — no hit, no breach,
+  the target still standing. But the misfire isn't nothing: it threw up dust,
+  marked a range, or cleared a little ground you hadn't meant to. A miss you
+  can work with.
+- **Inverted:** The misfire flukes. The shot that shouldn't have worked finds
+  something anyway — the wrong target turns out to be the right one. Failure
+  that lands on its feet. Don't expect it twice.
+- **Examples:** *Upright* — Sera's improvised ballista jams; the bolt skews
+  into the gatehouse wall, not the gate. The gate holds — but the cracked
+  masonry shows her where it's weakest. *Inverted* — the skewed bolt punches
+  the powder store nobody knew was there; she missed the gate and took the wall.
+
+### 4S — Prisoner's Map *(No, but — Labor / Sneak)*
+- **Upright:** Caught, confined, the attempt failed — you're not leaving the
+  way you came. But the dark isn't empty: a scratched mark, a loose stone, a
+  guard's habit noted. Not freedom — a thread to pull, if you're patient.
+- **Inverted:** The thread is the whole rope. What looked like a scrap of hope
+  is a real way out — the route holds, confinement was only ever temporary.
+- **Examples:** *Upright* — Thrn's escape ends in a deeper cell, but over three
+  nights he charts the patrol's timing; he can't leave yet, but the gap is
+  coming. *Inverted* — the old scratches map a real drain; Thrn is gone before
+  the next bell.
+
+### JS — Friar's Indulgence *(No, but — Labor / Adept)*
+- **Upright:** By rights the answer is no — unearned, the ledger closed against
+  you. What you get is a reprieve, not a pardon: a delay, a look the other way,
+  a technicality that buys time without settling anything. The "no" is still
+  out there. You just don't face it today.
+- **Inverted:** The technicality holds all the way. The corrupt little pass is
+  entirely functional — nobody checks, the door that should've been shut opens.
+  You walked through on something you didn't earn, and it worked.
+- **Examples:** *Upright* — the friar can't absolve Calder's temple-debt, but
+  he can lose the paperwork for a season; Calder isn't forgiven, just not
+  pursued yet. *Inverted* — the forged writ is never questioned; he walks past
+  the inquisitors on a paper that should have hanged him.
+
+### QS — Harpy's Bargain *(No, but — Labor / Conjuror)*
+- **Upright:** The bargain was bad and you knew it — unpleasant terms, worse
+  company, a price you'd never have agreed to with a choice. It cost you. But
+  the Harpy keeps the letter of her word, and out of the wreck you carry off
+  one thing worth having. Less than you wanted. Not nothing.
+- **Inverted:** The terms you dreaded turn your way. Her letter-of-the-word
+  cuts in your favor for once, and the grudging deal yields more than it should
+  — you came to lose and left ahead. She won't make that mistake twice.
+- **Examples:** *Upright* — to cross the marsh Vell trades the witch her
+  mother's ring; she gets the crossing and nothing else, the ring gone. But
+  she's across. *Inverted* — the witch keeps "safe passage" to the letter; Vell
+  crosses untouched and arrives carrying the one thing the marsh-cult feared.
