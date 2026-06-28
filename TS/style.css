@@ -620,3 +620,13 @@ h1::after {
   opacity: 0.9;
 }
 .ts-content h2::after { display: none; }
+
+/* ============================================================
+   CONTENT TABLES — monospace so columns/codes line up
+   ============================================================ */
+.ts-content table { font-family: var(--font-mono); font-size: 0.9em; }
+.ts-content table th,
+.ts-content table td {
+  padding: 0.25rem 1.3rem 0.25rem 0;
+  vertical-align: top;
+}
