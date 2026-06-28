@@ -16,5 +16,5 @@ Something bound and purposeful is working against you, methodically and without 
 
 ---
 
-- [← Previous: King of Hearts](/TS/cards/kh.html)
-- [Next →: Joker (Red)](/TS/cards/Xr.html)
+- [← Previous: King of Diamonds](/TS/cards/kd.html)
+- [Next →: King of Clubs](/TS/cards/kc.html)

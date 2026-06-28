@@ -16,5 +16,5 @@ The vision was accurate, the path is clear - but the Prophet collects his due an
 
 ---
 
-- [← Previous: Jack of Clubs](/TS/cards/jc.html)
-- [Next →: Jack of Hearts](/TS/cards/jh.html)
+- [← Previous: Jack of Hearts](/TS/cards/jh.html)
+- [Next →: Jack of Spades](/TS/cards/js.html)

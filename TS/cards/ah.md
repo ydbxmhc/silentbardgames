@@ -16,5 +16,4 @@ The fighter's triumph spills over into celebration. The crowd is cheering and so
 
 ---
 
-- [← Previous: Ace of Diamonds](/TS/cards/ad.html)
-- [Next →: Ace of Spades](/TS/cards/as.html)
+- [Next →: Ace of Diamonds](/TS/cards/ad.html)

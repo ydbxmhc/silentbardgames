@@ -16,5 +16,5 @@ Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody w
 
 ---
 
-- [← Previous: Queen of Hearts](/TS/cards/qh.html)
-- [Next →: King of Clubs](/TS/cards/kc.html)
+- [← Previous: Queen of Diamonds](/TS/cards/qd.html)
+- [Next →: Queen of Clubs](/TS/cards/qc.html)

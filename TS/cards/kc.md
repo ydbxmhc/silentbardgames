@@ -16,5 +16,5 @@ The full weight of organized authority, properly documented, coming down. This i
 
 ---
 
-- [← Previous: Queen of Spades](/TS/cards/qs.html)
-- [Next →: King of Diamonds](/TS/cards/kd.html)
+- [← Previous: King of Spades](/TS/cards/ks.html)
+- [Next →: Joker (Red)](/TS/cards/Xr.html)

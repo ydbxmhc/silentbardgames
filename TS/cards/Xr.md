@@ -10,5 +10,5 @@ NotationXr MeaningChaos with potential — weird, wonderful, disruptive, and pos
 
 ---
 
-- [← Previous: King of Spades](/TS/cards/ks.html)
+- [← Previous: King of Clubs](/TS/cards/kc.html)
 - [Next →: Joker (Black & White)](/TS/cards/Xb.html)

@@ -16,5 +16,5 @@ The sword arm won the day. The invoice is already on the table. Victory arrived 
 
 ---
 
-- [← Previous: Ace of Clubs](/TS/cards/ac.html)
-- [Next →: Ace of Hearts](/TS/cards/ah.html)
+- [← Previous: Ace of Hearts](/TS/cards/ah.html)
+- [Next →: Ace of Spades](/TS/cards/as.html)

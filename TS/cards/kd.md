@@ -16,5 +16,5 @@ The knowledge was accurate. The work was done correctly. And the Magister's invo
 
 ---
 
-- [← Previous: King of Clubs](/TS/cards/kc.html)
-- [Next →: King of Hearts](/TS/cards/kh.html)
+- [← Previous: King of Hearts](/TS/cards/kh.html)
+- [Next →: King of Spades](/TS/cards/ks.html)

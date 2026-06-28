@@ -16,5 +16,5 @@ Institutional approval, freely and publicly given. Someone with real organizatio
 
 ---
 
-- [← Previous: King of Diamonds](/TS/cards/kd.html)
-- [Next →: King of Spades](/TS/cards/ks.html)
+- [← Previous: Queen of Clubs](/TS/cards/qc.html)
+- [Next →: King of Diamonds](/TS/cards/kd.html)

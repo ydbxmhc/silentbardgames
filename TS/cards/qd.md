@@ -16,5 +16,5 @@ The Sibyl's prophecies were always accurate and always costly. You got what you 
 
 ---
 
-- [← Previous: Queen of Clubs](/TS/cards/qc.html)
-- [Next →: Queen of Hearts](/TS/cards/qh.html)
+- [← Previous: Queen of Hearts](/TS/cards/qh.html)
+- [Next →: Queen of Spades](/TS/cards/qs.html)

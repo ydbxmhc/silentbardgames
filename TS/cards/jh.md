@@ -16,5 +16,5 @@ A gift freely given, a story that opens doors. Someone's charm or talent is work
 
 ---
 
-- [← Previous: Jack of Diamonds](/TS/cards/jd.html)
-- [Next →: Jack of Spades](/TS/cards/js.html)
+- [← Previous: Ten of Clubs](/TS/cards/10c.html)
+- [Next →: Jack of Diamonds](/TS/cards/jd.html)

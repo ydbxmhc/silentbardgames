@@ -16,5 +16,5 @@ The blade arm failed but the footwork saved you. A skilled retreat, not a rout. 
 
 ---
 
-- [← Previous: Ace of Hearts](/TS/cards/ah.html)
-- [Next →: Two of Clubs](/TS/cards/2c.html)
+- [← Previous: Ace of Diamonds](/TS/cards/ad.html)
+- [Next →: Ace of Clubs](/TS/cards/ac.html)

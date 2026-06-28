@@ -16,5 +16,5 @@ A gift from someone who didn't have to give it. Charm, grace, and genuine genero
 
 ---
 
-- [← Previous: Queen of Diamonds](/TS/cards/qd.html)
-- [Next →: Queen of Spades](/TS/cards/qs.html)
+- [← Previous: Jack of Clubs](/TS/cards/jc.html)
+- [Next →: Queen of Diamonds](/TS/cards/qd.html)

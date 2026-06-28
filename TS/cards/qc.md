@@ -16,5 +16,5 @@ Not merely opposition - deliberate, targeted, personal. Someone with real power 
 
 ---
 
-- [← Previous: Jack of Spades](/TS/cards/js.html)
-- [Next →: Queen of Diamonds](/TS/cards/qd.html)
+- [← Previous: Queen of Spades](/TS/cards/qs.html)
+- [Next →: King of Hearts](/TS/cards/kh.html)

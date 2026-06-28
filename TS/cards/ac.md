@@ -16,4 +16,5 @@ Something let loose and made everything worse. The violence escalated past any u
 
 ---
 
-- [Next →: Ace of Diamonds](/TS/cards/ad.html)
+- [← Previous: Ace of Spades](/TS/cards/as.html)
+- [Next →: Two of Hearts](/TS/cards/2h.html)

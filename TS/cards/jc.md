@@ -16,5 +16,5 @@ The truth was spoken and it cut deep. Someone saw something they shouldn't have,
 
 ---
 
-- [← Previous: Ten of Spades](/TS/cards/10s.html)
-- [Next →: Jack of Diamonds](/TS/cards/jd.html)
+- [← Previous: Jack of Spades](/TS/cards/js.html)
+- [Next →: Queen of Hearts](/TS/cards/qh.html)

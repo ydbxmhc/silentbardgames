@@ -16,5 +16,5 @@ You didn't earn this. The ledger says no, the merit says no, and yet here is a p
 
 ---
 
-- [← Previous: Jack of Hearts](/TS/cards/jh.html)
-- [Next →: Queen of Clubs](/TS/cards/qc.html)
+- [← Previous: Jack of Diamonds](/TS/cards/jd.html)
+- [Next →: Jack of Clubs](/TS/cards/jc.html)
