@@ -8,7 +8,11 @@ The Deck
 
 NotationJC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleJack — Adept
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Soothsayer's Hex
+
+No, and - Conflict
+
+The truth was spoken and it cut deep. Someone saw something they shouldn't have, and now the knowing has teeth. Things are worse for the revelation, not better.
 
 ---
 

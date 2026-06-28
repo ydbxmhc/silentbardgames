@@ -8,7 +8,11 @@ The Deck
 
 NotationJD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleJack — Adept
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Prophet's Levy
+
+Yes, but - Commercial
+
+The vision was accurate, the path is clear - but the Prophet collects his due and you didn't get a say. Success arrived with an invoice attached. Pay it and move on.
 
 ---
 

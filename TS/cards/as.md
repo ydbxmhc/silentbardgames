@@ -8,7 +8,11 @@ The Deck
 
 NotationAS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleAce — Warrior
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Duellist's Evasion
+
+No, but - Labor
+
+The blade arm failed but the footwork saved you. A skilled retreat, not a rout. You know more about your opponent now.
 
 ---
 

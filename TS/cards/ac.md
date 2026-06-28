@@ -8,7 +8,11 @@ The Deck
 
 NotationAC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleAce — Warrior
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Berserker's Rampage
+
+No, and - Conflict
+
+Something let loose and made everything worse. The violence escalated past any useful point and kept going.
 
 ---
 

@@ -8,7 +8,11 @@ The Deck
 
 NotationQS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleQueen — Conjuror
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Harpy's Bargain
+
+No, but - Labor
+
+Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody would have chosen. And yet the Harpy held up her end. You got something out of this. Perhaps more than you expected, if less than you wanted.
 
 ---
 

@@ -163,3 +163,47 @@ further reading only. (Confirm CC BY-NC-ND before publishing.)
 **Housekeeping:** this is a structural/new-page item; once the author is done
 editing oracle-master.md, migrate this into the master's `@@TODO` (subsite)
 section so the page plan lives with the other build items.
+
+---
+
+## STATUS UPDATES — 2026-06-27 (after author's edit pass landed)
+
+- **N1 (state the stakes) → APPLIED by author.** The master now distinguishes
+  Tarot "intention" from gaming "stakes" and adds a worked example (the
+  rising-water / door draw). N1 closed.
+- **Decision D (Tower layout) → RESOLVED by author:** the centered-column
+  (seed) diagram was kept; the alternate was deleted. The master TODO can drop
+  "Tower layout" from the top.
+- **File reconciliation:** the author's edited copy arrived as `/oraclemaster.md`
+  at the repo root (download/upload artifact). Consolidated it into the
+  canonical `TS/oracle-master.md`; removed the root duplicate.
+- **Reverted housekeeping (FYI, needs a yes/no):** the edited copy was based on
+  a pre-resolution version, so it reopened the `@@DECISION A–E` status stamps
+  and reverted the subsite TODO (dropping the **sensitivity watch** and
+  **editing-passes** bullets). The author's *content* edits already settle
+  A–E in practice. **Q: re-stamp A–E as RESOLVED and restore the sensitivity-
+  watch / editing-pass TODO bullets?** (Not done yet — awaiting the nod.)
+
+## N4 — Per-card page architecture (from author's lexicon comment)
+**Status: IN PROGRESS** · raised 2026-06-27
+
+Author's HTML comment in the lexicon section specifies the structure:
+> a single page with a columnar/tabular reference chart (simple
+> representations), each row linking to a dedicated page with the fuller,
+> expansive text + the card graphic; full pages should include multiple
+> interpretations where possible and inverted/alternate versions.
+> Reference examples: labyrinthos, biddytarot, thetarotlady (Fool entries).
+
+**Already built:** `TS/cards.html` (visual deck grid) + 54 `TS/cards/<code>.html`
+frames, now populated with the current single reading + card art.
+
+**Still to do (matches author's spec):**
+- Per-card pages need **multiple interpretations** + an **inverted/alternate**
+  reading section. Blocked on the master's "two readings per card" revision
+  pass (already a TODO). Frames have a clean slot to drop these into.
+- The index: author wants a **columnar text reference chart** (code · name ·
+  one-line reading) linking to each page — i.e. the synoptic/tabular view,
+  alongside or instead of the current thumbnail grid. The stashed
+  `TS/_stash/lexicon-table-synoptic.md` is the seed for that chart.
+- Study the three reference sites for layout patterns when we design the full
+  per-card page (upright vs reversed sections, keyword row, etc.).

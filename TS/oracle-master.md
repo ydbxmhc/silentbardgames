@@ -20,45 +20,44 @@
       says it should be. Marked anyway so you see it.
    5. Existing @@ notes/TODOs from both drafts are carried through.
 
-  @@DECISION STATUS (after author review):
-     A. Title/branding — RESOLVED: "Tesserae Sortis" is the title;
-        "The Quaerant's Oracle" is the subtitle.
-     B. Suit-domain table — RESOLVED: corrected wording stands.
-     C. Aperture appears twice — KEEP (deliberate). Flagged for the
-        edit-pass re-evaluation; see the subsite TODO at the bottom.
-     D. Tower spread layout — DEFERRED, sitting at the top of the TODO list.
-     E. Card Lexicon format — RESOLVED: rich prose. The compact seed table
-        is stashed in TS/_stash/lexicon-table-synoptic.md for the eventual
-        synoptic copy.
+  OPEN @@DECISION POINTS (quick index):
+     A. Title / branding (system name vs "Tesserae Sortis")
+     B. Suit-domain table (correction applied — confirm)
+     C. Aperture text appears twice (Design Principles + Asking the Oracle)
+     D. Tower spread — the two drafts draw the layout differently
+     E. Card Lexicon format — rich prose (working) vs compact table (seed)
   =============================================================
 -->
 
-<!-- @@DECISION A — RESOLVED: "Tesserae Sortis" is the title; "The Quaerant's
-     Oracle" is a subtitle. This is a working initialization copy; the text
-     will get many editing passes before publication (see subsite TODO). -->
+@@DECISION A — TITLE/BRANDING:
+  seed titles this "The Quaerant's Oracle." The game/product is
+  "Tesserae Sortis." Are these the same artifact (TS = the oracle), or is
+  the oracle one component of TS? Pick the H1 below accordingly.
 
 # Tesserae Sortis
-## The Quaerant's Oracle
-*A Card-Based Solo Oracle System — System Reference Document*
+### The Quaerant's Oracle
 
-Compatible with Level One TTRPG and adaptable to other systems or none at all.
+A Card-Based Solo Oracle System
+*System Reference Document*
+
+Compatible with Level One TTRPG and adaptable to other systems, or usable alone.
 
 ---
 
 ## DESIGN PRINCIPLES
 
-This oracle uses a standard 54-card deck (52 + 2 Jokers) as a complete interpretive system. Every meaningful element is encoded directly into the card face - no lookup tables required for basic play.
+This oracle uses a standard 54-card deck (52 + 2 Jokers) as a complete interpretive system. Every meaningful element is encoded directly into the card face - no lookup tables required for basic play, though references are provided for convenience. The principles are consistent enough to learn and apply improvisationally, using as much or as little as you like on any given draw.
 
 Three layers of meaning operate simultaneously on every card:
 - **Color** provides binary direction (yes/no)
 - **Suit** provides narrative texture and thematic domain
-- **Rank** provides role/archetype association when relevant
+- **Rank** provides role/archetype association OR degree when relevant
 
 The player controls interpretive depth by choosing which layers to read. A simple yes/no question reads color only. A full scene prompt reads all three layers together.
 
-**The Aperture Principle**: The more specific your question, the more limited and specific the answer. The most open and freeform application is not a question at all, but a prompt: *"I do this. What happens?"* This is a feature, not a bug.
+**The Aperture Principle**: The more specific your question, the more limited and specific the answer. The most open and freeform application is not a question at all, but a __prompt__: *"I do this. What happens?"* This is a feature, not a bug.
 
-**Design note on suit associations**: This system uses visually intuitive suit mappings (a club is a weapon, a spade is a digging tool) rather than traditional cartomancy associations. Players comfortable with traditional or Tarot associations may substitute those freely - the system works either way.
+**Design note on suit associations**: This system uses visually intuitive suit mappings (a club is a weapon, a spade is a digging tool) rather than traditional cartomancy associations. Players comfortable with traditional or Tarot associations may substitute those freely - the system works either way. We did try to keep at least nominally in line with pseudo-traditional applications. 
 
 ---
 
@@ -92,13 +91,15 @@ Aces are **low** (value = 1) throughout.
 | Red | Yes |
 | Black | No |
 
-*Design note on color: Red=Yes, Black=No follows the existing coloring of a standard deck and isn't a choice this system makes. Worth naming plainly anyway, since "black" carrying negative connotation and "red/light" carrying positive connotation is a well-worn cultural pattern, and a system built on a real deck inherits it whether or not anyone intended it. We can't recolor a standard deck. What we can and did do is keep the suit domains themselves neutral and free of any added value judgment - see note below.*
+*Design note on color: Red=Yes, Black=No follows the existing coloring of a standard deck and traditional interpretation. This is worth naming plainly anyway, since "black" carrying negative connotation and "red/light" carrying positive connotation is a cultural trope. We did't recolor a standard deck, because we don't mean for you to have to buy something new. We have tried to keep the suit domains and descriptions neutral and free of value judgment.*
 
 ### Suit: Narrative Texture & Thematic Domain
 
-<!-- @@DECISION B — RESOLVED: the corrected wording stands (Clubs "...guards,
-     raiders, coercion"; Spades "tradesfolk, tools..."). Part of an ongoing
-     sensitivity watch — see subsite TODO. -->
+@@DECISION B — SUIT TABLE: the corrected (working-draft) wording is used
+  below: Clubs domain ends "...guards, raiders, coercion" and Spades domain
+  begins "tradesfolk, tools...". The seed draft still read "violent
+  criminals" and "menials" respectively — which contradicts its own design
+  note. Confirm the corrected version stands.
 
 | Suit | Texture | Domain |
 |---|---|---|
@@ -111,35 +112,34 @@ Aces are **low** (value = 1) throughout.
 
 *Additional layering (elemental, seasonal, directional) is valid and can be assigned on the fly or referenced from a table. Any binary or quaternary division maps cleanly here.*
 
-*Design note on domain language: an earlier draft described the Spades domain as "menials" and the Clubs domain as including "violent criminals" - moral judgment that the red suits' domains never carried. That was an authorial choice stacked on top of the deck's existing color binary, not something the deck required, and it's been corrected. Worth a periodic check that no similar asymmetry has crept back in elsewhere, including the card lexicon.*
-
 ### Rank: The Roles
 
 | Rank | Role | Domain |
 |---|---|---|
-| A | Warrior | Skilled violence and physical confrontation in melee combat |
-| 2 | Sniper | Ranged precision, tactical positioning, and distance attacks |
-| 3 | Performer | Emotional manipulation, social influence, and entertainment |
-| 4 | Sneak | Concealment, stealth, and moving undetected |
-| 5 | Naturalist | Wilderness survival, tracking, and environmental knowledge |
-| 6 | Beast Handler | Animal training, communication, and partnership |
-| 7 | Athlete | Physical excellence, endurance, and athletic feats |
-| 8 | Healer | Medical treatment, recovery assistance, and wound care |
-| 9 | Loremaster | Information synthesis, research, and investigation |
-| 0 | Tinker | Crafting, mechanical repair, and technical problem-solving |
-| J | Adept | Intuitive thematic magic drawing on internal power |
-| Q | Conjuror | Spiritual negotiation, summoning, and making deals with entities |
-| K | Spellweaver | Academic formulaic magic using bound spells |
+| A | Warrior | violence, brutality, physical confrontation |
+| 2 | Sniper | Ranged precision, tactical positioning, action at distance |
+| 3 | Performer | Emotional manipulation, social influence, entertainment |
+| 4 | Sneak | Concealment, stealth, acting undetected |
+| 5 | Naturalist | Wilderness, survival, tracking, environmental knowledge |
+| 6 | Beast Handler | Animals, training, com[promise, partnership |
+| 7 | Athlete | Physical excellence, endurance, athletic feats |
+| 8 | Healer | Medical matters, assistance, any care |
+| 9 | Loremaster | Knowledge, reasoning, seeking or finding wisdom |
+| 0 | Tinker | Craft, process, problem-solving, goods and services |
+| J | Adept | Intuitiion, talent, spontaneity |
+| Q | Conjuror | Spiritual matters, negotiation, making deals, matters unseen |
+| K | Spellweaver | Formulaic wonders, rules that break rules, supremacy of wit |
 
-Pip cards (A-0) represent mundane training. Face cards (J, Q, K) represent arcane specialization.
+Pip cards (A-0) represent mundane matters. Face cards (J, Q, K) represent wondrous or (at least seemingly) arcane moments.
 
-Rank is not always relevant. When it matters, it identifies the professional character of the result. When it doesn't, simply read color and suit and move on.
+Rank is not always relevant. When it matters, it either identifies the professional character of the result, or introduces a statement of degree.
+When it doesn't, simply read color and suit and move on.
 
 ### The Jokers: Chaos & Permission
 
 | Card | Meaning |
 |---|---|
-| **Xr** | Chaos with potential - weird, wonderful, disruptive, and possibly a gift. |
+| **Xr** | Chaos with potential - weird, wonderful, disruptive; possibly a gift. |
 | **Xb** | Chaos with teeth - extraordinary and probably dangerous; your gut says to be wary. |
 
 Either Joker suspends the normal interpretive range. Go bigger. Go stranger. Go unexpected. The non-Joker cards in the same draw offer thematic guidance for the direction of the weirdness.
@@ -160,10 +160,9 @@ Any time the momentum sags, draw some inspiration. The oracle is here to restore
 
 ## ASKING THE ORACLE
 
-<!-- @@DECISION C — KEEP: the Aperture Principle is important enough to merit
-     repetition, so both the brief (Design Principles) and full (here)
-     statements stay for now. Flagged for re-evaluation during the planned
-     editing passes — see subsite TODO. -->
+@@DECISION C — APERTURE APPEARS TWICE: the Aperture Principle is stated
+  briefly under Design Principles (seed) and again, more fully, here
+  (working draft). Keep both (intro + full treatment), or collapse to one?
 
 ### The Aperture Principle
 The player controls how much the oracle can do with any given draw.
@@ -172,7 +171,7 @@ The player controls how much the oracle can do with any given draw.
 *"Does the market have a better sword I can buy?"* - Valid, but limits the oracle to answering exactly that. The cards get conscripted into a yes/no inventory check.
 
 **Open prompt → open scene.**
-*"I head to the market."* - Lets the cards build an event rather than answer a question. The result will surprise you.
+*"I need a better sword - I head to the market."* - Lets the cards build an event rather than answer a question. The result will often surprise you.
 
 The most open and freeform application isn't a question at all. It's a prompt: *"I do this. What happens?"*
 
@@ -200,23 +199,15 @@ Single card draws are valid for simple questions when you don't want more than a
 
 ## THE SHUFFLE
 
-Shuffle between every Drawing of the Three as a soft rule of thumb. This keeps the draw genuinely random and prevents the deck from becoming predictable.
+Shuffle between every Drawing of the Three as a "soft" rule of thumb. This keeps the draw genuinely random and prevents the deck from becoming predictable.
 
-When things get really interesting, take a moment to stop and savor the tension. Call for a reshuffle - it forces you to sit and think about what's happening rather than just dealing cards. **Any time you can say "I haven't seen many Hearts for a while" is a sure sign it's been too long since you shuffled.**
+When things get really interesting, take a moment to stop and savor the tension. Call for a reshuffle - it forces you to sit and think about what's happening rather than just dealing cards. **Any time you can say "I haven't seen many Hearts for a while" is a sign it's been too long since you shuffled.**
 
-Forgetting to shuffle in a tense, fast-moving scene is fine. You can call it fate. The same card appearing repeatedly is the deck telling you something - pay attention.
+Forgetting to shuffle in a tense, fast-moving scene is fine. You can call it fate, but shuffling creates fate too. The same card appearing repeatedly is the deck telling you something - pay attention.
 
 ### Advanced Options @@(sidebar)
 - **Multiple decks**: Shuffle two or three standard decks together to extend meaningful randomness and change Joker odds significantly.
-- **Card removal**: Remove specific cards to deliberately adjust odds. Want two Xb and one Xr? Take one out. Experienced players can tune their deck to suit their campaign.
-
----
-
-## CONSECUTIVE CARD RULE
-
-@@TODO: Formalize this rule fully.
-
-When two cards of the same suit or rank appear consecutively in any layout or draw sequence, lay the second card sideways to indicate a modified or complicated reading. This introduces pseudo-reversals organically from the flow of play without requiring card marking.
+- **Card removal**: Remove specific cards to deliberately adjust odds. Want two Xb and one Xr? Take one out of a two-deck stack. Experienced players can tune their deck to suit their campaign.
 
 ---
 
@@ -230,6 +221,10 @@ Standard playing cards don't reliably show orientation, so traditional Tarot rev
 - **Third card**: The shadow - consequence, hidden element, complication
 
 No modification to the deck required.
+
+### CONSECUTIVE CARD RULE
+
+When two cards of the same suit or rank appear consecutively in any layout or draw sequence, lay the second card sideways to indicate a modified or complicated "inverted" reading. This introduces pseudo-reversals organically from the flow of play without requiring card marking.
 
 ---
 
@@ -245,7 +240,7 @@ No redraw. No replacement. Keep playing.
 
 ## RESOLUTION MECHANICS
 
-<!-- Source: working draft (the fuller version, with inline examples). -->
+<!-- L1 rules; EL6 draws 6 cards, counts the reds. -->
 
 The oracle generates story. Resolution mechanics determine whether a character's specific competencies change the outcome of a specific action.
 
@@ -257,7 +252,7 @@ Ask yourself: *does it matter whether this specific character succeeds or fails 
 
 If yes, invoke resolution. If the story works either way, keep drawing.
 
-Good candidates for resolution: active combat, a critical negotiation, a risky stealth approach, a complex repair under pressure. Poor candidates: reading a room, deciding to trust someone, basic travel, anything the oracle is already handling well.
+Good candidates for resolution: active combat, a critical negotiation, a risky stealth approach, a complex repair under pressure. Poor candidates: basic travel, anything where the character has no particular skill, or anything the oracle is already handling well.
 
 ### Hooks in Resolution
 
@@ -308,21 +303,23 @@ When a Drawing of the Three produces no pip cards at all, numeric resolution is 
 - **2 black, 1 red**: Failure with silver lining - the red suit colors it
 - **3 black**: Decisive failure - suits describe how bad
 
-Three No/ands is effectively a critical failure. Three No/buts is a thorough defeat with surprisingly generous consolation prizes. Three face cards in any draw strongly indicates arcane involvement - fate itself is weighing in rather than simple skill opposition.
+Three No/ands is effectively a critical failure. Three No/buts is a thorough defeat with surprisingly generous consolation prizes. Three face cards in any draw strongly indicates seemingly miraculous or arcane involvement - fate itself is weighing in rather than simple skill opposition.
 
-### The Resolution Roll (L1 Simple Pool)
+### The Resolution Roll 
+
+You can emulate L1's Simple Pool when not using "diceless" contests.
 
 Once opposing EL is established, both sides draw cards equal to their EL from the top of the deck. Count reds. Higher count wins. Effect equals winner's count minus loser's count. Ties go to the defender.
 
-**Extra Effort**: Before drawing, a player may declare Extra Effort and draw additional cards beyond their EL. Each extra card raises the potential maximum but also raises the bust threshold - any total exceeding the original EL is a catastrophic failure (effective score of zero). The sweet spot is roughly EL plus half again; beyond that, bust risk climbs faster than expected gain.
+**Extra Effort**: Before drawing, a player may declare Extra Effort and draw additional cards beyond their EL. Each extra card raises the potential maximum but not the bust threshold - any total exceeding the original EL is a catastrophic failure (effective score of zero). The sweet spot is roughly EL plus up to half again; beyond that, bust risk climbs faster than expected gain.
 
-*Example: Calder's EL is 7. Drawing 10 cards shifts the bell curve toward 5 reds without dramatically increasing bust risk. Drawing 14 would push maximum potential higher but make busting nearly as likely as succeeding.*
+*Example: Calder's EL is 7. Drawing 10 cards shifts the bell curve toward 5 reds without too dramatically increasing bust risk. Drawing 14 would push maximum potential higher but make a bust as likely as success.*
 
 ### Oracle and Resolution Working Together
 
-The oracle's suit and texture colors the *shape* of a result independent of the resolution roll. A red card draw that nonetheless produces a failed roll means the character failed this specific task, but the broader situation still trends their direction. A black card draw with a successful roll means competence won the moment but the scene is turning against them. Both layers speak simultaneously and neither cancels the other.
+The oracle's suit and texture colors the *shape* of a result independent of the resolution roll. A red card draw that nonetheless produces a failed roll means the character failed this specific task, but the broader situation still trends to their benefit. A black card draw with a successful roll means competence won the moment but the scene still turns against them. Both layers speak simultaneously and neither cancels the other.
 
-When player creativity produces a solution that changes the tactical situation entirely - an improvised diversion, an unexpected use of environment, a piece of information that reframes the problem - the oracle resolves whether it works. The resolution mechanics handle what the character's *skills* determine. Both tools serve different questions.
+When player creativity produces a solution that changes the tactical situation entirely - an improvised diversion, an unexpected use of environment, a piece of information that reframes the problem - the oracle resolves whether it works. The resolution mechanics handle what the character's *skills* determine. They serve different questions.
 
 ### Token Resolution - Pure Oracle Combat & Conflict
 
@@ -343,7 +340,7 @@ When both sides draw simultaneously, apply both results before checking status. 
 
 **Down**: When a participant cannot pay a token they owe, they are Down. The conflict is resolved against them.
 
-Conflicts end when someone is Down, surrenders, flees, or when story circumstances change the situation entirely. Not every conflict requires a Down result - an exit that doesn't require hitting zero is always available.
+Conflicts end when someone is Down, surrenders, flees, or when story circumstances change the situation entirely. Not every conflict requires a Down result - an exit that doesn't require hitting zero is almost always available.
 
 Skill provides a buffer, not a guarantee. A weaker opponent drawing well can grind down a stronger one. That's honest.
 
@@ -453,17 +450,18 @@ Draw: 6D, 0S, 8H - The gambit works but Diamonds insists on a cost - the tavernk
 
 *The spreads below are inspired by traditional Tarot layouts, adapted for a standard deck without Major Arcana or reversals. Each spread description notes its inspiration where applicable.*
 
-*When using any spread, observe the consecutive card rule: any time two cards of the same suit or rank appear consecutively in a layout, lay the second card sideways to indicate a modified or complicated reading.*
+*When using any spread, observe the consecutive card rule: any time two cards of the same suit or rank appear consecutively in a layout, lay the second card sideways to indicate a modified or inverted reading.*
 
 ### Question Framing for Spreads
 
 Spreads reward deliberate questions. Before drawing, the Quaerant should:
 
-**Be specific but not binary.** "Will I succeed?" closes the reading before it opens. "What do I need to understand about my pursuit of X?" invites genuine revelation.
+**Be specific but *not* binary.** "Will I succeed?" closes the reading before it opens. "What do I need to understand about my pursuit of X?" invites genuine revelation.
 
 **State the stakes.** A reading without acknowledged stakes is just card drawing. Know what you're actually asking about and why it matters.
+Traditional Tarot says to state *intention*. Traditional gaming says for there to be *stakes*, or you shouldn't bother to roll. If there are no significant stakes, the Quaerant knows the draw is merely a random nudge; if stakes are stated, the draw affects them directly. "If I don't manage to find a way to open this door before the water level rises above the handle we will probably drown. What do I see that might help?"
 
-**One question per reading.** The spread answers one thing deeply rather than several things shallowly.
+**__One__ question per reading.** The spread answers one thing deeply rather than several things shallowly.
 
 **Invite surprise.** If you already know the answer you want, the reading will only confirm your bias. The best questions are genuinely open to unexpected responses.
 
@@ -532,21 +530,7 @@ The choice can be made deliberately (selecting a card that feels true to the cha
 **The Question:**
 State the question clearly before drawing. Follow the question framing guidelines above. The Tower rewards specific, open, stakes-acknowledged questions.
 
-@@DECISION D — TOWER LAYOUT (TOP OF THE TODO LIST, pending author review):
-  the two drafts diagram this differently. Both are reproduced verbatim
-  below; one will be chosen (or redrawn). Until then, BOTH are kept:
-
-  --- working-draft layout ---
-```
-                    [6. THE POTENTIAL]
-
-[2. THE OBSTACLE]   [4. THE PRESENT]
-laid across [1]
-
-[1. THE GOAL]       [3. THE PAST]
-```
-
-  --- seed layout ---
+TOWER LAYOUT: 
 ```
               [6. POTENTIAL]
 
@@ -591,10 +575,13 @@ Shuffle and cut the remaining deck. Lay cards in order:
 
 *Non-L1 users: the Role associations can be set aside entirely. Read each card purely from its name, texture, and the brief interpretation provided.*
 
-<!-- @@DECISION E — RESOLVED: rich prose (below) is the canonical lexicon.
-     A compact/synoptic copy will live somewhere too; the seed's 3-column
-     table is stashed as seed material for that in
-     TS/_stash/lexicon-table-synoptic.md. -->
+@@DECISION E — LEXICON FORMAT: reproduced below in the working draft's
+  richer PROSE form (1-3 sentences per card). The seed draft instead used a
+  compact 3-column table (Card | Name | Reading). Prose gives the room the
+  "@@ revision pass" below asks for (two readings per card); the table is
+  more scannable on a page. Choose one format before this becomes pages.
+
+<!-- We need a single page with a columnar/tabular reference chart with the more simplistic represenations, but each should link to a dedicated page with the fuller, more expansive text and the graphic of the card. The full page versions should include multiple interpretations where possible (Razor's Nick, immediately below), and examples of inverted/alternate versions. See https://labyrinthos.co/blogs/tarot-card-meanings-list/the-fool-meaning-major-arcana-tarot-card-meanings for one decent example; https://biddytarot.com/tarot-card-meanings/major-arcana/fool/ for another; https://www.thetarotlady.com/tarot-card-by-card-the-fool/ for a very different one. -->
 
 *@@ Revision pass needed: each card should carry at least two valid interpretations. The name itself should support both readings without requiring explanation. Example: Razor's Nick could mean a nick in the razor's edge (the tool is compromised) or a nick caused by the razor (you paid in blood for the precision). Both readings are Yes/but. Both are Tinker. The ambiguity is the feature.*
 
@@ -614,7 +601,7 @@ The face cards are organized into three registers: the wild and intuitive (Jacks
 A gift freely given, a story that opens doors. Someone's charm or talent is working entirely in your favor, and the benefit ripples outward beyond what was asked. Accept it gracefully.
 
 **JD - Prophet's Levy** *(Yes, but - Commercial)*
-The vision was accurate, the path is clear - but the Prophet collects his due and you didn't get a vote. Success arrived with an invoice attached. Pay it and move on.
+The vision was accurate, the path is clear - but the Prophet collects his due and you didn't get a say. Success arrived with an invoice attached. Pay it and move on.
 
 **JC - Soothsayer's Hex** *(No, and - Conflict)*
 The truth was spoken and it cut deep. Someone saw something they shouldn't have, and now the knowing has teeth. Things are worse for the revelation, not better.
@@ -850,20 +837,10 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 ---
 
-## @@TODO — TESSERAE SORTIS SUBSITE (priority order)
+## @@TODO LIST (merged from both drafts)
 
-**Top of the list**
-- **Tower spread layout** — pick between the two diagrams (@@DECISION D). Awaiting author review.
-
-**Editing & tone (whole subsite)**
-- This is a working initialization copy; the whole text needs **multiple editing / revision passes** before publication.
-- **Sensitivity watch** — catch and smooth subtle insensitivities, improving them **without breaking the basic traditional feel** of the rules. (Continues the suit-language correction already applied; periodically re-check the lexicon too.)
-- **Re-evaluate the deliberate Aperture repetition** (Design Principles + Asking the Oracle) during the edit passes — kept intentionally for now (@@DECISION C).
-
-**Content still unfinished in the source drafts**
 - **Consecutive card rule**: Formalize completely. Currently described as principle only.
 - **Lexicon revision pass**: Every card needs at least two valid interpretations supportable from the name alone without explanation.
-- **Synoptic lexicon**: a compact quick-reference version of the lexicon. Seed material stashed in `TS/_stash/lexicon-table-synoptic.md`.
 - **Three card spreads**: Consider naming each variant formally (The Timeline, The Situation, The Action).
 - **Additional spreads**: Four and five card options under consideration. Nothing more complex than the Tower likely within scope.
 - **Tarot variant rules**: Full alternate version for players with a Tarot deck. Different day, separate section. Key differences: 14 cards per suit (Page added), 22 Major Arcana, reversals naturally available.

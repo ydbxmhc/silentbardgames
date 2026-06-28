@@ -8,7 +8,11 @@ The Deck
 
 NotationQD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleQueen — Conjuror
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Sibyl's Price
+
+Yes, but - Commercial
+
+The Sibyl's prophecies were always accurate and always costly. You got what you came for. The price was higher than quoted, and the Sibyl is already counting it out. Worth it, probably. Probably.
 
 ---
 

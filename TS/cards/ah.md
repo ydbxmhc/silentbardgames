@@ -8,7 +8,11 @@ The Deck
 
 NotationAH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleAce — Warrior
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Champion's Glory
+
+Yes, and - Social
+
+The fighter's triumph spills over into celebration. The crowd is cheering and something beyond victory arrives with it.
 
 ---
 

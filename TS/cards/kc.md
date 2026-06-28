@@ -8,7 +8,11 @@ The Deck
 
 NotationKC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleKing — Spellweaver
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Inquisitor's Writ
+
+No, and - Conflict
+
+The full weight of organized authority, properly documented, coming down. This isn't personal - it's institutional. Which makes it worse. The Inquisitor has paperwork.
 
 ---
 

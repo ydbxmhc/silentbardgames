@@ -8,7 +8,11 @@ The Deck
 
 NotationJH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleJack — Adept
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Bard's Ode
+
+Yes, and - Social
+
+A gift freely given, a story that opens doors. Someone's charm or talent is working entirely in your favor, and the benefit ripples outward beyond what was asked. Accept it gracefully.
 
 ---
 

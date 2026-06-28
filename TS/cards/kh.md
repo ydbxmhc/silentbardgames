@@ -8,7 +8,11 @@ The Deck
 
 NotationKH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleKing — Spellweaver
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Guildmaster's Favor
+
+Yes, and - Social
+
+Institutional approval, freely and publicly given. Someone with real organizational authority has decided you are useful, trustworthy, or simply worth backing. Doors open. People notice.
 
 ---
 

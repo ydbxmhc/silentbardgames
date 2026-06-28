@@ -8,7 +8,11 @@ The Deck
 
 NotationKD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleKing — Spellweaver
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Magister's Fee
+
+Yes, but - Commercial
+
+The knowledge was accurate. The work was done correctly. And the Magister's invoice is already waiting on the desk. Academic authority always charges for its services, and the fee structure is non-negotiable.
 
 ---
 

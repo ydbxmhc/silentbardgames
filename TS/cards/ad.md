@@ -8,7 +8,11 @@ The Deck
 
 NotationAD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleAce — Warrior
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Mercenary's Wage
+
+Yes, but - Commercial
+
+The sword arm won the day. The invoice is already on the table. Victory arrived with a contract attached.
 
 ---
 

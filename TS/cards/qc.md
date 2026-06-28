@@ -8,7 +8,11 @@ The Deck
 
 NotationQC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleQueen — Conjuror
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Witch's Curse
+
+No, and - Conflict
+
+Not merely opposition - deliberate, targeted, personal. Someone with real power decided you specifically are the problem. The conflict that follows has weight and intention behind it.
 
 ---
 

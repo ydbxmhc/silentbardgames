@@ -8,7 +8,11 @@ The Deck
 
 NotationKS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleKing — Spellweaver
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Artificer's Workaround
+
+No, but - Labor
+
+Something bound and purposeful is working against you, methodically and without malice. But somewhere in the mechanism there's an improvised patch, a jury-rigged solution, a crack in the construct. It won't last. It doesn't need to.
 
 ---
 

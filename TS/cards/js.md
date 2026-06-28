@@ -8,7 +8,11 @@ The Deck
 
 NotationJS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleJack — Adept
 
-**Lexicon entry pending.** The named reading for this card will be filled in from the finalized master lexicon.
+## Friar's Indulgence
+
+No, but - Labor
+
+You didn't earn this. The ledger says no, the merit says no, and yet here is a pass, slightly corrupt and entirely functional. Don't examine it too closely. Walk through.
 
 ---
 
