@@ -6,7 +6,21 @@ The Deck
 
 ![Joker (Red)](cards/Xr.png)
 
-NotationXr MeaningChaos with potential — weird, wonderful, disruptive, and possibly a gift In playSuspends the normal interpretive range. Go bigger, stranger, unexpected.
+## Chaos with potential
+
+### Meaning
+
+Chaos with potential — weird, wonderful, disruptive, and possibly a gift.
+
+### In play
+
+Suspends the normal interpretive range. Go bigger, stranger, unexpected. The non-Joker cards in the same draw guide the direction of the weirdness.
+
+### Examples
+
+Worked examples — *pending*.
+
+NotationXr
 
 ---
 

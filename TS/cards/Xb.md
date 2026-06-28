@@ -6,7 +6,21 @@ The Deck
 
 ![Joker (Black & White)](cards/Xb.png)
 
-NotationXb MeaningChaos with teeth — extraordinary and probably dangerous In playSuspends the normal interpretive range. Go bigger, stranger, unexpected.
+## Chaos with teeth
+
+### Meaning
+
+Chaos with teeth — extraordinary and probably dangerous.
+
+### In play
+
+Suspends the normal interpretive range. Go bigger, stranger, unexpected. The non-Joker cards in the same draw guide the direction of the weirdness.
+
+### Examples
+
+Worked examples — *pending*.
+
+NotationXb
 
 ---
 

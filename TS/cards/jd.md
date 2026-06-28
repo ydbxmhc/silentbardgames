@@ -6,13 +6,23 @@ The Deck
 
 ![Jack of Diamonds](cards/jd.png)
 
-NotationJD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleJack — Adept
-
 ## Prophet's Levy
 
-Yes, but - Commercial
+Yes, but — Commercial
+
+### Upright
 
 The vision was accurate, the path is clear - but the Prophet collects his due and you didn't get a say. Success arrived with an invoice attached. Pay it and move on.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationJD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleJack — Adept
 
 ---
 

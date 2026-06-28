@@ -6,13 +6,23 @@ The Deck
 
 ![King of Hearts](cards/kh.png)
 
-NotationKH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleKing — Spellweaver
-
 ## Guildmaster's Favor
 
-Yes, and - Social
+Yes, and — Social
+
+### Upright
 
 Institutional approval, freely and publicly given. Someone with real organizational authority has decided you are useful, trustworthy, or simply worth backing. Doors open. People notice.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationKH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleKing — Spellweaver
 
 ---
 

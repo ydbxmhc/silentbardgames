@@ -6,13 +6,23 @@ The Deck
 
 ![Ace of Clubs](cards/ac.png)
 
-NotationAC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleAce — Warrior
-
 ## Berserker's Rampage
 
-No, and - Conflict
+No, and — Conflict
+
+### Upright
 
 Something let loose and made everything worse. The violence escalated past any useful point and kept going.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationAC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleAce — Warrior
 
 ---
 

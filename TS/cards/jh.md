@@ -6,13 +6,23 @@ The Deck
 
 ![Jack of Hearts](cards/jh.png)
 
-NotationJH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleJack — Adept
-
 ## Bard's Ode
 
-Yes, and - Social
+Yes, and — Social
+
+### Upright
 
 A gift freely given, a story that opens doors. Someone's charm or talent is working entirely in your favor, and the benefit ripples outward beyond what was asked. Accept it gracefully.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationJH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleJack — Adept
 
 ---
 

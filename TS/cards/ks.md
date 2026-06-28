@@ -6,13 +6,23 @@ The Deck
 
 ![King of Spades](cards/ks.png)
 
-NotationKS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleKing — Spellweaver
-
 ## Artificer's Workaround
 
-No, but - Labor
+No, but — Labor
+
+### Upright
 
 Something bound and purposeful is working against you, methodically and without malice. But somewhere in the mechanism there's an improvised patch, a jury-rigged solution, a crack in the construct. It won't last. It doesn't need to.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationKS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleKing — Spellweaver
 
 ---
 

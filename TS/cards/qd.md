@@ -6,13 +6,23 @@ The Deck
 
 ![Queen of Diamonds](cards/qd.png)
 
-NotationQD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleQueen — Conjuror
-
 ## Sibyl's Price
 
-Yes, but - Commercial
+Yes, but — Commercial
+
+### Upright
 
 The Sibyl's prophecies were always accurate and always costly. You got what you came for. The price was higher than quoted, and the Sibyl is already counting it out. Worth it, probably. Probably.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationQD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleQueen — Conjuror
 
 ---
 

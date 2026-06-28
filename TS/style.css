@@ -630,3 +630,21 @@ h1::after {
   padding: 0.25rem 1.3rem 0.25rem 0;
   vertical-align: top;
 }
+
+/* ============================================================
+   LEXICON INDEX TABLE + CARD DETAIL READING BLOCK
+   ============================================================ */
+.ts-content table.lex-table { font-family: var(--font-body); width: 100%; border-collapse: collapse; font-size: 0.95em; }
+.ts-content table.lex-table .lex-code { font-family: var(--font-mono); white-space: nowrap; color: var(--ink-mid); }
+.lex-table th { text-align: left; border-bottom: 1px solid var(--rule); padding: 0.35rem 0.9rem 0.35rem 0; }
+.lex-table td { padding: 0.3rem 0.9rem 0.3rem 0; vertical-align: top; }
+.lex-table tr.lex-group td {
+  font-variant: small-caps; letter-spacing: 0.05em; font-weight: bold;
+  color: var(--accent); padding-top: 1.1rem; border-bottom: 1px solid var(--rule);
+}
+.card-reading-block { max-width: 34rem; margin: 1.5rem auto 0; }
+.card-reading-block h3 { font-size: 1rem; color: var(--ink-mid); margin: 1.3rem 0 0.3rem; }
+.card-reading-block h3::after { display: none; }
+.card-reading-block .pending { color: var(--ink-light); }
+
+.lex-table tbody td:nth-of-type(3) { white-space: nowrap; }

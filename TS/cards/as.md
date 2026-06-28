@@ -6,13 +6,23 @@ The Deck
 
 ![Ace of Spades](cards/as.png)
 
-NotationAS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleAce — Warrior
-
 ## Duellist's Evasion
 
-No, but - Labor
+No, but — Labor
+
+### Upright
 
 The blade arm failed but the footwork saved you. A skilled retreat, not a rout. You know more about your opponent now.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationAS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleAce — Warrior
 
 ---
 

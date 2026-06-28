@@ -6,13 +6,23 @@ The Deck
 
 ![Ace of Diamonds](cards/ad.png)
 
-NotationAD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleAce — Warrior
-
 ## Mercenary's Wage
 
-Yes, but - Commercial
+Yes, but — Commercial
+
+### Upright
 
 The sword arm won the day. The invoice is already on the table. Victory arrived with a contract attached.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationAD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleAce — Warrior
 
 ---
 

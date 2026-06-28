@@ -6,13 +6,23 @@ The Deck
 
 ![Jack of Clubs](cards/jc.png)
 
-NotationJC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleJack — Adept
-
 ## Soothsayer's Hex
 
-No, and - Conflict
+No, and — Conflict
+
+### Upright
 
 The truth was spoken and it cut deep. Someone saw something they shouldn't have, and now the knowing has teeth. Things are worse for the revelation, not better.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationJC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleJack — Adept
 
 ---
 

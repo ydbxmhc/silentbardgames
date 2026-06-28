@@ -6,13 +6,23 @@ The Deck
 
 ![Queen of Spades](cards/qs.png)
 
-NotationQS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleQueen — Conjuror
-
 ## Harpy's Bargain
 
-No, but - Labor
+No, but — Labor
+
+### Upright
 
 Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody would have chosen. And yet the Harpy held up her end. You got something out of this. Perhaps more than you expected, if less than you wanted.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationQS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleQueen — Conjuror
 
 ---
 

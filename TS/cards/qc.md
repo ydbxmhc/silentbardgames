@@ -6,13 +6,23 @@ The Deck
 
 ![Queen of Clubs](cards/qc.png)
 
-NotationQC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleQueen — Conjuror
-
 ## Witch's Curse
 
-No, and - Conflict
+No, and — Conflict
+
+### Upright
 
 Not merely opposition - deliberate, targeted, personal. Someone with real power decided you specifically are the problem. The conflict that follows has weight and intention behind it.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationQC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleQueen — Conjuror
 
 ---
 

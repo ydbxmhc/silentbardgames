@@ -6,13 +6,23 @@ The Deck
 
 ![King of Diamonds](cards/kd.png)
 
-NotationKD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleKing — Spellweaver
-
 ## Magister's Fee
 
-Yes, but - Commercial
+Yes, but — Commercial
+
+### Upright
 
 The knowledge was accurate. The work was done correctly. And the Magister's invoice is already waiting on the desk. Academic authority always charges for its services, and the fee structure is non-negotiable.
+
+### Inverted
+
+Inverted reading — *pending*. When this card is laid sideways (the consecutive-card rule), its reversed sense goes here.
+
+### Examples
+
+Worked examples, upright & inverted — *pending*.
+
+NotationKD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleKing — Spellweaver
 
 ---
 
