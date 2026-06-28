@@ -317,6 +317,8 @@ approval; then extend the pattern to all 54.
   pursued yet. *Inverted* — the forged writ is never questioned; he walks past
   the inquisitors on a paper that should have hanged him.
 
+### >> SUPERSEDED for QS/4S etc. by the N7 inversion model below; uprights here still stand.
+
 ### QS — Harpy's Bargain *(No, but — Labor / Conjuror)*
 - **Upright:** The bargain was bad and you knew it — unpleasant terms, worse
   company, a price you'd never have agreed to with a choice. It cost you. But
@@ -329,3 +331,41 @@ approval; then extend the pattern to all 54.
   mother's ring; she gets the crossing and nothing else, the ring gone. But
   she's across. *Inverted* — the witch keeps "safe passage" to the letter; Vell
   crosses untouched and arrives carrying the one thing the marsh-cult feared.
+
+---
+
+## N7 — INVERSION MODEL (the "virtual bell curve")
+**Status: PROPOSED — design rule, author's concept** · raised 2026-06-27
+
+Inversion (card laid sideways via the consecutive-card rule) regresses the
+extremes toward the middle and turns every *but* into a hook for the next draw.
+
+**The rule of thumb:** the card's usual meaning stands; inversion either
+**(a) flips the outcome outright, or (b) leans hard on the "but"**, pointing
+firmly into another draw.
+
+- **"but" cards** — *Yes, but* (Diamonds) / *No, but* (Spades):
+  - Lean-on-the-but (default): "You failed, *but* saw something else that might
+    work" → draw again. "You succeeded, *but* triggered a side effect that's its
+    own problem" → draw again.
+  - Or full flip: the No becomes an effective Yes / the Yes collapses to No.
+- **"and" cards** — *Yes, and* (Hearts) / *No, and* (Clubs):
+  - Inversion turns the *and* into "*but* a little extra is a bit too much":
+    - *Yes, and* → the bonus overshoots into a complication (a win that becomes
+      a problem).
+    - *No, and* → the pile-on overshoots so hard it cracks open (a catastrophe
+      that clears the board / yields a grim opening).
+
+**Net effect:** Yes/and (best) and No/and (worst) are pulled toward the
+"but" middle when inverted; Yes/but and No/but either flip or spawn the next
+draw. A virtual bell curve of outcomes.
+
+**Where this should live (proposed):** a short "Inversion" blurb in the
+master, attached to the Consecutive Card Rule (which already creates the
+sideways/inverted lay). The per-card "Inverted" sections then just apply it.
+
+**Build status:** the per-card page template now has Keywords / Upright /
+Inverted / In Play. Putative drafts written for AH, AD, 4S, AC (one per
+texture) — marked "working draft, pending author review." Remaining ~50 carry
+a placeholder that states the inversion options. Awaiting author OK on the
+model + sample voice before drafting the rest in batches.
