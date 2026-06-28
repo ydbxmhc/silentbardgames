@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mosaic Motif Prototype &#8212; Tesserae Sortis</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/TS/style.css">
+  <style>
+  /* ===== PROTOTYPE ONLY — move into TS/style.css once approved ===== */
+  .mosaic-demo {
+    --t-gold:  #c89b2c;
+    --t-terra: #b5532a;
+    --t-lapis: #2f6f7a;
+    --t-olive: #7a7a3a;
+    --t-cream: #e8d9c0;
+    --t-grout: #2a1f0e;
+  }
+
+  /* Header band: tessellated strip, text sits BELOW it (never on it) */
+  .mosaic-band {
+    height: 42px;
+    margin: 0 0 1.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2784%27%20height%3D%2742%27%20viewBox%3D%270%200%2084%2042%27%3E%3Crect%20width%3D%2784%27%20height%3D%2742%27%20fill%3D%27%232a1f0e%27%2F%3E%3Crect%20x%3D%271%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%232f6f7a%27%2F%3E%3Crect%20x%3D%2729%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23b5532a%27%2F%3E%3Crect%20x%3D%2757%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%271%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23b5532a%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%2729%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%2757%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%232f6f7a%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%271%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%232f6f7a%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3Crect%20x%3D%2729%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%2757%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23b5532a%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3C%2Fsvg%3E");
+    background-repeat: repeat-x;
+    background-size: auto 42px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.06),
+                inset 0 -1px 0 rgba(0,0,0,0.25);
+    border-radius: 3px;
+  }
+
+  .tessera-rule {
+    height: 12px;
+    margin: 1.6rem auto;
+    background-color: var(--t-grout);
+    background-image:
+      repeating-linear-gradient(90deg, rgba(0,0,0,0) 0 11px, var(--t-grout) 11px 12px),
+      repeating-linear-gradient(90deg,
+        var(--t-gold) 0 12px, var(--t-terra) 12px 24px, var(--t-lapis) 24px 36px,
+        var(--t-olive) 36px 48px, var(--t-cream) 48px 60px);
+    background-size: 60px 12px, 60px 12px;
+    border-radius: 2px;
+  }
+
+  /* Heading motif: replace the plain rule with a short tessera strip */
+  .mosaic-demo h1::after,
+  .mosaic-demo h2::after {
+    content: '';
+    display: block;
+    height: 10px;
+    width: 11rem;
+    margin: 0.55rem 0 0;
+    background-color: var(--t-grout);
+    background-image:
+      repeating-linear-gradient(90deg, rgba(0,0,0,0) 0 9px, var(--t-grout) 9px 10px),
+      repeating-linear-gradient(90deg,
+        var(--t-gold) 0 10px, var(--t-terra) 10px 20px, var(--t-lapis) 20px 30px,
+        var(--t-olive) 30px 40px, var(--t-cream) 40px 50px);
+    background-size: 50px 10px, 50px 10px;
+    border-radius: 2px;
+  }
+  .mosaic-demo h2 { font-size: 1.15rem; }
+
+  /* tessera bullet for lists */
+  .mosaic-demo .tess-list { list-style: none; padding-left: 1.4rem; }
+  .mosaic-demo .tess-list li { position: relative; margin: 0.35rem 0; }
+  .mosaic-demo .tess-list li::before {
+    content: ''; position: absolute; left: -1.4rem; top: 0.45em;
+    width: 9px; height: 9px; transform: rotate(45deg);
+    background: var(--t-terra);
+    box-shadow: 2px 0 0 var(--t-gold);
+  }
+
+  .demo-label {
+    font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--ink-light); margin: 2rem 0 0.3rem;
+  }
+  .demo-card-art { display:block; width:100%; max-width:240px; height:auto;
+    margin: 0 auto 1.25rem; filter: drop-shadow(var(--shadow-md)); }
+  .demo-name { font-family: var(--font-display); font-style: italic;
+    color: var(--accent); text-align:center; margin:0; }
+  .demo-name::after { display:none; }
+  </style>
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header"></header>
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+  <main id="main">
+    <div class="content-wrap mosaic-demo">
+
+      <div class="mosaic-band" role="presentation"></div>
+
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/TS/index.html">Home</a>
+        <span class="breadcrumb-sep">&#8250;</span>
+        <span>Mosaic Motif Prototype</span>
+      </nav>
+
+      <header class="page-header">
+        <span class="page-category">Prototype</span>
+        <h1>Tesserae Sortis</h1>
+      </header>
+
+      <p>This page is a motif test &#8212; pure CSS, no image assets. The
+      <em>tesserae</em> show up in the <strong>header band</strong> above, the
+      <strong>rule under each heading</strong>, the <strong>divider</strong>
+      below, and the <strong>list tiles</strong> &#8212; while the reading
+      surface itself stays calm and legible. Nothing busy sits behind body
+      text.</p>
+
+      <div class="tessera-rule" role="presentation"></div>
+
+      <h2>How the mosaic is spent</h2>
+      <ul class="tess-list">
+        <li>Header band &#8212; busy is fine here; no text reads through it.</li>
+        <li>Heading rules &#8212; a short tessera strip instead of a plain line.</li>
+        <li>Section dividers &#8212; a full tessera rule between blocks.</li>
+        <li>List markers &#8212; a single tilted tile.</li>
+      </ul>
+
+      <div class="tessera-rule" role="presentation"></div>
+
+      <p class="demo-label">A card, in context</p>
+      <img data-src="cards/ah.png" alt="Ace of Hearts" class="demo-card-art">
+      <h2 class="demo-name">Champion's Glory</h2>
+      <p style="text-align:center; font-size:var(--size-small); letter-spacing:0.06em; text-transform:uppercase; color:var(--ink-light); margin:0.2rem 0 1rem;">Yes, and &#8212; Social</p>
+      <p>The fighter's triumph spills over into celebration. The crowd is
+      cheering and something beyond victory arrives with it.</p>
+
+      <div class="tessera-rule" role="presentation"></div>
+
+      <p style="color:var(--ink-light); font-size:var(--size-small);">Tune
+      targets: tile size, palette, grout darkness, band height, corner
+      rounding, and whether the band is full-bleed or inset. Say which way to
+      push and I&#8217;ll dial it in &#8212; or go more organic/irregular with a
+      richer inline-SVG mosaic.</p>
+
+    </div>
+  </main>
+  <script src="/TS/config.js"></script>
+  <script src="/resources/nav.js"></script>
+</body>
+</html>
