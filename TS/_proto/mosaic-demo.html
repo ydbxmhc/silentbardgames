@@ -3,78 +3,44 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mosaic Motif Prototype &#8212; Tesserae Sortis</title>
+  <title>Mosaic Motif Prototype v2 &#8212; Tesserae Sortis</title>
   <link rel="stylesheet" href="/resources/onesrd.css">
   <link rel="stylesheet" href="/TS/style.css">
   <style>
-  /* ===== PROTOTYPE ONLY — move into TS/style.css once approved ===== */
-  .mosaic-demo {
-    --t-gold:  #c89b2c;
-    --t-terra: #b5532a;
-    --t-lapis: #2f6f7a;
-    --t-olive: #7a7a3a;
-    --t-cream: #e8d9c0;
-    --t-grout: #2a1f0e;
-  }
-
-  /* Header band: tessellated strip, text sits BELOW it (never on it) */
+  /* ===== PROTOTYPE ONLY — faded fresco, irregular tesserae ===== */
   .mosaic-band {
-    height: 42px;
-    margin: 0 0 1.5rem;
-    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2784%27%20height%3D%2742%27%20viewBox%3D%270%200%2084%2042%27%3E%3Crect%20width%3D%2784%27%20height%3D%2742%27%20fill%3D%27%232a1f0e%27%2F%3E%3Crect%20x%3D%271%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%232f6f7a%27%2F%3E%3Crect%20x%3D%2729%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23b5532a%27%2F%3E%3Crect%20x%3D%2757%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%271%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%271%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23b5532a%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%2729%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%2757%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%232f6f7a%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%2715%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%271%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%232f6f7a%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3Crect%20x%3D%2729%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23c89b2c%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23e8d9c0%27%2F%3E%3Crect%20x%3D%2757%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%23b5532a%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%2729%27%20width%3D%2712%27%20height%3D%2712%27%20rx%3D%271%27%20fill%3D%27%237a7a3a%27%2F%3E%3C%2Fsvg%3E");
-    background-repeat: repeat-x;
-    background-size: auto 42px;
-    box-shadow: inset 0 1px 0 rgba(255,255,255,0.06),
-                inset 0 -1px 0 rgba(0,0,0,0.25);
-    border-radius: 3px;
+    height: 46px; margin: 0 0 1.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27360%27%20height%3D%2746%27%20viewBox%3D%270%200%20360%2046%27%3E%3Crect%20width%3D%27360%27%20height%3D%2746%27%20fill%3D%27%23cabd98%27%2F%3E%3Crect%20x%3D%274%27%20y%3D%273.0%27%20width%3D%2710%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23bdac93%27%2F%3E%3Crect%20x%3D%2715%27%20y%3D%273.0%27%20width%3D%279%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23c7a163%27%20transform%3D%27rotate%28-2%2019.5%2011.0%29%27%2F%3E%3Crect%20x%3D%2727%27%20y%3D%273.0%27%20width%3D%2717%27%20height%3D%2719%27%20rx%3D%271.5%27%20fill%3D%27%23b08b6f%27%2F%3E%3Crect%20x%3D%2747%27%20y%3D%273.0%27%20width%3D%279%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23c0ac95%27%20transform%3D%27rotate%283%2051.5%2011.5%29%27%2F%3E%3Crect%20x%3D%2776%27%20y%3D%274.0%27%20width%3D%2715%27%20height%3D%2719%27%20rx%3D%271.5%27%20fill%3D%27%2399a5a1%27%2F%3E%3Crect%20x%3D%2794%27%20y%3D%275.0%27%20width%3D%2720%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%2395a8a1%27%2F%3E%3Crect%20x%3D%27115%27%20y%3D%273.0%27%20width%3D%2716%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%23989b9a%27%2F%3E%3Crect%20x%3D%27133%27%20y%3D%275.0%27%20width%3D%2713%27%20height%3D%2719%27%20rx%3D%271.5%27%20fill%3D%27%238d9ca0%27%20transform%3D%27rotate%282%20139.5%2014.5%29%27%2F%3E%3Crect%20x%3D%27162%27%20y%3D%274.0%27%20width%3D%2712%27%20height%3D%2719%27%20rx%3D%271.5%27%20fill%3D%27%23e0d2aa%27%2F%3E%3Crect%20x%3D%27175%27%20y%3D%273.0%27%20width%3D%2717%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23969f7e%27%2F%3E%3Crect%20x%3D%27193%27%20y%3D%273.0%27%20width%3D%2710%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%2393a7a3%27%2F%3E%3Crect%20x%3D%27216%27%20y%3D%274.0%27%20width%3D%2711%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23bfa99b%27%2F%3E%3Crect%20x%3D%27229%27%20y%3D%273.0%27%20width%3D%2716%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%23e4c8b8%27%2F%3E%3Crect%20x%3D%27247%27%20y%3D%274.0%27%20width%3D%2714%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23e0c8b0%27%2F%3E%3Crect%20x%3D%27263%27%20y%3D%273.0%27%20width%3D%2710%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23bea36b%27%2F%3E%3Crect%20x%3D%27274%27%20y%3D%275.0%27%20width%3D%2711%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%239da381%27%2F%3E%3Crect%20x%3D%27287%27%20y%3D%273.0%27%20width%3D%2715%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%23b2916e%27%20transform%3D%27rotate%282%20294.5%2012.0%29%27%2F%3E%3Crect%20x%3D%27323%27%20y%3D%275.0%27%20width%3D%2713%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%2394a082%27%2F%3E%3Crect%20x%3D%27338%27%20y%3D%275.0%27%20width%3D%2720%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%23b58e72%27%2F%3E%3Crect%20x%3D%275%27%20y%3D%2724.0%27%20width%3D%2713%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%2393a0a3%27%20transform%3D%27rotate%282%2011.5%2032.0%29%27%2F%3E%3Crect%20x%3D%2735%27%20y%3D%2723.0%27%20width%3D%2711%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%238ba9a3%27%2F%3E%3Crect%20x%3D%2749%27%20y%3D%2724.0%27%20width%3D%279%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23bc9168%27%2F%3E%3Crect%20x%3D%2760%27%20y%3D%2723.0%27%20width%3D%2719%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23af8b74%27%2F%3E%3Crect%20x%3D%2782%27%20y%3D%2723.0%27%20width%3D%2717%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%23bea192%27%2F%3E%3Crect%20x%3D%27102%27%20y%3D%2723.0%27%20width%3D%2719%27%20height%3D%2719%27%20rx%3D%271.5%27%20fill%3D%27%23af8f6c%27%2F%3E%3Crect%20x%3D%27122%27%20y%3D%2725.0%27%20width%3D%2720%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%238f9ba3%27%20transform%3D%27rotate%282%20132.0%2034.0%29%27%2F%3E%3Crect%20x%3D%27145%27%20y%3D%2725.0%27%20width%3D%2716%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23bf9766%27%2F%3E%3Crect%20x%3D%27164%27%20y%3D%2723.0%27%20width%3D%278%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23be8a67%27%2F%3E%3Crect%20x%3D%27175%27%20y%3D%2725.0%27%20width%3D%2716%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23c1a668%27%2F%3E%3Crect%20x%3D%27194%27%20y%3D%2724.0%27%20width%3D%2715%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23a2a878%27%2F%3E%3Crect%20x%3D%27212%27%20y%3D%2725.0%27%20width%3D%2716%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23c2a7a0%27%2F%3E%3Crect%20x%3D%27229%27%20y%3D%2725.0%27%20width%3D%2714%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23bc896c%27%2F%3E%3Crect%20x%3D%27244%27%20y%3D%2723.0%27%20width%3D%2720%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%2396a679%27%2F%3E%3Crect%20x%3D%27266%27%20y%3D%2723.0%27%20width%3D%2710%27%20height%3D%2717%27%20rx%3D%271.5%27%20fill%3D%27%23e1d7b6%27%2F%3E%3Crect%20x%3D%27277%27%20y%3D%2723.0%27%20width%3D%2713%27%20height%3D%2718%27%20rx%3D%271.5%27%20fill%3D%27%23a0a672%27%2F%3E%3Crect%20x%3D%27293%27%20y%3D%2723.0%27%20width%3D%2717%27%20height%3D%2716%27%20rx%3D%271.5%27%20fill%3D%27%23b2896e%27%2F%3E%3Crect%20x%3D%27311%27%20y%3D%2725.0%27%20width%3D%2712%27%20height%3D%2719%27%20rx%3D%271.5%27%20fill%3D%27%239e9c82%27%2F%3E%3C%2Fsvg%3E");
+    background-repeat: repeat-x; background-size: auto 46px;
+    opacity: 0.92;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.08),
+                inset 0 -1px 0 rgba(0,0,0,0.10);
   }
-
   .tessera-rule {
-    height: 12px;
-    margin: 1.6rem auto;
-    background-color: var(--t-grout);
-    background-image:
-      repeating-linear-gradient(90deg, rgba(0,0,0,0) 0 11px, var(--t-grout) 11px 12px),
-      repeating-linear-gradient(90deg,
-        var(--t-gold) 0 12px, var(--t-terra) 12px 24px, var(--t-lapis) 24px 36px,
-        var(--t-olive) 36px 48px, var(--t-cream) 48px 60px);
-    background-size: 60px 12px, 60px 12px;
-    border-radius: 2px;
+    height: 13px; margin: 1.6rem auto;
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27360%27%20height%3D%2713%27%20viewBox%3D%270%200%20360%2013%27%3E%3Crect%20width%3D%27360%27%20height%3D%2713%27%20fill%3D%27%23cabd98%27%2F%3E%3Crect%20x%3D%272%27%20y%3D%272.5%27%20width%3D%2720%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23bb9276%27%2F%3E%3Crect%20x%3D%2723%27%20y%3D%271.5%27%20width%3D%2717%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%239a9b7c%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%270.5%27%20width%3D%2717%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23c8ac62%27%2F%3E%3Crect%20x%3D%2761%27%20y%3D%271.5%27%20width%3D%279%27%20height%3D%2711%27%20rx%3D%271.5%27%20fill%3D%27%2394aa9d%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%270.5%27%20width%3D%2720%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23919e9c%27%2F%3E%3Crect%20x%3D%2792%27%20y%3D%271.5%27%20width%3D%2716%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%238eaaa7%27%2F%3E%3Crect%20x%3D%27110%27%20y%3D%270.5%27%20width%3D%2714%27%20height%3D%279%27%20rx%3D%271.5%27%20fill%3D%27%23b18774%27%2F%3E%3Crect%20x%3D%27125%27%20y%3D%270.5%27%20width%3D%2718%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%2394a8a4%27%20transform%3D%27rotate%28-1%20134.0%205.5%29%27%2F%3E%3Crect%20x%3D%27144%27%20y%3D%272.5%27%20width%3D%2715%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%23bca669%27%2F%3E%3Crect%20x%3D%27179%27%20y%3D%270.5%27%20width%3D%2715%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23939c9a%27%2F%3E%3Crect%20x%3D%27196%27%20y%3D%270.5%27%20width%3D%2712%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23c9a39f%27%20transform%3D%27rotate%285%20202.0%204.5%29%27%2F%3E%3Crect%20x%3D%27209%27%20y%3D%272.5%27%20width%3D%278%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%23c5a866%27%2F%3E%3Crect%20x%3D%27230%27%20y%3D%270.5%27%20width%3D%2718%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23a2a682%27%2F%3E%3Crect%20x%3D%27251%27%20y%3D%272.5%27%20width%3D%2720%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%23e4d0ba%27%2F%3E%3Crect%20x%3D%27273%27%20y%3D%270.5%27%20width%3D%278%27%20height%3D%279%27%20rx%3D%271.5%27%20fill%3D%27%23c8a370%27%2F%3E%3Crect%20x%3D%27283%27%20y%3D%272.5%27%20width%3D%2719%27%20height%3D%2711%27%20rx%3D%271.5%27%20fill%3D%27%239ca377%27%2F%3E%3Crect%20x%3D%27305%27%20y%3D%271.5%27%20width%3D%279%27%20height%3D%2711%27%20rx%3D%271.5%27%20fill%3D%27%23bbac94%27%2F%3E%3Crect%20x%3D%27316%27%20y%3D%270.5%27%20width%3D%2715%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%239aa074%27%2F%3E%3Crect%20x%3D%27332%27%20y%3D%272.5%27%20width%3D%2710%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23caa393%27%2F%3E%3C%2Fsvg%3E");
+    background-repeat: repeat-x; background-size: auto 13px;
+    opacity: 0.9;
   }
-
-  /* Heading motif: replace the plain rule with a short tessera strip */
-  .mosaic-demo h1::after,
-  .mosaic-demo h2::after {
-    content: '';
-    display: block;
-    height: 10px;
-    width: 11rem;
+  .mosaic-demo h1::after, .mosaic-demo h2::after {
+    content: ''; display: block; height: 11px; width: 12rem;
     margin: 0.55rem 0 0;
-    background-color: var(--t-grout);
-    background-image:
-      repeating-linear-gradient(90deg, rgba(0,0,0,0) 0 9px, var(--t-grout) 9px 10px),
-      repeating-linear-gradient(90deg,
-        var(--t-gold) 0 10px, var(--t-terra) 10px 20px, var(--t-lapis) 20px 30px,
-        var(--t-olive) 30px 40px, var(--t-cream) 40px 50px);
-    background-size: 50px 10px, 50px 10px;
-    border-radius: 2px;
+    background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27360%27%20height%3D%2713%27%20viewBox%3D%270%200%20360%2013%27%3E%3Crect%20width%3D%27360%27%20height%3D%2713%27%20fill%3D%27%23cabd98%27%2F%3E%3Crect%20x%3D%272%27%20y%3D%272.5%27%20width%3D%2720%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23bb9276%27%2F%3E%3Crect%20x%3D%2723%27%20y%3D%271.5%27%20width%3D%2717%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%239a9b7c%27%2F%3E%3Crect%20x%3D%2743%27%20y%3D%270.5%27%20width%3D%2717%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23c8ac62%27%2F%3E%3Crect%20x%3D%2761%27%20y%3D%271.5%27%20width%3D%279%27%20height%3D%2711%27%20rx%3D%271.5%27%20fill%3D%27%2394aa9d%27%2F%3E%3Crect%20x%3D%2771%27%20y%3D%270.5%27%20width%3D%2720%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23919e9c%27%2F%3E%3Crect%20x%3D%2792%27%20y%3D%271.5%27%20width%3D%2716%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%238eaaa7%27%2F%3E%3Crect%20x%3D%27110%27%20y%3D%270.5%27%20width%3D%2714%27%20height%3D%279%27%20rx%3D%271.5%27%20fill%3D%27%23b18774%27%2F%3E%3Crect%20x%3D%27125%27%20y%3D%270.5%27%20width%3D%2718%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%2394a8a4%27%20transform%3D%27rotate%28-1%20134.0%205.5%29%27%2F%3E%3Crect%20x%3D%27144%27%20y%3D%272.5%27%20width%3D%2715%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%23bca669%27%2F%3E%3Crect%20x%3D%27179%27%20y%3D%270.5%27%20width%3D%2715%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23939c9a%27%2F%3E%3Crect%20x%3D%27196%27%20y%3D%270.5%27%20width%3D%2712%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23c9a39f%27%20transform%3D%27rotate%285%20202.0%204.5%29%27%2F%3E%3Crect%20x%3D%27209%27%20y%3D%272.5%27%20width%3D%278%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%23c5a866%27%2F%3E%3Crect%20x%3D%27230%27%20y%3D%270.5%27%20width%3D%2718%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23a2a682%27%2F%3E%3Crect%20x%3D%27251%27%20y%3D%272.5%27%20width%3D%2720%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%23e4d0ba%27%2F%3E%3Crect%20x%3D%27273%27%20y%3D%270.5%27%20width%3D%278%27%20height%3D%279%27%20rx%3D%271.5%27%20fill%3D%27%23c8a370%27%2F%3E%3Crect%20x%3D%27283%27%20y%3D%272.5%27%20width%3D%2719%27%20height%3D%2711%27%20rx%3D%271.5%27%20fill%3D%27%239ca377%27%2F%3E%3Crect%20x%3D%27305%27%20y%3D%271.5%27%20width%3D%279%27%20height%3D%2711%27%20rx%3D%271.5%27%20fill%3D%27%23bbac94%27%2F%3E%3Crect%20x%3D%27316%27%20y%3D%270.5%27%20width%3D%2715%27%20height%3D%2710%27%20rx%3D%271.5%27%20fill%3D%27%239aa074%27%2F%3E%3Crect%20x%3D%27332%27%20y%3D%272.5%27%20width%3D%2710%27%20height%3D%278%27%20rx%3D%271.5%27%20fill%3D%27%23caa393%27%2F%3E%3C%2Fsvg%3E");
+    background-repeat: repeat-x; background-size: auto 11px;
+    opacity: 0.85;
   }
   .mosaic-demo h2 { font-size: 1.15rem; }
 
-  /* tessera bullet for lists */
   .mosaic-demo .tess-list { list-style: none; padding-left: 1.4rem; }
   .mosaic-demo .tess-list li { position: relative; margin: 0.35rem 0; }
   .mosaic-demo .tess-list li::before {
-    content: ''; position: absolute; left: -1.4rem; top: 0.45em;
-    width: 9px; height: 9px; transform: rotate(45deg);
-    background: var(--t-terra);
-    box-shadow: 2px 0 0 var(--t-gold);
+    content: ''; position: absolute; left: -1.4rem; top: 0.5em;
+    width: 8px; height: 8px; transform: rotate(8deg);
+    background: #b78f6e; border-radius: 1.5px;
   }
 
-  .demo-label {
-    font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase;
-    color: var(--ink-light); margin: 2rem 0 0.3rem;
-  }
+  .demo-label { font-size: 0.7rem; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--ink-light); margin: 2rem 0 0.3rem; }
   .demo-card-art { display:block; width:100%; max-width:240px; height:auto;
     margin: 0 auto 1.25rem; filter: drop-shadow(var(--shadow-md)); }
   .demo-name { font-family: var(--font-display); font-style: italic;
@@ -94,29 +60,28 @@
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href="/TS/index.html">Home</a>
         <span class="breadcrumb-sep">&#8250;</span>
-        <span>Mosaic Motif Prototype</span>
+        <span>Mosaic Motif Prototype v2</span>
       </nav>
 
       <header class="page-header">
-        <span class="page-category">Prototype</span>
+        <span class="page-category">Prototype &#8212; faded fresco</span>
         <h1>Tesserae Sortis</h1>
       </header>
 
-      <p>This page is a motif test &#8212; pure CSS, no image assets. The
-      <em>tesserae</em> show up in the <strong>header band</strong> above, the
-      <strong>rule under each heading</strong>, the <strong>divider</strong>
-      below, and the <strong>list tiles</strong> &#8212; while the reading
-      surface itself stays calm and legible. Nothing busy sits behind body
-      text.</p>
+      <p>Second pass: a <em>faded fresco</em> palette &#8212; dusty,
+      sun-bleached, low-contrast, no stark color &#8212; and <strong>irregular</strong>
+      tesserae (varied tile sizes, slight tilts, soft plaster gaps) rather than
+      a tidy grid. The colour stays in the chrome at a whisper; the cards and
+      real artwork carry the vivid notes.</p>
 
       <div class="tessera-rule" role="presentation"></div>
 
-      <h2>How the mosaic is spent</h2>
+      <h2>What changed</h2>
       <ul class="tess-list">
-        <li>Header band &#8212; busy is fine here; no text reads through it.</li>
-        <li>Heading rules &#8212; a short tessera strip instead of a plain line.</li>
-        <li>Section dividers &#8212; a full tessera rule between blocks.</li>
-        <li>List markers &#8212; a single tilted tile.</li>
+        <li>Palette muted to aged-plaster earth tones; nothing pops.</li>
+        <li>Tiles are uneven &#8212; different widths, small rotations, gaps.</li>
+        <li>Two staggered rows in the band; one broken row in the rules.</li>
+        <li>This is procedural CSS/SVG &#8212; placeholder for real mosaic art.</li>
       </ul>
 
       <div class="tessera-rule" role="presentation"></div>
@@ -130,11 +95,10 @@
 
       <div class="tessera-rule" role="presentation"></div>
 
-      <p style="color:var(--ink-light); font-size:var(--size-small);">Tune
-      targets: tile size, palette, grout darkness, band height, corner
-      rounding, and whether the band is full-bleed or inset. Say which way to
-      push and I&#8217;ll dial it in &#8212; or go more organic/irregular with a
-      richer inline-SVG mosaic.</p>
+      <p style="color:var(--ink-light); font-size:var(--size-small);">The drawer
+      background is where a commissioned, properly irregular mosaic will
+      eventually live; this chrome just needs to harmonize with it. Tell me if
+      the palette wants to go even quieter/cooler, and I&#8217;ll tune.</p>
 
     </div>
   </main>
