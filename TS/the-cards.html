@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Cards &#8212; Tesserae Sortis</title>
+  <link rel="stylesheet" href="/resources/onesrd.css">
+  <link rel="stylesheet" href="/TS/style.css">
+</head>
+<body>
+  <div id="overlay" role="presentation"></div>
+  <header id="site-header"></header>
+  <nav id="drawer" aria-label="Site navigation" aria-hidden="true"></nav>
+  <main id="main">
+    <div class="content-wrap ts-content">
+      <div class="ts-band" role="presentation"></div>
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="index.html">Home</a>
+        <span class="breadcrumb-sep">&#8250;</span>
+        <span>The Cards</span>
+      </nav>
+      <header class="page-header">
+        <span class="page-category">The Cards</span>
+        <h1>The Cards</h1>
+      </header>
+
+<h2>NOTATION</h2>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Notation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ranks</td>
+<td>A, 2-9, 0, J, Q, K</td>
+</tr>
+<tr>
+<td>Suits</td>
+<td>H, D, C, S</td>
+</tr>
+<tr>
+<td>Color only</td>
+<td><em>r (red), </em>b (black)</td>
+</tr>
+<tr>
+<td>Jokers</td>
+<td>Xr (colored/red), Xb (black &amp; white)</td>
+</tr>
+</tbody>
+</table>
+<p>Tens are written as <strong>0</strong> (single character, eliminates the only two-digit label, allows zero as a value).
+Aces are <strong>low</strong> (value = 1) throughout.</p>
+<p><strong>Examples</strong>: AH, 0C, QS, 7D, Xr, Xb</p>
+<hr />
+<h2>THE CARDS</h2>
+<h3>Color: Direction</h3>
+<table>
+<thead>
+<tr>
+<th>Color</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Red</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Black</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><em>Design note on color: Red=Yes, Black=No follows the existing coloring of a standard deck and traditional interpretation. This is worth naming plainly anyway, since "black" carrying negative connotation and "red/light" carrying positive connotation is a cultural trope. We didn't recolor a standard deck, because we don't mean for you to have to buy something new. We have tried to keep the suit domains and descriptions neutral and free of value judgment.</em></p>
+<h3>Suit: Narrative Texture &amp; Thematic Domain</h3>
+<table>
+<thead>
+<tr>
+<th>Suit</th>
+<th>Texture</th>
+<th>Domain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>H</strong>earts</td>
+<td>Yes, <em>and</em> - an additional beneficial result or lead</td>
+<td>Social - romance, reputation, contacts, art, gifts, influence</td>
+</tr>
+<tr>
+<td><strong>D</strong>iamonds</td>
+<td>Yes, <em>but</em> - an unwanted side effect accompanies success</td>
+<td>Commercial - trade, cost, worth, value, municipal action</td>
+</tr>
+<tr>
+<td><strong>C</strong>lubs</td>
+<td>No, <em>and</em> - failure triggers an unwanted side effect</td>
+<td>Conflict - fighting, soldiers, guards, raiders, coercion</td>
+</tr>
+<tr>
+<td><strong>S</strong>pades</td>
+<td>No, <em>but</em> - failure yields progress toward the goal</td>
+<td>Labor - tradesfolk, tools, mechanisms, guilds, farming, mines, caravans</td>
+</tr>
+</tbody>
+</table>
+<p><em>Design note: We chose visually intuitive suit associations (a club is a weapon, a spade is a digging tool) over traditional cartomancy mappings. Players already comfortable with traditional or Tarot associations should feel free to use those instead - the system works either way.</em></p>
+<p><em>Additional layering (elemental, seasonal, directional) is valid and can be assigned on the fly or referenced from a table. Any binary or quaternary division maps cleanly here.</em></p>
+<h3>Rank: The Roles</h3>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Role</th>
+<th>Domain</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>Warrior</td>
+<td>violence, brutality, physical confrontation</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sniper</td>
+<td>Ranged precision, tactical positioning, action at distance</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Performer</td>
+<td>Emotional manipulation, social influence, entertainment</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sneak</td>
+<td>Concealment, stealth, acting undetected</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Naturalist</td>
+<td>Wilderness, survival, tracking, environmental knowledge</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Beast Handler</td>
+<td>Animals, training, compromise, partnership</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Athlete</td>
+<td>Physical excellence, endurance, athletic feats</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Healer</td>
+<td>Medical matters, assistance, any care</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Loremaster</td>
+<td>Knowledge, reasoning, seeking or finding wisdom</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Tinker</td>
+<td>Craft, process, problem-solving, goods and services</td>
+</tr>
+<tr>
+<td>J</td>
+<td>Adept</td>
+<td>Intuition, talent, spontaneity</td>
+</tr>
+<tr>
+<td>Q</td>
+<td>Conjuror</td>
+<td>Spiritual matters, negotiation, making deals, matters unseen</td>
+</tr>
+<tr>
+<td>K</td>
+<td>Spellweaver</td>
+<td>Formulaic wonders, rules that break rules, supremacy of wit</td>
+</tr>
+</tbody>
+</table>
+<p>Pip cards (A-0) represent mundane matters. Face cards (J, Q, K) represent wondrous or (at least seemingly) arcane moments.</p>
+<p>Rank is not always relevant. When it matters, it either identifies the professional character of the result, or introduces a statement of degree.
+When it doesn't, simply read color and suit and move on.</p>
+<h3>The Jokers: Chaos &amp; Permission</h3>
+<table>
+<thead>
+<tr>
+<th>Card</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Xr</strong></td>
+<td>Chaos with potential - weird, wonderful, disruptive; possibly a gift.</td>
+</tr>
+<tr>
+<td><strong>Xb</strong></td>
+<td>Chaos with teeth - extraordinary and probably dangerous; your gut says to be wary.</td>
+</tr>
+</tbody>
+</table>
+<p>Either Joker suspends the normal interpretive range. Go bigger. Go stranger. Go unexpected. The non-Joker cards in the same draw offer thematic guidance for the direction of the weirdness.</p>
+<p>Drawing both Jokers in a single pull (with one other card for guidance) is rare enough (~0.2%) to feel significant. When it happens, pay attention. The story just shifted under your feet.</p>
+<hr />
+
+      <nav class="page-nav" aria-label="Page navigation">
+        <a href="start.html" class="prev">
+          <span class="page-nav-label">&#8592; Previous</span>
+          <span class="page-nav-title">Design Principles</span>
+        </a>
+        <a href="the-draw.html" class="next">
+          <span class="page-nav-label">Next &#8594;</span>
+          <span class="page-nav-title">The Draw</span>
+        </a>
+      </nav>
+    </div>
+  </main>
+  <script src="/TS/config.js"></script>
+  <script src="/resources/nav.js"></script>
+</body>
+</html>
