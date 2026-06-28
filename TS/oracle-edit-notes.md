@@ -207,3 +207,27 @@ frames, now populated with the current single reading + card art.
   `TS/_stash/lexicon-table-synoptic.md` is the seed for that chart.
 - Study the three reference sites for layout patterns when we design the full
   per-card page (upright vs reversed sections, keyword row, etc.).
+
+---
+
+## CHANGE LOG — 2026-06-27 (author-authorized typo + housekeeping pass)
+
+**Applied to `TS/oracle-master.md`:**
+- Re-stamped `@@DECISION A–E` to RESOLVED (reflecting the author's edit-pass
+  choices) and updated the header status index. No prose changed.
+- Restored the subsite TODO grouping: re-added **sensitivity watch** +
+  **multiple editing passes**, and the **build** items (per-card pages,
+  tabular reference index, "the machinery" page). All the author's existing
+  content TODO bullets kept verbatim under "Carried-through content TODOs."
+
+**Spelling/punctuation fixes (obvious, unambiguous):**
+- `did't` → `didn't` (color design note)
+- `Intuitiion` → `Intuition` (Adept rank row)
+- `represenations` → `representations` (lexicon build comment)
+- `com[promise` → `compromise` (Beast Handler rank row) — **FLAGGED:** this
+  was a literal de-bracketing. The source working-draft had "**communication**"
+  in that slot, not "compromise." If communication (or something else) was the
+  intent, say so and I'll swap it. Left as `compromise` for now.
+
+aspell otherwise came back clean (remaining flags were game terms, names, card
+codes, and `**S**pades`-style bold false positives).

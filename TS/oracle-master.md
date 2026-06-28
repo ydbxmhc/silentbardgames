@@ -20,19 +20,17 @@
       says it should be. Marked anyway so you see it.
    5. Existing @@ notes/TODOs from both drafts are carried through.
 
-  OPEN @@DECISION POINTS (quick index):
-     A. Title / branding (system name vs "Tesserae Sortis")
-     B. Suit-domain table (correction applied — confirm)
-     C. Aperture text appears twice (Design Principles + Asking the Oracle)
-     D. Tower spread — the two drafts draw the layout differently
-     E. Card Lexicon format — rich prose (working) vs compact table (seed)
+  @@DECISION STATUS — all resolved by the author's edit pass:
+     A. Title — "Tesserae Sortis" (title) / "The Quaerant's Oracle" (subtitle).
+     B. Suit-domain table — corrected wording stands.
+     C. Aperture stated twice — kept deliberately.
+     D. Tower spread — centered-column layout chosen.
+     E. Lexicon — rich prose canonical; per-card pages + tabular index planned.
   =============================================================
 -->
 
-@@DECISION A — TITLE/BRANDING:
-  seed titles this "The Quaerant's Oracle." The game/product is
-  "Tesserae Sortis." Are these the same artifact (TS = the oracle), or is
-  the oracle one component of TS? Pick the H1 below accordingly.
+<!-- @@DECISION A — RESOLVED: "Tesserae Sortis" is the title; "The
+     Quaerant's Oracle" is the subtitle (author's edit pass). -->
 
 # Tesserae Sortis
 ### The Quaerant's Oracle
@@ -91,15 +89,12 @@ Aces are **low** (value = 1) throughout.
 | Red | Yes |
 | Black | No |
 
-*Design note on color: Red=Yes, Black=No follows the existing coloring of a standard deck and traditional interpretation. This is worth naming plainly anyway, since "black" carrying negative connotation and "red/light" carrying positive connotation is a cultural trope. We did't recolor a standard deck, because we don't mean for you to have to buy something new. We have tried to keep the suit domains and descriptions neutral and free of value judgment.*
+*Design note on color: Red=Yes, Black=No follows the existing coloring of a standard deck and traditional interpretation. This is worth naming plainly anyway, since "black" carrying negative connotation and "red/light" carrying positive connotation is a cultural trope. We didn't recolor a standard deck, because we don't mean for you to have to buy something new. We have tried to keep the suit domains and descriptions neutral and free of value judgment.*
 
 ### Suit: Narrative Texture & Thematic Domain
 
-@@DECISION B — SUIT TABLE: the corrected (working-draft) wording is used
-  below: Clubs domain ends "...guards, raiders, coercion" and Spades domain
-  begins "tradesfolk, tools...". The seed draft still read "violent
-  criminals" and "menials" respectively — which contradicts its own design
-  note. Confirm the corrected version stands.
+<!-- @@DECISION B — RESOLVED: corrected suit wording stands (Clubs
+     "...raiders, coercion"; Spades "tradesfolk, tools..."). -->
 
 | Suit | Texture | Domain |
 |---|---|---|
@@ -121,12 +116,12 @@ Aces are **low** (value = 1) throughout.
 | 3 | Performer | Emotional manipulation, social influence, entertainment |
 | 4 | Sneak | Concealment, stealth, acting undetected |
 | 5 | Naturalist | Wilderness, survival, tracking, environmental knowledge |
-| 6 | Beast Handler | Animals, training, com[promise, partnership |
+| 6 | Beast Handler | Animals, training, compromise, partnership |
 | 7 | Athlete | Physical excellence, endurance, athletic feats |
 | 8 | Healer | Medical matters, assistance, any care |
 | 9 | Loremaster | Knowledge, reasoning, seeking or finding wisdom |
 | 0 | Tinker | Craft, process, problem-solving, goods and services |
-| J | Adept | Intuitiion, talent, spontaneity |
+| J | Adept | Intuition, talent, spontaneity |
 | Q | Conjuror | Spiritual matters, negotiation, making deals, matters unseen |
 | K | Spellweaver | Formulaic wonders, rules that break rules, supremacy of wit |
 
@@ -160,9 +155,8 @@ Any time the momentum sags, draw some inspiration. The oracle is here to restore
 
 ## ASKING THE ORACLE
 
-@@DECISION C — APERTURE APPEARS TWICE: the Aperture Principle is stated
-  briefly under Design Principles (seed) and again, more fully, here
-  (working draft). Keep both (intro + full treatment), or collapse to one?
+<!-- @@DECISION C — RESOLVED: the Aperture Principle is kept in both
+     places deliberately (brief intro + full treatment). -->
 
 ### The Aperture Principle
 The player controls how much the oracle can do with any given draw.
@@ -575,13 +569,12 @@ Shuffle and cut the remaining deck. Lay cards in order:
 
 *Non-L1 users: the Role associations can be set aside entirely. Read each card purely from its name, texture, and the brief interpretation provided.*
 
-@@DECISION E — LEXICON FORMAT: reproduced below in the working draft's
-  richer PROSE form (1-3 sentences per card). The seed draft instead used a
-  compact 3-column table (Card | Name | Reading). Prose gives the room the
-  "@@ revision pass" below asks for (two readings per card); the table is
-  more scannable on a page. Choose one format before this becomes pages.
+<!-- @@DECISION E — RESOLVED: rich prose (below) is the canonical lexicon;
+     a tabular reference index + dedicated per-card pages are planned (see
+     the build comment just below). The seed's compact table is stashed in
+     TS/_stash/lexicon-table-synoptic.md as seed material for the index. -->
 
-<!-- We need a single page with a columnar/tabular reference chart with the more simplistic represenations, but each should link to a dedicated page with the fuller, more expansive text and the graphic of the card. The full page versions should include multiple interpretations where possible (Razor's Nick, immediately below), and examples of inverted/alternate versions. See https://labyrinthos.co/blogs/tarot-card-meanings-list/the-fool-meaning-major-arcana-tarot-card-meanings for one decent example; https://biddytarot.com/tarot-card-meanings/major-arcana/fool/ for another; https://www.thetarotlady.com/tarot-card-by-card-the-fool/ for a very different one. -->
+<!-- We need a single page with a columnar/tabular reference chart with the more simplistic representations, but each should link to a dedicated page with the fuller, more expansive text and the graphic of the card. The full page versions should include multiple interpretations where possible (Razor's Nick, immediately below), and examples of inverted/alternate versions. See https://labyrinthos.co/blogs/tarot-card-meanings-list/the-fool-meaning-major-arcana-tarot-card-meanings for one decent example; https://biddytarot.com/tarot-card-meanings/major-arcana/fool/ for another; https://www.thetarotlady.com/tarot-card-by-card-the-fool/ for a very different one. -->
 
 *@@ Revision pass needed: each card should carry at least two valid interpretations. The name itself should support both readings without requiring explanation. Example: Razor's Nick could mean a nick in the razor's edge (the tool is compromised) or a nick caused by the razor (you paid in blood for the precision). Both readings are Yes/but. Both are Tinker. The ambiguity is the feature.*
 
@@ -837,7 +830,18 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 ---
 
-## @@TODO LIST (merged from both drafts)
+## @@TODO — TESSERAE SORTIS SUBSITE
+
+**Editing & tone (whole subsite)**
+- Working initialization copy; the whole text needs **multiple editing / revision passes** before publication.
+- **Sensitivity watch** — catch and smooth subtle insensitivities without breaking the basic traditional feel of the rules.
+
+**Build (page-out)**
+- **Per-card pages**: add the multiple-interpretations + inverted/alternate sections to each frame.
+- **Tabular reference index**: columnar code · name · one-liner chart linking to each card page (seed: `TS/_stash/lexicon-table-synoptic.md`).
+- **"The machinery" page**: design-transparency + GM guidance (edit-notes N3; yourbias.is is CC BY-NC-ND — our own words only).
+
+**Carried-through content TODOs**
 
 - **Consecutive card rule**: Formalize completely. Currently described as principle only.
 - **Lexicon revision pass**: Every card needs at least two valid interpretations supportable from the name alone without explanation.
