@@ -477,3 +477,81 @@ body.rails-resizing { cursor: col-resize; user-select: none; }
 #page-footer p { margin: 0; }
 #page-footer a { color: var(--ink-light); text-decoration: none; }
 #page-footer a:hover { color: var(--accent); }
+
+/* ============================================================
+   CARDS — frame pages + deck table
+   ============================================================ */
+.card-art {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin: 0 auto 1.75rem;
+  filter: drop-shadow(var(--shadow-md));
+}
+.card-facts {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+.card-facts dt {
+  font-size: var(--size-small);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-light);
+  margin-top: 0.6rem;
+}
+.card-facts dd { margin: 0.1rem 0 0; color: var(--ink); }
+.card-lexicon-pending {
+  max-width: 30rem;
+  margin: 1.75rem auto 0;
+  padding: 0.9rem 1.1rem;
+  border: 1px dashed var(--rule);
+  color: var(--ink-light);
+  font-size: var(--size-small);
+}
+.card-lexicon-pending strong { color: var(--ink-mid); }
+
+/* Deck table */
+.deck-table {
+  border-collapse: collapse;
+  margin: 1.5rem auto;
+  width: 100%;
+  max-width: 34rem;
+}
+.deck-table th {
+  font-size: 1.15rem;
+  padding: 0.25rem;
+  color: var(--ink-mid);
+  font-weight: normal;
+}
+.deck-table th.rank-label {
+  font-size: var(--size-small);
+  text-align: right;
+  padding-right: 0.5rem;
+  color: var(--ink-light);
+}
+.deck-table th.suit-red { color: var(--accent-light); }
+.deck-table td { padding: 0.2rem; text-align: center; }
+.deck-cell { display: inline-block; text-decoration: none; }
+.deck-cell img {
+  display: block;
+  width: 100%;
+  max-width: 54px;
+  height: auto;
+  margin: 0 auto;
+  transition: transform var(--transition);
+}
+.deck-cell:hover img { transform: scale(1.12); }
+.deck-cell .deck-code {
+  display: block;
+  font-size: 0.62rem;
+  color: var(--ink-light);
+  margin-top: 0.1rem;
+}
+.deck-jokers {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.deck-jokers .deck-cell img { max-width: 80px; }
