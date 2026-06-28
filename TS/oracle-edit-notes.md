@@ -231,3 +231,41 @@ frames, now populated with the current single reading + card art.
 
 aspell otherwise came back clean (remaining flags were game terms, names, card
 codes, and `**S**pades`-style bold false positives).
+
+---
+
+## N5 — "but" should qualify, not reverse (lexicon semantics)
+**Status: PROPOSED** · raised 2026-06-27 · **affects the lexicon revision pass**
+
+**Author's point:** a *but* result should be a **small adjustment**, not a
+total flip. A success stays a success; a failure stays a failure.
+- **Yes, but** = the success stands, with a cost/complication attached.
+- **No, but** = the failure stands, with a small consolation or sliver of
+  progress — **not** effective success.
+- A genuine flip (failure that's really a win, or vice-versa) belongs to the
+  **inverted** reading, if anywhere — which is exactly what the new per-card
+  "Inverted" slot is for.
+
+**No, but (Spades) — entries that currently over-flip toward success:**
+- **2S Catapult's Misfire** — "something useful landed... *Perhaps better.*"
+  (reads as a win, not a consolation)
+- **4S Prisoner's Map** — "a way out in the dark. It's there if you look."
+  (an escape = effective success)
+- **JS Friar's Indulgence** — "here is a *pass*... entirely functional. Walk
+  through." (a functional pass = effective Yes)
+- **QS Harpy's Bargain** — "You got something out of this. Perhaps *more than
+  you expected*." (over-delivers)
+- Borderline, worth a look: **3S Reviewer's Nostalgia**, **5S Herbalist's
+  Antidote**, **AS Duellist's Evasion**, **KS Artificer's Workaround**.
+- Reading correctly already (good models): **7S Runner's Consolation**
+  ("didn't win... but finished"), **9S Sage's Rescheduling** ("delayed, not
+  denied"), **8S Hollow Leg**.
+
+**Yes, but (Diamonds):** these mostly hold the line — success + a real cost
+(Mercenary's Wage, Sibyl's Price, Razor's Nick, Competitor's Fee, etc.). Worth
+a quick consistency pass to confirm none tip into failure, but no clear
+offenders stood out.
+
+**Action:** roll into the lexicon revision pass (the same one that adds the
+second/inverted reading). When I draft proposed revisions, I'll keep *but*
+results to a qualifier and move any real reversal into the Inverted slot.
