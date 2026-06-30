@@ -10,17 +10,21 @@ The Deck
 
 No, and — Conflict
 
+**Keywords** — *Upright:* targeted malice, personal opposition, a powerful enemy · *Inverted:* the curse rebounds, an enemy who tips their hand
+
 ### Upright
 
 Not merely opposition - deliberate, targeted, personal. Someone with real power decided you specifically are the problem. The conflict that follows has weight and intention behind it.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+Someone with power has chosen you on purpose — but the choosing exposes them. A curse this personal is a confession of motive: the foe who reached so directly has shown you their hand, their reason, and the soft place to push.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* The hedge-witch fixes Vell with a look and a word, and his luck sours that very night.
+
+*Inverted.* The curse is so plainly aimed that Vell knows at once who sent it and why, and a witch who shows that much has handed him the means to answer.
 
 NotationQC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleQueen — Conjuror
 

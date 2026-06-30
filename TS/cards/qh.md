@@ -10,17 +10,21 @@ The Deck
 
 Yes, and — Social
 
+**Keywords** — *Upright:* a favor granted, unearned grace, generosity · *Inverted:* a gift with a string, a patron's quiet claim
+
 ### Upright
 
 A gift from someone who didn't have to give it. Charm, grace, and genuine generosity flowing your direction. Something social blooms unexpectedly. Enjoy it - these moments are rarer than they look.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The favor is given, and giving makes a creditor — the grace was real and so is the ledger it opened, and somewhere the giver has begun, gently, to total what you owe.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* The marquess settles Vell's debt with a wave and asks nothing, for now.
+
+*Inverted.* The marquess settles Vell's debt with a wave; a month on, his steward arrives to explain, sweetly, what such kindness expects.
 
 NotationQH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleQueen — Conjuror
 

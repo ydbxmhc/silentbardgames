@@ -10,17 +10,21 @@ The Deck
 
 No, and — Conflict
 
+**Keywords** — *Upright:* institutional weight, documented authority, an impersonal hammer · *Inverted:* procedure binds them too, the writ's own rules
+
 ### Upright
 
 The full weight of organized authority, properly documented, coming down. This isn't personal - it's institutional. Which makes it worse. The Inquisitor has paperwork.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The full machinery of authority comes down, stamped and impersonal — but machinery runs on rules, and rules bind both hands. The writ that condemns you is a leash on the one who wields it; hold them to their own procedure and the hammer slows.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* The inquisitor lays the sealed writ on the table; Tamsin's options narrow to none.
+
+*Inverted.* Tamsin reads the writ closer than the inquisitor meant her to, and finds the clause that ties his hands as surely as hers.
 
 NotationKC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleKing — Spellweaver
 

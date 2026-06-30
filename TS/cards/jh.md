@@ -10,17 +10,21 @@ The Deck
 
 Yes, and — Social
 
+**Keywords** — *Upright:* a gift of insight, a story that opens doors · *Inverted:* a truth told too well, the wrong door opened
+
 ### Upright
 
 A gift freely given, a story that opens doors. Someone's charm or talent is working entirely in your favor, and the benefit ripples outward beyond what was asked. Accept it gracefully.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The understanding arrives, but larger than the room can hold — a tale so apt it lays someone bare, an insight that swings open a door you'd have been wiser to leave shut.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* The words come to Renn unbidden, and the grieving widow's face softens for the first time in weeks.
+
+*Inverted.* The words land so true that the man beside the widow goes pale, knowing exactly which secret the song just grazed.
 
 NotationJH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleJack — Adept
 

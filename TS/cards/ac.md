@@ -10,9 +10,7 @@ The Deck
 
 No, and — Conflict
 
-Keywords, inverted reading, and examples are working drafts — pending author review.
-
-**Keywords** — *Upright:* escalation, loss compounding, collateral, out of control · *Inverted:* catastrophe that opens a door, mutual ruin, a grim consolation, overshoot
+**Keywords** — *Upright:* escalation, compounding loss, collateral · *Inverted:* ruin that clears the board, a mark found in the chaos
 
 ### Upright
 
@@ -20,13 +18,13 @@ Something let loose and made everything worse. The violence escalated past any u
 
 ### Inverted
 
-The disaster overshoots so far it cracks its own frame: the rampage is *too much*, and in the wreck a sliver opens — the enemy overcommits, the fire that takes your position takes theirs, the catastrophe clears the board. The *and* tips into a grim *but*, pointing at what you do next. (Or, fully reversed: the fury finds a target after all, and pure loss lands one telling blow.)
+The fury runs past all sense, so far it breaks its own frame, and the wreckage leaves a gap — the enemy overcommits, the blaze takes their ground with yours, the smash ends the standoff. Or it simply finds a target, and pure loss lands one telling blow.
 
 ### In Play
 
-*Upright.* Bryn’s blood is up; he wrecks the tavern, the deal, and his own name in one swing.
+*Upright.* Bryn's blood is up; he wrecks the tavern, the deal, and his own name in a single swing.
 
-*Inverted.* Bryn’s rampage is so total the watch flees too — in the wreckage the prisoner he was guarding is the only one left standing with him. Draw: now what?
+*Inverted.* Bryn's rampage empties the room of friend and foe alike, and the only two left in the wreck are him and the man he came to find.
 
 NotationAC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleAce — Warrior
 

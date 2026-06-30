@@ -12,13 +12,13 @@ The Deck
 
 Chaos with teeth — extraordinary and probably dangerous.
 
-### In play
+### In Play
 
-Suspends the normal interpretive range. Go bigger, stranger, unexpected. The non-Joker cards in the same draw guide the direction of the weirdness.
+The black joker falls and the floor tilts: something extraordinary is here, and your gut says step back. The reversal, the betrayal, the thing in the dark that shouldn't move — whatever gift it carries hides a cost you can't yet price.
 
-### Examples
+### Inverted
 
-Worked examples — *pending*.
+The Jokers don’t reverse; the two are each other’s mirror. Drawing both in one pull is rare enough to feel like the deck itself is speaking.
 
 NotationXb
 

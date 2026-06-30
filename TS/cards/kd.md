@@ -10,17 +10,21 @@ The Deck
 
 Yes, but — Commercial
 
+**Keywords** — *Upright:* correct work, a fixed price, authority's bill · *Inverted:* a fee that escalates, the receipt becomes leverage
+
 ### Upright
 
 The knowledge was accurate. The work was done correctly. And the Magister's invoice is already waiting on the desk. Academic authority always charges for its services, and the fee structure is non-negotiable.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The knowledge is sound, but the institution's invoice is a lever, not a line — the fee rising with your need, the receipt a record they can hold, the bill outliving the service it named.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* The magister certifies Tamsin's findings and names a price she can just meet.
+
+*Inverted.* The magister certifies the findings, then lets slip the certificate can be revoked as easily as granted; the fee was never the real cost.
 
 NotationKD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleKing — Spellweaver
 

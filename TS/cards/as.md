@@ -10,17 +10,21 @@ The Deck
 
 No, but — Labor
 
+**Keywords** — *Upright:* a failed strike, a clean retreat, a read on the foe · *Inverted:* the read pays off, the miss was a feint
+
 ### Upright
 
 The blade arm failed but the footwork saved you. A skilled retreat, not a rout. You know more about your opponent now.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The blow missed, but the giving of ground taught you the opening, and the next pass is where you spend it — or the failure was a feint all along, and the return stroke is already yours.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* Aldric's lunge is parried; he gives ground, but now he's marked how the man drops his shoulder.
+
+*Inverted.* Aldric's lunge is 'parried,' and the retreat was the trap — the next exchange is his to take.
 
 NotationAS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleAce — Warrior
 

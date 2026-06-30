@@ -10,9 +10,7 @@ The Deck
 
 Yes, but — Commercial
 
-Keywords, inverted reading, and examples are working drafts — pending author review.
-
-**Keywords** — *Upright:* success at a price, paid work, win now / owe later · *Inverted:* the bill comes due, strings that yank, a cost that becomes the next problem
+**Keywords** — *Upright:* paid victory, win now and owe later · *Inverted:* a debt that yanks, the bill becomes the next problem
 
 ### Upright
 
@@ -20,13 +18,13 @@ The sword arm won the day. The invoice is already on the table. Victory arrived 
 
 ### Inverted
 
-The win stands, but the *but* points hard at another roll. The price isn’t just coin — it’s a debt, a patron, a string that yanks — and paying it is the next thing you draw for. Lean on the cost. (Or, fully reversed: the deal sours — you won the fight and lost the wage.)
+The win stands, but the price stops being coin and turns into a hook — a patron who now points you, a debt that buys your next move whether the work suits you or not, and settling it is the next thing you draw for.
 
 ### In Play
 
 *Upright.* The company takes the bridge; the paymaster docks their fee for the men lost taking it.
 
-*Inverted.* They take the bridge — and the lord who hired them now ‘owns’ a company that does such work and won’t let them go. Draw again: how do they get free?
+*Inverted.* They take the bridge, and the lord who hired them decides such useful swords shouldn't wander off — getting free is the next draw.
 
 NotationAD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleAce — Warrior
 

@@ -12,13 +12,13 @@ The Deck
 
 Chaos with potential — weird, wonderful, disruptive, and possibly a gift.
 
-### In play
+### In Play
 
-Suspends the normal interpretive range. Go bigger, stranger, unexpected. The non-Joker cards in the same draw guide the direction of the weirdness.
+Mid-scene the red joker turns up: the road you were on isn't the story anymore. A door opens that nobody drew — a stranger's offer, a sudden inheritance, a wall that was never there yesterday — and it's a gift if you're bold enough to walk through.
 
-### Examples
+### Inverted
 
-Worked examples — *pending*.
+The Jokers don’t reverse; the two are each other’s mirror. Drawing both in one pull is rare enough to feel like the deck itself is speaking.
 
 NotationXr
 

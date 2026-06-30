@@ -10,17 +10,21 @@ The Deck
 
 Yes, and — Social
 
+**Keywords** — *Upright:* public backing, sanction, an institution's nod · *Inverted:* a name now owned, scrutiny, returns expected
+
 ### Upright
 
 Institutional approval, freely and publicly given. Someone with real organizational authority has decided you are useful, trustworthy, or simply worth backing. Doors open. People notice.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The endorsement is real, and it makes you the guild's creature in the public eye — your wins theirs to claim, your stumbles theirs to punish, your hours no longer wholly yours.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* The guildmaster names Tamsin a fellow before the assembled houses; doors swing wide.
+
+*Inverted.* Named a fellow before the houses, Tamsin learns that a fellow who refuses a commission is a fellow no longer.
 
 NotationKH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleKing — Spellweaver
 

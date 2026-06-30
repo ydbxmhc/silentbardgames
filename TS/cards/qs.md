@@ -10,17 +10,21 @@ The Deck
 
 No, but — Labor
 
+**Keywords** — *Upright:* a bad deal honored, one thing salvaged, less than you wanted · *Inverted:* the terms turn your way, a grudging deal that overpays
+
 ### Upright
 
 Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody would have chosen. And yet the Harpy held up her end. You got something out of this. Perhaps more than you expected, if less than you wanted.
 
 ### Inverted
 
-Inverted reading — *pending*. Either it flips the outcome, or it leans on the *but* — pointing into another draw. (For *and* cards: a little extra is a bit too much.)
+The bargain was wretched, but its letter cuts for you this once — the spiteful terms you swallowed yield more than the giver meant, and you walk off with the better end of a deal you'd dreaded.
 
 ### In Play
 
-Worked examples, upright & inverted — *pending*.
+*Upright.* Vell trades the witch her mother's ring for passage and gets exactly the passage, nothing more.
+
+*Inverted.* The witch keeps 'safe passage' to the letter, and Vell crosses untouched, carrying off the one thing the marsh-cult could not afford to lose.
 
 NotationQS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleQueen — Conjuror
 
