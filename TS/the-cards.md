@@ -1,4 +1,4 @@
-[Home](index.html) › The Cards
+[Home](index.md) › The Cards
 
 The Cards
 
@@ -50,5 +50,5 @@ Drawing both Jokers in a single pull (with one other card for guidance) is rare 
 
 ---
 
-- [← Previous: Design Principles](start.html)
-- [Next →: The Draw](the-draw.html)
+- [← Previous: Design Principles](start.md)
+- [Next →: The Draw](the-draw.md)

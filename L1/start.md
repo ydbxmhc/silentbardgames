@@ -1,10 +1,10 @@
-[Home](index.html) › This is a Game?
+[Home](index.md) › This is a Game?
 
 Getting Started
 
 # This is a Game?
 
-People have been enjoying popular tabletop *[Role](roles.html)-Playing* games, or TTRPGs, for over half a century, yet most still explain what RPGs *are* at the beginning of the book. As a nod to tradition, and on the off chance you're actually new to this, I'll sum it up by saying it's a set of standard rules and methods for representing the character as the "role" you'll be playing, and fairly deciding whether things they try to do will succeed.
+People have been enjoying popular tabletop *[Role](roles.md)-Playing* games, or TTRPGs, for over half a century, yet most still explain what RPGs *are* at the beginning of the book. As a nod to tradition, and on the off chance you're actually new to this, I'll sum it up by saying it's a set of standard rules and methods for representing the character as the "role" you'll be playing, and fairly deciding whether things they try to do will succeed.
 
 You probably already knew that, or would figure it out pretty quickly. You didn't open this for me to waste your time, so let's get to the point - how do you do it? What are those rules?
 
@@ -30,5 +30,5 @@ No reason to be sketchy. Let's see what it looks like in action.
 
 ---
 
-- [← Back: Home](index.html)
-- [Next →: The Core Loop](core-loop.html)
+- [← Back: Home](index.md)
+- [Next →: The Core Loop](core-loop.md)

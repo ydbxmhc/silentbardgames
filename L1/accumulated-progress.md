@@ -1,4 +1,4 @@
-[Home](index.html) › Core Mechanics › Accumulated Progress
+[Home](index.md) › Core Mechanics › Accumulated Progress
 
 Core Mechanics
 
@@ -14,7 +14,7 @@ The only reason to do it this way is when *time matters*. If there's no time pre
 
 What kind of effect could a door generate? Noise, for one thing; guards might respond to enough racket. We already mentioned traps. Maybe the recoil rattles your teeth. Maybe the effect isn't literally *from* the door, but the room is filling with water and you will drown if you don't get it open in time...
 
-In a rooftop chase where you must leap an alley, a single roll trivializes a jump that could potentially kill you. Treat it like a fight! If it wins a roll you hit the far wall, knock the wind out of yourself (a *[Complication](types-of-harm.html)*), and scramble to hold on, but pull yourself up and continue the chase. A worthwhile^[1](#fn1) obstacle is a challenge in its own right, rolling against you with purpose and potential.
+In a rooftop chase where you must leap an alley, a single roll trivializes a jump that could potentially kill you. Treat it like a fight! If it wins a roll you hit the far wall, knock the wind out of yourself (a *[Complication](types-of-harm.md)*), and scramble to hold on, but pull yourself up and continue the chase. A worthwhile^[1](#fn1) obstacle is a challenge in its own right, rolling against you with purpose and potential.
 
 #### Notes
 
@@ -22,5 +22,5 @@ In a rooftop chase where you must leap an alley, a single roll trivializes a jum
 
 ---
 
-- [← Previous: Can I Try Again?](can-i-try-again.html)
-- [Next →: Actions and Timing](actions-and-timing.html)
+- [← Previous: Can I Try Again?](can-i-try-again.md)
+- [Next →: Actions and Timing](actions-and-timing.md)

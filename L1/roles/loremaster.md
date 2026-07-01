@@ -8,7 +8,7 @@ Knowledge and Craft Roles
 
 The Loremaster transforms information into understanding, weaving together fragments of knowledge to reveal the larger patterns that escape casual observation. They see connections where others see coincidences, recognize significance in details that seem mundane, and understand that the right piece of information at the perfect moment can change everything.
 
-Beyond simple recall, Loremasters excel at synthesis — connecting seemingly unrelated facts to solve complex problems. They might recognize that a merchant's travel patterns match ancient plague routes, realize a noble's heraldry reveals forgotten bloodline claims, or understand why certain local customs persist despite apparent obsolescence. Their true strength lies not in knowing everything, but in knowing how to find and apply exactly what matters.
+Beyond simple recall, Loremasters excel at synthesis - connecting seemingly unrelated facts to solve complex problems. They might recognize that a merchant's travel patterns match ancient plague routes, realize a noble's heraldry reveals forgotten bloodline claims, or understand why certain local customs persist despite apparent obsolescence. Their true strength lies not in knowing everything, but in knowing how to find and apply exactly what matters.
 
 This encompasses far more than dusty academic research. A Loremaster might be a village matchmaker who remembers three generations of family histories, a merchant who tracks trade patterns across continents, an explorer who recovers ancient treasures from ruins full of traps, or a detective piecing together clues from disparate sources.
 
@@ -18,7 +18,7 @@ Information becomes wisdom only when properly connected and applied. Loremasters
 
 **Research and Recall:** Use Loremaster for identifying historical precedents, cultural significance, legendary items, or obscure references. The base [Role](../roles.md) represents broad general knowledge, while [Maneuvers](../maneuvers.md) provide deep expertise in specific areas.
 
-**Pattern Recognition:** Loremasters excel at connecting disparate information to reveal hidden relationships — tracking down the source of a problem through seemingly unrelated clues, or predicting consequences based on historical parallels.
+**Pattern Recognition:** Loremasters excel at connecting disparate information to reveal hidden relationships - tracking down the source of a problem through seemingly unrelated clues, or predicting consequences based on historical parallels.
 
 ## Common Loremaster Maneuvers
 
@@ -26,24 +26,24 @@ Different Loremasters focus their scholarly attention in various ways. They cert
 
 ### Academic Disciplines
 
-- *History* — Political movements, military campaigns, rise and fall of kingdoms
-- *Natural Philosophy* — Scientific principles, alchemical processes, natural phenomena
-- *Theology* — Religious doctrine, divine hierarchies, sacred rituals and their meanings
-- *Linguistics* — Ancient languages, coded messages, etymology and cultural connections
+- *History* - Political movements, military campaigns, rise and fall of kingdoms
+- *Natural Philosophy* - Scientific principles, alchemical processes, natural phenomena
+- *Theology* - Religious doctrine, divine hierarchies, sacred rituals and their meanings
+- *Linguistics* - Ancient languages, coded messages, etymology and cultural connections
 
 ### Practical Applications
 
-- *Interrogation* — Extracting information through psychological pressure and manipulation
-- *Trade Networks* — Commercial relationships, shipping routes, economic patterns
-- *Local Customs* — Regional variations, social expectations, taboos and their origins
-- *Legends and Folklore* — Heroic tales, cautionary stories, cultural memory embedded in myth
+- *Interrogation* - Extracting information through psychological pressure and manipulation
+- *Trade Networks* - Commercial relationships, shipping routes, economic patterns
+- *Local Customs* - Regional variations, social expectations, taboos and their origins
+- *Legends and Folklore* - Heroic tales, cautionary stories, cultural memory embedded in myth
 
 ### Specialized Knowledge
 
-- *Heraldry* — Noble houses, territorial claims, alliance patterns revealed through symbols
-- *Criminal Networks* — Underworld hierarchies, criminal methods, investigation techniques
-- *Military Strategy* — Tactical analysis, fortification design, historical battle outcomes
-- *Magical Theory* — Arcane principles, spell construction, supernatural creature lore
+- *Heraldry* - Noble houses, territorial claims, alliance patterns revealed through symbols
+- *Criminal Networks* - Underworld hierarchies, criminal methods, investigation techniques
+- *Military Strategy* - Tactical analysis, fortification design, historical battle outcomes
+- *Magical Theory* - Arcane principles, spell construction, supernatural creature lore
 
 ## Advanced Applications
 

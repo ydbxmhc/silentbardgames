@@ -13,15 +13,15 @@ Level One trusts GMs to make reasonable judgments instead of providing complex s
 
 ## Common Situations
 
-**Movement and Athletics**: When you need to jump across an alley or climb a wall, the GM assigns a Difficulty Level based on the challenge. That DL represents everything relevant — distance, wind, slippery surfaces, your current condition. The units don't matter; the relative difficulty does. Roll opposition against the DL and succeed or fail accordingly.
+**Movement and Athletics**: When you need to jump across an alley or climb a wall, the GM assigns a Difficulty Level based on the challenge. That DL represents everything relevant - distance, wind, slippery surfaces, your current condition. The units don't matter; the relative difficulty does. Roll opposition against the DL and succeed or fail accordingly.
 
-**Carrying Capacity**: Weight isn't binary — there's no magic number where you suddenly can't lift another ounce. Instead, the GM will warn you when you're getting overloaded and start applying increasing DLs to physical actions if you insist on carrying unreasonable loads. Eventually the DLs become EL opposition and start injuring you. Simple and realistic.
+**Carrying Capacity**: Weight isn't binary - there's no magic number where you suddenly can't lift another ounce. Instead, the GM will warn you when you're getting overloaded and start applying increasing DLs to physical actions if you insist on carrying unreasonable loads. Eventually the DLs become EL opposition and start injuring you. Simple and realistic.
 
-**Vision and Light**: A torch doesn't illuminate exactly 30 feet then stop — light scatters and fades gradually. The further you are from a light source, the higher the DL for visual tasks becomes, until eventually you simply can't see well enough to succeed. Let the dice and common sense handle the details.
+**Vision and Light**: A torch doesn't illuminate exactly 30 feet then stop - light scatters and fades gradually. The further you are from a light source, the higher the DL for visual tasks becomes, until eventually you simply can't see well enough to succeed. Let the dice and common sense handle the details.
 
 **Initiative and Timing**: Opposition rolls make formal initiative largely unnecessary. Both sides roll, compare results, then narrate the action to match the outcome. If someone has a clever idea or wants to try something specific, let them attempt it and use the dice to determine how it plays out.
 
-Characters can establish tactical advantages through [Boost](actions-and-timing.md#boost-actions) actions — an ambush, a blinding maneuver, or a good feint can create ongoing benefits. The GM determines what makes sense and how to resolve it.
+Characters can establish tactical advantages through [Boost](actions-and-timing.md#boost-actions) actions - an ambush, a blinding maneuver, or a good feint can create ongoing benefits. The GM determines what makes sense and how to resolve it.
 
 ## Setting Difficulty
 
@@ -31,9 +31,9 @@ The players might be very talented soloists with the freedom to improvise, but y
 
 ### When To Roll
 
-Here's the simple rule — *don't*. If things are moving along, and the players are in the zone, and they ask you a question, just answer it.
+Here's the simple rule - *don't*. If things are moving along, and the players are in the zone, and they ask you a question, just answer it.
 
-If the players reach for dice, or ask *aren't you going to roll it?* — then it's time to think about it. Sometimes the answer is *no*, but in general, if they are looking for dice it's either because they *expect* them, or they *want* them, and maybe both. Take a moment to make the judgment call.
+If the players reach for dice, or ask *aren't you going to roll it?* - then it's time to think about it. Sometimes the answer is *no*, but in general, if they are looking for dice it's either because they *expect* them, or they *want* them, and maybe both. Take a moment to make the judgment call.
 
 Dice are often used as a crutch, and if you need it, it's not a crime. It's better to just throw some dice and improvise from the result than to stammer and stare and let the momentum of the game drain away. Some players **love** dice, and will not enjoy a game that isn't using them heavily. On top of that, sometimes your odds just aren't that good, and milking a little tension from the possibility of a major screw-up can be golden.
 
@@ -57,7 +57,7 @@ The point is that you shouldn't be afraid to make things hard now and then. Good
 
 The correct answer to every yes or no question is *"It depends."*
 
-For everything *interesting* that's not automatic, assign a DL and roll. Sometimes that DL will be zero — meaning no real opposition — and sometimes it will be high enough that success is unlikely. The GM's job is deciding what's appropriate for the story and the situation.
+For everything *interesting* that's not automatic, assign a DL and roll. Sometimes that DL will be zero - meaning no real opposition - and sometimes it will be high enough that success is unlikely. The GM's job is deciding what's appropriate for the story and the situation.
 
 The important "rules" in any RPG are consistency, creativity, sportsmanship, and good, old-fashioned *fun*.
 

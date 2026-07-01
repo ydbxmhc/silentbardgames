@@ -4,7 +4,7 @@ Running the Game
 
 # Pacing
 
-Every group will have its own unique rhythm, but you can syncopate and adjust for effect. Since we're apparently still using music analogies, you should also consider variations of intensity — a crescendo works best when it starts pianissimo. If your entire game is hard and fast there's nowhere to go. Switching analogies, the long rush of the roller coaster diving down after the crest is made so much better by the slow, ratcheting, inexorable climb to the top before the reveal of finally seeing what's coming.
+Every group will have its own unique rhythm, but you can syncopate and adjust for effect. Since we're apparently still using music analogies, you should also consider variations of intensity - a crescendo works best when it starts pianissimo. If your entire game is hard and fast there's nowhere to go. Switching analogies, the long rush of the roller coaster diving down after the crest is made so much better by the slow, ratcheting, inexorable climb to the top before the reveal of finally seeing what's coming.
 
 ## Story and Planning
 
@@ -12,11 +12,11 @@ Some people are just gifted, and can spin a good yarn from crackers and body odo
 
 The traditional old standby is to make an outline. Be careful not to script the PCs through a false "choose your own adventure" where all choices wind up at the same ending. You can fake the *appearance* of choice now and then, but if you do that too often your players will lose confidence in you.
 
-The intermediate approach works very well — give yourself a basic direction, and expand details fractally as they become relevant.
+The intermediate approach works very well - give yourself a basic direction, and expand details fractally as they become relevant.
 
 ### Scenes
 
-This is what's going on in the moment, the generally collected and connected events of a location — the real bread and butter of the game. A fight, a negotiation, an interrogation, investigation of an area, anything that has the players working in the moment to accomplish some goal, even if it's just enjoying each other's company in character. People and places and events are described, choices are made, and maybe dice hit the table.
+This is what's going on in the moment, the generally collected and connected events of a location - the real bread and butter of the game. A fight, a negotiation, an interrogation, investigation of an area, anything that has the players working in the moment to accomplish some goal, even if it's just enjoying each other's company in character. People and places and events are described, choices are made, and maybe dice hit the table.
 
 When preparing a scene, even if it's an impromptu surprise, take a moment to consider a few basic questions.
 
@@ -27,7 +27,7 @@ When preparing a scene, even if it's an impromptu surprise, take a moment to con
 - Who or what might actually help?
 - Is there something *else* that might steal the scene?
 
-If the goal of the scene is something mundane ("Let's go to the market and restock supplies…") it's a great candidate for derailing. This is what [Hooks](hooks.md) are for! Every character should have at least one [Hook](hooks.md) triggered every session. A prejudiced guard harasses the half-orc, the thief sees a juicy target he just can't help but pickpocket, or the knight is petitioned by a damsel in distress, and mayhem ensues. When planning, always try to have some idea of random encounters for the player [Hooks](hooks.md) that you can drop into any scene that seems slow, but watch for opportunities you didn't anticipate — situations that spring up organically will feel more satisfying.
+If the goal of the scene is something mundane ("Let's go to the market and restock supplies…") it's a great candidate for derailing. This is what [Hooks](hooks.md) are for! Every character should have at least one [Hook](hooks.md) triggered every session. A prejudiced guard harasses the half-orc, the thief sees a juicy target he just can't help but pickpocket, or the knight is petitioned by a damsel in distress, and mayhem ensues. When planning, always try to have some idea of random encounters for the player [Hooks](hooks.md) that you can drop into any scene that seems slow, but watch for opportunities you didn't anticipate - situations that spring up organically will feel more satisfying.
 
 ### Sessions
 
@@ -35,7 +35,7 @@ At the start of a session it's usually a good idea to do a quick recap of where 
 
 Preparing for a session is more about pulling back to a higher viewpoint and figuring out the goal for the evening. As mentioned above, have a few ideas for triggering Plot [Hooks](hooks.md) of various characters, but remind players that they can and *should* point out moments when triggering a [Hook](hooks.md) is appropriate. Take them up on it when they do! Make sure it's actually worthy of the [Karma](karma.md), but if a player has the idea themselves, pay attention and use it as a template for future triggers; this is the kind of event they want and expect.
 
-Does this session's goal move the game toward broader campaign goals? It doesn't have to — it's fine to have a session that is an "aside" from the usual fare, but pay attention to the group. Some will want to get back to the story, while others will be happy to diverge more often.
+Does this session's goal move the game toward broader campaign goals? It doesn't have to - it's fine to have a session that is an "aside" from the usual fare, but pay attention to the group. Some will want to get back to the story, while others will be happy to diverge more often.
 
 When planning conflicts for a session, remember that stakes don't have to be life and limb, but should still feel important. Try to include some that are easy and at least one that is not. If you don't have a minimum of one character recovering from a previous session's [Injury](types-of-harm.md), consider making your opposition a little tougher. If several are, then either give them a different sort of challenge while they heal, or take advantage of it to make them really nervous.
 
@@ -53,9 +53,9 @@ As characters advance, higher levels become expensive. A Level 15 character need
 
 This is by design. If your group settles into a comfortable power level and starts using [Karma](karma.md) tactically rather than for advancement, you've found your sweet spot. You can focus on the game and stop worrying about Leveling. There comes a point where you have *created* the character you wanted all along, and more stuff would just be unnecessary baggage.
 
-Enjoy the extra guaranteed successes — with a pocket full of [Luck Tokens](luck.md) *and* the freedom to spend your [Karma](karma.md) on successes, you should be really awesome, and at that point the GM is going to be using *his* Tokens to interfere a LOT, so you may need those [Karma](karma.md) successes. ELs will outstrip Level more and more, and even the *[Staggered](feeling-down.md)* rule will not protect you from one-hit takedowns forever.
+Enjoy the extra guaranteed successes - with a pocket full of [Luck Tokens](luck.md) *and* the freedom to spend your [Karma](karma.md) on successes, you should be really awesome, and at that point the GM is going to be using *his* Tokens to interfere a LOT, so you may need those [Karma](karma.md) successes. ELs will outstrip Level more and more, and even the *[Staggered](feeling-down.md)* rule will not protect you from one-hit takedowns forever.
 
-In short campaigns, spend that [Karma](karma.md) freely! Be awesome while you can — you might never play these characters again. In long campaigns the natural [Karma](karma.md) economy should find its own balance between advancement and tactical spending. Make sure the players understand that no matter how much they Level up you can always do better; the focus should be on making the character, and then on being awesome.
+In short campaigns, spend that [Karma](karma.md) freely! Be awesome while you can - you might never play these characters again. In long campaigns the natural [Karma](karma.md) economy should find its own balance between advancement and tactical spending. Make sure the players understand that no matter how much they Level up you can always do better; the focus should be on making the character, and then on being awesome.
 
 ### Advancement
 

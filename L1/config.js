@@ -1,5 +1,5 @@
 /* ============================================================
-   LEVEL ONE RPG — SITE CONFIGURATION
+   LEVEL ONE RPG - SITE CONFIGURATION
    BASE_PATH tells nav.js where to fetch header.html and nav.html
    and where to root all relative nav links.
 
@@ -16,7 +16,7 @@ const SiteConfig = {
   SITE_URL:  'https://silentbardgames.com',
 };
 
-/* Helper — use this everywhere you need an image URL:
+/* Helper - use this everywhere you need an image URL:
    img("roles/warrior.jpg")  →  full CDN URL */
 function img(path) {
   return `${SiteConfig.CDN_BASE}/${path}`;

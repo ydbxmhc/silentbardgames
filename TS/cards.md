@@ -1,4 +1,4 @@
-[Home](index.html) › The Deck
+[Home](index.md) › The Deck
 
 Tesserae Sortis
 

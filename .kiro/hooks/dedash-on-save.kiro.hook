@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "name": "Dedash on Save",
+  "description": "Whenever a text file is saved, run tools/dedash.py to strip any em-dashes (numeric entity, named entity, or literal char) from the repo, replacing them with plain spaced hyphens. Keeps the house no-em-dash rule enforced automatically.",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "*.html",
+      "*.md",
+      "*.txt",
+      "*.css",
+      "*.js",
+      "*.json"
+    ]
+  },
+  "then": {
+    "type": "runCommand",
+    "command": "python tools/dedash.py"
+  }
+}

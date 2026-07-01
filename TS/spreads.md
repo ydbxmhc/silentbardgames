@@ -1,4 +1,4 @@
-[Home](index.html) › Card Spreads
+[Home](index.md) › Card Spreads
 
 Play
 
@@ -113,5 +113,5 @@ laid across
 
 ---
 
-- [← Previous: Resolution Mechanics](resolution.html)
-- [Next →: The Card Lexicon](lexicon.html)
+- [← Previous: Resolution Mechanics](resolution.md)
+- [Next →: The Card Lexicon](lexicon.md)

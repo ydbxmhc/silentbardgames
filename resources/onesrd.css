@@ -1,5 +1,5 @@
 /* ============================================================
-   ONESRD.CSS — Shared structural stylesheet
+   ONESRD.CSS - Shared structural stylesheet
    All OneSRD games load this file first.
    CSS custom properties defined here are defaults only;
    each game's style.css overrides them for its own theme.
@@ -162,7 +162,7 @@ body.drawer-open { overflow: hidden; }
   display: flex;
   flex-direction: column;
 }
-/* Overlay layer — games override the colour/opacity in their style.css */
+/* Overlay layer - games override the colour/opacity in their style.css */
 #drawer::after {
   content: '';
   position: absolute;

@@ -1,4 +1,4 @@
-[Home](index.html) › The Core Loop
+[Home](index.md) › The Core Loop
 
 Getting Started
 
@@ -12,7 +12,7 @@ You want to get into a restricted area at the Duke's ball, but there's only one 
 
 ## Step 2: Add Up Whatever Will Help
 
-Your character is Level 3, with the Performer [Role](roles.html) at rank 2 and one rank in a Misdirection [Maneuver](maneuvers.html) (+1), and you've made sure in advance you're appropriately dressed in expensive but tantalizing clothes (+1 [Boost](actions-and-timing.html#boost-actions)). Your **Effective Level**, or **EL**, is 7.
+Your character is Level 3, with the Performer [Role](roles.md) at rank 2 and one rank in a Misdirection [Maneuver](maneuvers.md) (+1), and you've made sure in advance you're appropriately dressed in expensive but tantalizing clothes (+1 [Boost](actions-and-timing.md#boost-actions)). Your **Effective Level**, or **EL**, is 7.
 
 ![Dice sketch](corner-dice.jpg)
 
@@ -32,9 +32,9 @@ The relative EL of the opposition always defines the difficulty of the task, and
 
 **That's it.** Practically everything in the game works this way.
 
-…*Wait, "Level 2 Warrior 1"?* Yes, you read that right. [Roles](roles.html) are rated separately from character base Level, and you can even make and play a competent character with no [Roles](roles.html) *at all*, though there will be a lot of things they just can't do.
+…*Wait, "Level 2 Warrior 1"?* Yes, you read that right. [Roles](roles.md) are rated separately from character base Level, and you can even make and play a competent character with no [Roles](roles.md) *at all*, though there will be a lot of things they just can't do.
 
 ---
 
-- [← Previous: This is a Game?](start.html)
-- [Next →: Quick Start](quickstart.html)
+- [← Previous: This is a Game?](start.md)
+- [Next →: Quick Start](quickstart.md)

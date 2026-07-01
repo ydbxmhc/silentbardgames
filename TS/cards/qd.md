@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Queen of Diamonds
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Queen of Diamonds
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Sibyl's Price
 
-Yes, but — Commercial
+Yes, but - Commercial
 
-**Keywords** — *Upright:* the answer bought, a steep toll, costly truth · *Inverted:* a price that ruins, paid past its worth
+**Keywords** - *Upright:* the answer bought, a steep toll, costly truth · *Inverted:* a price that ruins, paid past its worth
 
 ### Upright
 
@@ -18,7 +18,7 @@ The Sibyl's prophecies were always accurate and always costly. You got what you 
 
 ### Inverted
 
-You got what you came for, and the reckoning outweighs it — the figure quoted a fraction of the figure paid, and standing here with the answer you wonder whether the question was worth asking.
+You got what you came for, and the reckoning outweighs it - the figure quoted a fraction of the figure paid, and standing here with the answer you wonder whether the question was worth asking.
 
 ### In Play
 
@@ -26,9 +26,9 @@ You got what you came for, and the reckoning outweighs it — the figure quoted 
 
 *Inverted.* She tells Vell where the heir is hidden, and only later does he learn what her 'small token' truly was, and what spending it will cost him.
 
-NotationQD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleQueen — Conjuror
+NotationQD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank & RoleQueen - Conjuror
 
 ---
 
-- [← Previous: Queen of Hearts](/TS/cards/qh.html)
-- [Next →: Queen of Spades](/TS/cards/qs.html)
+- [← Previous: Queen of Hearts](/TS/cards/qh.md)
+- [Next →: Queen of Spades](/TS/cards/qs.md)

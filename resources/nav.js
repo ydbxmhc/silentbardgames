@@ -1,4 +1,4 @@
-// nav.js — shared OneSRD navigation loader
+// nav.js - shared OneSRD navigation loader
 // Reads BASE_PATH from SiteConfig (defined in each game's config.js).
 // Fetches header.html and nav.html from the game's BASE_PATH,
 // injects them into #site-header and #drawer respectively.

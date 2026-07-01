@@ -1,4 +1,4 @@
-[Home](index.html) › Design Principles
+[Home](index.md) › Design Principles
 
 Getting Started
 
@@ -24,4 +24,4 @@ The player controls interpretive depth by choosing which layers to read. A simpl
 
 ---
 
-- [Next →: The Cards](the-cards.html)
+- [Next →: The Cards](the-cards.md)

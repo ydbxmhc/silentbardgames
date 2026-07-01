@@ -1,26 +1,26 @@
 ![](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Raven_and_Toad-BW.jpg)
 
-[Tesserae Sortissilentbardgames.com](index.html)
+[Tesserae Sortissilentbardgames.com](index.md)
 
-← [⚙ Display Settings](settings.html)
+← [⚙ Display Settings](settings.md)
 
-[Table of Contents](toc.html) [The Deck](cards.html)
+[Table of Contents](toc.md) [The Deck](cards.md)
 
 **Getting Started**
 
-[Design Principles](start.html) [The Cards](the-cards.html)
+[Design Principles](start.md) [The Cards](the-cards.md)
 
 **Play**
 
-[The Draw](the-draw.html) [Resolution Mechanics](resolution.html) [Card Spreads](spreads.html)
+[The Draw](the-draw.md) [Resolution Mechanics](resolution.md) [Card Spreads](spreads.md)
 
 **Reference**
 
-[The Card Lexicon](lexicon.html) [The Deck (all 54)](cards.html)
+[The Card Lexicon](lexicon.md) [The Deck (all 54)](cards.md)
 
 **Examples**
 
-[Play Examples](examples.html)
+[Play Examples](examples.md)
 
 Tesserae Sortis © The Silent Bard  
 [silentbardgames.com](https://silentbardgames.com)

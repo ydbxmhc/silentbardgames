@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › King of Diamonds
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › King of Diamonds
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Magister's Fee
 
-Yes, but — Commercial
+Yes, but - Commercial
 
-**Keywords** — *Upright:* correct work, a fixed price, authority's bill · *Inverted:* a fee that escalates, the receipt becomes leverage
+**Keywords** - *Upright:* correct work, a fixed price, authority's bill · *Inverted:* a fee that escalates, the receipt becomes leverage
 
 ### Upright
 
@@ -18,7 +18,7 @@ The knowledge was accurate. The work was done correctly. And the Magister's invo
 
 ### Inverted
 
-The knowledge is sound, but the institution's invoice is a lever, not a line — the fee rising with your need, the receipt a record they can hold, the bill outliving the service it named.
+The knowledge is sound, but the institution's invoice is a lever, not a line - the fee rising with your need, the receipt a record they can hold, the bill outliving the service it named.
 
 ### In Play
 
@@ -26,9 +26,9 @@ The knowledge is sound, but the institution's invoice is a lever, not a line —
 
 *Inverted.* The magister certifies the findings, then lets slip the certificate can be revoked as easily as granted; the fee was never the real cost.
 
-NotationKD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleKing — Spellweaver
+NotationKD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank & RoleKing - Spellweaver
 
 ---
 
-- [← Previous: King of Hearts](/TS/cards/kh.html)
-- [Next →: King of Spades](/TS/cards/ks.html)
+- [← Previous: King of Hearts](/TS/cards/kh.md)
+- [Next →: King of Spades](/TS/cards/ks.md)

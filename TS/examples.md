@@ -1,4 +1,4 @@
-[Home](index.html) › Play Examples
+[Home](index.md) › Play Examples
 
 Examples
 
@@ -87,4 +87,4 @@ Ability Rank Maneuvers Warrior 2 Swordplay 2 Loremaster 2 Local Histories 2 Snea
 
 ---
 
-- [← Previous: The Card Lexicon](lexicon.html)
+- [← Previous: The Card Lexicon](lexicon.md)

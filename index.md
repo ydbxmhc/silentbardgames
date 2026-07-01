@@ -1,0 +1,1 @@
+silentbardgames.com OneSRD System Reference Documents by The Silent Bard [ Fantasy RPG Level One No classes. Any dice. Stories first. ](/L1/) [ Card-Based Oracle Tesserae Sortis The Quaerant's Oracle - solo, GM-free play. ](/TS/) © The Silent Bard · [silentbardgames.com](https://silentbardgames.com)

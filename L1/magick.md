@@ -1,4 +1,4 @@
-[Home](./index.html) › Magick!
+[Home](./index.md) › Magick!
 
 Magick!
 
@@ -14,5 +14,5 @@ Maybe magic is so rare that a single spell is precious, or maybe you can buy a c
 
 ---
 
-- [← Previous: Traits](traits.html)
-- [Next →: Adept Magic](magick/adepts.html)
+- [← Previous: Traits](traits.md)
+- [Next →: Adept Magic](magick/adepts.md)

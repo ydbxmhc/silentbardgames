@@ -1,5 +1,5 @@
 /* ============================================================
-   LEVEL ONE RPG — THEME STYLESHEET
+   LEVEL ONE RPG - THEME STYLESHEET
    Loaded after /resources/onesrd.css.
    Overrides the neutral structural defaults with L1's
    parchment-and-woodburn aesthetic.
@@ -43,7 +43,7 @@ body {
 }
 
 /* ============================================================
-   DRAWER — WOODBURN BACKGROUND IMAGE
+   DRAWER - WOODBURN BACKGROUND IMAGE
    The dark ::after overlay is defined in onesrd.css at 55%;
    L1 bumps it to 80% for the warmer woodburn image.
    ============================================================ */
@@ -79,11 +79,11 @@ html[data-navbg="off"] #drawer::after {
 }
 .header-settings-link:hover { color: var(--accent); text-decoration: none; }
 
-/* Hidden on very narrow viewports — same breakpoint as tagline */
+/* Hidden on very narrow viewports - same breakpoint as tagline */
 @media (max-width: 599px) { .header-settings-link { display: none; } }
 
 /* ============================================================
-   LINKS — L1 WARM RUST COLOUR
+   LINKS - L1 WARM RUST COLOUR
    onesrd.css sets link colour to --accent; these just flesh
    out the text-decoration tint with the L1 rust value.
    ============================================================ */
@@ -104,7 +104,7 @@ h1::after {
 }
 
 /* ============================================================
-   CALLOUT BOXES — L1 WARM TINTS
+   CALLOUT BOXES - L1 WARM TINTS
    ============================================================ */
 .box {
   background: rgba(200,169,110,0.08);
@@ -328,7 +328,7 @@ a.nav-section-link:hover { color: rgba(200,169,110,0.8); }
 }
 .content-wrap ul li { margin-bottom: 0.25rem; }
 
-/* Chapter epigraph — right-aligned pull quote */
+/* Chapter epigraph - right-aligned pull quote */
 p.epigraph {
   width: 50%;
   margin-left: auto;
@@ -338,7 +338,7 @@ p.epigraph {
 }
 
 /* ============================================================
-   GUTTER RAILS (side panels) — injected by /resources/rails.js
+   GUTTER RAILS (side panels) - injected by /resources/rails.js
    Three-state layout: 0 = single column, 1 = one panel (column
    shifts), 2 = a panel on each side. TOC + Settings panels reuse
    the existing .toc / .settings-group styles.

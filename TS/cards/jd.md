@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Jack of Diamonds
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Jack of Diamonds
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Prophet's Levy
 
-Yes, but — Commercial
+Yes, but - Commercial
 
-**Keywords** — *Upright:* a true vision, a toll exacted, costly foresight · *Inverted:* a prophecy that traps, the price was the point
+**Keywords** - *Upright:* a true vision, a toll exacted, costly foresight · *Inverted:* a prophecy that traps, the price was the point
 
 ### Upright
 
@@ -18,17 +18,17 @@ The vision was accurate, the path is clear - but the Prophet collects his due an
 
 ### Inverted
 
-The seeing was true, but the seer's due weighs more than the sight was worth — knowing that obliges you to act, a foretelling that turns to a sentence the moment you believe it.
+The seeing was true, but the seer's due weighs more than the sight was worth - knowing that obliges you to act, a foretelling that turns to a sentence the moment you believe it.
 
 ### In Play
 
 *Upright.* The oracle's reading is exact; the coin Renn leaves feels like the smaller payment.
 
-*Inverted.* The reading is exact, and the knowing binds Renn to a road he'd never have walked — the true payment is the rest of his year.
+*Inverted.* The reading is exact, and the knowing binds Renn to a road he'd never have walked - the true payment is the rest of his year.
 
-NotationJD DirectionYes — Red SuitDiamonds — Commercial (Yes, but) Rank & RoleJack — Adept
+NotationJD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank & RoleJack - Adept
 
 ---
 
-- [← Previous: Jack of Hearts](/TS/cards/jh.html)
-- [Next →: Jack of Spades](/TS/cards/js.html)
+- [← Previous: Jack of Hearts](/TS/cards/jh.md)
+- [Next →: Jack of Spades](/TS/cards/js.md)

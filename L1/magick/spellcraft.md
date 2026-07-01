@@ -48,7 +48,7 @@ Recasting this way is fast enough to do in a fight, but it isn't a free action. 
 
 ### Counterspells
 
-A master of spellcraft understands the workings and underpinnings of magic in ways few other practitioners do, and is able to disrupt hostile spells and other magics at the source — unbound spellcraft and relevant [Maneuver](../maneuvers.md) ranks always apply, as do any bound to spells that are directly relevant. This is a direct opposition roll to suppress the targeted effect, or can be a free action resistance roll if it doesn't help anyone else.
+A master of spellcraft understands the workings and underpinnings of magic in ways few other practitioners do, and is able to disrupt hostile spells and other magics at the source - unbound spellcraft and relevant [Maneuver](../maneuvers.md) ranks always apply, as do any bound to spells that are directly relevant. This is a direct opposition roll to suppress the targeted effect, or can be a free action resistance roll if it doesn't help anyone else.
 
 The GM may tighten or broaden the applicability of spells to tune the game; if any fire spell allows countering any fire effect, such as the attacks of a fire elemental, the Spellweaver will be considerably more powerful; if the Firebolt spell only counts against another Firebolt spell, he will still be able to use his base level. He could use a [Maneuver](../maneuvers.md) to learn the ability to apply certain spells more broadly: *Fire Counter* is a perfectly valid [Maneuver](../maneuvers.md).
 
@@ -66,7 +66,7 @@ What really matters is what you can do with it.
 
 *Spells do not perceive or think.* A spell cannot make a decision. They have no sensors, though they can have triggers; this is more like setting tripwires and levers than eyes and ears. Keep that clockwork image in mind! The triggers might be complex, but they are always mechanistic.
 
-This is why *scrying* spells are actually just a framework for the caster to astrally project. The caster can then travel at the speed of thought through stone and sky to seek out what they want, but spells don't just create true information. They can do wonders with anchors, however — blood of a creature is always connected to blood of that creature, though the threads fade and get weaker with time…
+This is why *scrying* spells are actually just a framework for the caster to astrally project. The caster can then travel at the speed of thought through stone and sky to seek out what they want, but spells don't just create true information. They can do wonders with anchors, however - blood of a creature is always connected to blood of that creature, though the threads fade and get weaker with time…
 
 **Practical Implementation**
 
@@ -78,11 +78,11 @@ The good news is that the mechanics are usually not hard at all once you get the
 
 #### Spell Design
 
-The most important element of a spell is its **Manifestation**. What does it do? What does that look like? *Thorn Dart*, *Flame Lance*, *Douse*, and *Mind Spike* are all very different spells even though they are all rolled very much the same way. Which would you use against a fire elemental? *Douse* seems pretty obvious, and that's the point. Against an armored knight it might be the *least* effective — water just splashes off steel — but a *Mind Spike* would bypass all his armor. A spell's Manifestation is purely a part of its description, but it *matters*.
+The most important element of a spell is its **Manifestation**. What does it do? What does that look like? *Thorn Dart*, *Flame Lance*, *Douse*, and *Mind Spike* are all very different spells even though they are all rolled very much the same way. Which would you use against a fire elemental? *Douse* seems pretty obvious, and that's the point. Against an armored knight it might be the *least* effective - water just splashes off steel - but a *Mind Spike* would bypass all his armor. A spell's Manifestation is purely a part of its description, but it *matters*.
 
 **Damage Spells**
 
-Most harmful spells work like Sniper attacks, with manifestation determining how they can be resisted. A *Flame Lance* creates a physical thrust of piercing, burning force — targets can dodge or block, and armor applies normally, as would any heat resistance. *Balefire* assaults the spirit directly; it can ONLY affect supernatural targets, though that does include other *active* wielders of magic… *Mind Spike* strikes the psyche, and victims can only roll base Level plus supernatural [Role](../roles.md) ranks for resistance, but it inflicts explicit [Complication](../types-of-harm.md) damage by default rather than true [Injury](../types-of-harm.md). *Tanglebones* applies a [Hindrance](../types-of-harm.md) rather than actual damage, but slows victims to the point of paralysis if the unresisted effect is enough!
+Most harmful spells work like Sniper attacks, with manifestation determining how they can be resisted. A *Flame Lance* creates a physical thrust of piercing, burning force - targets can dodge or block, and armor applies normally, as would any heat resistance. *Balefire* assaults the spirit directly; it can ONLY affect supernatural targets, though that does include other *active* wielders of magic… *Mind Spike* strikes the psyche, and victims can only roll base Level plus supernatural [Role](../roles.md) ranks for resistance, but it inflicts explicit [Complication](../types-of-harm.md) damage by default rather than true [Injury](../types-of-harm.md). *Tanglebones* applies a [Hindrance](../types-of-harm.md) rather than actual damage, but slows victims to the point of paralysis if the unresisted effect is enough!
 
 **Defensive Spells**
 

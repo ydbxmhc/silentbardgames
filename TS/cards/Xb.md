@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Joker (Black & White)
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Joker (Black & White)
 
 The Deck
 
@@ -10,11 +10,11 @@ The Deck
 
 ### Meaning
 
-Chaos with teeth — extraordinary and probably dangerous.
+Chaos with teeth - extraordinary and probably dangerous.
 
 ### In Play
 
-The black joker falls and the floor tilts: something extraordinary is here, and your gut says step back. The reversal, the betrayal, the thing in the dark that shouldn't move — whatever gift it carries hides a cost you can't yet price.
+The black joker falls and the floor tilts: something extraordinary is here, and your gut says step back. The reversal, the betrayal, the thing in the dark that shouldn't move - whatever gift it carries hides a cost you can't yet price.
 
 ### Inverted
 
@@ -24,4 +24,4 @@ NotationXb
 
 ---
 
-- [← Previous: Joker (Red)](/TS/cards/Xr.html)
+- [← Previous: Joker (Red)](/TS/cards/Xr.md)

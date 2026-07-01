@@ -6,7 +6,7 @@ Core Mechanics
 
 "Good judgment comes from experience,  
 and a lot of that comes from bad judgment."  
-— Will Rogers
+- Will Rogers
 
 We've mentioned Karma a lot already. Hopefully the idea is intuitive enough that it hasn't been confusing, but let's pin it down.
 

@@ -1,5 +1,5 @@
 /* ============================================================
-   TESSERAE SORTIS — THEME STYLESHEET
+   TESSERAE SORTIS - THEME STYLESHEET
    Loaded after /resources/onesrd.css.
 
    PLACEHOLDER: this is a copy of the L1 parchment-and-woodburn
@@ -45,7 +45,7 @@ body {
 }
 
 /* ============================================================
-   DRAWER — WOODBURN BACKGROUND IMAGE
+   DRAWER - WOODBURN BACKGROUND IMAGE
    The dark ::after overlay is defined in onesrd.css at 55%;
    L1 bumps it to 80% for the warmer woodburn image.
    ============================================================ */
@@ -81,11 +81,11 @@ html[data-navbg="off"] #drawer::after {
 }
 .header-settings-link:hover { color: var(--accent); text-decoration: none; }
 
-/* Hidden on very narrow viewports — same breakpoint as tagline */
+/* Hidden on very narrow viewports - same breakpoint as tagline */
 @media (max-width: 599px) { .header-settings-link { display: none; } }
 
 /* ============================================================
-   LINKS — L1 WARM RUST COLOUR
+   LINKS - L1 WARM RUST COLOUR
    onesrd.css sets link colour to --accent; these just flesh
    out the text-decoration tint with the L1 rust value.
    ============================================================ */
@@ -106,7 +106,7 @@ h1::after {
 }
 
 /* ============================================================
-   CALLOUT BOXES — L1 WARM TINTS
+   CALLOUT BOXES - L1 WARM TINTS
    ============================================================ */
 .box {
   background: rgba(200,169,110,0.08);
@@ -330,7 +330,7 @@ a.nav-section-link:hover { color: rgba(200,169,110,0.8); }
 }
 .content-wrap ul li { margin-bottom: 0.25rem; }
 
-/* Chapter epigraph — right-aligned pull quote */
+/* Chapter epigraph - right-aligned pull quote */
 p.epigraph {
   width: 50%;
   margin-left: auto;
@@ -340,7 +340,7 @@ p.epigraph {
 }
 
 /* ============================================================
-   GUTTER RAILS (side panels) — injected by /resources/rails.js
+   GUTTER RAILS (side panels) - injected by /resources/rails.js
    Three-state layout: 0 = single column, 1 = one panel (column
    shifts), 2 = a panel on each side. TOC + Settings panels reuse
    the existing .toc / .settings-group styles.
@@ -479,7 +479,7 @@ body.rails-resizing { cursor: col-resize; user-select: none; }
 #page-footer a:hover { color: var(--accent); }
 
 /* ============================================================
-   CARDS — frame pages + deck table
+   CARDS - frame pages + deck table
    ============================================================ */
 .card-art {
   display: block;
@@ -584,7 +584,7 @@ body.rails-resizing { cursor: col-resize; user-select: none; }
 
 
 /* ============================================================
-   TESSERAE SORTIS — MOSAIC MOTIF (shiny-black shapes in plaster)
+   TESSERAE SORTIS - MOSAIC MOTIF (shiny-black shapes in plaster)
    ============================================================ */
 .ts-band {
   height: 30px;
@@ -622,7 +622,7 @@ h1::after {
 .ts-content h2::after { display: none; }
 
 /* ============================================================
-   CONTENT TABLES — monospace so columns/codes line up
+   CONTENT TABLES - monospace so columns/codes line up
    ============================================================ */
 .ts-content table { font-family: var(--font-mono); font-size: 0.9em; }
 .ts-content table th,
@@ -649,7 +649,7 @@ h1::after {
 
 .lex-table tbody td:nth-of-type(3) { white-space: nowrap; }
 
-/* Card detail — keywords + draft marker */
+/* Card detail - keywords + draft marker */
 .card-keywords { font-size: var(--size-small); color: var(--ink-mid); margin: 0 0 1rem; }
 .draft-note { font-size: var(--size-small); color: var(--ink-light); font-style: italic;
   border-left: 2px solid var(--rule); padding-left: 0.7rem; margin: 0 0 1rem; }

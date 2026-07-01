@@ -1,10 +1,10 @@
-[Home](../index.html) › [Roles](../roles.html) › Naturalist
+[Home](../index.md) › [Roles](../roles.md) › Naturalist
 
 Roles
 
 # Outdoorsman Roles
 
-Some characters just fit best around trees and animals! There are [Roles](../roles.html) for those too.
+Some characters just fit best around trees and animals! There are [Roles](../roles.md) for those too.
 
 ## Naturalist
 
@@ -20,5 +20,5 @@ Naturalists are good at wilderness survival: finding food and shelter, predictin
 
 ---
 
-- [← Previous: A Sneak In Action](../action/sneak.html)
-- [Next →: Common Naturalist Maneuvers](naturalist-maneuvers.html)
+- [← Previous: A Sneak In Action](../action/sneak.md)
+- [Next →: Common Naturalist Maneuvers](naturalist-maneuvers.md)

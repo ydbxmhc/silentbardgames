@@ -16,7 +16,7 @@ Instant effects perform their function and end immediately. A *Light* spell cast
 
 Trivial Persistence effects don't require rolls, and last until they naturally fade. A gentle *Light* spell for examining a room might last until the caster leaves the area, falls asleep, or dismisses it.
 
-Concentration/Maintenance is usually the default. The caster actively maintains the spell by devoting attention to it. This allows the caster to make opposition rolls with it but maintain an effect in between — but prevents the caster from taking other actions without splitting their rolls.
+Concentration/Maintenance is usually the default. The caster actively maintains the spell by devoting attention to it. This allows the caster to make opposition rolls with it but maintain an effect in between - but prevents the caster from taking other actions without splitting their rolls.
 
 [Wagered](../wagered-actions.md) Persistence dedicates EL points when casting, creating an effect that persists independently using the dedicated EL. This typically lasts for the scene, though longer durations may be possible with GM permission.
 
@@ -24,13 +24,13 @@ Enchantment creates "permanent" magical effects with extensive rituals and [Karm
 
 ### Difficulty
 
-Most spells resolve straight against the target's resistance — there is no separate casting roll on a targeted spell. Spells with no resisting target, like casting *Light* on the top of one's own staff, are generally DL0; the GM can request a roll on the chance it might fluke — an EL3 caster may well flash himself! — but can generally forgo it and get on with the story when appropriate.
+Most spells resolve straight against the target's resistance - there is no separate casting roll on a targeted spell. Spells with no resisting target, like casting *Light* on the top of one's own staff, are generally DL0; the GM can request a roll on the chance it might fluke - an EL3 caster may well flash himself! - but can generally forgo it and get on with the story when appropriate.
 
-Every good caster learns to **Improvise**, however. A caster can push a spell past its nature — layering on [Traits](../traits.md) that make it wider, subtler, or crueler than the base working. Each [Trait](../traits.md) that makes a spell more useful or dangerous (*Insidious*, *Area Blanket*, *Contagious*, and their kind) adds one to its **Difficulty**; each limiting [Trait](../traits.md) (*Stationary*, *Delayed*, *Constrained*) pays one back, to a minimum of zero.
+Every good caster learns to **Improvise**, however. A caster can push a spell past its nature - layering on [Traits](../traits.md) that make it wider, subtler, or crueler than the base working. Each [Trait](../traits.md) that makes a spell more useful or dangerous (*Insidious*, *Area Blanket*, *Contagious*, and their kind) adds one to its **Difficulty**; each limiting [Trait](../traits.md) (*Stationary*, *Delayed*, *Constrained*) pays one back, to a minimum of zero.
 
-A spell burdened this way becomes *Difficult*, and it strains against the hand that shapes it like a bowstring drawn too far. *These* spells *do* require a casting roll of sorts; the caster *must* make a free-action roll to hold the working together against its own modified Difficulty. Hold it, and the spell goes off exactly as built — every Trait you added now in force. Lose it, and it unravels in your grasp, gone from memory until you bind it anew… and that is no thing you do in the middle of a fight.
+A spell burdened this way becomes *Difficult*, and it strains against the hand that shapes it like a bowstring drawn too far. *These* spells *do* require a casting roll of sorts; the caster *must* make a free-action roll to hold the working together against its own modified Difficulty. Hold it, and the spell goes off exactly as built - every Trait you added now in force. Lose it, and it unravels in your grasp, gone from memory until you bind it anew… and that is no thing you do in the middle of a fight.
 
-Note well that a caster can make even a simple spell truly devastating, but the most feared Traits require point-for-point application. Adding an *Inexorable* [Trait](../traits.md) once only makes one point of the effect unresistable, and even then an opposing Spellweaver can [Counterspell](spellcraft.md) it — though the Inexorable points are always resisted *last*, even then.
+Note well that a caster can make even a simple spell truly devastating, but the most feared Traits require point-for-point application. Adding an *Inexorable* [Trait](../traits.md) once only makes one point of the effect unresistable, and even then an opposing Spellweaver can [Counterspell](spellcraft.md) it - though the Inexorable points are always resisted *last*, even then.
 
 ---
 
@@ -70,7 +70,7 @@ Apply Effect as *Drowsy* [Complications](../types-of-harm.md). Bypasses armor bu
 
 Required: *Insidious, Subtle, Selective (Supernatural Only)*
 
-Channels power through the caster's aura to strike supernatural targets. Has no effect whatsoever on mundane mortals — they cannot even perceive it. Fully effective against spirits, possessed beings, and anyone currently wielding supernatural power.
+Channels power through the caster's aura to strike supernatural targets. Has no effect whatsoever on mundane mortals - they cannot even perceive it. Fully effective against spirits, possessed beings, and anyone currently wielding supernatural power.
 
 > *"He smote the flaming sword from my hand with a shouted curse, but left me untouched."*
 
@@ -86,9 +86,9 @@ Manifests a blue-green flame in the caster's palm that provides light and heat w
 
 Required: Poison(*Delayed, Insidious, Ablative*)
 
-Launch sharp thorns coated with toxin as Harm. Caster may voluntarily increase the difficulty to strengthen the poison — initial hit is subject to armor, but if that does *any* damage the poison effect thereafter is not. The poison stays in the target's system and continues to attack at its rating each exchange until it has rolled its rating in effect, whether resisted or not.
+Launch sharp thorns coated with toxin as Harm. Caster may voluntarily increase the difficulty to strengthen the poison - initial hit is subject to armor, but if that does *any* damage the poison effect thereafter is not. The poison stays in the target's system and continues to attack at its rating each exchange until it has rolled its rating in effect, whether resisted or not.
 
-> *"A Novice might persuade a milkmaid to extract a worrisome splinter, but ArchDruid Berill struck down forty mercenaries with a single casting — most died foaming at the mouth."*
+> *"A Novice might persuade a milkmaid to extract a worrisome splinter, but ArchDruid Berill struck down forty mercenaries with a single casting - most died foaming at the mouth."*
 
 ### Poison Cloud
 

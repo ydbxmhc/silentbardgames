@@ -1,12 +1,12 @@
 /* ============================================================
-   TESSERAE SORTIS — CARD MANIFEST & HELPERS
+   TESSERAE SORTIS - CARD MANIFEST & HELPERS
    Loaded after /TS/config.js (needs the global img() helper).
 
    The deck art lives on the CDN under cards/<code>.png at
    600x840 (5:7). Filenames are lowercase {rank}{suit}:
        as   = ace of spades        10h = ten of hearts
        qd   = queen of diamonds    jc  = jack of clubs
-   Plus two jokers: joker1, joker2. (Card back: back.png — pending.)
+   Plus two jokers: joker1, joker2. (Card back: back.png - pending.)
 
    This module is pure data + URL helpers. No game logic lives
    here; the draw/spread/layout mechanics build on top of it.
@@ -25,10 +25,10 @@ const TSCards = {
   },
 
   /* Jokers keep their doc notation as filenames: Xr.png / Xb.png.
-     NOTE: capital X — these are the only non-lowercase codes in the deck,
+     NOTE: capital X - these are the only non-lowercase codes in the deck,
      and R2 object keys are case-sensitive. Don't lowercase joker codes. */
   JOKERS: ['Xr', 'Xb'],   // Xr = red/"potential", Xb = b&w/"teeth"
-  BACK:   'back',         // cards/back.png — not yet uploaded
+  BACK:   'back',         // cards/back.png - not yet uploaded
 
   /* "a","s" -> "as"   |   "10","h" -> "10h" */
   code(rank, suit) {

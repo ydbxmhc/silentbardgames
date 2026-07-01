@@ -1,16 +1,16 @@
 <!--
   =============================================================
-  TESSERAE SORTIS — ORACLE: CONSOLIDATED MASTER (DRAFT FOR REVIEW)
+  TESSERAE SORTIS - ORACLE: CONSOLIDATED MASTER (DRAFT FOR REVIEW)
   =============================================================
   This merges the two source drafts:
-    - oracle_system_seed.md          ("The Quaerant's Oracle — Seed Draft")
-    - solo_oracle_working_draft.md   ("Solo Oracle System — Working Draft")
+    - oracle_system_seed.md          ("The Quaerant's Oracle - Seed Draft")
+    - solo_oracle_working_draft.md   ("Solo Oracle System - Working Draft")
 
   MERGE RULES USED (so you can audit the seams):
    1. Your wording is preserved verbatim. Nothing was rephrased or
       "improved." Section structure follows the seed's cleaner skeleton.
    2. Where the two drafts differed only trivially in phrasing, the more
-      COMPLETE draft's wording was used, silently. (No content changed —
+      COMPLETE draft's wording was used, silently. (No content changed - 
       just whichever sentence carried more.)
    3. Where they differ SUBSTANTIVELY, the spot is marked  @@DECISION
       with both options shown. Search "@@DECISION" to find all of them.
@@ -20,16 +20,16 @@
       says it should be. Marked anyway so you see it.
    5. Existing @@ notes/TODOs from both drafts are carried through.
 
-  @@DECISION STATUS — all resolved by the author's edit pass:
-     A. Title — "Tesserae Sortis" (title) / "The Quaerant's Oracle" (subtitle).
-     B. Suit-domain table — corrected wording stands.
-     C. Aperture stated twice — kept deliberately.
-     D. Tower spread — centered-column layout chosen.
-     E. Lexicon — rich prose canonical; per-card pages + tabular index planned.
+  @@DECISION STATUS - all resolved by the author's edit pass:
+     A. Title - "Tesserae Sortis" (title) / "The Quaerant's Oracle" (subtitle).
+     B. Suit-domain table - corrected wording stands.
+     C. Aperture stated twice - kept deliberately.
+     D. Tower spread - centered-column layout chosen.
+     E. Lexicon - rich prose canonical; per-card pages + tabular index planned.
   =============================================================
 -->
 
-<!-- @@DECISION A — RESOLVED: "Tesserae Sortis" is the title; "The
+<!-- @@DECISION A - RESOLVED: "Tesserae Sortis" is the title; "The
      Quaerant's Oracle" is the subtitle (author's edit pass). -->
 
 # Tesserae Sortis
@@ -93,7 +93,7 @@ Aces are **low** (value = 1) throughout.
 
 ### Suit: Narrative Texture & Thematic Domain
 
-<!-- @@DECISION B — RESOLVED: corrected suit wording stands (Clubs
+<!-- @@DECISION B - RESOLVED: corrected suit wording stands (Clubs
      "...raiders, coercion"; Spades "tradesfolk, tools..."). -->
 
 | Suit | Texture | Domain |
@@ -155,7 +155,7 @@ Any time the momentum sags, draw some inspiration. The oracle is here to restore
 
 ## ASKING THE ORACLE
 
-<!-- @@DECISION C — RESOLVED: the Aperture Principle is kept in both
+<!-- @@DECISION C - RESOLVED: the Aperture Principle is kept in both
      places deliberately (brief intro + full treatment). -->
 
 ### The Aperture Principle
@@ -569,7 +569,7 @@ Shuffle and cut the remaining deck. Lay cards in order:
 
 *Non-L1 users: the Role associations can be set aside entirely. Read each card purely from its name, texture, and the brief interpretation provided.*
 
-<!-- @@DECISION E — RESOLVED: rich prose (below) is the canonical lexicon;
+<!-- @@DECISION E - RESOLVED: rich prose (below) is the canonical lexicon;
      a tabular reference index + dedicated per-card pages are planned (see
      the build comment just below). The seed's compact table is stashed in
      TS/_stash/lexicon-table-synoptic.md as seed material for the index. -->
@@ -830,16 +830,16 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 ---
 
-## @@TODO — TESSERAE SORTIS SUBSITE
+## @@TODO - TESSERAE SORTIS SUBSITE
 
 **Editing & tone (whole subsite)**
 - Working initialization copy; the whole text needs **multiple editing / revision passes** before publication.
-- **Sensitivity watch** — catch and smooth subtle insensitivities without breaking the basic traditional feel of the rules.
+- **Sensitivity watch** - catch and smooth subtle insensitivities without breaking the basic traditional feel of the rules.
 
 **Build (page-out)**
 - **Per-card pages**: add the multiple-interpretations + inverted/alternate sections to each frame.
 - **Tabular reference index**: columnar code · name · one-liner chart linking to each card page (seed: `TS/_stash/lexicon-table-synoptic.md`).
-- **"The machinery" page**: design-transparency + GM guidance (edit-notes N3; yourbias.is is CC BY-NC-ND — our own words only).
+- **"The machinery" page**: design-transparency + GM guidance (edit-notes N3; yourbias.is is CC BY-NC-ND - our own words only).
 
 **Carried-through content TODOs**
 

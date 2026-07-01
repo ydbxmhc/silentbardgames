@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Ace of Spades
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Ace of Spades
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Duellist's Evasion
 
-No, but — Labor
+No, but - Labor
 
-**Keywords** — *Upright:* a failed strike, a clean retreat, a read on the foe · *Inverted:* the read pays off, the miss was a feint
+**Keywords** - *Upright:* a failed strike, a clean retreat, a read on the foe · *Inverted:* the read pays off, the miss was a feint
 
 ### Upright
 
@@ -18,17 +18,17 @@ The blade arm failed but the footwork saved you. A skilled retreat, not a rout. 
 
 ### Inverted
 
-The blow missed, but the giving of ground taught you the opening, and the next pass is where you spend it — or the failure was a feint all along, and the return stroke is already yours.
+The blow missed, but the giving of ground taught you the opening, and the next pass is where you spend it - or the failure was a feint all along, and the return stroke is already yours.
 
 ### In Play
 
 *Upright.* Aldric's lunge is parried; he gives ground, but now he's marked how the man drops his shoulder.
 
-*Inverted.* Aldric's lunge is 'parried,' and the retreat was the trap — the next exchange is his to take.
+*Inverted.* Aldric's lunge is 'parried,' and the retreat was the trap - the next exchange is his to take.
 
-NotationAS DirectionNo — Black SuitSpades — Labor (No, but) Rank & RoleAce — Warrior
+NotationAS DirectionNo - Black SuitSpades - Labor (No, but) Rank & RoleAce - Warrior
 
 ---
 
-- [← Previous: Ace of Diamonds](/TS/cards/ad.html)
-- [Next →: Ace of Clubs](/TS/cards/ac.html)
+- [← Previous: Ace of Diamonds](/TS/cards/ad.md)
+- [Next →: Ace of Clubs](/TS/cards/ac.md)

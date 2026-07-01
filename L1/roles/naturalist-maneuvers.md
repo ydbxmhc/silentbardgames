@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Naturalist](naturalist.html) › Common Naturalist Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Naturalist](naturalist.md) › Common Naturalist Maneuvers
 
 Outdoorsman Roles
 
@@ -27,5 +27,5 @@ Outdoorsman Roles
 
 ---
 
-- [← Previous: Naturalist](naturalist.html)
-- [Next →: A Naturalist In Action](../action/naturalist.html)
+- [← Previous: Naturalist](naturalist.md)
+- [Next →: A Naturalist In Action](../action/naturalist.md)

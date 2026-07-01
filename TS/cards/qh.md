@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Queen of Hearts
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Queen of Hearts
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Enchantress' Boon
 
-Yes, and — Social
+Yes, and - Social
 
-**Keywords** — *Upright:* a favor granted, unearned grace, generosity · *Inverted:* a gift with a string, a patron's quiet claim
+**Keywords** - *Upright:* a favor granted, unearned grace, generosity · *Inverted:* a gift with a string, a patron's quiet claim
 
 ### Upright
 
@@ -18,7 +18,7 @@ A gift from someone who didn't have to give it. Charm, grace, and genuine genero
 
 ### Inverted
 
-The favor is given, and giving makes a creditor — the grace was real and so is the ledger it opened, and somewhere the giver has begun, gently, to total what you owe.
+The favor is given, and giving makes a creditor - the grace was real and so is the ledger it opened, and somewhere the giver has begun, gently, to total what you owe.
 
 ### In Play
 
@@ -26,9 +26,9 @@ The favor is given, and giving makes a creditor — the grace was real and so is
 
 *Inverted.* The marquess settles Vell's debt with a wave; a month on, his steward arrives to explain, sweetly, what such kindness expects.
 
-NotationQH DirectionYes — Red SuitHearts — Social (Yes, and) Rank & RoleQueen — Conjuror
+NotationQH DirectionYes - Red SuitHearts - Social (Yes, and) Rank & RoleQueen - Conjuror
 
 ---
 
-- [← Previous: Jack of Clubs](/TS/cards/jc.html)
-- [Next →: Queen of Diamonds](/TS/cards/qd.html)
+- [← Previous: Jack of Clubs](/TS/cards/jc.md)
+- [Next →: Queen of Diamonds](/TS/cards/qd.md)

@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Queen of Clubs
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Queen of Clubs
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Witch's Curse
 
-No, and — Conflict
+No, and - Conflict
 
-**Keywords** — *Upright:* targeted malice, personal opposition, a powerful enemy · *Inverted:* the curse rebounds, an enemy who tips their hand
+**Keywords** - *Upright:* targeted malice, personal opposition, a powerful enemy · *Inverted:* the curse rebounds, an enemy who tips their hand
 
 ### Upright
 
@@ -18,7 +18,7 @@ Not merely opposition - deliberate, targeted, personal. Someone with real power 
 
 ### Inverted
 
-Someone with power has chosen you on purpose — but the choosing exposes them. A curse this personal is a confession of motive: the foe who reached so directly has shown you their hand, their reason, and the soft place to push.
+Someone with power has chosen you on purpose - but the choosing exposes them. A curse this personal is a confession of motive: the foe who reached so directly has shown you their hand, their reason, and the soft place to push.
 
 ### In Play
 
@@ -26,9 +26,9 @@ Someone with power has chosen you on purpose — but the choosing exposes them. 
 
 *Inverted.* The curse is so plainly aimed that Vell knows at once who sent it and why, and a witch who shows that much has handed him the means to answer.
 
-NotationQC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleQueen — Conjuror
+NotationQC DirectionNo - Black SuitClubs - Conflict (No, and) Rank & RoleQueen - Conjuror
 
 ---
 
-- [← Previous: Queen of Spades](/TS/cards/qs.html)
-- [Next →: King of Hearts](/TS/cards/kh.html)
+- [← Previous: Queen of Spades](/TS/cards/qs.md)
+- [Next →: King of Hearts](/TS/cards/kh.md)

@@ -1,5 +1,5 @@
 <!--
-  STASH — not a page, not canonical. Food for thought.
+  STASH - not a page, not canonical. Food for thought.
 
   This is the seed draft's COMPACT (3-column table) version of the card
   lexicon. The canonical lexicon in oracle-master.md uses the richer prose
@@ -9,7 +9,7 @@
   Verbatim from oracle_system_seed.md. Do not edit as if it were live.
 -->
 
-# Card Lexicon — Synoptic Table (stash)
+# Card Lexicon - Synoptic Table (stash)
 
 *Cards listed H (Yes/and), D (Yes/but), S (No/but), C (No/and)*
 

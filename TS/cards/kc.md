@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › King of Clubs
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › King of Clubs
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Inquisitor's Writ
 
-No, and — Conflict
+No, and - Conflict
 
-**Keywords** — *Upright:* institutional weight, documented authority, an impersonal hammer · *Inverted:* procedure binds them too, the writ's own rules
+**Keywords** - *Upright:* institutional weight, documented authority, an impersonal hammer · *Inverted:* procedure binds them too, the writ's own rules
 
 ### Upright
 
@@ -18,7 +18,7 @@ The full weight of organized authority, properly documented, coming down. This i
 
 ### Inverted
 
-The full machinery of authority comes down, stamped and impersonal — but machinery runs on rules, and rules bind both hands. The writ that condemns you is a leash on the one who wields it; hold them to their own procedure and the hammer slows.
+The full machinery of authority comes down, stamped and impersonal - but machinery runs on rules, and rules bind both hands. The writ that condemns you is a leash on the one who wields it; hold them to their own procedure and the hammer slows.
 
 ### In Play
 
@@ -26,9 +26,9 @@ The full machinery of authority comes down, stamped and impersonal — but machi
 
 *Inverted.* Tamsin reads the writ closer than the inquisitor meant her to, and finds the clause that ties his hands as surely as hers.
 
-NotationKC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleKing — Spellweaver
+NotationKC DirectionNo - Black SuitClubs - Conflict (No, and) Rank & RoleKing - Spellweaver
 
 ---
 
-- [← Previous: King of Spades](/TS/cards/ks.html)
-- [Next →: Joker (Red)](/TS/cards/Xr.html)
+- [← Previous: King of Spades](/TS/cards/ks.md)
+- [Next →: Joker (Red)](/TS/cards/Xr.md)

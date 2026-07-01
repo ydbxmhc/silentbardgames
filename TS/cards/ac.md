@@ -1,4 +1,4 @@
-[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Ace of Clubs
+[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Ace of Clubs
 
 The Deck
 
@@ -8,9 +8,9 @@ The Deck
 
 ## Berserker's Rampage
 
-No, and — Conflict
+No, and - Conflict
 
-**Keywords** — *Upright:* escalation, compounding loss, collateral · *Inverted:* ruin that clears the board, a mark found in the chaos
+**Keywords** - *Upright:* escalation, compounding loss, collateral · *Inverted:* ruin that clears the board, a mark found in the chaos
 
 ### Upright
 
@@ -18,7 +18,7 @@ Something let loose and made everything worse. The violence escalated past any u
 
 ### Inverted
 
-The fury runs past all sense, so far it breaks its own frame, and the wreckage leaves a gap — the enemy overcommits, the blaze takes their ground with yours, the smash ends the standoff. Or it simply finds a target, and pure loss lands one telling blow.
+The fury runs past all sense, so far it breaks its own frame, and the wreckage leaves a gap - the enemy overcommits, the blaze takes their ground with yours, the smash ends the standoff. Or it simply finds a target, and pure loss lands one telling blow.
 
 ### In Play
 
@@ -26,9 +26,9 @@ The fury runs past all sense, so far it breaks its own frame, and the wreckage l
 
 *Inverted.* Bryn's rampage empties the room of friend and foe alike, and the only two left in the wreck are him and the man he came to find.
 
-NotationAC DirectionNo — Black SuitClubs — Conflict (No, and) Rank & RoleAce — Warrior
+NotationAC DirectionNo - Black SuitClubs - Conflict (No, and) Rank & RoleAce - Warrior
 
 ---
 
-- [← Previous: Ace of Spades](/TS/cards/as.html)
-- [Next →: Two of Hearts](/TS/cards/2h.html)
+- [← Previous: Ace of Spades](/TS/cards/as.md)
+- [Next →: Two of Hearts](/TS/cards/2h.md)

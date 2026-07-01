@@ -1,10 +1,10 @@
-# Tesserae Sortis — Oracle Edit Notes
+# Tesserae Sortis - Oracle Edit Notes
 
 *A running log of proposed wording changes and discussion items for
 `oracle-master.md`, captured as they come up in conversation.*
 
 **Ground rules** (per author):
-- The oracle text is collaboratively-generated WIP — **not** sacrosanct the
+- The oracle text is collaboratively-generated WIP - **not** sacrosanct the
   way the L1 rulebook transcription is.
 - Proposals are welcome, but **flag and discuss before applying**. Nothing
   here is changed in the master until the author signs off.
@@ -16,7 +16,7 @@ Status key: **PROPOSED** (awaiting author) · **DISCUSSED** · **APPLIED** · **
 
 ---
 
-## N1 — "State the stakes" bullet (Question Framing for Spreads)
+## N1 - "State the stakes" bullet (Question Framing for Spreads)
 **Status: PROPOSED** · raised 2026-06-27
 
 **Location:** *Card Spreads → Question Framing for Spreads*, the bullet:
@@ -25,9 +25,9 @@ Status key: **PROPOSED** (awaiting author) · **DISCUSSED** · **APPLIED** · **
 
 **Observation:** "State the stakes" is not a standard named Tarot principle.
 The real, well-attested Tarot convention adjacent to it is **intention-setting**
-("know what you're asking and why it matters") — which the bullet's second
+("know what you're asking and why it matters") - which the bullet's second
 sentence already states. The word **"stakes"** is an RPG/storytelling concept
-(a resolution should *matter* — something in the fiction changes based on the
+(a resolution should *matter* - something in the fiction changes based on the
 answer), not a divination one. So the bullet is a hybrid: intention-setting
 wearing an RPG word, which is why it reads as clear but resists producing an
 example. (Author flagged exactly this difficulty.)
@@ -35,17 +35,17 @@ example. (Author flagged exactly this difficulty.)
 **Proposal (pick or modify):**
 - **(a)** Split into two beats: keep intention-setting ("know what you're
   asking and why it matters"), and give *stakes* its own line that says the
-  RPG part plainly — e.g. "something in the fiction should change depending
+  RPG part plainly - e.g. "something in the fiction should change depending
   on the answer; if nothing rides on it, you're just dealing cards."
 - **(b)** Cut "stakes" and fold its intent into the intention-setting beat.
 - **(c)** Keep as-is but add a worked example (see below) so the meaning is
   carried by demonstration rather than assertion.
 
-**Candidate worked example** (only if the author wants an example added —
+**Candidate worked example** (only if the author wants an example added - 
 this is *new prose*, so it stays out of the master until approved):
 > *Same draw, two framings. "What's the next town like?" → KC, 7H, 2D reads
-> as vague atmosphere; nothing rides on it. "If the Conjuror won't see us —
-> or sells us out — Maret has nowhere to run and the construct catches us by
+> as vague atmosphere; nothing rides on it. "If the Conjuror won't see us - 
+> or sells us out - Maret has nowhere to run and the construct catches us by
 > morning. I go find him. What happens?" → the same KC now lands as the
 > betrayal you named you feared, and the 7H/2D become hope at a price.* The
 > stakes don't change the cards; they give the reading a target and make the
@@ -56,7 +56,7 @@ here as design rationale only?
 
 ---
 
-## N2 — Face-card differentiation + the psychology of "substantial yet vague"
+## N2 - Face-card differentiation + the psychology of "substantial yet vague"
 **Status: PROPOSED** · raised 2026-06-27 · **applies to the whole lexicon (esp. all face cards)**
 
 **Location:** *The Card Lexicon → Face Cards* (Jacks/Queens/Kings, every suit).
@@ -66,14 +66,14 @@ Author used Hearts (JH/QH/KH) as the worked example.
 differentiated mostly by color/flavor text, not by *what kind of event* each
 precipitates. JH/QH/KH all read as "a good social thing happens."
 
-**Proposed differentiation rule — by SOURCE of the event** (matches the
+**Proposed differentiation rule - by SOURCE of the event** (matches the
 archetypes, per author):
-- **Jack / Adept → internal.** Insight, epiphany, instinct — the character
+- **Jack / Adept → internal.** Insight, epiphany, instinct - the character
   *generates* it from within.
 - **Queen / Conjuror → relational.** A favor granted, a deal that breaks your
-  way, an intercession — it comes *through another party's choosing*.
+  way, an intercession - it comes *through another party's choosing*.
 - **King / Spellweaver → institutional.** Official, public, recorded
-  recognition/sanction — conferred *by a body or system*.
+  recognition/sanction - conferred *by a body or system*.
 
 This generalizes to all four suits. The card *names* mostly already encode it
 (Harpy's Bargain = a deal; Inquisitor's Writ = institutional; Friar's
@@ -81,21 +81,21 @@ Indulgence = a granted pass); the *readings* are what need to foreground the
 source consistently.
 
 **Psychological principles to tune against** (the "substantial yet vague"
-target — see sourced research in the chat thread):
-1. **Barnum/Forer effect** — describe the *shape* of an event, not a fixed
+target - see sourced research in the chat thread):
+1. **Barnum/Forer effect** - describe the *shape* of an event, not a fixed
    event; broad enough to be widely accepted as personally true.
-2. **Subjective validation** — reader matches their own scene and discards
+2. **Subjective validation** - reader matches their own scene and discards
    misfits; give one concrete hook to latch onto.
-3. **Projective ambiguity (Jungian archetype)** — name a concrete object/act
+3. **Projective ambiguity (Jungian archetype)** - name a concrete object/act
    but leave its referent open; the player projects their scene onto it.
-4. **Authority + positivity bias** — Barnum statements land harder positive &
+4. **Authority + positivity bias** - Barnum statements land harder positive &
    from authority. The oracle is the authority; face cards = "fate weighing
    in." Lean in on the Yes cards.
-5. **Rainbow-ruse structure** — pair benefit with a faint shadow / future
+5. **Rainbow-ruse structure** - pair benefit with a faint shadow / future
    hook so it fits more scenes. (The suit and/but split already does this
    structurally; face readings can echo it.)
 
-**Candidate rewrites — Hearts faces (PROPOSED, not applied):**
+**Candidate rewrites - Hearts faces (PROPOSED, not applied):**
 - **JH · Bard's Ode** *(internal/epiphany)*: "An understanding arrives
   unbidden - the right words, the true shape of someone's heart, a story you
   suddenly know how to tell. The insight is yours, generated from within, and
@@ -115,14 +115,14 @@ master TODO "Lexicon revision pass: two valid interpretations per card."
 
 ---
 
-## N3 — NEW PAGE: "the machinery" — design transparency + GM guidance
+## N3 - NEW PAGE: "the machinery" - design transparency + GM guidance
 **Status: PROPOSED (new page for the /TS/ build)** · raised 2026-06-27
 
 **What the author wants:** a dedicated page that *explicitly names* the
 psychological techniques the oracle uses ("here's what we did and why it
 works"), with **specific examples** drawn from the system, plus **guidance
 for GMs** on leaning into the same effects deliberately at their own tables.
-Framed as transparency, not a trick reveal — turns "isn't this just cold
+Framed as transparency, not a trick reveal - turns "isn't this just cold
 reading?" into a feature the game teaches.
 
 **Working titles (suggestions, pick/replace):** "Behind the Cards" ·
@@ -132,23 +132,23 @@ reading?" into a feature the game teaches.
 **Scope / content outline (draft):**
 - The two engines already covered in N2: **Barnum/Forer**, **subjective
   validation**, **projective ambiguity (Jungian)**, **authority+positivity**,
-  **rainbow-ruse structure** — restated for the reader, with examples.
+  **rainbow-ruse structure** - restated for the reader, with examples.
 - Classic **cognitive biases** that generate "artificial depth," each with an
   oracle example and a GM how-to. Strong candidates (curate the final list in
   our own words):
-  - **Clustering illusion / apophenia** — patterns in randomness. *Example:*
+  - **Clustering illusion / apophenia** - patterns in randomness. *Example:*
     the KS recurring across an unshuffled run reads as "fate." THE core engine.
-  - **Confirmation bias** — players confirm the story they already want; the
+  - **Confirmation bias** - players confirm the story they already want; the
     ambiguous draw supplies the fuel.
-  - **Anchoring** — the first card frames interpretation of the rest
+  - **Anchoring** - the first card frames interpretation of the rest
     (ties to Positional Reading / first = "the face of the situation").
-  - **Framing effect** — the Aperture Principle is literally this.
-  - **Availability / recency** — memorable hits ("the deck knew!") outweigh
+  - **Framing effect** - the Aperture Principle is literally this.
+  - **Availability / recency** - memorable hits ("the deck knew!") outweigh
     forgotten misses; why it feels prophetic over a session.
-  - **Sunk cost / commitment & consistency** — the Quaerant Card "bet on
+  - **Sunk cost / commitment & consistency** - the Quaerant Card "bet on
     self-image" before a Tower reading.
-  - **Halo effect** — face cards as authority; recognition colors everything.
-- **GM guidance section:** how to deploy these honestly at the table — pause
+  - **Halo effect** - face cards as authority; recognition colors everything.
+- **GM guidance section:** how to deploy these honestly at the table - pause
   on the hit, let players narrate the connection, don't over-explain, when to
   lean in vs. when it cheapens the moment.
 
@@ -166,7 +166,7 @@ section so the page plan lives with the other build items.
 
 ---
 
-## STATUS UPDATES — 2026-06-27 (after author's edit pass landed)
+## STATUS UPDATES - 2026-06-27 (after author's edit pass landed)
 
 - **N1 (state the stakes) → APPLIED by author.** The master now distinguishes
   Tarot "intention" from gaming "stakes" and adds a worked example (the
@@ -182,9 +182,9 @@ section so the page plan lives with the other build items.
   and reverted the subsite TODO (dropping the **sensitivity watch** and
   **editing-passes** bullets). The author's *content* edits already settle
   A–E in practice. **Q: re-stamp A–E as RESOLVED and restore the sensitivity-
-  watch / editing-pass TODO bullets?** (Not done yet — awaiting the nod.)
+  watch / editing-pass TODO bullets?** (Not done yet - awaiting the nod.)
 
-## N4 — Per-card page architecture (from author's lexicon comment)
+## N4 - Per-card page architecture (from author's lexicon comment)
 **Status: IN PROGRESS** · raised 2026-06-27
 
 Author's HTML comment in the lexicon section specifies the structure:
@@ -202,7 +202,7 @@ frames, now populated with the current single reading + card art.
   reading section. Blocked on the master's "two readings per card" revision
   pass (already a TODO). Frames have a clean slot to drop these into.
 - The index: author wants a **columnar text reference chart** (code · name ·
-  one-line reading) linking to each page — i.e. the synoptic/tabular view,
+  one-line reading) linking to each page - i.e. the synoptic/tabular view,
   alongside or instead of the current thumbnail grid. The stashed
   `TS/_stash/lexicon-table-synoptic.md` is the seed for that chart.
 - Study the three reference sites for layout patterns when we design the full
@@ -210,7 +210,7 @@ frames, now populated with the current single reading + card art.
 
 ---
 
-## CHANGE LOG — 2026-06-27 (author-authorized typo + housekeeping pass)
+## CHANGE LOG - 2026-06-27 (author-authorized typo + housekeeping pass)
 
 **Applied to `TS/oracle-master.md`:**
 - Re-stamped `@@DECISION A–E` to RESOLVED (reflecting the author's edit-pass
@@ -224,7 +224,7 @@ frames, now populated with the current single reading + card art.
 - `did't` → `didn't` (color design note)
 - `Intuitiion` → `Intuition` (Adept rank row)
 - `represenations` → `representations` (lexicon build comment)
-- `com[promise` → `compromise` (Beast Handler rank row) — **FLAGGED:** this
+- `com[promise` → `compromise` (Beast Handler rank row) - **FLAGGED:** this
   was a literal de-bracketing. The source working-draft had "**communication**"
   in that slot, not "compromise." If communication (or something else) was the
   intent, say so and I'll swap it. Left as `compromise` for now.
@@ -234,26 +234,26 @@ codes, and `**S**pades`-style bold false positives).
 
 ---
 
-## N5 — "but" should qualify, not reverse (lexicon semantics)
+## N5 - "but" should qualify, not reverse (lexicon semantics)
 **Status: PROPOSED** · raised 2026-06-27 · **affects the lexicon revision pass**
 
 **Author's point:** a *but* result should be a **small adjustment**, not a
 total flip. A success stays a success; a failure stays a failure.
 - **Yes, but** = the success stands, with a cost/complication attached.
 - **No, but** = the failure stands, with a small consolation or sliver of
-  progress — **not** effective success.
+  progress - **not** effective success.
 - A genuine flip (failure that's really a win, or vice-versa) belongs to the
-  **inverted** reading, if anywhere — which is exactly what the new per-card
+  **inverted** reading, if anywhere - which is exactly what the new per-card
   "Inverted" slot is for.
 
-**No, but (Spades) — entries that currently over-flip toward success:**
-- **2S Catapult's Misfire** — "something useful landed... *Perhaps better.*"
+**No, but (Spades) - entries that currently over-flip toward success:**
+- **2S Catapult's Misfire** - "something useful landed... *Perhaps better.*"
   (reads as a win, not a consolation)
-- **4S Prisoner's Map** — "a way out in the dark. It's there if you look."
+- **4S Prisoner's Map** - "a way out in the dark. It's there if you look."
   (an escape = effective success)
-- **JS Friar's Indulgence** — "here is a *pass*... entirely functional. Walk
+- **JS Friar's Indulgence** - "here is a *pass*... entirely functional. Walk
   through." (a functional pass = effective Yes)
-- **QS Harpy's Bargain** — "You got something out of this. Perhaps *more than
+- **QS Harpy's Bargain** - "You got something out of this. Perhaps *more than
   you expected*." (over-delivers)
 - Borderline, worth a look: **3S Reviewer's Nostalgia**, **5S Herbalist's
   Antidote**, **AS Duellist's Evasion**, **KS Artificer's Workaround**.
@@ -261,7 +261,7 @@ total flip. A success stays a success; a failure stays a failure.
   ("didn't win... but finished"), **9S Sage's Rescheduling** ("delayed, not
   denied"), **8S Hollow Leg**.
 
-**Yes, but (Diamonds):** these mostly hold the line — success + a real cost
+**Yes, but (Diamonds):** these mostly hold the line - success + a real cost
 (Mercenary's Wage, Sibyl's Price, Razor's Nick, Competitor's Fee, etc.). Worth
 a quick consistency pass to confirm none tip into failure, but no clear
 offenders stood out.
@@ -272,70 +272,70 @@ results to a qualifier and move any real reversal into the Inverted slot.
 
 ---
 
-## N6 — Lexicon revision: sample drafts (4 No,but cards)
-**Status: PROPOSED — not applied** · raised 2026-06-27
+## N6 - Lexicon revision: sample drafts (4 No,but cards)
+**Status: PROPOSED - not applied** · raised 2026-06-27
 
 First-crack drafts implementing N5: upright keeps the failure with a *small*
 consolation; the over-flip-to-success is relocated to the Inverted slot.
 Author's names/texture/domain unchanged. Apply to master + per-card pages on
 approval; then extend the pattern to all 54.
 
-### 2S — Catapult's Misfire *(No, but — Labor / Sniper)*
-- **Upright:** The mechanism failed and the shot missed — no hit, no breach,
+### 2S - Catapult's Misfire *(No, but - Labor / Sniper)*
+- **Upright:** The mechanism failed and the shot missed - no hit, no breach,
   the target still standing. But the misfire isn't nothing: it threw up dust,
   marked a range, or cleared a little ground you hadn't meant to. A miss you
   can work with.
 - **Inverted:** The misfire flukes. The shot that shouldn't have worked finds
-  something anyway — the wrong target turns out to be the right one. Failure
+  something anyway - the wrong target turns out to be the right one. Failure
   that lands on its feet. Don't expect it twice.
-- **Examples:** *Upright* — Sera's improvised ballista jams; the bolt skews
-  into the gatehouse wall, not the gate. The gate holds — but the cracked
-  masonry shows her where it's weakest. *Inverted* — the skewed bolt punches
+- **Examples:** *Upright* - Sera's improvised ballista jams; the bolt skews
+  into the gatehouse wall, not the gate. The gate holds - but the cracked
+  masonry shows her where it's weakest. *Inverted* - the skewed bolt punches
   the powder store nobody knew was there; she missed the gate and took the wall.
 
-### 4S — Prisoner's Map *(No, but — Labor / Sneak)*
-- **Upright:** Caught, confined, the attempt failed — you're not leaving the
+### 4S - Prisoner's Map *(No, but - Labor / Sneak)*
+- **Upright:** Caught, confined, the attempt failed - you're not leaving the
   way you came. But the dark isn't empty: a scratched mark, a loose stone, a
-  guard's habit noted. Not freedom — a thread to pull, if you're patient.
+  guard's habit noted. Not freedom - a thread to pull, if you're patient.
 - **Inverted:** The thread is the whole rope. What looked like a scrap of hope
-  is a real way out — the route holds, confinement was only ever temporary.
-- **Examples:** *Upright* — Thrn's escape ends in a deeper cell, but over three
+  is a real way out - the route holds, confinement was only ever temporary.
+- **Examples:** *Upright* - Thrn's escape ends in a deeper cell, but over three
   nights he charts the patrol's timing; he can't leave yet, but the gap is
-  coming. *Inverted* — the old scratches map a real drain; Thrn is gone before
+  coming. *Inverted* - the old scratches map a real drain; Thrn is gone before
   the next bell.
 
-### JS — Friar's Indulgence *(No, but — Labor / Adept)*
-- **Upright:** By rights the answer is no — unearned, the ledger closed against
+### JS - Friar's Indulgence *(No, but - Labor / Adept)*
+- **Upright:** By rights the answer is no - unearned, the ledger closed against
   you. What you get is a reprieve, not a pardon: a delay, a look the other way,
   a technicality that buys time without settling anything. The "no" is still
   out there. You just don't face it today.
 - **Inverted:** The technicality holds all the way. The corrupt little pass is
-  entirely functional — nobody checks, the door that should've been shut opens.
+  entirely functional - nobody checks, the door that should've been shut opens.
   You walked through on something you didn't earn, and it worked.
-- **Examples:** *Upright* — the friar can't absolve Calder's temple-debt, but
+- **Examples:** *Upright* - the friar can't absolve Calder's temple-debt, but
   he can lose the paperwork for a season; Calder isn't forgiven, just not
-  pursued yet. *Inverted* — the forged writ is never questioned; he walks past
+  pursued yet. *Inverted* - the forged writ is never questioned; he walks past
   the inquisitors on a paper that should have hanged him.
 
 ### >> SUPERSEDED for QS/4S etc. by the N7 inversion model below; uprights here still stand.
 
-### QS — Harpy's Bargain *(No, but — Labor / Conjuror)*
-- **Upright:** The bargain was bad and you knew it — unpleasant terms, worse
+### QS - Harpy's Bargain *(No, but - Labor / Conjuror)*
+- **Upright:** The bargain was bad and you knew it - unpleasant terms, worse
   company, a price you'd never have agreed to with a choice. It cost you. But
   the Harpy keeps the letter of her word, and out of the wreck you carry off
   one thing worth having. Less than you wanted. Not nothing.
 - **Inverted:** The terms you dreaded turn your way. Her letter-of-the-word
   cuts in your favor for once, and the grudging deal yields more than it should
-  — you came to lose and left ahead. She won't make that mistake twice.
-- **Examples:** *Upright* — to cross the marsh Vell trades the witch her
+  - you came to lose and left ahead. She won't make that mistake twice.
+- **Examples:** *Upright* - to cross the marsh Vell trades the witch her
   mother's ring; she gets the crossing and nothing else, the ring gone. But
-  she's across. *Inverted* — the witch keeps "safe passage" to the letter; Vell
+  she's across. *Inverted* - the witch keeps "safe passage" to the letter; Vell
   crosses untouched and arrives carrying the one thing the marsh-cult feared.
 
 ---
 
-## N7 — INVERSION MODEL (the "virtual bell curve")
-**Status: PROPOSED — design rule, author's concept** · raised 2026-06-27
+## N7 - INVERSION MODEL (the "virtual bell curve")
+**Status: PROPOSED - design rule, author's concept** · raised 2026-06-27
 
 Inversion (card laid sideways via the consecutive-card rule) regresses the
 extremes toward the middle and turns every *but* into a hook for the next draw.
@@ -344,12 +344,12 @@ extremes toward the middle and turns every *but* into a hook for the next draw.
 **(a) flips the outcome outright, or (b) leans hard on the "but"**, pointing
 firmly into another draw.
 
-- **"but" cards** — *Yes, but* (Diamonds) / *No, but* (Spades):
+- **"but" cards** - *Yes, but* (Diamonds) / *No, but* (Spades):
   - Lean-on-the-but (default): "You failed, *but* saw something else that might
     work" → draw again. "You succeeded, *but* triggered a side effect that's its
     own problem" → draw again.
   - Or full flip: the No becomes an effective Yes / the Yes collapses to No.
-- **"and" cards** — *Yes, and* (Hearts) / *No, and* (Clubs):
+- **"and" cards** - *Yes, and* (Hearts) / *No, and* (Clubs):
   - Inversion turns the *and* into "*but* a little extra is a bit too much":
     - *Yes, and* → the bonus overshoots into a complication (a win that becomes
       a problem).
@@ -366,6 +366,6 @@ sideways/inverted lay). The per-card "Inverted" sections then just apply it.
 
 **Build status:** the per-card page template now has Keywords / Upright /
 Inverted / In Play. Putative drafts written for AH, AD, 4S, AC (one per
-texture) — marked "working draft, pending author review." Remaining ~50 carry
+texture) - marked "working draft, pending author review." Remaining ~50 carry
 a placeholder that states the inversion options. Awaiting author OK on the
 model + sample voice before drafting the rest in batches.

@@ -1,4 +1,4 @@
-[Home](index.html) › The Draw
+[Home](index.md) › The Draw
 
 Play
 
@@ -96,5 +96,5 @@ No redraw. No replacement. Keep playing.
 
 ---
 
-- [← Previous: The Cards](the-cards.html)
-- [Next →: Resolution Mechanics](resolution.html)
+- [← Previous: The Cards](the-cards.md)
+- [Next →: Resolution Mechanics](resolution.md)

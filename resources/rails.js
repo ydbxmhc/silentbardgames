@@ -1,4 +1,4 @@
-// rails.js — OneSRD gutter rails (side panels)
+// rails.js - OneSRD gutter rails (side panels)
 // Adds optional left/right panels in the empty margins of the centered reading
 // column, on viewports wide enough to spare the room. A panel can show the
 // Table of Contents, the Settings controls, a promo, or random art, and each
