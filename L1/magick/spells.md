@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Spell List
+[Home](../index.md) › Magick! › Spell List
 
 Magick!
 
@@ -6,7 +6,7 @@ Magick!
 
 ## Spells
 
-Spells are learned [Maneuvers](../maneuvers.html) for Spellweavers. Each spell defines a specific magical effect with known behaviors. Like all [Maneuvers](../maneuvers.html), spells are limited by their governing [Role](../roles.html)'s rank and add their own rank to the caster's Effective Level when casting.
+Spells are learned [Maneuvers](../maneuvers.md) for Spellweavers. Each spell defines a specific magical effect with known behaviors. Like all [Maneuvers](../maneuvers.md), spells are limited by their governing [Role](../roles.md)'s rank and add their own rank to the caster's Effective Level when casting.
 
 ### Duration
 
@@ -18,23 +18,27 @@ Trivial Persistence effects don't require rolls, and last until they naturally f
 
 Concentration/Maintenance is usually the default. The caster actively maintains the spell by devoting attention to it. This allows the caster to make opposition rolls with it but maintain an effect in between — but prevents the caster from taking other actions without splitting their rolls.
 
-[Wagered](../wagered-actions.html) Persistence dedicates EL points when casting, creating an effect that persists independently using the dedicated EL. This typically lasts for the scene, though longer durations may be possible with GM permission.
+[Wagered](../wagered-actions.md) Persistence dedicates EL points when casting, creating an effect that persists independently using the dedicated EL. This typically lasts for the scene, though longer durations may be possible with GM permission.
 
-Enchantment creates "permanent" magical effects with extensive rituals and [Karma](../karma.html) expenditure, with similar costs to [Role](../roles.html) and [Maneuver](../maneuvers.html) advancement.
+Enchantment creates "permanent" magical effects with extensive rituals and [Karma](../karma.md) expenditure, with similar costs to [Role](../roles.md) and [Maneuver](../maneuvers.md) advancement.
 
 ### Difficulty
 
-Most basic spells are rolled directly against the target's resistance without requiring a separate casting roll, but some spells have special features that make them more inherently *Difficult*, requiring a separate roll to cast successfully. This is a free action; the difficulty of the spell tries to cause it to destabilize and fail, and the caster resists. If they are successful, they may proceed with their casting action normally. If not, the spell fails and is lost until they bind it again.
+Most spells resolve straight against the target's resistance — there is no separate casting roll on a targeted spell. Spells with no resisting target, like casting *Light* on the top of one's own staff, are generally DL0; the GM can request a roll on the chance it might fluke — an EL3 caster may well flash himself! — but can generally forgo it and get on with the story when appropriate.
 
-Difficult spells typically have one or more [Traits](../traits.html) that make them unusually powerful. For each [Trait](../traits.html) that makes the spell *more* useful and dangerous such as Insidious, Area Blanket, or Contagious, add one to the spell difficulty EL. Each limiting [Trait](../traits.html) (Stationary, Delayed, Constrained, etc) subtracts one, to a minimum of zero. When you successfully cast a Difficult spell, the difficulty EL becomes typically points of *Inexorable* effect that bypass normal resistance, while any effect beyond that can still be resisted normally.
+Every good caster learns to **Improvise**, however. A caster can push a spell past its nature — layering on [Traits](../traits.md) that make it wider, subtler, or crueler than the base working. Each [Trait](../traits.md) that makes a spell more useful or dangerous (*Insidious*, *Area Blanket*, *Contagious*, and their kind) adds one to its **Difficulty**; each limiting [Trait](../traits.md) (*Stationary*, *Delayed*, *Constrained*) pays one back, to a minimum of zero.
+
+A spell burdened this way becomes *Difficult*, and it strains against the hand that shapes it like a bowstring drawn too far. *These* spells *do* require a casting roll of sorts; the caster *must* make a free-action roll to hold the working together against its own modified Difficulty. Hold it, and the spell goes off exactly as built — every Trait you added now in force. Lose it, and it unravels in your grasp, gone from memory until you bind it anew… and that is no thing you do in the middle of a fight.
+
+Note well that a caster can make even a simple spell truly devastating, but the most feared Traits require point-for-point application. Adding an *Inexorable* [Trait](../traits.md) once only makes one point of the effect unresistable, and even then an opposing Spellweaver can [Counterspell](spellcraft.md) it — though the Inexorable points are always resisted *last*, even then.
 
 ---
 
 ## Creating Spells
 
-Spells are simple. Decide what they do, define it with a brief description, and identify any relevant [Traits](../traits.html) as *required* or *forbidden.* All others are generally considered optional *if they make sense*. Most [Traits](../traits.html) are optional for most spells, meaning the caster can apply them to modify the spell difficulty and features at casting time, though individual spells can alter this.
+Spells are simple. Decide what they do, define it with a brief description, and identify any relevant [Traits](../traits.md) as *required* or *forbidden.* All others are generally considered optional *if they make sense*. Most [Traits](../traits.md) are optional for most spells, meaning the caster can apply them to modify the spell difficulty and features at casting time, though individual spells can alter this.
 
-Groups can also customize their world by setting certain [Traits](../traits.html) as *always* required or forbidden. If all spells are always Vancian and Immutable, then they can also have two positive [Traits](../traits.html) for free, changing the baseline of power at the cost of no recasting.
+Groups can also customize their world by setting certain [Traits](../traits.md) as *always* required or forbidden. If all spells are always Vancian and Immutable, then they can also have two positive [Traits](../traits.md) for free, changing the baseline of power at the cost of no recasting.
 
 ---
 
@@ -42,7 +46,7 @@ Groups can also customize their world by setting certain [Traits](../traits.html
 
 ### Light
 
-Creates magical illumination at the targeted point. Effect cancels visibility penalties from Darkness but diminishes by distance from source. Can be cast on objects to move with them. If used as an attack, causes *Glare* or *Blinded* [Hindrances](../types-of-harm.html).
+Creates magical illumination at the targeted point. Effect cancels visibility penalties from Darkness but diminishes by distance from source. Can be cast on objects to move with them. If used as an attack, causes *Glare* or *Blinded* [Hindrances](../types-of-harm.md).
 
 > *"The wizard's light blazed forth, bright as noon sun in the depths of the cavern."*
 
@@ -50,7 +54,7 @@ Creates magical illumination at the targeted point. Effect cancels visibility pe
 
 Required: *Insidious*
 
-Apply Effect as movement [Hindrances](../types-of-harm.html). If total effect exceeds target's Level, they're not Down, but are still *[Staggered](../feeling-down.html)* with Paralysis.
+Apply Effect as movement [Hindrances](../types-of-harm.md). If total effect exceeds target's Level, they're not Down, but are still *[Staggered](../feeling-down.md)* with Paralysis.
 
 > *"He spoke a curse, and my limbs failed me; I stumbled to the earth and could not rise."*
 
@@ -58,7 +62,7 @@ Apply Effect as movement [Hindrances](../types-of-harm.html). If total effect ex
 
 Required: *Insidious, Subtle*
 
-Apply Effect as *Drowsy* [Complications](../types-of-harm.html). Bypasses armor but can be resisted with supernatural abilities.
+Apply Effect as *Drowsy* [Complications](../types-of-harm.md). Bypasses armor but can be resisted with supernatural abilities.
 
 > *"A sprinkle of dust and softly murmured words struck my guards with waves of fatigue such that one passed out entirely."*
 
@@ -98,7 +102,7 @@ Creates a stationary cloud of poisonous vapor.
 
 Required: *Subtle, Status*
 
-Apply effect to Create a [Boost](../actions-and-timing.html#boost-actions) of *Strength*.
+Apply effect to Create a [Boost](../actions-and-timing.md#boost-actions) of *Strength*.
 
 > *"The old man lifted the fallen tree from the child as if he were ten lumberjacks."*
 
@@ -120,7 +124,7 @@ Manipulates existing stone within range. Can create spikes for attacks, barriers
 
 Required: *Subtle, Insidious, Status*
 
-Influences the target's emotions and judgment as mental [Hindrance](../types-of-harm.html) that *only* biases the target toward the caster's requests. Completely out of character behavior immediately gives a free resistance with a bonus based on how odd it would be, and can break the spell entirely. A [Hindrance](../types-of-harm.html) greater than their base Level makes them so smitten with the caster's every idea that they won't even roll to resist unless the action is drastically out of character. The target will go out of their way to justify their actions as reasonable.
+Influences the target's emotions and judgment as mental [Hindrance](../types-of-harm.md) that *only* biases the target toward the caster's requests. Completely out of character behavior immediately gives a free resistance with a bonus based on how odd it would be, and can break the spell entirely. A [Hindrance](../types-of-harm.md) greater than their base Level makes them so smitten with the caster's every idea that they won't even roll to resist unless the action is drastically out of character. The target will go out of their way to justify their actions as reasonable.
 
 > *"Though I knew she was my enemy, her words seemed purest wisdom, and I found myself nodding in grudging agreement."*
 
@@ -130,7 +134,7 @@ Influences the target's emotions and judgment as mental [Hindrance](../types-of-
 
 Required: *Subtle*
 
-Influences the target's *perceptions*. This is a *Glamour*, so it cannot alter the physical world other than through a target's perceptions, but within that thematic limitation can be used like any other spell. A phantasmal fog can *Hinder* vision; an illusory arrow can only cause [Complications](../types-of-harm.html), but the target won't know until they vanish. In all cases, effect and resistance determine the final outcome.
+Influences the target's *perceptions*. This is a *Glamour*, so it cannot alter the physical world other than through a target's perceptions, but within that thematic limitation can be used like any other spell. A phantasmal fog can *Hinder* vision; an illusory arrow can only cause [Complications](../types-of-harm.md), but the target won't know until they vanish. In all cases, effect and resistance determine the final outcome.
 
 > *"He vanished from my sight, though I still could catch glimpses and hear his movements."*
 
@@ -154,5 +158,5 @@ The caster transforms themselves bodily into an etheric form in the Borderlands.
 
 ---
 
-- [← Previous: Conjuring](conjuring.html)
-- [Next →: The Beyond](beyond.html)
+- [← Previous: Conjuring](conjuring.md)
+- [Next →: Shaping Effects](shaping-effects.md)

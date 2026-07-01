@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Adept Magic
+[Home](../index.md) › Magick! › Adept Magic
 
 Magick!
 
@@ -16,9 +16,9 @@ These little bits of color can't directly cause harm or provide mechanical bonus
 
 ### Nontrivial Magic
 
-Anything beyond trivial effects requires a roll. The Adept channels their theme's power through their will, adding their Adept rank and any relevant [Maneuvers](../maneuvers.html) to their EL. Success creates points of effect that can be applied just like any other action.
+Anything beyond trivial effects requires a roll. The Adept channels their theme's power through their will, adding their Adept rank and any relevant [Maneuvers](../maneuvers.md) to their EL. Success creates points of effect that can be applied just like any other action.
 
-The key limitation is overchannelling: if your rolled effect exceeds your Adept rank, you face a choice. You can voluntarily reduce the effect to match your rank, wasting the excess but staying safe — or you can channel the full power and make a resistance roll against the difference, taking any unresisted amount as harm… usually fatigue [Complications](../types-of-harm.html), but potentially worse. This isn't a strict either/or proposition; Adept magic is as natural as breathing to them, so they can choose any amount of the rolled overchannelling to attempt, "pulling their punch" a little if they don't want to whole value, *as long as the roll itself was an actual success.*
+The key limitation is overchannelling: if your rolled effect exceeds your Adept rank, you face a choice. You can voluntarily reduce the effect to match your rank, wasting the excess but staying safe — or you can channel the full power and make a resistance roll against the difference, taking any unresisted amount as harm… usually fatigue [Complications](../types-of-harm.md), but potentially worse. This isn't a strict either/or proposition; Adept magic is as natural as breathing to them, so they can choose any amount of the rolled overchannelling to attempt, "pulling their punch" a little if they don't want to whole value, *as long as the roll itself was an actual success.*
 
 > **Example**
 >
@@ -36,5 +36,5 @@ The GM and player should negotiate the theme's boundaries during character creat
 
 ---
 
-- [← Previous: Overview](../magick.html)
-- [Next →: Spellcraft](spellcraft.html)
+- [← Previous: Overview](../magick.md)
+- [Next →: Spellcraft](spellcraft.md)

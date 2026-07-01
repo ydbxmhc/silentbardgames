@@ -102,6 +102,29 @@
     });
   }
 
+  /* ---- highlight + scroll the injected TOC to the current page/section ---- */
+  function markTocCurrent(scope) {
+    const host = scope.querySelector('.rail-host') || scope;
+    const path = location.pathname.replace(/\/+$/, '');
+    const full = path + location.hash;
+    let exact = null, page = null;
+    host.querySelectorAll('a[href]').forEach(a => {
+      a.classList.remove('toc-current');
+      const href = a.getAttribute('href');
+      if (!href || /^(https?:|mailto:)/.test(href)) return;
+      const hpath = href.split('#')[0].replace(/\/+$/, '');
+      if (!exact && href === full) exact = a;         // page + section
+      if (!page && hpath === path) page = a;          // page only
+    });
+    const cur = exact || page;
+    if (!cur) return;
+    cur.classList.add('toc-current');
+    // Scroll ONLY the rail's own overflow box, not the window.
+    const cr = cur.getBoundingClientRect();
+    const hr = host.getBoundingClientRect();
+    host.scrollTop += (cr.top - hr.top) - host.clientHeight / 3;
+  }
+
   /* ---- render one rail ---- */
   function render(rail) {
     const s = SOURCES[mod(rail.index)];
@@ -123,6 +146,7 @@
         rail.fig.innerHTML = '<div class="rail-host' + (s.extract ? ' rail-wide' : '') + '">' + html + '</div>' + cap;
         resolveImgs(rail.fig);
         if (s.wire === 'settings') wireSettings(rail.fig);
+        if (s.id === 'toc') markTocCurrent(rail.fig);
       })
       .catch(err => {
         rail.fig.innerHTML = '<div class="rail-error">Could not load this panel.<br><small>' + err + '</small></div>' + cap;
@@ -304,6 +328,26 @@
     const rails = [left, right];
     rails.forEach(render);
     setupResize(layout, content);
+
+    // A page can load with a #hash BEFORE this script wraps .content-wrap in
+    // .reading-layout, so the browser's initial jump is computed against the
+    // pre-wrap layout and lands off-target once we reflow. Re-resolve the anchor
+    // now that the layout is final (and on later same-page hash changes) so it
+    // lands cleanly below the fixed header -- CSS scroll-margin-top does the offset.
+    function scrollToHash() {
+      if (location.hash.length <= 1) return;
+      const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if (el) requestAnimationFrame(() => el.scrollIntoView());
+    }
+    function onHashChange() {
+      scrollToHash();
+      rails.forEach(r => {
+        const s = SOURCES[mod(r.index)];
+        if (s && s.id === 'toc') markTocCurrent(r.fig);
+      });
+    }
+    scrollToHash();
+    window.addEventListener('hashchange', onHashChange);
 
     // Exposed for a future owner control / auto-rotation: retarget every
     // un-pinned, open rail to a random promo source.

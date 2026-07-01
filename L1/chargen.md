@@ -1,4 +1,4 @@
-[Home](index.html) › Characters › Building a Character
+[Home](index.md) › Characters › Building a Character
 
 Characters
 
@@ -11,12 +11,12 @@ Characters
 Level in *Level One* is different from most systems in that it stands alone. Virtually *everything* else is subject to character concept. Your character's Level is the foundation everything else builds on. It represents health, experience, grit, and ability in a single number - but it's not tied to what you do for a living. Level does three crucial things:
 
 - **Durability** - it's literally your health, as we'll see later
-- **Capability** - attempt most things with just Level, though [Roles](roles.html) help your chances
-- **Capacity** - no [Role](roles.html) can exceed your Level, so it defines your growth
+- **Capability** - attempt most things with just Level, though [Roles](roles.md) help your chances
+- **Capacity** - no [Role](roles.md) can exceed your Level, so it defines your growth
 
 ### Concept Drives Everything
 
-Before you spend any [Karma](karma.html), get an idea who the character is, what their *story* is. What drives them? What would they risk their life for? Concept is the framework where every choice must fit. You're translating their life experience into game terms, not cataloging every quirk and skill they possess. The game assumes competent people can handle routine tasks - you only need mechanical representation for things they do well, and things that matter to them and their story, and that create interesting choices.
+Before you spend any [Karma](karma.md), get an idea who the character is, what their *story* is. What drives them? What would they risk their life for? Concept is the framework where every choice must fit. You're translating their life experience into game terms, not cataloging every quirk and skill they possess. The game assumes competent people can handle routine tasks - you only need mechanical representation for things they do well, and things that matter to them and their story, and that create interesting choices.
 
 > **The Power of Good Representation**
 >
@@ -27,5 +27,5 @@ Before you spend any [Karma](karma.html), get an idea who the character is, what
 
 ---
 
-- [← Previous: Spending Karma](spending-karma.html)
-- [Next →: Hooks](hooks.html)
+- [← Previous: Spending Karma](spending-karma.md)
+- [Next →: Hooks](hooks.md)

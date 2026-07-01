@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › The Beyond
+[Home](../index.md) › Magick! › The Beyond
 
 Magick!
 
@@ -21,7 +21,7 @@ The Spirit Realm is where thoughts have weight, where emotions cast shadows, and
 The Spirit Realm doesn't follow physical geography exactly, but it does reflect the spiritual significance of locations. A small village might cast a large spiritual shadow if it's the site of important events, while an entire empty plain could barely register in spiritual space to mortals who don't know how to look.
 
 **Focus Sites**  
-Some places accumulate power. Such Focus Sites generally arise from concentrations of powerful emotion or strong magical conflict. These manifest as chaotic regions where navigation becomes nearly impossible and exposed consciousness suffers constant buffeting. Ancient battlefields, sites of great tragedies, or areas of ongoing magical conflict often generate this sort of persistent sites of power. These can be tapped as *pre-existing [Boosts](../actions-and-timing.html#boost-actions)* as a free action if your intended use aligns with any Aspect on the power.
+Some places accumulate power. Such Focus Sites generally arise from concentrations of powerful emotion or strong magical conflict. These manifest as chaotic regions where navigation becomes nearly impossible and exposed consciousness suffers constant buffeting. Ancient battlefields, sites of great tragedies, or areas of ongoing magical conflict often generate this sort of persistent sites of power. These can be tapped as *pre-existing [Boosts](../actions-and-timing.md#boost-actions)* as a free action if your intended use aligns with any Aspect on the power.
 
 **Anchors** appear as beacons or landmarks in spiritual geography — bright points of connection that make navigation possible and aid certain behaviors. They might manifest as towers of light, distinctive architectural features, or symbolic representations of their purpose. A scrying anchor might appear as a great eye or a crystal, while a teleportation anchor could look like a doorway or crossroads.
 
@@ -72,7 +72,7 @@ Detection and Vulnerability make anchors inherently risky. Any astral entity can
 
 Fortunately, most anchors fade pretty quickly. Maintenance requires occasional spiritual attention to prevent anchors from dissolving or being corrupted by hostile influences. Abandoned anchors might become haunted, attract unwanted spirits, or develop unpredictable properties as they accumulate spiritual "debris" from the surrounding area.
 
-To create a temporary anchor, an arcane practitioner can create a [Wagered](../wagered-actions.html) [Boost](../actions-and-timing.html#boost-actions). Spending a [Luck Token](../luck.html) has the same effect. For a more permanent anchor a character may devote a [Maneuver](../maneuvers.html). This *can* be one spent on a spirit, and does not have to be solely devoted to the purpose of creating the anchor; any [Maneuver](../maneuvers.html) point permanently spent on a spirit *or any other* entity creates a permanent anchor line to that point. As with any [Maneuver](../maneuvers.html), these can be bought with [Karma](../karma.html).
+To create a temporary anchor, an arcane practitioner can create a [Wagered](../wagered-actions.md) [Boost](../actions-and-timing.md#boost-actions). Spending a [Luck Token](../luck.md) has the same effect. For a more permanent anchor a character may devote a [Maneuver](../maneuvers.md). This *can* be one spent on a spirit, and does not have to be solely devoted to the purpose of creating the anchor; any [Maneuver](../maneuvers.md) point permanently spent on a spirit *or any other* entity creates a permanent anchor line to that point. As with any [Maneuver](../maneuvers.md), these can be bought with [Karma](../karma.md).
 
 ## Spiritual Hazards
 
@@ -94,9 +94,9 @@ Teleportation becomes high-speed spiritual travel with real navigational challen
 
 Communication Magic works by projecting messages or aspects of consciousness along established spiritual connections. Sending a message to someone requires either knowing their spiritual signature well enough to navigate to them, having an anchor that maintains connection, or firing a message off like a carrier pigeon that could be intercepted by trained or wild hawks.
 
-Summoning operates by calling out through the Spirit Realm to entities by their [True Name](../magick/conjuring.html). Note that only spirits have [True Names](../magick/conjuring.html). The spirit must still travel through spiritual space to reach you, and their response time depends on their current location in the realm's geography.
+Summoning operates by calling out through the Spirit Realm to entities by their [True Name](../magick/conjuring.md). Note that only spirits have [True Names](../magick/conjuring.md). The spirit must still travel through spiritual space to reach you, and their response time depends on their current location in the realm's geography.
 
 ---
 
-- [← Previous: Spell List](spells.html)
-- [Next →: Safety Tools](../safety.html)
+- [← Previous: Shaping Effects](shaping-effects.md)
+- [Next →: Safety Tools](../safety.md)

@@ -475,3 +475,29 @@ body.rails-resizing { cursor: col-resize; user-select: none; }
 #page-footer p { margin: 0; }
 #page-footer a { color: var(--ink-light); text-decoration: none; }
 #page-footer a:hover { color: var(--accent); }
+
+/* ============================================================
+   SECTION ANCHORS
+   Deep links to in-page subsections land with the heading
+   visible, not tucked under the fixed #site-header. The anchor
+   span sits just above its heading; scroll-margin-top reserves
+   room for the bar (+ a little breathing space).
+   ============================================================ */
+.content-wrap h1,
+.content-wrap h2,
+.content-wrap h3,
+.content-wrap h4 {
+  scroll-margin-top: calc(var(--header-h, 56px) + 1.25rem);
+}
+.section-anchor {
+  display: block;
+  height: 0;
+  visibility: hidden;
+  scroll-margin-top: calc(var(--header-h, 56px) + 1.25rem);
+}
+
+/* Current page/section highlighted in the rail TOC (set by rails.js) */
+.rail-host .toc a.toc-current {
+  color: var(--accent);
+  font-weight: 700;
+}

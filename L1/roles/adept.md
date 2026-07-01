@@ -1,10 +1,10 @@
-[Home](../index.html) › [Roles](../roles.html) › Adept
+[Home](../index.md) › [Roles](../roles.md) › Adept
 
 Roles
 
 # Supernatural Roles
 
-Magic is a significant aspect of most fantasy settings. Some have a single type of magic, some have several, but implementing them is a major part of what defines the world of the game. Remember, these are just [Roles](../roles.html) — what makes them interesting is the narrative you attach! You can pick any one of these as the sole magic of your world, or include several versions of each…or none at all if you prefer. The special mechanics will be discussed later in the section on ***Magick!***
+Magic is a significant aspect of most fantasy settings. Some have a single type of magic, some have several, but implementing them is a major part of what defines the world of the game. Remember, these are just [Roles](../roles.md) — what makes them interesting is the narrative you attach! You can pick any one of these as the sole magic of your world, or include several versions of each…or none at all if you prefer. The special mechanics will be discussed later in the section on ***Magick!***
 
 ## Adept
 
@@ -14,21 +14,21 @@ An Adept doesn't "study" magic, they **are** the magic, manifest in mortal form 
 
 An Adept's Source, their *theme,* isn't merely what they *do* — it's what they *are*. Pyromancers don't just wield flame; they live in terms of consumption, transformation, and brilliant intensity. Aeromancers don't "control" winds, they *breathe* freedom, movement, and the space between things. Their power is their essential nature.
 
-This primal nature usually manifests as a [Hook](../hooks.html). The storm-touched are volatile and impetuous, lycanthropes seethe with barely-contained passions, and Shadow Adepts shun the light. These aren't weaknesses — they're the price and proof of power.
+This primal nature usually manifests as a [Hook](../hooks.md). The storm-touched are volatile and impetuous, lycanthropes seethe with barely-contained passions, and Shadow Adepts shun the light. These aren't weaknesses — they're the price and proof of power.
 
 ### The Intuitive Path
 
 Unlike other supernatural practitioners, Adepts work purely through instinct and emotion. There are no formulae or otherworldly entities. They just *do*. Warriors know more about *how* they swing a sword than Adepts understand the methods of their Arts. This makes them simultaneously the most flexible and the most limited of magical practitioners. An Adept can attempt virtually anything that fits their Source's theme, but they have to build the strength to match the task.
 
-Every Adept has a *Source* — a theme for their magic. If a player wants to take up Adept magic after character creation, they need to justify it, and it should be something related to an existing [Hook](../hooks.html). The theme should be broad enough for varied application but focused enough to create meaningful limitations. "Fire" works well; "energy" is far too broad, and "torches" too narrow.
+Every Adept has a *Source* — a theme for their magic. If a player wants to take up Adept magic after character creation, they need to justify it, and it should be something related to an existing [Hook](../hooks.md). The theme should be broad enough for varied application but focused enough to create meaningful limitations. "Fire" works well; "energy" is far too broad, and "torches" too narrow.
 
 ### The Price of Power
 
 Adept magic carries unique risks. Their power is internal, so pushing too hard can do literal Harm.
 
-An Adept's Power Threshold is their base Level + Adept rank, plus any *directly* relevant Adept [Maneuvers](../maneuvers.html) such as *Endurance*, or a maneuver for the specific action they were attempting. "Isn't that just their EL?" Well, it might be, but that doesn't account for [Role](../roles.html) Synergy, or [Boosts](../actions-and-timing.html#boost-actions), or anything else. If you prefer a simpler or harsher limit, use base Level alone, or even Adept rank.
+An Adept's Power Threshold is their base Level + Adept rank, plus any *directly* relevant Adept [Maneuvers](../maneuvers.md) such as *Endurance*, or a maneuver for the specific action they were attempting. "Isn't that just their EL?" Well, it might be, but that doesn't account for [Role](../roles.md) Synergy, or [Boosts](../actions-and-timing.md#boost-actions), or anything else. If you prefer a simpler or harsher limit, use base Level alone, or even Adept rank.
 
-An Adept who chooses to **Overchannel** still goes through the normal opposition/resistance to get their effect, but must also immediately make a resistance test against the difference between their Threshold and the power they've channeled. Failure means Harm equal to that difference — exhaustion, disorientation, burst blood vessels, or even theme-appropriate side effects like smoking and scorching or a [Hindrance](../types-of-harm.html) on their self-control.
+An Adept who chooses to **Overchannel** still goes through the normal opposition/resistance to get their effect, but must also immediately make a resistance test against the difference between their Threshold and the power they've channeled. Failure means Harm equal to that difference — exhaustion, disorientation, burst blood vessels, or even theme-appropriate side effects like smoking and scorching or a [Hindrance](../types-of-harm.md) on their self-control.
 
 This has nothing to do with how well the effect is resisted by a target once channeled; this is purely a cost of pushing that power through their body and soul. They can always accept a reduced result within their safe limits, discarding any remaining effect.
 
@@ -40,7 +40,7 @@ Adepts commonly organize their magical applications into two major categories, r
 
 **Communion** represents the Adept's ability to perceive and understand manifestations of their Source. A Pyromancer can sense heat sources through walls, or smell the flammability of tinder and fuel with the "hunger" of flames that want to spread. A Glamour Adept reads the desires people try to hide. A Lycanthrope can track and read the emotional state of creatures by scent, and instinctively *feels* the phase of the moon. The GM should frequently *volunteer* relevant information without rolls to represent the character's constant worldview, though rolls are encouraged when a player wants more information than mundane senses offer. These sensory rolls do not trigger Overchanneling; they are generally safe.
 
-**Manifestation** covers the presentation, shaping, and direction of the Adept's power in the physical world. A Stone Adept might crumble walls, harden their skin, or ensure every step finds solid purchase on treacherous terrain. A storm Adept could summon lightning, leap great distances on gusts of moist air, or shroud allies in concealing mist. A beast-touched Adept might manifest claws and fangs, gain supernatural speed and strength, or see in the dark. [Maneuvers](../maneuvers.html) for these form the backbone of most Adepts' obvious magical abilities. *This* is usually what triggers Overchanneling, though the GM can choose to apply it whenever appropriate.
+**Manifestation** covers the presentation, shaping, and direction of the Adept's power in the physical world. A Stone Adept might crumble walls, harden their skin, or ensure every step finds solid purchase on treacherous terrain. A storm Adept could summon lightning, leap great distances on gusts of moist air, or shroud allies in concealing mist. A beast-touched Adept might manifest claws and fangs, gain supernatural speed and strength, or see in the dark. [Maneuvers](../maneuvers.md) for these form the backbone of most Adepts' obvious magical abilities. *This* is usually what triggers Overchanneling, though the GM can choose to apply it whenever appropriate.
 
 Other options are possible —
 
@@ -50,5 +50,5 @@ Other options are possible —
 
 ---
 
-- [← Previous: Tinkers In Action](../action/tinker.html)
-- [Next →: An Adept In Action](../action/adept.html)
+- [← Previous: Tinkers In Action](../action/tinker.md)
+- [Next →: An Adept In Action](../action/adept.md)

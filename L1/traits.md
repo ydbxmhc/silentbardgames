@@ -1,16 +1,16 @@
-[Home](index.html) › Running the Game
+[Home](index.md) › Running the Game
 
 Running the Game
 
 # Traits
 
-Gear, spells, and creatures can have **Traits** — special properties that give them unique capabilities or limitations. Think of them as [Roles](roles.html) or [Maneuvers](maneuvers.html) for non-player stuff, mechanical shortcuts that keep your game flowing without drowning you in lengthy explanations.
+Gear, spells, and creatures can have **Traits** — special properties that give them unique capabilities or limitations.
 
-**[Conceits](hooks-in-play.html)** are unrated Traits — narrative truths that can't be measured but are absolutely true within the game world — they won't have numbers attached, same as for player characters. A demon might be *Immune To Fire* (unrated) rather than *Resistant +3* (rated).
+**[Conceits](hooks-in-play.md)** are unrated Traits — narrative truths that can't be measured but are absolutely true within the game world — they won't have numbers attached, same as for player characters. A demon might be *Immune To Fire* (unrated) rather than *Resistant +3* (rated).
 
 Compatible Traits stack normally. *Resistant +2* and *Protected +1* both apply to the same defensive situation (if at different points) while multiple *Immune* traits simply expand the range of things that cannot affect the target.
 
-Many creatures and items will get a "[Role](roles.html)" that is just whatever they are — "Bear", for example, or "Sylph" for a type of air elemental. They can then get [Maneuvers](maneuvers.html) relevant to that. Special items might get dedicated [Maneuver](maneuvers.html)-like rated bonuses in specific situations, such as *Sharp* for a supernally dangerous edge, or *Flaming* that provides light and ignites fuel in addition to its combat bonus.
+Many creatures and items will get a "[Role](roles.md)" that is just whatever they are — "Bear", for example, or "Sylph" for a type of air elemental. They can then get [Maneuvers](maneuvers.md) relevant to that. Special items might get dedicated [Maneuver](maneuvers.md)-like rated bonuses in specific situations, such as *Sharp* for a supernally dangerous edge, or *Flaming* that provides light and ignites fuel in addition to its combat bonus.
 
 This will cover a *lot*, but some things don't really fit well in that framework, and will use Traits to round out the edges. In a lot of cases, Traits are just a quick way to establish a shorthand for things that happen pretty often so the GM can create quick and concise descriptions that communicate the relevant basics on a sticky note or index card. If he makes a quick writeup for a ghost that is *Stationary* it means it's haunting a spot and won't chase the characters outside that area.
 
@@ -74,8 +74,6 @@ Some things are tougher than expected — others have glaring weaknesses.
 
 Magic often behaves in ways that need mechanical precision.
 
-**Difficult** — Requires a Difficulty Level roll to cast successfully. If casting succeeds, the DL usually becomes points of *Inexorable* effect that bypass normal Resistance. If a spell has DL0 it can be cast without a roll for "nominal" use, but *Difficult* spells or any actual *effect* always requires a roll to resist. *Inexorable* points are taken from the first points of rolled effect, and resistance is applied to any that remain; if fewer points are rolled, those points are all unresistable, but the rest of the *Inexorable* potential is lost.
-
 **Immutable** — the spell has all Traits set when bound, and cannot be cast any other way.
 
 **Vancian** — The spell erases itself from the caster's memory when used, regardless of success or failure. Old school and unforgiving. Some settings automatically apply this to ALL spells; the group may decide for themselves whether or not it still counts as DL reduction. Commonly used with *Immutable*, but not required (unless, again, ALL spells are both.)
@@ -94,5 +92,5 @@ A creature that can't move is just described as *Stationary*. You can treat it a
 
 ---
 
-- [← Previous: Hooks In Play](hooks-in-play.html)
-- [Next →: Magick!](magick.html)
+- [← Previous: Hooks In Play](hooks-in-play.md)
+- [Next →: Magick!](magick.md)

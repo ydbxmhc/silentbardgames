@@ -1,4 +1,4 @@
-[Home](index.html) › Running the Game
+[Home](index.md) › Running the Game
 
 Running the Game
 
@@ -10,13 +10,13 @@ Characters getting "too rich" on the other hand can pose issues. How do you mana
 
 ## Level-Based Wealth Abstraction
 
-Generally, *currencies* are the province of individual settings. If you want to bypass all of that you can just make every purchase of significance a roll. Apply losses as a special [Hindrance](types-of-harm.html) on the character's liquidity; it won't affect them for other rolls, but they lose purchasing power until they address the [Hindrance](types-of-harm.html) in the fiction somehow.
+Generally, *currencies* are the province of individual settings. If you want to bypass all of that you can just make every purchase of significance a roll. Apply losses as a special [Hindrance](types-of-harm.md) on the character's liquidity; it won't affect them for other rolls, but they lose purchasing power until they address the [Hindrance](types-of-harm.md) in the fiction somehow.
 
 This will generally mean making *money* by hiring out for jobs or looting treasure, but could also imply a line of credit, or even just a significant reputation that makes the locals charge lower prices for them. Walking into a saloon and hearing the bartender cheerily quip *Your money's no good here, mate!* while pouring you a tall lager is sometimes as good or better than actual coin.
 
-This implicitly links their purchasing power to their Level, which isn't entirely crazy, but has some side effects that may seem odd. A Level 3 PC with no [Role](roles.html) at all won't have the purchasing power of a same-Level Performer with haggling-relevant [Maneuvers](maneuvers.html), but that's more a matter of the smooth-talker getting more for their money. Level drives everything in Level One. It makes a certain amount of sense that a character with more worldliness and reputation might also have more wealth.
+This implicitly links their purchasing power to their Level, which isn't entirely crazy, but has some side effects that may seem odd. A Level 3 PC with no [Role](roles.md) at all won't have the purchasing power of a same-Level Performer with haggling-relevant [Maneuvers](maneuvers.md), but that's more a matter of the smooth-talker getting more for their money. Level drives everything in Level One. It makes a certain amount of sense that a character with more worldliness and reputation might also have more wealth.
 
-Also, always remember that you shouldn't bother to roll for things that aren't really consequential and interesting. New characters may struggle to afford a beer, but well-established heroes won't quibble over the price of the better wine with their meal. If they have a *Big Spender* [Hook](hooks.html), maybe they find out when it's time to pay that they don't have enough after all!
+Also, always remember that you shouldn't bother to roll for things that aren't really consequential and interesting. New characters may struggle to afford a beer, but well-established heroes won't quibble over the price of the better wine with their meal. If they have a *Big Spender* [Hook](hooks.md), maybe they find out when it's time to pay that they don't have enough after all!
 
 You never *have* to do it this way, though.
 
@@ -36,5 +36,5 @@ There should be things you *don't* "just buy" because money alone isn't enough. 
 
 ---
 
-- [← Previous: Pacing](pacing.html)
-- [Next →: Hooks In Play](hooks-in-play.html)
+- [← Previous: Pacing](pacing.md)
+- [Next →: Hooks In Play](hooks-in-play.md)

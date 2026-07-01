@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › [Naturalist](../roles/naturalist.html) › A Naturalist In Action
+[Home](../index.md) › [Roles](../roles.md) › [Naturalist](../roles/naturalist.md) › A Naturalist In Action
 
 Outdoorsman Roles
 
@@ -7,16 +7,16 @@ Outdoorsman Roles
 *Kestrel shepherds a mountain crossing using unconstrained dice.*
 
 > Kestrel is Level 2, Naturalist 2 with *Mountain Guide 2* and *Weather Sense 2*.
-> Note that she has paid [Karma](../karma.html) to improve both her [Maneuvers](../maneuvers.html).
+> Note that she has paid [Karma](../karma.md) to improve both her [Maneuvers](../maneuvers.md).
 
 Leading a merchant caravan through a treacherous mountain pass in late autumn, Kestrel faces the challenge of getting people and pack animals across before winter snows make the route impassable. The weather has been deteriorating, and the merchants are pushing for speed over safety. She assesses the sky for cloud patterns, wind direction, and other signs; a major storm system is moving in, but it won't hit till roughly sunset tomorrow. There's enough time to reach the sheltering caves at Eagle's Rest, but only if they move efficiently.
 
-> With Level 2 + *Weather Sense 2* = EL6: Rolling 3d[0-2] for (2,1,2) a 5.
+> With Level 2 + Naturalist 2 + *Weather Sense 2* = EL6: Rolling 3d[0-2] for (2,1,2) a 5.
 > The GM rolls 1d6 for the weather and gets a 4 — Kestrel's expertise wins by a point.
 
 The merchants want to push the heavily loaded pack animals up the steepest section during daylight, but Kestrel recognizes this as a mistake. She needs to convince the lead merchant to follow her plan. She's not much of a talker, but takes a moment to identify and demonstrate specific dangers, and shows loose scree patterns indicating recent rockfall, wind-carved formations revealing dangerous gusts, and animal tracks that reveal safer alternate paths. The evidence is compelling — he's convinced to follow her plan, but tells her he may change his mind.
 
-> She rolls Level 2 + Naturalist 2 + *Mountain Guide 2* = EL6 (3d[0-2] again) getting (2,1,1) for a 4 against the mountain's passive resistance of 1d4 for a 2. Success by 2 — she creates a *Compelling Evidence 2* [Boost](../actions-and-timing.html#boost-actions) with it.
+> She rolls Level 2 + Naturalist 2 + *Mountain Guide 2* = EL6 (3d[0-2] again) getting (2,1,1) for a 4 against the mountain's passive resistance of 1d4 for a 2. Success by 2 — she creates a *Compelling Evidence 2* [Boost](../actions-and-timing.md#boost-actions) with it.
 >
 > The merchant is Level 3 + Performer 2 = EL5. This is social persuasion, so Kestrel uses Level 2 + Performer 0 + *Compelling Evidence 2* = EL4. She rolls 2d[0-2] (2,1) for a 3 against his Level 3 (1d[0-3]) + Performer 2 (1d[0-2]) = EL5 roll of (2,0) for a 2.
 
@@ -37,5 +37,5 @@ Professional wilderness expertise — it's the difference between making it home
 
 ---
 
-- [← Previous: Common Naturalist Maneuvers](../roles/naturalist-maneuvers.html)
-- [Next →: Beast Handler](../roles/beast-handler.html)
+- [← Previous: Common Naturalist Maneuvers](../roles/naturalist-maneuvers.md)
+- [Next →: Beast Handler](../roles/beast-handler.md)

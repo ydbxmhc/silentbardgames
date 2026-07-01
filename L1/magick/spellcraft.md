@@ -1,4 +1,4 @@
-[Home](../index.html) › Magick! › Spellcraft
+[Home](../index.md) › Magick! › Spellcraft
 
 Magick!
 
@@ -6,7 +6,7 @@ Magick!
 
 ## Spellcraft: Academic Preparation and Formulaic Power
 
-Spells are the core of Spellweaver magic. Each spell is a complicated ritual the caster must learn as a [Maneuver](../maneuvers.html) which requires long minutes of uninterrupted concentration, chanting, a secret sign language and special reagents. Most require diagrams in chalk or salt, incense, ceremonial robes, rare and/or expensive materials, etc. Without these things the ritual will be at a significant difficulty modifier, or maybe just impossible.
+Spells are the core of Spellweaver magic. Each spell is a complicated ritual the caster must learn as a [Maneuver](../maneuvers.md) which requires long minutes of uninterrupted concentration, chanting, a secret sign language and special reagents. Most require diagrams in chalk or salt, incense, ceremonial robes, rare and/or expensive materials, etc. Without these things the ritual will be at a significant difficulty modifier, or maybe just impossible.
 
 What? Useless, you say? Not at all! Perhaps it would be, if you had to do all this every time you wanted to *use* the spell, but of course you do not! These elaborate rituals allow the Spellweaver to gather and bind power to be released later. Once a spell is so bound, the caster can *release* it at a moment's notice with no more than a focused thought and the smallest gesture, but doing so unbinds the gathered power and removes it from availability. Releasing a spell this way is blindingly fast, but limited; it has *only* the power bound into it, and doesn't get a new roll to improve it, though the target likely still gets their roll to resist. Still useless, you think?
 
@@ -18,11 +18,11 @@ In the simplest case, the mage *can* simply cast a spell by performing the long 
 
 **Binding Spells**
 
-To do this, the ritual of casting dedicates *at least* one rank of their Spellweaver [Role](../roles.html). Ranks bound this way are no longer available for other uses; they apply when casting this spell, or when *counterspelling* this spell or any effect the GM rules sufficiently similar. This sets an absolute maximum number of spells the character can bind.
+To do this, the ritual of casting dedicates *at least* one rank of their Spellweaver [Role](../roles.md). Ranks bound this way are no longer available for other uses; they apply when casting this spell, or when *counterspelling* this spell or any effect the GM rules sufficiently similar. This sets an absolute maximum number of spells the character can bind.
 
-Simple, common spells are generally DL0. The ritual of binding for the spell creates *potential* effect, but unless they immediately release it they must decide how many points of the generated effect they want bound. If they have extra [Maneuver](../maneuvers.html) ranks in the spell, they can choose to bind those as well, but at least one actual [Role](../roles.html) rank must always be included, and either a [Role](../roles.html) or [Maneuver](../maneuvers.html) rank for every point of effect they choose to keep.
+Simple, common spells are generally DL0. The ritual of binding for the spell creates *potential* effect, but unless they immediately release it they must decide how many points of the generated effect they want bound. If they have extra [Maneuver](../maneuvers.md) ranks in the spell, they can choose to bind those as well, but at least one actual [Role](../roles.md) rank must always be included, and either a [Role](../roles.md) or [Maneuver](../maneuvers.md) rank for every point of effect they choose to keep.
 
-All points bound into a spell are always available for the casting or countering of that spell, but now they are unavailable for anything else. This is no loss for [Maneuver](../maneuvers.html) ranks, but unbound [Role](../roles.html) ranks can always be used when casting or countering *any* spell, so it reduces the mage's flexibility. The only reason to bind more than one [Role](../roles.html) rank into a spell is for more effective fast-casting.
+All points bound into a spell are always available for the casting or countering of that spell, but now they are unavailable for anything else. This is no loss for [Maneuver](../maneuvers.md) ranks, but unbound [Role](../roles.md) ranks can always be used when casting or countering *any* spell, so it reduces the mage's flexibility. The only reason to bind more than one [Role](../roles.md) rank into a spell is for more effective fast-casting.
 
 #### Three Ways To Cast Spells
 
@@ -38,23 +38,23 @@ This is "fast-casting". The energy stored in the spell is unwound and directed a
 
 There are two major downsides to this, however. The first is that you can't add any skill that wasn't already bound into it. You already rolled when the spell was bound, and any unbound effect bled away, wasted. The other is that when a spell is *released* the energy is spent, so it is no longer bound. It removes the spell from your repertoire until you can rebind it.
 
-If this is the *only* way to cast a spell, bind some with more effect, even at the cost of a wider selection. As an alchemist, this is a great way to implement potions, but if you were planning to sell them you should remember that you have ranks of your [Role](../roles.html) in those bottles…
+If this is the *only* way to cast a spell, bind some with more effect, even at the cost of a wider selection. As an alchemist, this is a great way to implement potions, but if you were planning to sell them you should remember that you have ranks of your [Role](../roles.md) in those bottles…
 
 **Recasting**
 
-Once a spell is bound the mage can channel energy *through* it in an attempt to replicate its effect in real time. This means she spends a turn and makes a roll, just as if she were performing any other task. All unbound [Role](../roles.html) ranks apply, as do any bound in the spell, and all of the [Maneuver](../maneuvers.html) ranks for it, bound or not. If the spell is successfully cloned this way all bound ranks are preserved, and the spell can be recast again and again until the roll fails. Going over or rolling a zero always destabilizes the spell, and it is lost until it can be rebound. The good news is that any [Role](../roles.html) ranks bound in it become available for other spells.
+Once a spell is bound the mage can channel energy *through* it in an attempt to replicate its effect in real time. This means she spends a turn and makes a roll, just as if she were performing any other task. All unbound [Role](../roles.md) ranks apply, as do any bound in the spell, and all of the [Maneuver](../maneuvers.md) ranks for it, bound or not. If the spell is successfully cloned this way all bound ranks are preserved, and the spell can be recast again and again until the roll fails. Going over or rolling a zero always destabilizes the spell, and it is lost until it can be rebound. The good news is that any [Role](../roles.md) ranks bound in it become available for other spells.
 
 Recasting this way is fast enough to do in a fight, but it isn't a free action. The character must be able to gesture broadly, and strongly invoke key words of power. If that attracts unwanted attention, it's the cost of keeping your spell bound.
 
 ### Counterspells
 
-A master of spellcraft understands the workings and underpinnings of magic in ways few other practitioners do, and is able to disrupt hostile spells and other magics at the source — unbound spellcraft and relevant [Maneuver](../maneuvers.html) ranks always apply, as do any bound to spells that are directly relevant. This is a direct opposition roll to suppress the targeted effect, or can be a free action resistance roll if it doesn't help anyone else.
+A master of spellcraft understands the workings and underpinnings of magic in ways few other practitioners do, and is able to disrupt hostile spells and other magics at the source — unbound spellcraft and relevant [Maneuver](../maneuvers.md) ranks always apply, as do any bound to spells that are directly relevant. This is a direct opposition roll to suppress the targeted effect, or can be a free action resistance roll if it doesn't help anyone else.
 
-The GM may tighten or broaden the applicability of spells to tune the game; if any fire spell allows countering any fire effect, such as the attacks of a fire elemental, the Spellweaver will be considerably more powerful; if the Firebolt spell only counts against another Firebolt spell, he will still be able to use his base level. He could use a [Maneuver](../maneuvers.html) to learn the ability to apply certain spells more broadly: *Fire Counter* is a perfectly valid [Maneuver](../maneuvers.html).
+The GM may tighten or broaden the applicability of spells to tune the game; if any fire spell allows countering any fire effect, such as the attacks of a fire elemental, the Spellweaver will be considerably more powerful; if the Firebolt spell only counts against another Firebolt spell, he will still be able to use his base level. He could use a [Maneuver](../maneuvers.md) to learn the ability to apply certain spells more broadly: *Fire Counter* is a perfectly valid [Maneuver](../maneuvers.md).
 
 ### So what IS a "Spell"?
 
-We could say it's just a [Maneuver](../maneuvers.html), or a mechanic, but how is that putting story first?
+We could say it's just a [Maneuver](../maneuvers.md), or a mechanic, but how is that putting story first?
 
 A spell is a very complicated and particular skill that Spellweavers learn. Until you learn to do it for yourself, you'll never really understand it; that's no different from calculus, or alchemy, or a good riposte. You start by following the formula, and eventually you start to get it.
 
@@ -74,7 +74,7 @@ In practice, spells work just like anything else. A Warrior's damage is determin
 
 The trick is that spells can theoretically do *anything*, so you'll have to learn to think of them in terms of numbers rolled on dice. For some spells that's easy. POOF, *FireBolt*! You grit your teeth and squeeze your eyes shut, you interpose a shield, and you roll to see how much of the effect you managed to ameliorate. For some it takes a little more thinking. What if someone devises a spell to "charm" someone? Are they suddenly mind controlled? How does that work? When designing spells, always keep one eye on implementation details. Story first, but for spells, mechanics are a close second.
 
-The good news is that the mechanics are usually not hard at all once you get the hang of it. The vast flexibility is counterbalanced by the binding mechanic that makes [Role](../roles.html) ranks unavailable to *other* tasks. This is intentional.
+The good news is that the mechanics are usually not hard at all once you get the hang of it. The vast flexibility is counterbalanced by the binding mechanic that makes [Role](../roles.md) ranks unavailable to *other* tasks. This is intentional.
 
 #### Spell Design
 
@@ -82,15 +82,15 @@ The most important element of a spell is its **Manifestation**. What does it do?
 
 **Damage Spells**
 
-Most harmful spells work like Sniper attacks, with manifestation determining how they can be resisted. A *Flame Lance* creates a physical thrust of piercing, burning force — targets can dodge or block, and armor applies normally, as would any heat resistance. *Balefire* assaults the spirit directly; it can ONLY affect supernatural targets, though that does include other *active* wielders of magic… *Mind Spike* strikes the psyche, and victims can only roll base Level plus supernatural [Role](../roles.html) ranks for resistance, but it inflicts explicit [Complication](../types-of-harm.html) damage by default rather than true [Injury](../types-of-harm.html). *Tanglebones* applies a [Hindrance](../types-of-harm.html) rather than actual damage, but slows victims to the point of paralysis if the unresisted effect is enough!
+Most harmful spells work like Sniper attacks, with manifestation determining how they can be resisted. A *Flame Lance* creates a physical thrust of piercing, burning force — targets can dodge or block, and armor applies normally, as would any heat resistance. *Balefire* assaults the spirit directly; it can ONLY affect supernatural targets, though that does include other *active* wielders of magic… *Mind Spike* strikes the psyche, and victims can only roll base Level plus supernatural [Role](../roles.md) ranks for resistance, but it inflicts explicit [Complication](../types-of-harm.md) damage by default rather than true [Injury](../types-of-harm.md). *Tanglebones* applies a [Hindrance](../types-of-harm.md) rather than actual damage, but slows victims to the point of paralysis if the unresisted effect is enough!
 
 **Defensive Spells**
 
-These typically create [Boosts](../actions-and-timing.html#boost-actions) for resisting specific types of defense, and are often fast-cast. A *Gale Shield* might save you from incoming arrows, applied to your free action resistance roll. *Flicker* offers effective if indirect defense by teleporting you away from danger entirely.
+These typically create [Boosts](../actions-and-timing.md#boost-actions) for resisting specific types of defense, and are often fast-cast. A *Gale Shield* might save you from incoming arrows, applied to your free action resistance roll. *Flicker* offers effective if indirect defense by teleporting you away from danger entirely.
 
 **Enhancement Spells**
 
-Many spells function as [Boosts](../actions-and-timing.html#boost-actions) for specific activities. *Might* grants supernatural strength; *Fleet Foot* makes you swift as a coursing hare. *Wind Steed* grants flight.
+Many spells function as [Boosts](../actions-and-timing.md#boost-actions) for specific activities. *Might* grants supernatural strength; *Fleet Foot* makes you swift as a coursing hare. *Wind Steed* grants flight.
 
 **Utility Spells**
 
@@ -98,5 +98,5 @@ Environmental and convenience magic can solve problems mundane skills cannot. *L
 
 ---
 
-- [← Previous: Adept Magic](adepts.html)
-- [Next →: Conjuring](conjuring.html)
+- [← Previous: Adept Magic](adepts.md)
+- [Next →: Conjuring](conjuring.md)

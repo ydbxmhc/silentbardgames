@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Loremaster
+[Home](../index.md) › [Roles](../roles.md) › Loremaster
 
 Knowledge and Craft Roles
 
@@ -16,7 +16,7 @@ Information becomes wisdom only when properly connected and applied. Loremasters
 
 ## Information and Investigation
 
-**Research and Recall:** Use Loremaster for identifying historical precedents, cultural significance, legendary items, or obscure references. The base [Role](../roles.html) represents broad general knowledge, while [Maneuvers](../maneuvers.html) provide deep expertise in specific areas.
+**Research and Recall:** Use Loremaster for identifying historical precedents, cultural significance, legendary items, or obscure references. The base [Role](../roles.md) represents broad general knowledge, while [Maneuvers](../maneuvers.md) provide deep expertise in specific areas.
 
 **Pattern Recognition:** Loremasters excel at connecting disparate information to reveal hidden relationships — tracking down the source of a problem through seemingly unrelated clues, or predicting consequences based on historical parallels.
 
@@ -55,5 +55,5 @@ Different Loremasters focus their scholarly attention in various ways. They cert
 
 ---
 
-- [← Previous: A Healer In Action](../action/healer.html)
-- [Next →: A Loremaster In Action](../action/loremaster.html)
+- [← Previous: A Healer In Action](../action/healer.md)
+- [Next →: A Loremaster In Action](../action/loremaster.md)

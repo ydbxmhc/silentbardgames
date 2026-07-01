@@ -10,7 +10,7 @@
 
 [This is a Game?](start.md) [The Core Loop](core-loop.md) [Quick Start](quickstart.md)
 
-[Core Mechanics](core-mechanics.md) [Dice & Tests](mechanics.md) [Resistance & Opposition](resistance-and-opposition.md) [Can I Try Again?](can-i-try-again.md) [Accumulated Progress](accumulated-progress.md) [Actions & Timing](actions-and-timing.md) [Resistance](resistance.md) [Multiple Actions](multiple-actions.md) [Wagered Actions](wagered-actions.md) [Luck Tokens](luck.md) [Picking Your Dice](dice.md) [Extreme Results](extreme-results.md) [Harm and Recovery](harm.md) [Three Types of Harm - and One More](types-of-harm.md) [Feeling Down?](feeling-down.md) [Recovery](recovery.md) [The Oddball Rule](oddball-rule.md) [The Messy Reality](messy-reality.md) [So…What Do I Roll?](what-do-i-roll.md) [Advanced Options](advanced-options.md) [Gear](gear.md) [What Gear Does](what-gear-does.md) [Armor](armor.md) [Weapons](weapons.md) [Other Gear](other-gear.md) [Gear Traits](gear-traits.md) [The Assist Rule](assist-rule.md) [How Characters Improve](karma.md) [Spending Karma](spending-karma.md)
+[Core Mechanics](core-mechanics.md) [Dice & Tests](mechanics.md) [Resistance & Opposition](resistance-and-opposition.md) [Can I Try Again?](can-i-try-again.md) [Accumulated Progress](accumulated-progress.md) [Actions & Timing](actions-and-timing.md) [Resistance](resistance.md) [Multiple Actions](multiple-actions.md) [Wagered Actions](wagered-actions.md) [Resolving Combat](resolving-combat.md) [Luck Tokens](luck.md) [Picking Your Dice](dice.md) [Extreme Results](extreme-results.md) [Harm and Recovery](harm.md) [Three Types of Harm - and One More](types-of-harm.md) [Feeling Down?](feeling-down.md) [Recovery](recovery.md) [The Oddball Rule](oddball-rule.md) [The Messy Reality](messy-reality.md) [So…What Do I Roll?](what-do-i-roll.md) [Advanced Options](advanced-options.md) [The Kamikaze Blitz](kamikaze-blitz.md) [Gear](gear.md) [What Gear Does](what-gear-does.md) [Armor](armor.md) [Weapons](weapons.md) [Reach](weapons.md#reach) [Other Gear](other-gear.md) [Gear Traits](gear-traits.md) [The Assist Rule](assist-rule.md) [How Characters Improve](karma.md) [Spending Karma](spending-karma.md)
 
 **Characters**
 
@@ -42,7 +42,7 @@
 
 [Special Rules](gm-rules.md) [Pacing](pacing.md) [Wealth Management](wealth.md) [Hooks In Play](hooks-in-play.md) [Traits](traits.md)
 
-[Magick!](magick.md) [Overview](magick.md) [Adept Magic](magick/adepts.md) [Spellcraft](magick/spellcraft.md) [Conjuring](magick/conjuring.md) [Spell List](magick/spells.md) [The Beyond](magick/beyond.md)
+[Magick!](magick.md) [Overview](magick.md) [Adept Magic](magick/adepts.md) [Spellcraft](magick/spellcraft.md) [Conjuring](magick/conjuring.md) [Spell List](magick/spells.md) [Shaping Effects](magick/shaping-effects.md) [The Beyond](magick/beyond.md)
 
 **Appendices**
 

@@ -1,4 +1,4 @@
-[Home](../index.html) › [Roles](../roles.html) › Tinker
+[Home](../index.md) › [Roles](../roles.md) › Tinker
 
 Knowledge and Craft Roles
 
@@ -18,7 +18,7 @@ Tinkers rarely solve problems through brute force — instead, they apply levera
 
 **Problem-Solving Applications:** Beyond basic craftsmanship, Tinkers apply their technical knowledge to overcome obstacles — picking locks, disarming traps, jury-rigging solutions from available materials, or sabotaging enemy equipment.
 
-**Specialized Knowledge:** Each area of expertise requires dedicated study. A Tinker might understand general metalworking principles, but creating Damascus steel or precision clockwork requires specific [Maneuver](../maneuvers.html) investments.
+**Specialized Knowledge:** Each area of expertise requires dedicated study. A Tinker might understand general metalworking principles, but creating Damascus steel or precision clockwork requires specific [Maneuver](../maneuvers.md) investments.
 
 ## Common Tinker Maneuvers
 
@@ -45,7 +45,7 @@ Tinkers rarely solve problems through brute force — instead, they apply levera
 
 ## Advanced Applications
 
-**Synergy with Other [Roles](../roles.html):** Tinkers often complement other abilities — a Spellweaver might use Tinker [Maneuvers](../maneuvers.html) to create scrolls, potions, or magical implements, while a Warrior might craft superior weapons or armor through dedicated smithing expertise.
+**Synergy with Other [Roles](../roles.md):** Tinkers often complement other abilities — a Spellweaver might use Tinker [Maneuvers](../maneuvers.md) to create scrolls, potions, or magical implements, while a Warrior might craft superior weapons or armor through dedicated smithing expertise.
 
 **Resource Management:** Tinker work requires materials, tools, and appropriate workspace. Success often depends as much on preparation and resource gathering as on technical skill during the crucial moment.
 
@@ -53,5 +53,5 @@ Tinkers rarely solve problems through brute force — instead, they apply levera
 
 ---
 
-- [← Previous: A Loremaster In Action](../action/loremaster.html)
-- [Next →: Tinkers In Action](../action/tinker.html)
+- [← Previous: A Loremaster In Action](../action/loremaster.md)
+- [Next →: Tinkers In Action](../action/tinker.md)
