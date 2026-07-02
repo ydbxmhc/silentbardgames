@@ -48,6 +48,34 @@
       margin: 0;
       max-width: 380px;
     }
+    .home-enter {
+      display: inline-block;
+      padding: 0.75rem 2.5rem;
+      background: var(--accent);
+      color: var(--bg);
+      text-decoration: none;
+      font-family: var(--font-display);
+      font-style: italic;
+      font-size: 1.1rem;
+      letter-spacing: 0.04em;
+      border: 2px solid var(--accent);
+      transition: background var(--transition), color var(--transition);
+    }
+    .home-enter:hover {
+      background: transparent;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .home-links {
+      display: flex;
+      gap: 1.5rem;
+      font-size: var(--size-small);
+      color: var(--ink-light);
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .home-links a { color: var(--ink-light); text-decoration: none; }
+    .home-links a:hover { color: var(--accent); }
     hr.home-rule { width: 4rem; border: none; border-top: 1px solid var(--rule); margin: 0; }
     .home-byline { font-size: 0.75rem; color: var(--ink-light); font-style: italic; margin: 0; }
   </style>
@@ -68,8 +96,16 @@
 
       <hr class="home-rule">
 
-      <!-- TODO: replace with the real tagline. -->
-      <p class="home-tagline">Coming soon.</p>
+      <p class="home-tagline">The Quaerant's Oracle - solo, GM-free play.</p>
+
+      <a href="start.html" class="home-enter">Open the Oracle</a>
+
+      <div class="home-links">
+        <a href="toc.html">Table of Contents</a>
+        <a href="the-cards.html">The Cards</a>
+        <a href="cards.html">The Deck</a>
+        <a href="lexicon.html">The Lexicon</a>
+      </div>
 
       <hr class="home-rule">
       <p class="home-byline">&copy; The Silent Bard</p>
