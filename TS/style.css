@@ -25,6 +25,7 @@
   --accent-light: #c4621a;
   --gold:         #b8860b;
   --rule:         #c8a96e;
+  --suit-red:     #a4161a;
 
   --font-body:    Georgia, 'Times New Roman', serif;
   --font-display: Georgia, 'Times New Roman', serif;
@@ -130,6 +131,7 @@ html[data-theme="dark"] {
   --accent-light: #e8843a;
   --gold:         #c8a020;
   --rule:         #4a3520;
+  --suit-red:     #e5555f;
 }
 /* Close button flips: dark bg would vanish on dark drawer, so use ink (light cream) */
 html[data-theme="dark"] .drawer-close-btn {
@@ -151,6 +153,7 @@ html[data-theme="high-contrast"] {
   --accent-light: #aa0000;
   --gold:         #7a5500;
   --rule:         #888888;
+  --suit-red:     #c00000;
 }
 
 /* ============================================================
@@ -167,6 +170,7 @@ html[data-theme="plain"] {
   --accent-light: #555555;
   --gold:         #555555;
   --rule:         #cccccc;
+  --suit-red:     #8a2222;
   --font-body:    system-ui, -apple-system, sans-serif;
   --font-display: system-ui, -apple-system, sans-serif;
 }
@@ -401,6 +405,12 @@ p.epigraph {
 .rail-loading { padding: 2rem 1rem; text-align: center; color: var(--ink-light); font-style: italic; }
 .rail-error { padding: 1rem; font-size: var(--size-small); color: var(--ink-mid); border: 1px dashed var(--rule); }
 
+/* Current page/section highlighted in the rail TOC (set by rails.js) */
+.rail-host .toc a.toc-current {
+  color: var(--accent);
+  font-weight: 700;
+}
+
 /* Promo mini-page */
 .rail .promo { padding: 1rem 0.9rem; text-align: center; }
 .rail .promo .kicker { font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-light); }
@@ -622,12 +632,20 @@ h1::after {
 .ts-content h2::after { display: none; }
 
 /* ============================================================
-   CONTENT TABLES - monospace so columns/codes line up
+   CONTENT TABLES - framed cells, left-aligned headers.
+   The borders carry the structure, so there's no need for a
+   monospace font to line columns up; the body font reads better.
    ============================================================ */
-.ts-content table { font-family: var(--font-mono); font-size: 0.9em; }
+.ts-content table {
+  border-collapse: collapse;
+  font-size: 0.95em;
+  margin: 1.5rem 0;
+}
 .ts-content table th,
 .ts-content table td {
-  padding: 0.25rem 1.3rem 0.25rem 0;
+  border: 1px solid var(--rule);
+  padding: 0.45rem 0.9rem;
+  text-align: left;
   vertical-align: top;
 }
 
@@ -653,3 +671,119 @@ h1::after {
 .card-keywords { font-size: var(--size-small); color: var(--ink-mid); margin: 0 0 1rem; }
 .draft-note { font-size: var(--size-small); color: var(--ink-light); font-style: italic;
   border-left: 2px solid var(--rule); padding-left: 0.7rem; margin: 0 0 1rem; }
+
+/* ============================================================
+   SUIT GLYPHS - site-wide
+   Red  = Hearts & Diamonds (Yes).  Black = Clubs & Spades (No).
+   Keep the real entity in the HTML (&hearts; &diams; &clubs;
+   &spades;) and wrap it in <span class="suit red|black"> so the
+   glyph stays copy-paste- and screen-reader-friendly, while the
+   colour follows the active theme.
+   ============================================================ */
+.suit        { font-family: var(--font-body); font-style: normal; font-weight: normal; line-height: 1; }
+.suit.red    { color: var(--suit-red); }
+.suit.black  { color: var(--ink); }
+
+/* ============================================================
+   NOTATION SECTION (the-cards.html)
+   ============================================================ */
+
+/* Graphical suit key - four tiles across, wrapping on narrow screens. */
+.suit-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.75rem 0 2.25rem;
+}
+.suit-key-item {
+  flex: 1 1 8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 1.1rem 0.5rem 0.9rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--bg-dark);
+  box-shadow: var(--shadow-sm);
+}
+.suit-key-glyph { font-size: 2.8rem; }
+.suit-key-name  { font-family: var(--font-display); font-size: 1.05rem; letter-spacing: 0.01em; }
+.suit-key-code  {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  color: var(--ink-light);
+}
+
+/* Notation reference table - framed cells, left-aligned throughout.
+   Scoped through .ts-content so these win over the generic
+   ".ts-content table th/td" padding + vertical-align rules. */
+.ts-content table.notation-table {
+  border-collapse: collapse;
+  width: auto;
+  margin: 1.5rem 0;
+}
+.ts-content table.notation-table th,
+.ts-content table.notation-table td {
+  border: 1px solid var(--rule);
+  padding: 0.55rem 1.1rem;
+  text-align: left;
+  vertical-align: middle;
+  line-height: 1.6;
+}
+.ts-content table.notation-table thead th {
+  background: var(--bg-dark);
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+.ts-content table.notation-table th[scope="row"] {
+  white-space: nowrap;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  background: rgba(200,169,110,0.06);
+}
+.ts-content table.notation-table .suit { font-size: 1.15rem; }
+
+/* Card tokens - little chips for example notations. */
+.notation-examples { margin-top: 1.25rem; }
+.card-token {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-weight: bold;
+  font-size: 0.95rem;
+  padding: 0.2rem 0.55rem;
+  margin: 0.15rem 0.2rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--bg-dark);
+  white-space: nowrap;
+}
+.card-token .suit { font-size: 1.05em; margin-left: 0.1em; }
+
+/* Footnote reference superscripts. */
+.fn-ref a { text-decoration: none; }
+
+/* Keyboard keys (used in footnotes for Alt-codes etc.). */
+kbd {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  padding: 0.05rem 0.4rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--bg-dark);
+  box-shadow: 0 1px 0 var(--rule);
+  white-space: nowrap;
+}
+
+/* ============================================================
+   SECTION ANCHORS
+   Deep links to in-page subsections land with the heading
+   visible, not tucked under the fixed #site-header.
+   ============================================================ */
+.content-wrap h1,
+.content-wrap h2,
+.content-wrap h3,
+.content-wrap h4 {
+  scroll-margin-top: calc(var(--header-h, 56px) + 1.25rem);
+}

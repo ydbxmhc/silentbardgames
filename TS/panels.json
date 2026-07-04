@@ -1,0 +1,25 @@
+{
+  "defaults": { "left": "toc", "right": "random" },
+  "art": [
+    "Raven_and_Toad-BW.jpg",
+    "cards/ah.png", "cards/ad.png", "cards/ac.png", "cards/as.png",
+    "cards/2h.png", "cards/2d.png", "cards/2c.png", "cards/2s.png",
+    "cards/3h.png", "cards/3d.png", "cards/3c.png", "cards/3s.png",
+    "cards/4h.png", "cards/4d.png", "cards/4c.png", "cards/4s.png",
+    "cards/5h.png", "cards/5d.png", "cards/5c.png", "cards/5s.png",
+    "cards/6h.png", "cards/6d.png", "cards/6c.png", "cards/6s.png",
+    "cards/7h.png", "cards/7d.png", "cards/7c.png", "cards/7s.png",
+    "cards/8h.png", "cards/8d.png", "cards/8c.png", "cards/8s.png",
+    "cards/9h.png", "cards/9d.png", "cards/9c.png", "cards/9s.png",
+    "cards/10h.png", "cards/10d.png", "cards/10c.png", "cards/10s.png",
+    "cards/jh.png", "cards/jd.png", "cards/jc.png", "cards/js.png",
+    "cards/qh.png", "cards/qd.png", "cards/qc.png", "cards/qs.png",
+    "cards/kh.png", "cards/kd.png", "cards/kc.png", "cards/ks.png",
+    "cards/Xr.png", "cards/Xb.png"
+  ],
+  "sources": [
+    { "id": "toc",      "label": "Table of Contents", "kind": "fragment", "src": "toc.html",      "extract": "ul.toc",          "rewrite": true },
+    { "id": "settings", "label": "Display Settings",  "kind": "fragment", "src": "settings.html", "extract": ".settings-group", "wire": "settings" },
+    { "id": "random",   "label": "Art",               "kind": "random",                                    "promo": true }
+  ]
+}

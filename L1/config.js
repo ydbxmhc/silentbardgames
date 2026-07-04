@@ -94,5 +94,10 @@ const L1Prefs = {
 
 }; // end L1Prefs
 
+/* Hand the prefs object + storage prefix to shared scripts (e.g. rails.js) so
+   they stay game-agnostic instead of hardcoding L1Prefs / the "l1-" prefix. */
+SiteConfig.PREFS = L1Prefs;
+SiteConfig.PREFS_PREFIX = 'l1-';
+
 /* Apply preferences as early as possible to minimise flash. */
 L1Prefs.applyAll();

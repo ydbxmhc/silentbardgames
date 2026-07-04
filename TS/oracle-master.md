@@ -832,6 +832,18 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 ## @@TODO - TESSERAE SORTIS SUBSITE
 
+**Major page revisions**
+- **`resolution.html` - make it self-contained (does NOT depend on L1).** The page
+  currently talks about Level One mechanics - Hooks, Luck Tokens, EL, Level,
+  Maneuvers, the Simple Pool, Extra Effort - as if the reader already knows them.
+  It must *provide* these mechanics instead of leaning on L1:
+  - Explain **Hooks** from scratch: what they are, how rank works, how they apply in oracle play.
+  - Explain **Tokens** from scratch: both Luck Tokens and the standalone Token Resolution system.
+  - Reframe around the oracle's **own internal systems** (the draw, suit texture, the Vote,
+    diceless comparison, token combat) as the primary resolution path; treat dice/pool as one option.
+  - Keep L1 as an *optional bridge* (a callout for L1 players), never a prerequisite. A reader
+    who has never seen Level One should be able to run resolution entirely from this page.
+
 **Editing & tone (whole subsite)**
 - Working initialization copy; the whole text needs **multiple editing / revision passes** before publication.
 - **Sensitivity watch** - catch and smooth subtle insensitivities without breaking the basic traditional feel of the rules.
@@ -845,6 +857,7 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 - **Consecutive card rule**: Formalize completely. Currently described as principle only.
 - **Lexicon revision pass**: Every card needs at least two valid interpretations supportable from the name alone without explanation.
+  - **Inversion principle (adopted):** upright vs inverted must differ by *emphasis*, not volume. Upright, the qualifier ("and"/"but") is a **seed** - a hook planted while the result carries the scene. Inverted, the qualifier is **the point** - it takes over and becomes the situation played from next. Test each card: does the inverted reading foreground the other clause, or just turn up the dial? If it only intensifies, it's not done. `8d.html` (Remedy's Addiction) is the worked exemplar; the lexicon inversion note states the rule player-side. Apply across all 54 in the thorough pass.
 - **Three card spreads**: Consider naming each variant formally (The Timeline, The Situation, The Action).
 - **Additional spreads**: Four and five card options under consideration. Nothing more complex than the Tower likely within scope.
 - **Tarot variant rules**: Full alternate version for players with a Tarot deck. Different day, separate section. Key differences: 14 cards per suit (Page added), 22 Major Arcana, reversals naturally available.

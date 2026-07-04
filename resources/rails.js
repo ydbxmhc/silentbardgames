@@ -15,14 +15,21 @@
   const BASE = (typeof SiteConfig !== 'undefined' && SiteConfig.BASE_PATH) || '/';
   const CDN  = (typeof SiteConfig !== 'undefined' && SiteConfig.CDN_BASE)  || '';
 
+  // Prefs object + localStorage prefix are supplied per-game by config.js
+  // (SiteConfig.PREFS / SiteConfig.PREFS_PREFIX). Fall back to L1's values so
+  // this shared file keeps working even if a config predates that handoff.
+  const PREFS = (typeof SiteConfig !== 'undefined' && SiteConfig.PREFS) ||
+                (typeof L1Prefs !== 'undefined' ? L1Prefs : null);
+  const PX = (typeof SiteConfig !== 'undefined' && SiteConfig.PREFS_PREFIX) || 'l1-';
+
   const main = document.getElementById('main');
   if (!main) return;
   const content = main.querySelector('.content-wrap');
   if (!content) return;
 
-  // Global on/off + single-panel side come from L1Prefs (the Settings page).
-  const pref = (k, d) => (typeof L1Prefs !== 'undefined' && L1Prefs.get(k) != null)
-    ? L1Prefs.get(k) : (localStorage.getItem('l1-' + k) || d);
+  // Global on/off + single-panel side come from the game's prefs (Settings page).
+  const pref = (k, d) => (PREFS && PREFS.get(k) != null)
+    ? PREFS.get(k) : (localStorage.getItem(PX + k) || d);
   if (pref('rails', 'on') === 'off') return;
 
   let SOURCES = [], ART = [], DEFAULTS = { left: null, right: null };
@@ -43,14 +50,14 @@
   /* ---- per-rail persistence ---- */
   function loadState(side, fallbackId) {
     try {
-      const s = JSON.parse(localStorage.getItem('l1-rail-' + side));
+      const s = JSON.parse(localStorage.getItem(PX + 'rail-' + side));
       if (s && s.id) return s;
     } catch (e) { /* ignore malformed */ }
     return { id: fallbackId, pinned: false, open: true };
   }
   function saveState(rail) {
     const s = SOURCES[mod(rail.index)];
-    localStorage.setItem('l1-rail-' + rail.side, JSON.stringify({
+    localStorage.setItem(PX + 'rail-' + rail.side, JSON.stringify({
       id: s ? s.id : null, pinned: rail.pinned, open: rail.open,
     }));
   }
@@ -70,24 +77,24 @@
     return nodes.map(n => n.outerHTML).join('');
   }
 
-  /* ---- bind injected Settings controls to the real L1Prefs (parity + persist) ---- */
+  /* ---- bind injected Settings controls to the real prefs (parity + persist) ---- */
   function wireSettings(scope) {
-    if (typeof L1Prefs === 'undefined') return;
+    if (!PREFS) return;
     scope.querySelectorAll('input[name="theme"]').forEach(r => {
-      r.checked = (r.value === L1Prefs.get('theme'));
-      r.addEventListener('change', () => { if (r.checked) L1Prefs.set('theme', r.value); });
+      r.checked = (r.value === PREFS.get('theme'));
+      r.addEventListener('change', () => { if (r.checked) PREFS.set('theme', r.value); });
     });
     scope.querySelectorAll('input[name="fontsize"]').forEach(r => {
-      r.checked = (r.value === L1Prefs.get('fontsize'));
-      r.addEventListener('change', () => { if (r.checked) L1Prefs.set('fontsize', r.value); });
+      r.checked = (r.value === PREFS.get('fontsize'));
+      r.addEventListener('change', () => { if (r.checked) PREFS.set('fontsize', r.value); });
     });
     scope.querySelectorAll('input[name="railside"]').forEach(r => {
-      r.checked = (r.value === L1Prefs.get('railside'));
-      r.addEventListener('change', () => { if (r.checked) L1Prefs.set('railside', r.value); });
+      r.checked = (r.value === PREFS.get('railside'));
+      r.addEventListener('change', () => { if (r.checked) PREFS.set('railside', r.value); });
     });
     scope.querySelectorAll('input[name="railmode"]').forEach(r => {
-      r.checked = (r.value === L1Prefs.get('railmode'));
-      r.addEventListener('change', () => { if (r.checked) L1Prefs.set('railmode', r.value); });
+      r.checked = (r.value === PREFS.get('railmode'));
+      r.addEventListener('change', () => { if (r.checked) PREFS.set('railmode', r.value); });
     });
     scope.querySelectorAll('.settings-group').forEach(g => {
       const head = (g.querySelector('h2') || {}).textContent || '';
@@ -97,8 +104,8 @@
                 : /navigation/i.test(head) ? 'navbg'
                 : /side panel/i.test(head) ? 'rails' : null;
       if (!key) return;
-      cb.checked = (L1Prefs.get(key) === 'on');
-      cb.addEventListener('change', () => L1Prefs.set(key, cb.checked ? 'on' : 'off'));
+      cb.checked = (PREFS.get(key) === 'on');
+      cb.addEventListener('change', () => PREFS.set(key, cb.checked ? 'on' : 'off'));
     });
   }
 
@@ -251,12 +258,12 @@
       const cs = getComputedStyle(layout);
       if (mode === 'symmetric') {
         const v = parseInt(cs.getPropertyValue('--content-w'), 10);
-        if (v) localStorage.setItem('l1-content-width', v);
+        if (v) localStorage.setItem(PX + 'content-width', v);
       } else {
         const l = parseInt(cs.getPropertyValue('--rail-left-w'), 10);
         const r = parseInt(cs.getPropertyValue('--rail-right-w'), 10);
-        if (l) localStorage.setItem('l1-rail-left-width', l);
-        if (r) localStorage.setItem('l1-rail-right-width', r);
+        if (l) localStorage.setItem(PX + 'rail-left-width', l);
+        if (r) localStorage.setItem(PX + 'rail-right-width', r);
       }
     }
 
@@ -283,13 +290,13 @@
       const mode = root.getAttribute('data-railmode') || 'symmetric';
       if (mode === 'symmetric') {
         layout.style.removeProperty('--content-w');
-        localStorage.removeItem('l1-content-width');
+        localStorage.removeItem(PX + 'content-width');
       } else if (side === 'left') {
         layout.style.removeProperty('--rail-left-w');
-        localStorage.removeItem('l1-rail-left-width');
+        localStorage.removeItem(PX + 'rail-left-width');
       } else {
         layout.style.removeProperty('--rail-right-w');
-        localStorage.removeItem('l1-rail-right-width');
+        localStorage.removeItem(PX + 'rail-right-width');
       }
       reposition();
     }
@@ -312,11 +319,11 @@
     layout.setAttribute('data-side', pref('railside', 'left'));
 
     // Apply any saved drag-resized widths (each resize mode keeps its own).
-    const savedCW = localStorage.getItem('l1-content-width');
+    const savedCW = localStorage.getItem(PX + 'content-width');
     if (savedCW) layout.style.setProperty('--content-w', savedCW + 'px');
-    const savedLW = localStorage.getItem('l1-rail-left-width');
+    const savedLW = localStorage.getItem(PX + 'rail-left-width');
     if (savedLW) layout.style.setProperty('--rail-left-w', savedLW + 'px');
-    const savedRW = localStorage.getItem('l1-rail-right-width');
+    const savedRW = localStorage.getItem(PX + 'rail-right-width');
     if (savedRW) layout.style.setProperty('--rail-right-w', savedRW + 'px');
 
     content.parentNode.insertBefore(layout, content);

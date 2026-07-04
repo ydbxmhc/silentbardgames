@@ -92,5 +92,10 @@ const TSPrefs = {
 
 }; // end TSPrefs
 
+/* Hand the prefs object + storage prefix to shared scripts (e.g. rails.js) so
+   they stay game-agnostic instead of hardcoding a single game's prefs. */
+SiteConfig.PREFS = TSPrefs;
+SiteConfig.PREFS_PREFIX = 'ts-';
+
 /* Apply preferences as early as possible to minimise flash. */
 TSPrefs.applyAll();

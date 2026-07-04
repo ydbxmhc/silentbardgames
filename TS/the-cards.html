@@ -25,35 +25,77 @@
       </header>
 
 <h2>NOTATION</h2>
-<table>
+<p>Every card is written as a short shard of notation - a rank, a suit, and, when color is all that matters, just <em>r</em> or <em>b</em>. Learn the shorthand once and the rest of the site reads at a glance.</p>
+
+<div class="suit-key" role="presentation">
+  <div class="suit-key-item">
+    <span class="suit red suit-key-glyph">&hearts;</span>
+    <span class="suit-key-name">Hearts</span>
+    <span class="suit-key-code">H</span>
+  </div>
+  <div class="suit-key-item">
+    <span class="suit red suit-key-glyph">&diams;</span>
+    <span class="suit-key-name">Diamonds</span>
+    <span class="suit-key-code">D</span>
+  </div>
+  <div class="suit-key-item">
+    <span class="suit black suit-key-glyph">&clubs;</span>
+    <span class="suit-key-name">Clubs</span>
+    <span class="suit-key-code">C</span>
+  </div>
+  <div class="suit-key-item">
+    <span class="suit black suit-key-glyph">&spades;</span>
+    <span class="suit-key-name">Spades</span>
+    <span class="suit-key-code">S</span>
+  </div>
+</div>
+
+<table class="notation-table">
 <thead>
 <tr>
 <th>Element</th>
-<th>Notation</th>
+<th>Written as</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Ranks</td>
-<td>A, 2-9, 0, J, Q, K</td>
+<th scope="row">Ranks</th>
+<td>A &middot; 2-9 &middot; 0 &middot; J &middot; Q &middot; K</td>
 </tr>
 <tr>
-<td>Suits</td>
-<td>H, D, C, S</td>
+<th scope="row">Suits</th>
+<td><span class="suit red">&hearts;</span>&nbsp;H &nbsp;&nbsp; <span class="suit red">&diams;</span>&nbsp;D &nbsp;&nbsp; <span class="suit black">&clubs;</span>&nbsp;C &nbsp;&nbsp; <span class="suit black">&spades;</span>&nbsp;S</td>
 </tr>
 <tr>
-<td>Color only</td>
-<td><em>r (red), </em>b (black)</td>
+<th scope="row">Color only</th>
+<td><em>r</em> (red) &middot; <em>b</em> (black)</td>
 </tr>
 <tr>
-<td>Jokers</td>
-<td>Xr (colored/red), Xb (black &amp; white)</td>
+<th scope="row">Jokers</th>
+<td>Xr (colored / red) &middot; Xb (black &amp; white)</td>
 </tr>
 </tbody>
 </table>
-<p>Tens are written as <strong>0</strong> (single character, eliminates the only two-digit label, allows zero as a value).
-Aces are <strong>low</strong> (value = 1) throughout.</p>
-<p><strong>Examples</strong>: AH, 0C, QS, 7D, Xr, Xb</p>
+<p>Tens are written as <strong>0</strong> - a single character that removes the only two-digit label and lets zero stand as a value. Aces are <strong>low</strong> (value = 1) throughout.</p>
+<p class="notation-examples"><strong>Examples</strong>&nbsp;&nbsp;
+  <span class="card-token">A<span class="suit red">&hearts;</span></span>
+  <span class="card-token">0<span class="suit black">&clubs;</span></span>
+  <span class="card-token">Q<span class="suit black">&spades;</span></span>
+  <span class="card-token">7<span class="suit red">&diams;</span></span>
+  <span class="card-token">Xr</span>
+  <span class="card-token">Xb</span>
+</p>
+
+<div class="box highlight">
+  <span class="box-title">Symbols or letters - your call</span>
+  <p>Throughout this site the suit symbols
+  <span class="suit red">&hearts;</span> <span class="suit red">&diams;</span>
+  <span class="suit black">&clubs;</span> <span class="suit black">&spades;</span>
+  are used for the look of the thing. When you are jotting notes or typing at speed and
+  the symbols aren't handy, the single letters are the easy equivalent -
+  <span class="card-token">A<span class="suit red">&hearts;</span></span> and
+  <code>AH</code> mean exactly the same card.</p>
+</div>
 <hr />
 <h2>THE CARDS</h2>
 <h3>Color: Direction</h3>
@@ -87,22 +129,22 @@ Aces are <strong>low</strong> (value = 1) throughout.</p>
 </thead>
 <tbody>
 <tr>
-<td><strong>H</strong>earts</td>
+<td><span class="suit red">&hearts;</span>&nbsp;<strong>H</strong>earts</td>
 <td>Yes, <em>and</em> - an additional beneficial result or lead</td>
 <td>Social - romance, reputation, contacts, art, gifts, influence</td>
 </tr>
 <tr>
-<td><strong>D</strong>iamonds</td>
+<td><span class="suit red">&diams;</span>&nbsp;<strong>D</strong>iamonds</td>
 <td>Yes, <em>but</em> - an unwanted side effect accompanies success</td>
 <td>Commercial - trade, cost, worth, value, municipal action</td>
 </tr>
 <tr>
-<td><strong>C</strong>lubs</td>
+<td><span class="suit black">&clubs;</span>&nbsp;<strong>C</strong>lubs</td>
 <td>No, <em>and</em> - failure triggers an unwanted side effect</td>
 <td>Conflict - fighting, soldiers, guards, raiders, coercion</td>
 </tr>
 <tr>
-<td><strong>S</strong>pades</td>
+<td><span class="suit black">&spades;</span>&nbsp;<strong>S</strong>pades</td>
 <td>No, <em>but</em> - failure yields progress toward the goal</td>
 <td>Labor - tradesfolk, tools, mechanisms, guilds, farming, mines, caravans</td>
 </tr>
@@ -210,7 +252,7 @@ When it doesn't, simply read color and suit and move on.</p>
 </tbody>
 </table>
 <p>Either Joker suspends the normal interpretive range. Go bigger. Go stranger. Go unexpected. The non-Joker cards in the same draw offer thematic guidance for the direction of the weirdness.</p>
-<p>Drawing both Jokers in a single pull (with one other card for guidance) is rare enough (~0.2%) to feel significant. When it happens, pay attention. The story just shifted under your feet.</p>
+<p>Drawing both Jokers in a single pull (with one other card for guidance) is rare enough (less than half a percent) to feel significant. When it happens, pay attention. The story just shifted under your feet.</p>
 <hr />
 
       <nav class="page-nav" aria-label="Page navigation">
