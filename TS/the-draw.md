@@ -1,4 +1,4 @@
-[Home](index.md) › The Draw
+[Home](index.html) › The Draw
 
 Play
 
@@ -25,6 +25,8 @@ The player controls how much the oracle can do with any given draw.
 **Narrow question → narrow answer.** *"Does the market have a better sword I can buy?"* - Valid, but limits the oracle to answering exactly that. The cards get conscripted into a yes/no inventory check.
 
 **Open prompt → open scene.** *"I need a better sword - I head to the market."* - Lets the cards build an event rather than answer a question. The result will often surprise you.
+
+That's Mira, and you'll see her again. Every card's page closes with a look at how the card plays out for her, at the bazaar, buying a sword - a fixed, ordinary situation for testing a reading against a scene that isn't its most obvious fit.
 
 The most open and freeform application isn't a question at all. It's a prompt: *"I do this. What happens?"*
 
@@ -96,5 +98,4 @@ No redraw. No replacement. Keep playing.
 
 ---
 
-- [← Previous: The Cards](the-cards.md)
-- [Next →: Resolution Mechanics](resolution.md)
+- [← Previous](the-cards.html)

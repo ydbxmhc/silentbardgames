@@ -167,6 +167,8 @@ The player controls how much the oracle can do with any given draw.
 **Open prompt → open scene.**
 *"I need a better sword - I head to the market."* - Lets the cards build an event rather than answer a question. The result will often surprise you.
 
+That's Mira, and you'll see her again. Every card's page closes with a look at how the card plays out for her, at the bazaar, buying a sword - a fixed, ordinary situation for testing a reading against a scene that isn't its most obvious fit.
+
 The most open and freeform application isn't a question at all. It's a prompt: *"I do this. What happens?"*
 
 Neither approach is wrong. Narrow questions are useful when you need a specific answer. Open prompts are useful when you want the story to go somewhere you didn't expect. Find your own comfort level and vary your aperture as the story demands.

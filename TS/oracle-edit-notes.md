@@ -369,3 +369,201 @@ Inverted / In Play. Putative drafts written for AH, AD, 4S, AC (one per
 texture) - marked "working draft, pending author review." Remaining ~50 carry
 a placeholder that states the inversion options. Awaiting author OK on the
 model + sample voice before drafting the rest in batches.
+
+---
+
+## N8 - Per-card page structure: strip notation footer, rename "Inverted"
+**Status: PROPOSED** · raised 2026-07-05 · **affects `TS/cards/<code>.html`
+template (54 pages) + the master lexicon's "Upright"/"Inverted" headings**
+
+Raised alongside the new `TS/voice-style-guide.md` (prose style, separate
+document) - this note covers *structure and naming*, not prose.
+
+**Observation 1 - the notation footer is mostly noise.** Current per-card
+page footer (e.g. `2h.html`):
+```
+Notation2H DirectionYes - Red SuitHearts - Social (Yes, and) Rank & RoleTwo - Sniper
+```
+Of six data points, four (Direction, the Suit's Yes/and gloss) are already
+stated elsewhere on the page. Only the **notation** (2H) and the **Role**
+(Sniper) carry information the reader doesn't already have.
+
+**Proposal:** cut the footer block. Fold notation + Role into a compact
+header at the top of the page instead:
+
+> **2H (Sniper)**: clean intelligence, the fuller picture, a watcher's gift
+>
+> *[secondary-reading term - see Observation 2]*: knowing too much, a
+> source exposed
+
+Note the primary reading carries no label here - it's the default, and only
+the secondary reading gets named. **Open sub-question:** does that same
+logic extend to the full "### Upright" section heading further down the
+page - i.e., should the primary reading go unlabeled there too, with only
+the secondary section keeping a heading? This touches all 54 page
+templates, so it's flagged for discussion rather than assumed.
+
+**Observation 2 - "Inverted" doesn't fit the mechanic.** Standard playing
+cards have no reversed orientation the way Tarot cards do; "Inverted"
+borrows a term for an axis this deck doesn't have. The actual mechanic (the
+Consecutive Card Rule) lays the second card *sideways*, triggering a
+reading where the qualifier takes over (per N7's inversion model) - not a
+flip of the card itself.
+
+**Candidate replacement terms (none adopted yet):**
+- **Sideways** - literal match to the physical mechanic (the card *is* laid
+  sideways). Plain, unambiguous, no borrowed jargon.
+- **Slant / Slanted** - double duty: the physical angle *and* "a slant on
+  the story" (a shifted, biased take) - matches what the reading actually
+  does to the qualifier.
+- **Crossed** - echoes language already in the master: the Tower spread's
+  Obstacle card is "laid sideways across the Goal... treated as inverted."
+  Adopting "Crossed" would let the Consecutive Card Rule and the Tower's
+  Obstacle position share one vocabulary instead of two.
+- **Tilted / Askew** - plain physical description, evocative of "things
+  gone a bit off," no borrowed-game baggage.
+
+**Ruled out:** *Modified* (too generic to do any work), *Complicated* (too
+long for a running heading), *Tapped* (that's MTG's card-state vocabulary -
+wrong game space).
+
+**Action when resolved:** this becomes a single coordinated find-and-replace
+across the master's "Inverted" headings + all 54 per-card page templates -
+a renaming and restructuring pass, not per-card judgment calls. Nothing
+about what any card *means* changes.
+
+### DECIDED - 2026-07-05
+
+- **Term: "Crossed."** Chosen over Sideways/Slant/Tilted. Author's
+  rationale: it carries "star-crossed" and "struck off a list" connotations
+  on top of the physical match to the Consecutive Card Rule (second card
+  laid sideways, across) and the existing Tower spread language (Obstacle
+  "laid sideways across" the Goal). One word, three reasons.
+- **"Upright" is cut, not renamed.** The primary reading needs no label at
+  all - it's simply the card, unmarked and default. Only the exception (the
+  Crossed reading) gets a heading. General rule adopted for the page
+  templates: **use structure to carry meaning instead of a label, wherever
+  the label isn't adding information** - the page-structure equivalent of
+  the prose guide's "does this earn its place" test.
+
+**Resulting page skeleton (per-card page, PILOTED on 2H - see below):**
+1. Card name + art (unchanged)
+2. Compact header - notation + Role + primary keyword phrase, replacing
+   both the old "Keywords" line and the footer's Notation block:
+   > **2H (Sniper)** - clean intelligence, the fuller picture, a watcher's gift
+3. Primary reading prose - unlabeled, runs directly under the header. No
+   "Upright" heading, no keyword-line restated below it.
+4. ***In play:*** its own line, directly under the primary reading.
+5. **Crossed - not a heading after all.** First draft used an `<h3>Crossed</h3>`;
+   author asked for something more subtle. Landed on an inline bold-italic
+   label folded into the lead line instead of a structural heading:
+   > *__Crossed__ - Knowing too much, a source exposed.*
+   No h3 tag on the page at all for this card. (`.card-reading-block h3`
+   CSS rule left in place for any other page still mid-transition.)
+6. Crossed reading prose.
+7. *In play:* for the Crossed reading, same as step 4.
+8. Prev/Next nav (unchanged)
+
+**In Play labels - RESOLVED:** each example now sits directly under its own
+reading's prose with its own *In play:* preface (colon, not period),
+instead of being grouped in one shared "In Play" section at the bottom. No
+"Upright."/"Crossed." labels needed on the examples themselves - which
+section they're in already says which reading they illustrate.
+
+**CSS/template audit - RESOLVED, no conflict found.** No `.upright` or
+`.inverted` classes exist anywhere in `TS/style.css` - confirmed by grep
+before editing. Added one new class, `.in-play` (small, matches the
+existing `.card-keywords` treatment), plus one sibling-selector rule
+(`.in-play + .card-lead`) to restore the section-break spacing that the
+removed `<h3>` used to provide.
+
+**Pilot status: BUILT.** `TS/cards/2h.html` (+ regenerated `2h.md` via
+`tools/html2md.py`) now reflects this skeleton. Awaiting author review
+before batching the remaining 53. No card wording changed in the pilot -
+structure only, per the voice-style-guide's separate, not-yet-run pass.
+
+---
+
+## N9 - "Mira in the Market": a standing second example on every card
+**Status: PROPOSED (pilot built on 2H)** · raised 2026-07-05 · **affects
+every per-card page template (54) + `the-draw.html`/`oracle-master.md`'s
+Aperture Principle section + possibly other index pages**
+
+**The problem:** each card's In Play example is written to its single best
+fit (2H's Sera-the-lookout example is the Sniper's own scene - surveillance,
+literally). That's correct and should stay. But a drawn card usually
+*isn't* its own best-fit scene - most draws land somewhere less obvious.
+Readers need a second data point showing a card working outside its home
+turf.
+
+**The fix (author's proposal):** one fixed, deliberately ordinary situation,
+reused identically on every card, with both readings played out against it.
+Author's chosen scenario, verbatim, reused as-is everywhere it appears:
+> Mira, in need of a new sword, decides to peruse the bazaar.
+
+**Where it comes from:** this isn't a new invention - it promotes the
+example already sitting in `the-draw.html` / the master's Aperture
+Principle section (*"I need a better sword - I head to the market"*) from
+an anonymous prompt into a named, recurring touchstone.
+
+**Page structure (added to the N8 skeleton, after the Crossed block) -
+REVISED, recap line cut:**
+```html
+<h3>Mira in the Market</h3>
+<p>[primary-reading vignette, unlabeled]</p>
+<p><em><strong>Crossed</strong> - [Crossed-reading vignette]</em></p>
+```
+- Real `<h3>` heading here (unlike Crossed) - this is a recognizable running
+  feature, not a redundant label, so it earns the structural marker.
+- **No recap sentence.** First draft added a `.mira-note` line restating the
+  premise ("Mira, in need of a new sword...") under the heading on every
+  page. Author cut it: the premise is introduced once (Aperture Principle,
+  `the-draw.html`), and the heading recurring identically across 54 pages
+  does the reminding on its own - even a reader who never saw the intro
+  will piece it together from repetition. Minimalism wins; `.mira-note`
+  CSS rule removed.
+- No "In play:" preface needed here - the whole section is the example, so
+  labeling it as such would be exactly the kind of restatement the
+  voice-style-guide argues against.
+
+**Pilot drafted on 2H (author review needed - this is new example prose,
+not yet approved except where noted):**
+> The bladesmith doesn't just sell her a blade. He's watched this market
+> for years, and mentions, unasked, which steel holds an edge and who else
+> has been buying swords lately. She leaves with more than she came for.
+>
+> *__Crossed__ - The smith knows who else came asking this week, and says
+> so too freely. She may not notice the hooded man who overhears with a
+> frown, then pushes his way through the crowd to report who else heard
+> it.* **(author's text, applied as-is)**
+
+Note on the Crossed revision: first draft made the exposure the smith's
+problem ("less useful for him"). Author's correction - the Crossed reading
+has to expose something for *Mira*, since she's the one the whole section
+is about. The fix keeps the same mechanism (loose-lipped smith) but moves
+the consequence onto her: she's now a marked woman without knowing it.
+
+**Lead-page explanation:** proposing an addition (not a replacement) right
+after the existing "Open prompt → open scene" example in both
+`the-draw.html` and `oracle-master.md`'s Aperture Principle section, since
+that's literally where the market/sword scenario already lives:
+> That's Mira, and you'll see her again. Every card's page closes with a
+> look at how the card plays out for her, at the bazaar, buying a sword - a
+> fixed, ordinary situation for testing a reading against a scene that
+> isn't its most obvious fit.
+
+**Open - "a few other relevant spots":** author asked for mentions beyond
+the lead page but didn't name them. Candidates to confirm:
+- `lexicon.html` - one line in the intro, priming readers before they click
+  into any individual card page.
+- `examples.html` - the existing Calder/Session-One play examples page;
+  a pointer distinguishing Mira (fixed comparison scenario) from Calder
+  (illustrative session narrative) might help readers not conflate them.
+- Note found in passing: `lexicon.html`'s "On inversion" callout box still
+  uses "inverted" throughout - out of scope for N9, but it's a second place
+  (beyond the 54 card pages) that N8's rename needs to reach eventually.
+
+**Action when confirmed:** implement the lead-page paragraph + whichever
+other spots are confirmed, then batch "Mira in the Market" across the
+remaining 53 cards alongside the N8 structural rollout - same pass, since
+both touch every page.

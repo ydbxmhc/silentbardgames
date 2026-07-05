@@ -1,4 +1,4 @@
-[Home](index.md) › Resolution Mechanics
+[Home](index.html) › Resolution Mechanics
 
 Play
 
@@ -109,5 +109,5 @@ If the deck runs long enough without a reshuffle that no pip cards remain availa
 
 ---
 
-- [← Previous: The Draw](the-draw.md)
-- [Next →: Card Spreads](spreads.md)
+- [← Previous: The Draw](the-draw.html)
+- [Next →](spreads.html)

@@ -1,4 +1,4 @@
-[Home](index.md) › The Cards
+[Home](index.html) › The Cards
 
 The Cards
 
@@ -6,11 +6,25 @@ The Cards
 
 ## NOTATION
 
-Element Notation Ranks A, 2-9, 0, J, Q, K Suits H, D, C, S Color only *r (red), *b (black) Jokers Xr (colored/red), Xb (black & white)
+Every card is written as a short shard of notation - a rank, a suit, and, when color is all that matters, just *r* or *b*. Learn the shorthand once and the rest of the site reads at a glance.
 
-Tens are written as **0** (single character, eliminates the only two-digit label, allows zero as a value). Aces are **low** (value = 1) throughout.
+♥ Hearts H
 
-**Examples**: AH, 0C, QS, 7D, Xr, Xb
+♦ Diamonds D
+
+♣ Clubs C
+
+♠ Spades S
+
+Element Written as Ranks A · 2-9 · 0 · J · Q · K Suits ♥ H ♦ D ♣ C ♠ S Color only *r* (red) · *b* (black) Jokers Xr (colored / red) · Xb (black & white)
+
+Tens are written as **0** - a single character that removes the only two-digit label and lets zero stand as a value. Aces are **low** (value = 1) throughout.
+
+**Examples** A♥ 0♣ Q♠ 7♦ Xr Xb
+
+> **Symbols or letters - your call**
+>
+> Throughout this site the suit symbols ♥ ♦ ♣ ♠ are used for the look of the thing. When you are jotting notes or typing at speed and the symbols aren't handy, the single letters are the easy equivalent - A♥ and `AH` mean exactly the same card.
 
 ---
 
@@ -24,7 +38,7 @@ Color Meaning Red Yes Black No
 
 ### Suit: Narrative Texture & Thematic Domain
 
-Suit Texture Domain **H**earts Yes, *and* - an additional beneficial result or lead Social - romance, reputation, contacts, art, gifts, influence **D**iamonds Yes, *but* - an unwanted side effect accompanies success Commercial - trade, cost, worth, value, municipal action **C**lubs No, *and* - failure triggers an unwanted side effect Conflict - fighting, soldiers, guards, raiders, coercion **S**pades No, *but* - failure yields progress toward the goal Labor - tradesfolk, tools, mechanisms, guilds, farming, mines, caravans
+Suit Texture Domain ♥ **H**earts Yes, *and* - an additional beneficial result or lead Social - romance, reputation, contacts, art, gifts, influence ♦ **D**iamonds Yes, *but* - an unwanted side effect accompanies success Commercial - trade, cost, worth, value, municipal action ♣ **C**lubs No, *and* - failure triggers an unwanted side effect Conflict - fighting, soldiers, guards, raiders, coercion ♠ **S**pades No, *but* - failure yields progress toward the goal Labor - tradesfolk, tools, mechanisms, guilds, farming, mines, caravans
 
 *Design note: We chose visually intuitive suit associations (a club is a weapon, a spade is a digging tool) over traditional cartomancy mappings. Players already comfortable with traditional or Tarot associations should feel free to use those instead - the system works either way.*
 
@@ -44,11 +58,11 @@ Card Meaning **Xr** Chaos with potential - weird, wonderful, disruptive; possibl
 
 Either Joker suspends the normal interpretive range. Go bigger. Go stranger. Go unexpected. The non-Joker cards in the same draw offer thematic guidance for the direction of the weirdness.
 
-Drawing both Jokers in a single pull (with one other card for guidance) is rare enough (~0.2%) to feel significant. When it happens, pay attention. The story just shifted under your feet.
+Drawing both Jokers in a single pull (with one other card for guidance) is rare enough (less than half a percent) to feel significant. When it happens, pay attention. The story just shifted under your feet.
 
 ---
 
 ---
 
-- [← Previous: Design Principles](start.md)
-- [Next →: The Draw](the-draw.md)
+- [← Previous: Design Principles](start.html)
+- [Next →: The Draw](the-draw.html)
