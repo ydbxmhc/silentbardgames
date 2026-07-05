@@ -1,4 +1,4 @@
-[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Queen of Spades
+[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Queen of Spades
 
 The Deck
 
@@ -10,25 +10,27 @@ The Deck
 
 No, but - Labor
 
-**Keywords** - *Upright:* a bad deal honored, one thing salvaged, less than you wanted · *Inverted:* the terms turn your way, a grudging deal that overpays
+**Keywords** - *Upright:* hard terms honored, one thing carried out · *Inverted:* the letter cutting your way, a bad deal overpaying
 
 ### Upright
 
-Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody would have chosen. And yet the Harpy held up her end. You got something out of this. Perhaps more than you expected, if less than you wanted.
+*Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody would have chosen. And yet the Harpy held up her end. You got something out of this. Perhaps more than you expected, if less than you wanted.*
+
+The bargain was bad and you knew it going in - terms set by someone who could afford your refusal, company you would not have chosen, a price with spite folded into it. And it was kept, to the letter, the way such creatures keep things. Out of the wreck you carry exactly one thing worth having. Less than you needed. More than nothing. That was always the shape of this deal.
 
 ### Inverted
 
-The bargain was wretched, but its letter cuts for you this once - the spiteful terms you swallowed yield more than the giver meant, and you walk off with the better end of a deal you'd dreaded.
+Read again, the letter of the bargain is on your side. The precise wording that was meant to cage you covers more than its maker intended - the promise made in malice binds her to a kindness, and she is bound. Do not gloat; creatures of the letter have long memories. But collect, in full, while the wording holds.
 
 ### In Play
 
-*Upright.* Vell trades the witch her mother's ring for passage and gets exactly the passage, nothing more.
+*Upright.* For passage through the marsh, Vell trades the witch her mother's ring - and gets passage: cold, wordless, exactly to the far bank and not a step of guidance more.
 
-*Inverted.* The witch keeps 'safe passage' to the letter, and Vell crosses untouched, carrying off the one thing the marsh-cult could not afford to lose.
+*Inverted.* Safe passage for you and yours, the witch swore - and Vell's pursuers, wading in behind her under that indifferent gaze, discover the marsh does not consider them covered.
 
 NotationQS DirectionNo - Black SuitSpades - Labor (No, but) Rank & RoleQueen - Conjuror
 
 ---
 
-- [← Previous: Queen of Diamonds](/TS/cards/qd.md)
-- [Next →: Queen of Clubs](/TS/cards/qc.md)
+- [← Previous: Queen of Diamonds](/TS/cards/qd.html)
+- [Next →: Queen of Clubs](/TS/cards/qc.html)

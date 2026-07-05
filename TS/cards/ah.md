@@ -1,4 +1,4 @@
-[Home](/TS/index.md) › [The Deck](/TS/cards.md) › Ace of Hearts
+[Home](/TS/index.html) › [The Deck](/TS/cards.html) › Ace of Hearts
 
 The Deck
 
@@ -10,24 +10,26 @@ The Deck
 
 Yes, and - Social
 
-**Keywords** - *Upright:* triumph, acclaim, a prize atop the win · *Inverted:* fame's weight, a rival minted, the cost of being seen
+**Keywords** - *Upright:* triumph witnessed, acclaim, a door opened by the win · *Inverted:* glory's target, expectation, a rival made
 
 ### Upright
 
-The fighter's triumph spills over into celebration. The crowd is cheering and something beyond victory arrives with it.
+*The fighter's triumph spills over into celebration. The crowd is cheering and something beyond victory arrives with it.*
+
+The victory would have been enough, and then the room made it more. Someone was watching who matters; word of this will travel ahead of you and arrive before you do. Whatever the fight was about, what follows is about the winning of it: an offer, an ally, a name spoken warmly in places you have not yet been. Accept what the moment brings, and notice who is bringing it.
 
 ### Inverted
 
-The win holds, but the acclaim is more than you can carry - glory paints a target on you, sets a standard you now have to keep meeting, or makes an enemy of whoever you eclipsed.
+The win stands, but its glow falls where you would not have aimed it. Acclaim draws eyes, and not all of them kind: a standard set that you must now live up to, a rival who measures himself against you from this day forward, a patron whose interest is not comfortable. Nothing has gone wrong yet. That is what the discomfort is telling you.
 
 ### In Play
 
-*Upright.* Aldric takes the duel and the watching captain offers him a commission on the spot.
+*Upright.* Aldric wins the sword-ring at the fair, and the garrison captain who watched the final bout offers him a paid place on the spot.
 
-*Inverted.* Aldric takes the duel, and the dead man's three brothers were in the crowd.
+*Inverted.* Aldric wins the sword-ring - and the man he beat is the sheriff's son, who has all winter and his father's writ to make the town small for him.
 
 NotationAH DirectionYes - Red SuitHearts - Social (Yes, and) Rank & RoleAce - Warrior
 
 ---
 
-- [Next →: Ace of Diamonds](/TS/cards/ad.md)
+- [Next →: Ace of Diamonds](/TS/cards/ad.html)

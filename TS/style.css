@@ -787,3 +787,6 @@ kbd {
 .content-wrap h4 {
   scroll-margin-top: calc(var(--header-h, 56px) + 1.25rem);
 }
+
+/* Card detail - author's canonical reading as italic lead */
+.card-reading-block .card-lead { color: var(--ink-mid); }

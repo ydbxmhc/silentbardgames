@@ -1,4 +1,4 @@
-[Home](/TS/index.md) › [The Deck](/TS/cards.md) › King of Diamonds
+[Home](/TS/index.html) › [The Deck](/TS/cards.html) › King of Diamonds
 
 The Deck
 
@@ -10,25 +10,27 @@ The Deck
 
 Yes, but - Commercial
 
-**Keywords** - *Upright:* correct work, a fixed price, authority's bill · *Inverted:* a fee that escalates, the receipt becomes leverage
+**Keywords** - *Upright:* certified knowledge, the institution's invoice · *Inverted:* fees that escalate, a certificate as leverage
 
 ### Upright
 
-The knowledge was accurate. The work was done correctly. And the Magister's invoice is already waiting on the desk. Academic authority always charges for its services, and the fee structure is non-negotiable.
+*The knowledge was accurate. The work was done correctly. And the Magister's invoice is already waiting on the desk. Academic authority always charges for its services, and the fee structure is non-negotiable.*
+
+The work is correct and the certification says so - signed, sealed, filed in triplicate. Institutions sell certainty, and their prices are printed precisely so that no one can call them personal. The fee is steep, non-negotiable, and worth it: what the Magister's seal opens, no argument of yours could. Budget for the renewal.
 
 ### Inverted
 
-The knowledge is sound, but the institution's invoice is a lever, not a line - the fee rising with your need, the receipt a record they can hold, the bill outliving the service it named.
+The schedule of fees turns out to be an instrument. Renewals, amendments, expedition charges - each one printed, each one proper, each one timed to your need with an accuracy that cannot be accidental. The institution has noticed that you require it, and requirement is what institutions monetize. Somewhere in the schedule is a fee you can afford to refuse. Find that one.
 
 ### In Play
 
-*Upright.* The magister certifies Tamsin's findings and names a price she can just meet.
+*Upright.* The magister certifies Tamsin's survey against a fee that empties the project's margin; with the seal, the council's objection collapses.
 
-*Inverted.* The magister certifies the findings, then lets slip the certificate can be revoked as easily as granted; the fee was never the real cost.
+*Inverted.* At renewal the fee has tripled - revised schedule, the clerk explains - and he observes that uncertified surveys are, of course, inadmissible.
 
 NotationKD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank & RoleKing - Spellweaver
 
 ---
 
-- [← Previous: King of Hearts](/TS/cards/kh.md)
-- [Next →: King of Spades](/TS/cards/ks.md)
+- [← Previous: King of Hearts](/TS/cards/kh.html)
+- [Next →: King of Spades](/TS/cards/ks.html)
