@@ -96,6 +96,36 @@ beat; let other cards close a different way — a flat statement, a question,
 a fragment, nothing at all. Sentence structure should vary card to card on
 principle, not just for this one device.
 
+**9. In Play examples address the player, not a stand-in.**
+**Convention change, 2026-07-05.** Earlier drafts (and the existing
+lexicon prose in `oracle-master.md`) use named third-person characters for
+every example — Sera's lookout, Thrn's escape, Calder's whole session.
+Going forward, a card's own In Play example speaks to **"you"** directly:
+"your lookout," "you can use them." The reader mid-session *is* the player
+character; second person is more visceral than watching a stand-in do it.
+**Mira in the Market is the deliberate exception** — she's a fixed,
+always-the-same character, not the reader, so her vignettes stay third
+person throughout, on every card.
+This applies as each card gets its rewrite pass, not as a mechanical
+find-and-replace across the existing master text — some of those named
+examples carry detail (a name reused elsewhere, a running NPC) worth
+checking before converting rather than assuming.
+
+**10. Keyword-line fragments are separated by semicolons, not commas.**
+Both the header's three keyword phrases and the Crossed line's three
+keyword phrases are fragments, not a sentence — no conjunction before the
+last item, no closing period, and semicolons between them rather than
+commas. Commas read as though the phrases are sub-items of one continuous
+list; semicolons treat each phrase as its own small unit, which is the
+correct reading since each one is doing a different kind of interpretive
+work (sound / sight / relationship, in 2H's case). Applies to every card,
+both lines, header and Crossed alike:
+> **2H (Sniper)** - a startling signal with a range-finding echo; a longer
+> view of the big picture; the gift of a revealed admirer
+>
+> *__Crossed__ - Knowing too much; a source exposed; an overly ardent
+> admirer*
+
 ---
 
 ## Already-on-model — don't "fix" these

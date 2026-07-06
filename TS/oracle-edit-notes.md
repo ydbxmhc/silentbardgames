@@ -446,20 +446,33 @@ about what any card *means* changes.
   the label isn't adding information** - the page-structure equivalent of
   the prose guide's "does this earn its place" test.
 
-**Resulting page skeleton (per-card page, PILOTED on 2H - see below):**
+**Resulting page skeleton (per-card page, PILOTED + FINALIZED on 2H):**
 1. Card name + art (unchanged)
-2. Compact header - notation + Role + primary keyword phrase, replacing
-   both the old "Keywords" line and the footer's Notation block:
-   > **2H (Sniper)** - clean intelligence, the fuller picture, a watcher's gift
+2. Compact header - notation + Role + primary keyword phrase(s), replacing
+   both the old "Keywords" line and the footer's Notation block. Keyword
+   fragments are semicolon-separated, no conjunction, no closing period
+   (see voice-style-guide principle 10):
+   > **2H (Sniper)** - a startling signal with a range-finding echo; a
+   > longer view of the big picture; the gift of a revealed admirer
 3. Primary reading prose - unlabeled, runs directly under the header. No
-   "Upright" heading, no keyword-line restated below it.
+   "Upright" heading, no separate italic thesis/lead sentence either.
+   **Correction, 2026-07-06:** 2H originally kept a one-sentence italic
+   "lead" above the body paragraph (a holdover from the old template). Author
+   caught it as pure restatement of the header keywords - cut per principle
+   1 (does this line say anything the keyword line above it didn't?
+   here, no). The body paragraph now runs directly under the header with no
+   intermediate sentence. Applies to every card - the header keywords ARE
+   the thesis; the body paragraph's job is new information only.
 4. ***In play:*** its own line, directly under the primary reading.
 5. **Crossed - not a heading after all.** First draft used an `<h3>Crossed</h3>`;
    author asked for something more subtle. Landed on an inline bold-italic
-   label folded into the lead line instead of a structural heading:
-   > *__Crossed__ - Knowing too much, a source exposed.*
+   label folded into its own lead line instead of a structural heading:
+   > *__Crossed__ - Knowing too much; a source exposed; an overly ardent
+   > admirer*
    No h3 tag on the page at all for this card. (`.card-reading-block h3`
-   CSS rule left in place for any other page still mid-transition.)
+   CSS rule left in place for any other page still mid-transition.) This
+   line is NOT redundant the way the primary's was - it's the only label
+   the Crossed reading gets anywhere on the page, so it stays.
 6. Crossed reading prose.
 7. *In play:* for the Crossed reading, same as step 4.
 8. Prev/Next nav (unchanged)
@@ -567,3 +580,28 @@ the lead page but didn't name them. Candidates to confirm:
 other spots are confirmed, then batch "Mira in the Market" across the
 remaining 53 cards alongside the N8 structural rollout - same pass, since
 both touch every page.
+
+---
+
+## N10 - In Play examples switch to second person
+**Status: DECIDED** · raised 2026-07-05, during the 2H prose pass
+**Affects every card's In Play example, going forward + retroactively as
+each card is reached.**
+
+**The change:** In Play examples now address the player directly - "your
+lookout," "you can use them" - instead of narrating a named third-person
+stand-in (Sera, Thrn, Calder). Author's reasoning: this is an RPG reference
+read mid-session; "you" is more visceral than watching someone else do it.
+
+**The one exception: Mira in the Market stays third person, always.** She's
+a fixed, recurring character, not a stand-in for the reader - the whole
+point of her section is a stable comparison point, which requires her to
+stay herself rather than become "you." 2H's own Mira text ("The bladesmith
+flirts as he sells her a blade...") is untouched by this change.
+
+**Scope note:** this is not a blanket find-and-replace across
+`oracle-master.md`'s existing lexicon prose. Named examples convert
+card-by-card as each one gets its rewrite pass - some names may be doing
+other work (recurring NPCs, callbacks) worth checking before dropping.
+
+Full spec logged in `voice-style-guide.md`, principle 9.

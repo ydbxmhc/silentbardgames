@@ -86,6 +86,27 @@ html[data-navbg="off"] #drawer::after {
 @media (max-width: 599px) { .header-settings-link { display: none; } }
 
 /* ============================================================
+   HEADER ALPHA / UNDER-CONSTRUCTION BADGE
+   ============================================================ */
+.header-alpha-badge {
+  font-size: var(--size-small);
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  padding: 0.15rem 0.65rem;
+  margin-left: 0.75rem;
+  text-decoration: none;
+  white-space: nowrap;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
+  transition: background var(--transition), color var(--transition);
+}
+.header-alpha-badge:hover { background: rgba(184,134,11,0.1); text-decoration: none; }
+
+/* Hidden below tablet width - header is already tight at this breakpoint */
+@media (max-width: 699px) { .header-alpha-badge { display: none; } }
+
+/* ============================================================
    LINKS - L1 WARM RUST COLOUR
    onesrd.css sets link colour to --accent; these just flesh
    out the text-decoration tint with the L1 rust value.

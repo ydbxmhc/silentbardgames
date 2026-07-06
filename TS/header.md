@@ -1,3 +1,3 @@
-[ **Tesserae Sortis** System Reference Document ](/TS/index.md) [⚙ Settings](/TS/settings.md)
+[ **Tesserae Sortis** System Reference Document ](/TS/index.html) [Under Construction · Early Alpha](/TS/index.html) [⚙ Settings](/TS/settings.html)
 
 a OneSRD game by The Silent Bard
