@@ -144,6 +144,16 @@ body.drawer-open { overflow: hidden; }
   display: none;
 }
 @media (min-width: 600px) { .header-tagline { display: block; } }
+.header-tagline a {
+  color: var(--ink-light);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--ink-light);
+  transition: color var(--transition), border-color var(--transition);
+}
+.header-tagline a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
 
 /* ============================================================
    DRAWER
