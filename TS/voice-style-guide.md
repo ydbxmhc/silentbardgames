@@ -126,6 +126,16 @@ both lines, header and Crossed alike:
 > *__Crossed__ - Knowing too much; a source exposed; an overly ardent
 > admirer*
 
+**11. Overcapitalization is allowed when it's earned, not as a habit.**
+An abstract noun can take a capital letter when the fragment is treating it
+as an active force rather than a passing description - JC's header
+capitalizes "Truth" because the fragment casts it as something that claws
+free under its own power, not merely a fact someone learned. This is a
+judgment call made card by card, not a standing list of words (Truth,
+Fate, Chaos, etc.) that always get the capital treatment. Ask the same
+question each time: is this noun doing something, or just sitting there
+being true? Only the former earns it.
+
 ---
 
 ## Already-on-model — don't "fix" these

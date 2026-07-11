@@ -285,6 +285,20 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
   "opposed contest." Action: reword the Release definition in the Spellweaver text to
   "no reroll," and confirm the resist/oppose choice carries over to it.
 
+### Canon integration / source refactor (Tricks now canon)
+- **Tricks is live and canon** (`L1/tricks.html` + `.md`, wired into `nav.html`
+  after the Hooks chain; prev/next set between `hooks-on-credit` and `nonhuman`).
+  The web now carries a rule the **source PDF does not**. Refactor the original
+  document so the book and the site agree:
+  - Add the **Tricks** section to the source rulebook (after the Hooks material).
+  - Add one line to **`chargen`** (`.md`/`.html`) naming Tricks alongside Hooks as a
+    standard, no-cost part of building a character. (Left to the author -- rulebook prose.)
+  - Fold in the two clarifications above (resist/oppose on imposed effects; Release
+    "no *reroll*") wherever the source text defines them.
+  - Still-open author note (from `_scratch/tricks-page-draft.md`): the examples are
+    western/sci-fi/demo flavor; consider a fantasy example or two so the page matches
+    the book's default setting.
+
 ### Side-panel / rails follow-ups
 - **Suppress rails on meta-pages**: `toc.html` and `settings.html` currently show
   the side panels (TOC beside the TOC, etc.). Suppress with a `body[data-no-rails]`

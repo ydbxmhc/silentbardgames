@@ -141,6 +141,8 @@ Either Joker suspends the normal interpretive range. Go bigger. Go stranger. Go 
 
 Drawing both Jokers in a single pull (with one other card for guidance) is rare enough (~0.2%) to feel significant. When it happens, pay attention. The story just shifted under your feet.
 
+The Jokers are optional. Pull them from the deck entirely, remove just one, or add extras from a second deck for more chaos. It's your game - play it the way you like.
+
 ---
 
 ## THE RULES
@@ -190,6 +192,8 @@ Three cards provides:
 Single card draws are valid for simple questions when you don't want more than a direct answer. Three is the default.
 
 **Probability note**: Each Joker appears with ~1.85% probability per single draw. Drawing three cards raises the chance of hitting at least one Joker to ~10-11%.
+
+Want positional meaning assigned to each of the three cards instead of reading them as a group? See The Three Card Spreads.
 
 ---
 
@@ -857,7 +861,7 @@ The mill burned. Flour dust and millstones and the particular horror of grain fi
 
 **Carried-through content TODOs**
 
-- **Consecutive card rule**: Formalize completely. Currently described as principle only.
+- **Consecutive card rule**: Formalize completely. Currently described as principle only. Ambiguity and candidate resolutions logged as N11 in `oracle-edit-notes.md`, awaiting author decision.
 - **Lexicon revision pass**: Every card needs at least two valid interpretations supportable from the name alone without explanation.
   - **Inversion principle (adopted):** upright vs inverted must differ by *emphasis*, not volume. Upright, the qualifier ("and"/"but") is a **seed** - a hook planted while the result carries the scene. Inverted, the qualifier is **the point** - it takes over and becomes the situation played from next. Test each card: does the inverted reading foreground the other clause, or just turn up the dial? If it only intensifies, it's not done. `8d.html` (Remedy's Addiction) is the worked exemplar; the lexicon inversion note states the rule player-side. Apply across all 54 in the thorough pass.
 - **Three card spreads**: Consider naming each variant formally (The Timeline, The Situation, The Action).

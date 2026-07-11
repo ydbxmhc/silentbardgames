@@ -605,3 +605,136 @@ card-by-card as each one gets its rewrite pass - some names may be doing
 other work (recurring NPCs, callbacks) worth checking before dropping.
 
 Full spec logged in `voice-style-guide.md`, principle 9.
+
+---
+
+## N11 - Consecutive Card Rule: which card is "second"?
+**Status: PROPOSED - awaiting author decision** · raised 2026-07-07
+**Affects `the-draw.html#consecutive-card-rule` and the identical rule
+statement in Positional/Spreads copy (`oracle-master.md` line ~453).**
+
+Current text: *"When two cards of the same suit or rank appear consecutively
+in any layout or draw sequence, lay the second card sideways to indicate a
+modified or complicated 'inverted' reading."*
+
+The word "second" is already doing double duty one section earlier -
+Positional Reading defines "second card" as **position 2 of 3** (the pivot).
+The Consecutive Card Rule then reuses "second" to mean **the later card of
+a matching pair**, which is not always position 2. Author's own test case
+exposes the gap: draw **2H, 5H, 5D**.
+
+- Cards 1-2 (2H, 5H) match by suit.
+- Cards 2-3 (5H, 5D) match by rank.
+- Card 2 is "second" relative to card 1. Card 3 is "second" relative to
+  card 2. Under a literal "second of every pair" reading, both card 2 *and*
+  card 3 go sideways, and card 2 is simultaneously the "pivot" (Positional
+  Reading) and a "second" (Consecutive Rule) for two different reasons at
+  once.
+
+A three-of-a-kind-suit draw (all three cards the same suit) breaks it
+further - there, every card *is* the second of some pair with something,
+and the rule as written doesn't say whether that means one card goes
+sideways, two do, or the whole draw does.
+
+**Two clean ways to resolve it, plus the messy one:**
+
+1. **Position-only.** "Second" always means draw position #2, full stop -
+   it either matches one of its neighbors or it doesn't. No cascading, no
+   ambiguity, resolves in one glance at the table. Can't gracefully handle
+   a three-way match (still need a ruling for that case, but at least the
+   normal case is airtight).
+2. **Pair-identity.** Every matching pair in the draw gets its later member
+   flipped, regardless of position - covers the 2H/5H/5D case fully (both
+   5H and 5D go sideways) but means a single draw can produce multiple
+   inverted readings stacked at once, which is a real gameplay consequence,
+   not just a wording nuance.
+3. **Author's fallback, already on the table:** explicit permission clause
+   for the edge case - *"if all three cards share a match, invert whichever
+   feels like the pivot; there's no wrong answer here."* Works regardless
+   of which of the above is the base rule.
+
+**Lilita's recommendation:** option 1 (position-only) as the default rule,
+paired with the permission clause for the rare three-way tie. It's the one
+a table can apply without stopping to count pairs mid-scene, and it never
+produces two inverted cards from one draw as a side effect nobody asked
+for. Option 2 is defensible but changes the odds/weight of the mechanic
+in a way that deserves to be a deliberate choice, not a byproduct of
+disambiguating a sentence.
+
+Also carried in the master's own `@@TODO` list ("Consecutive card rule:
+Formalize completely") - this entry is the detail, that line now points
+here.
+
+---
+
+## N12 - Resolution Mechanics / Token system rework
+**Status: PINNED - not being worked yet, per author** · raised 2026-07-07
+**Affects `resolution.html`.**
+
+Author flagged the current Resolution Mechanics framing as "muzzy" in the
+same pass as the items above, floating a token-system rework as the fix.
+This sits on top of - doesn't replace - the existing `@@TODO` entry in the
+master (line ~842): make `resolution.html` self-contained from L1, explain
+Hooks and Tokens from scratch, and treat L1 as an optional bridge rather
+than a prerequisite. No specifics decided yet. Author's own words: "we'll
+come back to it." Logged here so the thread isn't lost, not to jump ahead
+of the author's own pacing on it.
+
+**Addendum, 2026-07-07 (raised during JC's Mira draft):** Author confirmed
+the direction is sharper than "reframe L1's Hooks for a new reader" -
+Hooks (and the Luck Token system generally) are meant to become genuinely
+TS-native, not just re-explained borrowings. Author's own words: intends
+to "work a similar mechanic into the Oracle system specifically," usable
+as a complete resolution system on its own, and expects to reuse the same
+Hooks + Luck Token combination "in most games I build" going forward - so
+this isn't scoped to TS/L1 alone, it's shaping up as a cross-game pattern.
+Worth keeping in mind when N12 finally gets worked: whatever gets built
+should probably be designed to live cleanly on its own rather than as a
+one-off patch to `resolution.html`. Still pinned - not being drafted now,
+just recording the shape of the decision before it's made.
+
+---
+
+## N13 - "The Drawing of the Three" overweights multicard draws
+**Status: PINNED - author still pondering** · raised 2026-07-07
+**Affects `the-draw.html#drawing-of-the-three` / matching section in
+`oracle-master.md`.**
+
+Author's read: the section as written over-emphasizes multicard draws in a
+way likely to intimidate a new player picking this up cold. No direction
+proposed yet - author is sitting with it. Flagging here so it's on the
+list when they're ready, not to pre-empt a rewrite before they've landed
+on an approach.
+
+---
+
+## N14 - Play Examples (`examples.html`): Session One/Two need replacing
+**Status: PROPOSED - awaiting sequencing decision** · raised 2026-07-07
+**Affects `examples.html`, `oracle-master.md` (Session One/Two text,
+lines ~371-399), and their `.md` mirrors.**
+
+Author's verdict: the existing play examples are bad, and the anchor
+problem is a physical impossibility as written. The text has the KS
+(Artificer's Workaround) "appearing four times across an unshuffled
+sequence" and later a fifth time - but a standard 54-card deck holds
+exactly one King of Spades. A card can't recur within a single unshuffled
+sequence; it can only recur *after* a reshuffle returns it to the deck,
+which is a different (and already-supported) beat, not the one currently
+written. There's no reading of "unshuffled" that saves this as written -
+it has to be replaced, not patched.
+
+Two open questions before drafting a replacement:
+
+1. **Scope/pacing** - work this now, alongside the ongoing 54-card pass, or
+   queue it for after the cards are done? It's a different kind of content
+   (a session-length narrative walkthrough, not per-card prose) and pulls
+   on different muscles.
+2. **Salvage vs. rebuild** - keep Calder as the throughline character and
+   same brief-but-complete target length, or start clean? And does the
+   "recurring card as omen" beat survive in a version that's actually
+   possible under the rules as written (same card turning up again *after*
+   an explicit reshuffle, which the deck already treats as meaningful), or
+   does that idea get dropped entirely in favor of something else carrying
+   the session's spine?
+
+No content drafted yet pending author's call on both.
