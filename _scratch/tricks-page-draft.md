@@ -4,109 +4,156 @@ Characters
 
 # Tricks - Your Signature Moves
 
-A [Hook](hooks.md) says what your character *cares about*. A Trick says what they
-habitually *do about it*. Where a Hook is a motive, a Trick is a method: a named,
-agreed-on way you lean on the rules you already have, in a situation you keep finding
-yourself in. The gambler always reads the table before the cards turn. The gunfighter
-always drifts to within two steps of cover. The doctor always has the right compound
-already mixed. None of that is a new power. It's just who they are, written down so it
-runs smoothly at the table.
+Where a [Hook](hooks.md) says what your character cares about, a Trick is what they
+do about it. It's a named, regular *thing* they fall back on. That's it.
+
+Tricks don't generally change the rules, though they might bend them a little. When
+you define a Trick, it gives the GM an excuse for why they might interpret those rules
+just a little differently in certain situations, but generally it's just an example of
+how to apply rules-as-written that you reach for when it fits.
+
+A gambler might always read the table before the cards turn. A gunfighter maybe
+always drifts to within two steps of cover. A doctor tries to always have the right
+compound already mixed. None of that is a new power. It's just who they are,
+written down so it runs smoothly at the table.
 
 A Trick costs no [Karma](karma.md), because it grants nothing you don't already own. It
 only declares, in advance, *how* you tend to apply the tools already on your sheet: a
-[Boost](actions-and-timing.md#boost-actions) you always set up, a
-[Wager](wagered-actions.md) you habitually make, a [split](multiple-actions.md) that
-fits your style, a free action your manner makes possible, or two [Roles](roles.md) you
-routinely combine. Naming that habit does real work: it makes the character clear in
-your own mind, gives the GM a handle to reward, and turns "what can I do here?" into
-"here's the thing I always do." That's the same payoff a Hook gives, on the method side
-instead of the motive side.
+free-action [Boost](actions-and-timing.md#boost-actions) you always get for a known habit
+in a certain situation, a [Wager](wagered-actions.md) you habitually make, or maybe a
+common circumstance where two [Roles](roles.md) would routinely combine. Naming that habit
+makes the character clearer in your own mind, gives the GM a handle to reward, and turns
+"what can I do here?" into "here's the thing I always do."
 
 ## What a Trick Is - and Isn't
 
-A Trick reorganizes what you can already do; it never adds to it. The advantage is
-always **opportunity-specific**, and it is always paid for out of **your own EL and
-abilities** - your roll, a Boost you actually set up, points you actually Wagered. The
-Trick is simply the reason the GM lets that advantage land in a fitting moment. Joe's
-leveled rifle is a fearsome argument, but if it comes to a roll she still argues at base
-Level; the rifle is the Boost, not a new social skill.
+A Trick reorganizes what you can already do; it rarely adds to it. The advantage is
+almost always *opportunity-specific*, and is just your own EL - your roll, with a Boost
+you actually set up, points you actually Wagered, etc. The Trick is just a quick reference,
+a recorded excuse for the GM to allow a minor advantage in a fitting moment.
 
 > **A Trick Is Not a New Power**
 >
 > Like [Hooks](hooks.md), Tricks are subject to the GM's approval. A good one is
 > *specific to a circumstance* and uses *only abilities the character actually has*. If
-> a "Trick" would let you do something your Roles, Level, and Maneuvers can't already
-> justify, it isn't a Trick - it's a power, and a power costs [Karma](karma.md) or it
-> doesn't exist.
+> it would let you do something your Roles and Maneuvers can't justify, it isn't a Trick -
+> it's a power, and a power costs [Karma](karma.md).
 
 ## Tricks Don't Rank
 
-A Trick carries no number of its own. It is only the habit the GM uses to justify
-applying a bonus in a fitting moment; the *size* of that bonus always comes from the
-character's own roll and owned abilities. The instant a Trick would want a rank of its
-own, it has stopped being a Trick and become a [Maneuver](maneuvers.md) - and is bought
-and capped like one.
+A Trick carries no number of its own. Any bonus always comes from the character's own rolls.
+If it wants a rank of its own, it's a [Maneuver](maneuvers.md).
 
 ## The Three Marks of a Good Trick
 
-- **It comes from who they are.** It reads as a personality trait, not a build choice.
-  If you can't say it as a sentence about the character, it isn't a Trick yet.
-- **It names the exact mechanic and trigger.** State the rule it invokes - a specific
-  [Boost](actions-and-timing.md#boost-actions), a [Wager](wagered-actions.md) (and what
-  the points are dedicated to), a [split](multiple-actions.md), a free action, a
-  cross-Role combination - and the precise situation that switches it on. "A habit" is
-  never enough on its own; even a pure habit has to say exactly how it cashes out in the
-  rules, and when.
-- **It's situational.** It applies when the moment fits, not always and everywhere. A
-  Trick that's always on is just a number, and numbers are what Roles and Maneuvers are
-  for.
+- **It comes from who you are.** It reads as a personality trait, not a build choice.
+  If you can't say it as a statement of *behavior* it isn't a Trick.
+- **It's situational.** There's a clear, declared trigger. It applies when the moment fits,
+  not always and everywhere. A constant behavior is a Hook. A Trick the Warrior uses in every
+  fight becomes a reputation someone could also use to set him up for a Boost of their own...
+- **It names the mechanism.** State the rule it invokes - a specific [Boost](actions-and-timing.md#boost-actions),
+  a [Wager](wagered-actions.md), a [split](multiple-actions.md), a free action, a cross-Role combination, etc.
+  Good tricks often exist just to justify a GM call that bends the rules a *little*, explaining
+  why *this* case warrants Synergy or a free-action Boost.
 
 ## How Many, and What to Call Them
 
 None are required. Two or three to start is typical, and more will surface in play as a
-character reveals who they are - the GM hands them out freely, because they cost nothing
+character reveals who they are - the GM can allow them freely, because they cost nothing
 and break nothing. "Tricks" is only the default name; a setting or a single character is
 welcome to rename them to fit - a gunslinger's *habits*, a duelist's *forms*, a
 courtier's *graces* - the mechanic is the same either way.
 
-## Tricks in Play
+## Examples
 
-These come from the sample characters. Notice that each one names the rule it leans on
-and the moment that switches it on - that's the whole discipline of writing a good one.
+### Combat Tricks
 
-**A free-action Boost.** *No Fear* - a duelist holds his opponent's eyes with a smirk
-while the guns come out. His [Intimidate](performer.md) rides along as a
-[free-action Boost](actions-and-timing.md#boost-actions) in the exchange, because the
-composure costs him no setup; it's simply his manner.
+**Feint**
+Simple Boost - Success creates an opening; each point of success adds directly to EL on the next
+combat action against that opponent.
 
-**A persistent (Wagered) Boost.** *The Bead* - within talking distance, Joe steps out
-with the rifle up and [Wagers](wagered-actions.md) points off her rifle EL as a
-persistent *Aim* Boost. Once established it adds to *both* the roll to make the target
-stand down *and* the shot itself if talk fails. When she has the chance, she uses
-[Sneak](sneak.md) to Boost the Aim roll first.
+**Power Attack**
+Attack made Contingent on an Athlete (Strength) Boost. If the Boost fails, the attack is forfeit.
 
-**A dedicated-effect Wager.** *Mercy Shot* - to take a man alive, Joe
-[Wagers](wagered-actions.md) up to her [Sniper](sniper.md) rank as dedicated
-[Hindrance](types-of-harm.md) rather than Harm: a round through the arm or knee to stop
-him drawing or running. The points come off her EL first, so choosing "alive" genuinely
-costs her the surer shot - and a bullet is a poor tool for mercy, so it's never "safe."
+**Grapple**
+Wagered Persistent Boost - Set aside N points of EL; if remaining EL succeeds on the exchange,
+opponent is *Grappled*. The wagered dice count as a Boost that can be applied in whole or in part
+to subsequent attack and defense rolls until released, or the victim wins a roll to get free.
+(Note that a skilled Grappler can *reverse* such holds...)
 
-**A cross-Role combination.** *Showboat* - given room for a display, the gunfighter
-stacks his [Sniper](sniper.md), [Performer](performer.md), and Pistol Maneuver into one
-show of spinning steel; brandishing can even fold his Pistol Maneuver into an
-[Intimidate](performer.md) roll (at the risk of getting shot for drawing).
+**Lock**
+Follows a successful Grapple - an attack that applies a Hindrance limiting the opponent's movement.
+With a Lock held, victim cannot escape until they win a roll specifically to get free - not just any success.
 
-**A free action off a pre-set position.** *The Two-Step* - expecting an ambush, the
-gunfighter keeps within two steps of cover by habit. Unless completely surprised, he
-[Wagers](wagered-actions.md) a free-action *Cover* Boost at the start of an ambush,
-getting something solid between himself and the guns.
+**The Breaker**
+Wagered Injury to joints. Usable as a response to an opponent's attack, or when the PC already has a Lock.
 
-**A Boost prepared in advance.** *The Dispensary* - given time and his kit, the doctor
-has already compounded what the day needs, banked as a persistent
-[Boost](actions-and-timing.md#boost-actions) he applies when the right remedy comes up:
-an antiseptic that turns a mortal wound survivable on the [recovery](recovery.md) roll,
-ether to put a man under for the knife, or a chloroform rag to take a sentry without
-firing a shot. Setting the Boost up early is the entire point.
+**The Pavement Was His Enemy**
+Brawling Wager that applies Injury on success. Doesn't require a Lock or an active attacker, but does require
+a wall, paving stones, or a suitable substitute to be present - environment as weapon.
+
+### General Examples
+
+**Test the Blade**
+Spend the first exchange of a fight reading the opposition's guard.
+Study their style as a Boost to the next attack. Caution worn as habit;
+better to learn a man than trade blows with him blind. This does no Harm,
+but does count as opposition. On a win, Wager the margin on the next roll
+for a Persistent Boost for the rest of the fight.
+
+**The Opener** (Spellweaver - Release into a fast follow-up)
+On the first round of a fight, Maerin Releases her bound Light as a free action:
+no improvisation, just the guaranteed 2, taken as a Complication or a Dazzled Hindrance.
+The Release consumes the spell and frees its Spellweaver rank, so the strike that follows
+lands at a higher EL. She casts Stone Shape on the spot, drawing a blade from any nearby
+stone and driving it home. The target may resist the Light for free; if the Dazzle sticks,
+it drags down their defense against what's coming. With luck there's no second exchange -
+and time afterward to re-bind the Light.
+(On the deck of a ship, she might flip them just to boost the Light as her best option...)
+
+**I Recognize This!**
+Faced with something uncanny, Iris's first action is to spend an exchange to name it:
+this is a basic knowledge/deduction roll that, on success, allows PCs with relevant skills
+a free action roll for a Boost of their own against the thing, because now they know its
+vulnerability - salt, iron, whatever she can tell them.
+Truly obscure, alien, and/or unnameable horrors, or even those intelligent enough to know
+they should dissemble, can roll against her. An intelligent opposition might create a Boost
+of its own...
+
+### Genre Examples
+
+**Western: The Bounty Hunter**
+*The Bead* - within talking distance, she steps out with her rifle up and [Wagers](wagered-actions.md)
+points of her EL as a persistent *Aim* Boost. Once established it adds to *both* the roll to make the
+target stand down *and* the shot itself if talk fails. When she has the chance, she'll use [Sneak](roles/sneak.md)
+to Boost the Aim roll first.
+
+*Mercy Shot* - to take a man alive, she [Wagers](wagered-actions.md) up to her [Sniper](roles/sniper.md)
+rank as dedicated [Hindrance](types-of-harm.md) rather than possible Injury: a round through the
+arm or knee to stop him drawing or running. The points come off her EL first, so choosing "alive"
+genuinely costs her the surer shot - and a bullet is a poor tool for mercy, so it's never "safe."
+
+**Western: The Gunslinger**
+*No Fear* - a gunslinger holds his opponent's eyes with a smirk while the guns come out.
+His [Intimidate](roles/performer.md) rides along as a [free-action Boost](actions-and-timing.md#boost-actions)
+in the exchange, because the composure costs him no setup; it's simply his manner.
+
+*Showboat* - the gunslinger stacks his [Sniper](roles/sniper.md),[Performer](roles/performer.md), and Pistol Maneuver
+into one show of spinning irons; a display like this can even fold his Pistol Maneuver into an [Intimidate](roles/performer.md) roll
+(at the risk of getting shot for drawing.)
+
+*The Two-Step* - always hoping to stay two steps ahead of an ambush, the gunfighter keeps within
+two steps of *some* kind of cover by habit. Unless completely surprised, he may roll a free-action
+[Wager](wagered-actions.md) for a *Cover* Boost at the start of an ambush, getting something solid
+between himself and the guns unless there simply isn't anything available.
+
+**Sci-Fi: The Engineer**
+*Cyber-HUD* - On his own ship, every system has been custom-interfaced with known iconography,
+specific locations in his field of view, and macros for fast response on any problem he's had
+before. During any shipwide emergency, Taro can roll a free-action Boost on a response, even if
+he's not at a console.
+Note that it's not the equipment giving him the bonus, it's his work *customizing*.
+Bonuses from high-tech [Gear](gear.md) with the [assist rule](assist-rule.md) would be in addition.
 
 ---
 

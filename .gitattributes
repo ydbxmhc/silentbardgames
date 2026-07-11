@@ -1,0 +1,18 @@
+# Enforce LF line endings across the repo (Linux rules).
+# Text files are normalized to LF in the repository and checked out as LF
+# on every platform. Binary assets are auto-detected and left untouched.
+
+* text=auto eol=lf
+
+# Pin known-binary assets so they are never munged, even if misdetected.
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.pdf   binary
