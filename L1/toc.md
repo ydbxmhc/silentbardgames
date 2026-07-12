@@ -81,6 +81,7 @@
   - [Common Pitfalls](common-pitfalls.md)
   - [Hooks And Growth](hooks-and-growth.md)
   - [Hooks On Credit](hooks-on-credit.md)
+  - [Tricks - Your Signature Moves](tricks.md)
 - [Nonhuman Characters](nonhuman.md)
   - [Nonhuman As A Hook](nonhuman-as-a-hook.md)
 - [Roles - What You Do Well](roles.md)
