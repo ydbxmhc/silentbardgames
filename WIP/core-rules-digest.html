@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Level One - Core Rules (digest working copy)</title>
+<style>
+@page{size:5.5in 8.5in;margin:0.5in 0.45in 0.45in;background:#fdf2d5;}
+@page:right{@bottom-right{content:counter(page);font:9.5pt Georgia,serif;color:#4a3520;}}
+@page:left{@bottom-left{content:counter(page);font:9.5pt Georgia,serif;color:#4a3520;}}
+html{background:#fdf2d5;color:#1a1008;} body{background:#fdf2d5;font:10.5pt/1.45 Georgia,"Times New Roman",serif;}
+.pagedjs_sheet,.pagedjs_page,.pagedjs_pagebox{background:#fdf2d5 !important;}
+h1{font-size:17pt;line-height:1.12;margin:0.7em 0 0.3em;color:#8b3a0f;break-after:avoid;}
+h2{font-size:12.5pt;margin:1em 0 0.25em;color:#8b3a0f;break-after:avoid;}
+p{margin:0 0 0.5em;text-align:justify;}
+a{color:inherit;text-decoration:none;} strong{font-weight:bold;} em{font-style:italic;}
+blockquote{border:1px solid #c8a96e;background:#f6ecc9;padding:0.45em 0.7em;margin:0.7em 0;}
+blockquote>:first-child{margin-top:0;} blockquote>:last-child{margin-bottom:0;}
+/* callout: keep it whole and let it sit up beside the float instead of clearing under it */
+.opener blockquote{display:flow-root;break-inside:avoid;clear:none;margin:.45em 0 0;}
+.opener{break-after:page;line-height:1.36;}
+.opener h1{font-size:16pt;margin:.05em 0 .3em;} .opener h2{font-size:11.5pt;margin:.55em 0 .12em;}
+.opener p{margin:0 0 .4em;}
+.art{float:right;width:30%;margin:-0.40in 0 .35em .75em;}
+.sketchy{float:left;max-height:1.15in;max-width:45%;margin:.15em .8em .3em .05em;
+  mix-blend-mode:multiply;transform:rotate(-3deg);
+  -webkit-mask-image:radial-gradient(ellipse at center,#000 48%,rgba(0,0,0,.5) 70%,transparent 95%);
+  mask-image:radial-gradient(ellipse at center,#000 48%,rgba(0,0,0,.5) 70%,transparent 95%);}
+.imp{float:right;height:4in;width:auto;margin:.1em -0.90in .3em .8em;}
+</style></head>
+<body>
+<section class="opener">
+<h1>This is a Game?</h1>
+<p>People have enjoyed tabletop Role-Playing games (TTRPGs) for half a century, yet most still explain what RPGs <em>are</em> at the start. As a nod to tradition, it's a set of rules for representing a character as the "role" you'll be playing, and fairly deciding whether things they try to do will succeed.</p>
+<p>You probably already knew that, or would figure it out pretty quickly. You're not here for me to waste your time, so let's get to the point - how do we do it?</p>
+<h2>The Short Version</h2>
+<p>Grab some dice - any common dice will do. When your character tries something, figure out how good they are by adding up your bonuses. Roll that many dice and count the odd numbers. The <em>Game Moderator</em>, the person "running" the game, will total up things working against you and roll as well. If you roll better than they do you succeed by the difference.</p>
+<p>Everything in the game works this way. If you punch a drunk in the bar, how much better you roll determines how hard you hit him. If he rolls better, he blocks and punches you!</p>
+<h2>The Rest of the Book</h2>
+<img class="art" alt="A figure reading" src="https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/reader.png">
+<p>The system is simple and standard, but "add up your bonuses" is vague. What about damage? Initiative? Extra effort? Multiple attackers?</p>
+<p>How do I build a barbarian? A wizard?<br>What if I want to play a werewolf?<br>Well, that's in the character book, but...</p>
+<br>
+<img class="sketchy" alt="A sketchy little figure" src="https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Sketchy-lil.png">
+<br>
+<p><em>"The devil's in the details."</em></p>
+<p>No reason to be sketchy.<br>Let's see what it looks like in action.</p>
+</section>
+<section class="opener">
+<h1>The Core Loop</h1>
+<h2>Step 1: Start with the Story</h2>
+<p>What is it you want to happen? How would the character do that?</p>
+<p>A locally renowned bard, you want into a restricted area at the Duke's ball. You pose as Lord Kelton's paramour - mustn't keep him waiting! The guard's job is literally to resist.</p>
+<h2>Step 2: Add Up Whatever Will Help</h2>
+<img class="imp" alt="An imp girl" src="https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/waywright_imp_girl_300_DPI_-_no_Background.png">
+<p>You're Level 3, Performer 2 with Acting 1, in tastefully tantalizing clothes (+1). Your Effective Level (<strong>EL</strong>) is 7.</p>
+<h2>Step 3: Everyone Rolls</h2>
+<p>Using Simple Pool, roll dice equal to your EL and count the odd numbers. Later we'll look at tactical options.</p>
+<p>You roll a 5. The guard (Level 2 Warrior 1) is EL2 - his Warrior role doesn't help against social manipulation. The GM rolls a 2 for him.</p>
+<h2>Step 4: Compare and Apply</h2>
+<p>Your 5 beats his 2 by 3 - more than his base Level! His suspicion crumbles. He waves you through with a sly wink.</p>
+<p>The relative EL of the opposition always defines the difficulty of the task, and even easy tasks can go wrong. That's it. Practically everything in the game works this way.</p>
+<blockquote class="aside"><p>&hellip;Wait, "Level 2 Warrior 1"? You read it right. Roles are separate from Level. You can play a competent character with no Roles at all.</p></blockquote>
+</section>
+<h1>Quick Start</h1>
+<p>As with everything, <em>always</em> start with the story.</p>
+<h2>Character Concept</h2>
+<blockquote>
+<p><em>"Her name is Kessa - she's a smart-mouthed thief! She grew up in the merchant quarter and knows every alley and rooftop, and looks out for the neighborhood kids. She can pick pockets and locks, right?"</em></p>
+</blockquote>
+<p>In some systems a 'thief class' defines whatever abilities the designers thought thieves should have, but <em>there's no thief class</em> in <em>Level One</em>. There are no "classes" at all. You build the character concept you want from thematically simple <strong><a href="roles.md">Roles</a></strong> combined however makes sense for your story.</p>
+<h2>Roles and Maneuvers</h2>
+<blockquote>
+<p><strong>GM:</strong> <em>"Great concept! You'll want Sneak for stealth. Picking pockets isn't a whole <a href="roles.md">Role</a>, it would be a Sleight of Hand <a href="maneuvers.md">Maneuver</a> on Sneak or Performer. Knowing the streets could be Loremaster, or maybe a specialized Sneak <a href="maneuvers.md">Maneuver</a> if it only applies to being stealthy. Locks would need Tinker."</em></p>
+<p><em>"I don't really care about locks so much, but Performer sounds like fun! I can have both? She could juggle and busk for extra coins while scoping out targets!"</em></p>
+<p><strong>GM:</strong> <em>"Mixing <a href="roles.md">Roles</a> is the whole idea!"</em></p>
+<p><em>"What do I get at level 2?"</em></p>
+<p><strong>GM:</strong> <em>"Levelling up makes you a little better at </em>everything<em> and a little tougher, but never gives you any new skills. It just means you've seen more and have more grit. Skills come from <a href="roles.md">Roles</a>. Getting better at a <a href="roles.md">Role</a> means increasing its rank </em>instead<em> of your Level. More abilities means advancing a <a href="roles.md">Role</a> and picking up new <a href="maneuvers.md">Maneuvers</a>, or spending <a href="karma.md">Karma</a> to add other <a href="roles.md">Roles</a>."</em></p>
+</blockquote>
+<p><a href="roles.md">Roles</a> are <em>thematic</em>. You customize with the <a href="maneuvers.md">Maneuvers</a> you choose at each rank. Characters always start at Level 1 for free, but Level increases always cost the <em>new</em> value in <em><a href="karma.md">Karma</a></em>, the unit of experience. A <a href="roles.md">Role</a> can never be higher than your Level.</p>
+<p>The first rank of any <a href="roles.md">Role</a> is always one <a href="karma.md">Karma</a>, and each increase costs the <em>current</em> value. Groups can start with any amount of initial <a href="karma.md">Karma</a>, but we suggest 0-5. With zero, you are Level 1, <em>period</em> - you have no <a href="karma.md">Karma</a> to buy even one role.</p>
+<blockquote>
+<p><em>"OH! I really like her being super sneaky anywhere in the city, but also knowing people and little hidey-holes. Maybe not so great out in the woods though?"</em></p>
+<p><strong>GM:</strong> <em>"Sounds like Sneak, Performer, and Loremaster. Making a minstrel?"</em></p>
+<p><em>"Nope! Just a charismatic grifter! Is that ok?"</em></p>
+<p><strong>GM:</strong> <em>"Absolutely. <a href="roles.md">Roles</a> are what you say they are, as long as you use them to do what they do. Let's start out with 5 <a href="karma.md">Karma</a> to build."</em></p>
+</blockquote>
+<h2>Negotiating Details</h2>
+<blockquote>
+<p><em>"I like being better at the basics more than just ok at more stuff. She grew up in this school of hard knocks! I'll take Level 2. I can afford one more <a href="roles.md">Role</a> - Loremaster isn't just dusty old books? She really knows her way around!"</em></p>
+<p><strong>GM:</strong> <em>"Ok. Performer for social engineering, with </em>Sleight of Hand<em> for picking pockets, street magic, juggling and such. Loremaster for a detailed mental map, with </em>Street Network<em> for shortcuts, hiding places, gang turfs and patrol beat schedules. Sneak for Stealth, urban-focused - let's call it a </em>Child of the City Shadows<em> <a href="maneuvers.md">Maneuver</a>. All we need is a <a href="hooks.md">Hook</a>."</em></p>
+</blockquote>
+<h2>Character Drives</h2>
+<p>It may seem like an afterthought, but this is really the core of good character creation. What's <em>important</em> to them? What motivates them?</p>
+<blockquote>
+<p><em>"Well, how about 'She watches out for the neighborhood kids.' Could that be it?"</em></p>
+<p><strong>GM:</strong> <em>"That's almost perfect. Let's make it a little more dramatic and flexible. How about 'We Take Care Of Our Own'? It doesn't </em>have<em> to be kids, but certainly applies. Sound good?"</em></p>
+<p><em>"Yeah! She also watches out for the blind beggar who sits by the market gate, and the old woman who takes in laundry to earn a few coins. This is getting good!"</em></p>
+</blockquote>
+<p>This should create dilemmas. She is <em>driven</em> to care for and protect the folk of her downtrodden underworld, but feeding them often means stealing. Getting caught means a head-first dash through the bazaar to get away, or being thrown in the city's dungeon. Crime hurts people, and the Market Street Urchins she feeds sometimes don't approve… but she'll still throw herself into a fight she can't win if one is in trouble.</p>
+<p>It also means protecting them from other criminals in the area - petty crooks who would rob the beggar and extort the washerwoman. Kessa's not a fighter, so she'll have to figure out how to deal with these threats. <a href="hooks.md">Hooks</a> cause <em>problems</em> which should happen at least once every session; this is how she earns more <a href="karma.md">Karma</a>!</p>
+<h2>Putting It Together</h2>
+<p>Meet Kessa. With 5 starting <a href="karma.md">Karma</a> to spend she buys Level 2 (2 <a href="karma.md">Karma</a>).</p>
+<p>She buys the first rank of three <a href="roles.md">Roles</a>, each of which comes with a free <a href="maneuvers.md">Maneuver</a>:</p>
+<p>Sneak 1 (1 <a href="karma.md">Karma</a>) - for moving unseen and unheard</p>
+<ul>
+<li><em>Child of the City Shadows</em> - staying unnoticed in urban environments</li>
+</ul>
+<p>Performer 1 (1 <a href="karma.md">Karma</a>) - for fast-talk and social manipulation</p>
+<ul>
+<li><em>Sleight of Hand</em> - pickpocketing and small object manipulation</li>
+</ul>
+<p>Loremaster 1 (1 <a href="karma.md">Karma</a>) - she really does know those streets</p>
+<ul>
+<li><em>Street Network</em> - contacts, shortcuts, and hideaways</li>
+</ul>
+<p>Her <a href="hooks.md">Hook</a>: We Take Care Of Our Own 1 (free, starts at rank 1)</p>
+<p>We've built a "thief" character who can steal, lie, hide, and navigate the urban underworld, and she has a <em>reason</em> to do these things, to take risks and get in trouble. Notice she still can't pick locks or climb very well. <em>Level One</em> doesn't give you abilities you didn't choose, and that's intentional. Those skills can come later as the story demands, after she's earned some more <a href="karma.md">Karma</a>…or not, if she decides she doesn't want them.</p>
+<p>She doesn't fight very well, but she can always just use her base Level of 2, and she <em>can</em> use the skills she <em>does</em> have - she can taunt with Performer, give herself <em>social</em> advantages that apply in a fight, and possibly cut someone so deep with a biting comment that they decide to retire from the conflict! In <em>Level One</em> you have options…</p>
+<p>At only Level 2 she's pretty green and weak, but she has more spine than some. She can take a <em>small</em> hit or setback and press on, but she's still fragile. She'll need to be careful, and get some <a href="karma.md">Karma</a> under her belt, but that's easy, as we'll see.</p>
+<h1>Core Mechanics</h1>
+<p>If "rules-light" is your game, you've probably seen enough at this point to improvise your way through, but there's lots more to learn.</p>
+<p>A lot of the time you won't need any "mechanics" at all. You've built an interesting character with motivations and talents, and until you try something where success is uncertain and failure has <em>meaningful</em> consequences you can soar through the story on tasty snacks and tabletop banter… but sooner or later you're probably going to want the dice.</p>
+<h1>Dice &amp; Tests</h1>
+<h2>Dice and Tests - The Heart of the System</h2>
+<p>Rolling is simple. Effective Level, or EL, determines how generally competent you are <em>for a particular task</em>, and all modifiers tweak that number. When the GM asks for a test, always start with your base Level. Add as many modifiers as make sense. Would a <a href="roles.md">Role</a> apply? Would another <em>also</em> apply? <a href="maneuvers.md">Maneuvers</a>? Active boosts? Situational bonuses? Add them all.</p>
+<p>Is the character hurt? Blindfolded? Holding their breath against poison? Those modifiers <em>reduce</em> EL for that action. If your EL drops below 1, the task becomes impossible until you find ways to boost it back above zero. Negotiate disagreements. Once you establish the EL for a task, that's your target number. If it's something that <em>can't</em> be done without training, only add as much base Level as your rank in the relevant <a href="roles.md">Role</a> - your best, if you have more than one.</p>
+<p>As ability increases, your best results improve and your chances of failure decrease unless you choose your dice <em>very</em> badly. If you're using zero-base dice, which we'll discuss later, then a zero always generates no effect. No matter how well you choose your dice, if every die starts at zero there's always <em>some</em> chance for a zero total. If you default to an even/odd Simple Pool, even numbers are zero and odd numbers are 1's. This makes it simple and easy.</p>
+<p>EL can be radically different from task to task, for a lot of reasons. You might switch from using a <a href="roles.md">Role</a> you're not very good at to one at which you excel, with well-developed <a href="maneuvers.md">Maneuvers</a> to apply. Circumstances and <a href="actions-and-timing.md#boost-actions">Boosts</a> can improve it, while Harm and opposing conditions drag it down.</p>
+<p>Success just means rolling better than zero, but at or under your EL; anything higher is beyond your current ability and fails. Within that range, roll as <em>high</em> as possible for maximum effect that is hardest to resist or oppose. A roll of 1 technically "succeeds", but it's weak and easy to thwart since rolled result is seldom the final effect. Even if you punch well, your opponent might still block better. The actual effect is your roll <em>minus any opposition or resistance</em>, which means ties go to the defender.</p>
+<p>Think of it this way: even at EL1 you can roll one even/odd die for a 50% chance of success. Without opposition to push back, nothing would <em>ever</em> be harder than a coin flip, which is absurd. Opposition is what creates real challenge, turning that basic 50/50 into genuine uncertainty.</p>
+<h1>Resistance and Opposition</h1>
+<p>Of course NPCs fight back, but even inanimate objects can present obstacles. A simple, well-oiled lock has low EL, while a complex or rusted mechanism presents a much higher challenge. The world rolls dice against your ambitions; <em>everything</em> pushes back. When you attempt something hard, roll your EL against the <em>task's</em> EL. The higher roll wins.^<a href="#fn1">1</a></p>
+<p>If you roll a 7 and the task rolls a 4, you achieve 3 points of effect, <em>as long as you didn't go over your own EL</em>. It works the same whether you're fighting a goblin, picking a lock, or sweet-talking a guard, with one very important difference: some things just resist, but others hit back. (We keep mentioning that you can roll over your EL; we'll explain how that's possible later.)</p>
+<p><strong>Resistance</strong> is passive. It never uses your turn, but it also never <em>generates</em> effect without special circumstances. If a locked door isn't trapped it's not likely to hurt you, though it still has a job to do. When Resistance wins a roll all effect is canceled out; this is the same whether something is resisting the actions of your character, or your character is the one resisting. Locks don't open, rocks won't budge, or poison just doesn't work. It might be boring or frustrating, but it's simple.</p>
+<p><strong>Opposition</strong> means whatever you are trying to affect is trying to affect you back and it's a contest. The <em>difference</em> becomes the winner's effect. Sometimes the door <em>is</em> trapped. If your opposition rolls higher, <em>they</em> get effect against <em>you</em>!</p>
+<p>This absolutely means that on "your turn" the goblin can hurt you, but the important distinction is that Resistance doesn't use a turn - it's virtually always a free action. If the goblin hits you on your turn it's because they spent their turn opposing you, and it takes skill and planning to get another turn. (You can get multiple turns if you're good enough - that's called <em>Splitting</em>, we'll get to that in a bit.)</p>
+<h4>Notes</h4>
+<ol>
+<li><strong>Fails</strong><br />
+   If either fails and the other succeeds, then the winner gets their whole rolled result as their effect.<br />
+   If <em>both</em> fail… well, that's just sad. Try to make it sound cool anyway, ok? <a href="#ref1">↩</a></li>
+</ol>
+<h1><em>"Can I Try Again?"</em></h1>
+<p>When you roll dice, we assume you're already doing your best, so the answer is: "<em>It depends.</em>"</p>
+<p>Something needs to change before another attempt makes sense. Find a better approach, get help from an ally, or discover new information. Create a <a href="actions-and-timing.md#boost-actions">Boost</a> - a preparatory action that improves your position for the next roll. If you have a <em>better</em> EL, you can try again unless the GM thinks you're just metagaming the system (this isn't a video game.)</p>
+<p>Without change, you'd just get the same result. The exception is when the GM tells you your effect <em>accumulates</em>.</p>
+<h1>Beyond All-or-Nothing: Accumulated Progress</h1>
+<p><em>(or "How To Eat An Elephant 101")</em></p>
+<p>Important obstacles rarely fall to a single roll. You have to keep chipping away at them; it's a little like whittling down a foe's health one strike at a time. This model works far beyond combat.</p>
+<p>If a door is barred and you decide to chop it down with an axe the GM might assign a Difficulty Level. (If you see DL instead of EL it just means whatever's resisting you is probably inanimate/passive.) You hit the door, and it rolls resistance only. If it rolls better than you it has resisted your effort, but if you get even a little bit of effect it weakens the door.</p>
+<p>The only reason to do it this way is when <em>time matters</em>. If there's no time pressure, why roll? If you have an axe, you can eventually get through any normal door. Most of the time it's better to go straight to opposition. If the door rolls against you and <em>wins</em> then it generates effect!</p>
+<p>What kind of effect could a door generate? Noise, for one thing; guards might respond to enough racket. We already mentioned traps. Maybe the recoil rattles your teeth. Maybe the effect isn't literally <em>from</em> the door, but the room is filling with water and you will drown if you don't get it open in time...</p>
+<p>In a rooftop chase where you must leap an alley, a single roll trivializes a jump that could potentially kill you. Treat it like a fight! If it wins a roll you hit the far wall, knock the wind out of yourself (a <em><a href="types-of-harm.md">Complication</a></em>), and scramble to hold on, but pull yourself up and continue the chase. A worthwhile^<a href="#fn1">1</a> obstacle is a challenge in its own right, rolling against you with purpose and potential.</p>
+<h4>Notes</h4>
+<ol>
+<li><strong><em>Worthwhile</em> Obstacles…</strong> It's also nice to have a few easy tasks now and then. Sometimes an otherwise trivial roll can surprise you and start a whole new adventure! Usually, though, the easy stuff can just be skipped. DON'T drag the game down by making an entire battle scene out of each and every time the dwarf orders another beer. <a href="#ref1">↩</a></li>
+</ol>
+<h1>Actions and Timing</h1>
+<p>Most things a character tries don't require a roll. Walking into a tavern, drawing a sword, having a conversation - if there's no meaningful obstacle or uncertainty, just describe what happens and enjoy it. The dice only come out when the outcome matters and success isn't guaranteed.</p>
+<p>When you do need a roll, it will be one of these.</p>
+<h2>Free Actions</h2>
+<p>Some rolls don't use up your turn - they happen in response to something else or alongside your main action. Common examples include resistance rolls when someone tries to affect you, quick perception checks to notice something happening around you, or memory rolls to recall relevant information mid-conversation. Opposition rolls for free actions are implicitly <em>also</em> free so long as you have a reasonable justification...</p>
+<h2>Direct Actions</h2>
+<p>Tackle a problem head-on. Punch the guard, climb the wall, haggle a lower price. Each success chips at whatever stands in your way, making the obstacle weaker and your next attempt easier. When you accumulate enough progress you've overcome the challenge entirely.</p>
+<h3>Direct Opposition</h3>
+<p>Opposition rolls are really just a compression of the usual sequence. Rather than you acting and them resisting, then them acting and you resisting, instead both sides roll simultaneously and compare results. This keeps the action flowing and reduces "swinginess" while representing the give-and-take of real conflict, but you can always do it the long way if you want.</p>
+<p>Note that actions <em>can</em> be simultaneous, which is what opposition shows. Even if you do each piece separately, they can be happening at the same time; that's one way <em>both</em> combatants can kill each other. Another is bleed damage, or poison… Be as detailed and realistic as you need.</p>
+<h2>Boost Actions</h2>
+<p>Sometimes the smart move is to take a minute and set yourself up for success first, rather than charging ahead. <em>Create</em> the advantage you need - study your opponent's fighting style, offer the client a drink to soften him up, maybe drink a potion first, or set up incense and sigils before a summoning. Success gives you a temporary bonus that makes a following action more likely to succeed.</p>
+<p>Opposition to a Boost works the same way. If you think someone is studying your fighting style, you can always try to disguise it. The client might turn the tables by accusing you of trying to get him drunk.</p>
+<h3>Boosts With Duration</h3>
+<p>For boosts that should last longer than the next action, use the <a href="wagered-actions.md">Wagering</a> mechanic to dedicate persistent points - generally such fabricated Boosts last the rest of the scene, though the GM may rule that it goes away sooner, or lasts longer, as appropriate.</p>
+<h3>Free Action Access to Pre-existing Boosts</h3>
+<p>Sometimes there's already something available in the scene that would help an action, just sitting there waiting to be added to a roll. Players can always propose an idea, and if the GM agrees he can declare the roll to use/incorporate that Boost as a free action. If you see that the knight has backed himself up to the fallen log, it's reasonable to body slam him back in the hope that he'll trip over it - the log is an environmental factor the player can roll as a free action, because it takes <em>no time to set up</em>. The value of the roll is added to the attack EL, and can be included in splits or <a href="wagered-actions.md">Wagered</a> effects.</p>
+<h1>Resistance</h1>
+<p>Resistance is virtually always a free action - it doesn't use up your turn. When someone tries to impose an effect on you, you get to resist. This is true whether you're resisting magic, poison, intimidation, or just a punch in the gut. Your natural toughness, willpower, and/or training might be enough to shrug off what they're trying to do to you.</p>
+<p>The limitation is that if you're taking advantage of the free action, you don't get to impose effect in return. Resisting a punch is just grunting and taking it, tightening up your muscles and breathing through it, maybe dodging, but even if you win by a <em>lot</em> the excess is lost unless you have some special trick to change the rules. If you punch back with that roll, that's not resistance, it's opposition, and it would take a turn. Resistance defends - it doesn't attack back, which is why it's a free action.</p>
+<p>A common example is defending against multiple attackers. Any defense that can't hurt your attacker back is resistance rather than opposition - you're just trying to mitigate their success, so it's a free action, meaning you can use it again, and again… This is why splitting your EL to put a little into active defense is usually such a good bargain in the action economy…</p>
+<p>What's <em>splitting</em>? I'm so glad you asked!</p>
+<h1>Multiple Actions</h1>
+<p>You can almost always defend as a free action as many times as required. If you don't know it's required you might not be able to apply bonuses like <a href="roles.md">Roles</a>, but at worst you should always be able to use base Level.</p>
+<p>Sometimes, though, you want to do more than one thing on your turn, like hit more than one opponent, or rally the troops while you continue to fight, and those aren't free actions. Here's how you do those things.</p>
+<h2>Splitting Actions</h2>
+<p>Doing multiple things is distracting, but your EL determines how much you can divide your attention. Split your EL among the intended actions; each portion becomes the EL for <em>that</em> action. Have EL8, but want to hit two goblins? Give them each a roll at EL4. Simple.</p>
+<p>Roll them in whatever order serves the story.</p>
+<p><strong><a href="actions-and-timing.md#free-actions">Free Actions</a></strong><br />
+The swashbuckling hero is a classic trope, laughing as he defends against a room full of the villain's henchmen. Points spent on defense can only be applied against attacks you knew were coming, but skill allocated exclusively for <em>defense</em> can still be used as a free action, and so used more than once in the same turn.</p>
+<p><strong>Cross-<a href="roles.md">Role</a> Splits</strong><br />
+Sometimes you'll want to use different abilities in an exchange: rally your troops while fighting, shoot while moving but maintain stealth, or memorize a floor plan while charming an heiress. The trick for this is <em>order</em> - not to do them, but to assign points of split.</p>
+<p>Calculate the EL for each role. Start with the <em>lowest</em> EL and assign points to it, then reduce ALL your ELs by that amount. Move to the next lowest remaining EL and repeat until you've assigned points to everything you want to attempt.^<a href="#fn1">1</a></p>
+<p><strong>Split Action Example</strong><br />
+A PC has Performer EL10 and Warrior EL20. She assigns 8 points to rally her gang (Performer), reducing <em>both</em> ELs by 8 to Performer EL2, Warrior EL12. She assigns 6 points from Warrior to attack, reducing both by 6; Performer is eliminated, Warrior becomes 6. She puts her remaining 6 Warrior points into active defense for the turn.</p>
+<h4>Notes</h4>
+<ol>
+<li><strong>Barrage Effect?</strong> Generally, splitting is most helpful when targeting different opponents or using different abilities. Multiple attacks on the same target with the same ability gain very little numeric benefit - the advantage is tactical flexibility, not raw numbers. It can mitigate possible failure by offering several rolls, but you can get more value at less risk from combining them and manipulating the dice pool. Describe it however you like - one roll might have been the accumulated effect of four smaller hits, if you prefer. <a href="#ref1">↩</a></li>
+</ol>
+<h1>Wagered Actions</h1>
+<p>When you're doing something familiar, you can focus on a specific outcome. This lets you <em>wager</em> some of your EL toward a specific effect, but those dedicated points reduce your chance of success.</p>
+<p>Remove the wagered points from your EL before rolling. If your action succeeds and generates <em>any</em> effect after opposition/resistance, add your dedicated points to the intended result. Successfully wagered points are applied <em>after</em> opposition. The wagered points are counted as having succeeded only if the roll succeeds without them.</p>
+<p><strong>Residual Effects</strong><br />
+This is the mechanic used for <a href="actions-and-timing.md#boosts-with-duration">Persistent Boosts</a>. Wager the points you want on the <a href="actions-and-timing.md#boost-actions">Boost</a> and succeed with what's left after they are set aside, get a named bonus that can be added directly to the EL of other relevant rolls for the rest of the scene.</p>
+<p>This can also be the setup for a separate standalone roll. If you set someone on fire, the fire continues to attack on its own. Instead of a Persistent <a href="actions-and-timing.md#boost-actions">Boost</a>, it is a residual condition that gets to make rolls of its own to burn the target, while he rolls to control the damage and put it out.</p>
+<p><strong>Contingent Splits</strong><br />
+When action B requires you first succeed at action A. If A happens, roll B with the points set aside for it - otherwise they are wasted. This is technically just a normal split, but it's a wager since you have to succeed on the first roll to <em>get</em> the second one. If you want to catch the incoming potion bottle and throw it back at the evil alchemist, you don't get to throw it unless you succeed in catching it <em>without it blowing up</em>.</p>
+<p><strong>Dedicated Effect</strong><br />
+This is the "called shot" rule. Wager points of your EL and specify what you are attempting to do with them. If the roll succeeds without them, those points <em>all count as having succeeded</em>, and you get to specify something about the effect they cause. You can say those points are dedicated <a href="types-of-harm.md">Injury</a> instead of just <a href="types-of-harm.md">Complication</a>, even when unarmed - narrate the justification, such as trapping a punch and overextending the elbow to break it. Name the result so it can be used in the narrative. As long as what you want is reasonably something that might have happened anyway with the narrative excuse, it's good.</p>
+<p>If you want to do something that has <em>other</em> side effects, you must allocate points for those as well. Poking someone in the eye to cause <a href="types-of-harm.md">Injury</a> <em>seems</em> like it should also give them a <a href="types-of-harm.md">Hindrance</a> since it's hard to see now. That would require another allocation of points wagered, but it isn't necessary; just narrate the impaired vision into the reduced effectiveness due to the <a href="types-of-harm.md">Injury</a> itself.</p>
+<p>You can never dedicate more points than your rank in the relevant <a href="roles.md">Role</a>.</p>
+<p><strong>Dedicated Effect Example - crunching some numbers</strong><br />
+A warrior with EL10 wagers 3 points as dedicated Harm.<br />
+She removes those from her EL, leaving 7 for her attack roll.<br />
+She rolls a 5.</p>
+<p>Her target defends with a 4, leaving only 1 point of effect, but her 3 points of dedicated effect are all treated as successes and are added for a total of 4.</p>
+<p>If the target uses their armor to boost their resistance EL by 1 it cancels her only point of unmodified effect, so the wagered points are wasted. You don't get the advantage if you can't succeed without them.</p>
+<h1>Resolving Combat: A Two-Axis Model</h1>
+<p>You've now met every piece of a fight: <a href="resistance-and-opposition.md">opposition and resistance</a>, <a href="multiple-actions.md">splitting</a> your EL, and <a href="wagered-actions.md">wagering</a> for a guaranteed effect. This page puts them together into the single picture you actually use each exchange. There are no new rules here - just a clearer way to see the ones you have.</p>
+<h2>Two Axes, Not Two Modes</h2>
+<p>Every exchange, your EL is a budget you divide along <em>two axes</em>:</p>
+<ul>
+<li><strong>Offense</strong> - points aimed at <em>specific targets</em> . An attack is per-target.</li>
+<li><strong>Defense</strong> - one pool, <em>reusable</em> for the whole exchange.</li>
+</ul>
+<p>That's the whole decision. <a href="resistance-and-opposition.md">Opposition</a> and <a href="resistance.md">resistance</a> are <em>not</em> a third thing you pick from a menu; they're simply what happens when your offense meets a foe who did, or did not, aim offense back. If they swung at you too, the two attacks contest each other - that's opposition. If they didn't, your attack lands against whatever defense they set aside - that's resistance. Same dice, same turn; the label just describes the geometry.</p>
+<h2>The Two Layers</h2>
+<p>Because you allocate <em>both</em> buckets, a single engaged exchange can put an attacker through two hurdles at once:</p>
+<ol>
+<li><strong>The contest.</strong> Your offense against their offense. The higher roll wins and the <em>difference</em> is its effect. This is the clash of blades, the riposte - either fighter can come out ahead.</li>
+<li><strong>The defense.</strong> Whatever effect leaks through to you then meets your <em>separately allocated</em> defense pool, rolled fresh. This is the shield-block, the duck-and-cover.</li>
+</ol>
+<p>So to actually harm a careful foe - one who both swings and guards - you must clear <em>both</em>: win the contest <strong>and</strong> beat the defense roll. This is why a skilled, self-preserving fighter is such a brick wall, and why "I hit them really hard" so often still doesn't land. When someone "punches back," that costs them a slice of their turn (it's an attack of their own), which is exactly <em>why</em> the smart fighter splits a little into a reusable defense rather than spending everything on the swing.</p>
+<h2>Defense Is a Reusable Soak; Offense Is a Threat</h2>
+<p>One defense allocation rolls fresh against <em>every</em> point of effect that reaches you this exchange - whether it leaked through a contest or came from an attacker you never engaged. That makes even a little defense an enormous bargain against <em>many</em> attackers: the swashbuckler's single guard turns aside the whole room, again and again, as a free action.</p>
+<p>Offense, meanwhile, does double duty. The points you aim at a foe force <em>them</em> to hold defense back or eat your effect - taxing their budget. Your attack protects you indirectly, by making the enemy split their attention too. A creature with strong offense and no defensive skill is still well-guarded whenever it can <em>oppose</em>: its attack's margin keeps it safe. It is only fragile against attacks it cannot answer.</p>
+<h2>Spend Everything on Offense and You Are Naked</h2>
+<p>The corollary is sharp. Any foe you did <em>not</em> engage, against whom you allocated <em>no</em> defense, hits you with <strong>no roll to stop it at all</strong> - only <a href="armor.md">Armor</a>, <a href="gear.md">Plot Armor!</a>, or a <a href="luck.md">Luck Token</a> can save you. The all-out attacker is the easiest target on the field. "The point is not to get hit," and offense alone does nothing to keep you from getting hit by someone you aren't threatening.</p>
+<h2>The Same Engine, Simple or Deep</h2>
+<p>At its simplest, combat is the whole system in miniature: assign a difficulty, roll, compare, narrate. The deep game is the <em>same numbers</em> with these two axes in mind - multi-target offense, a reusable defense, wagers, and shaped dice pools. A table that wants quick, cinematic fights and a table that wants tense, realistic tactics are playing the identical engine at different resolutions. That duality is the whole point.</p>
+<blockquote>
+<p><strong>Worked Example - One Engaged Foe</strong></p>
+<p>You have EL10 and face a single enemy. You allocate <strong>5 to offense, 5 to defense</strong>. You both swing, so it's a contest: your offense rolls a <strong>2</strong>, theirs a <strong>3</strong>. They win the contest by <strong>1</strong> - that one point of effect now comes at you.</p>
+<p>But your 5 points of defense are still sitting there, reusable. You roll them fresh against that single leaking point. As long as your defense roll is at least <strong>1</strong>, the hit is canceled and no harm lands. You "lost" the exchange of blades and <em>still</em> took nothing, because you bought the second layer. Spend all 10 on offense instead, win the contest by a mile, and the <em>next</em> foe you didn't engage drops you for free.</p>
+</blockquote>
+<h1>Luck Tokens</h1>
+<p>Luck Tokens are a metacurrency to alter events in the story. Every session you begin with a number of Luck Tokens equal to your base Level. These can be spent for several things:</p>
+<ul>
+<li>Use a Token <em>at any time</em> during a scene to change a roll to your best possible result, even after the dice have hit the table and you’ve seen what the opposition has rolled, as long as the final resolution hasn’t been decided. This “best possible result” is usually the value of your EL, but you can make it less; just remember that it doesn’t change what success means.</li>
+<li>Use one as <strong><a href="gear.md">Plot Armor</a>!</strong> to have your armor take ALL the damage from a hit (see <a href="gear.md">Gear</a> .)</li>
+<li>Use one to absorb and negate a point of Harm you are about to take – sometimes Luck can be better than armor.</li>
+<li>Use one to power a <a href="maneuvers.md">Maneuver</a> ; most <a href="maneuvers.md">Maneuvers</a> don’t need them, but some are so strong they require limits.</li>
+<li>Use one to power a particularly potent spell! They also make great bargaining chips for deals with spirits… “Grant me the breath of thy life for a minute’s span…”<br />
+  (More powerful spirits will want actual <a href="karma.md">Karma</a> ; weak ones will be happy with booze, or incense, etc.)</li>
+</ul>
+<p>Characters get one Token at the start of every scene if they have room, but can’t have more than their Level. GMs can also award Tokens for good roleplay, entertaining comments, helpful record keeping, or anything else they feel is worthy.</p>
+<p>The GM starts the session with a number of Tokens equal to the number of players, or as many as the highest Level PC (whichever is more) and also gets one Token per scene. He may use them on behalf of the opposition on any test.</p>
+<h1>Picking Your Dice</h1>
+<p><em>Level One</em> is designed around having fun and telling great stories together. Some groups love the tactile satisfaction of rolling handfuls of dice, others prefer quick resolution that keeps dramatic scenes flowing, and still others enjoy the strategic mini-game of optimizing their rolls. All of these approaches work! Pick what sounds fun for your table.</p>
+<h2>Simple Pool</h2>
+<p>Perfect for groups who want fast resolution and love throwing lots of dice!</p>
+<p>Use any dice you want as long as it has an even distribution of even/odd numbers. Roll dice equal to your EL and count the odd numbers. That’s it! At EL 8, grab eight dice (or eight coins) and let them fly. This is a great option if you don’t have zero-base dice, because it doesn’t matter what the actual numbers are. Just count the dice that roll odd numbers and you’re done.</p>
+<p><em>Extra Effort:</em> If you want to try for better odds of a higher value, just add a few <em>extra effort</em> dice. You decide how many! The more you roll this way, the better the odds of getting a result closer to half the number of dice, but now you’ve introduced the possibility of rolling higher than your EL, which always completely fails with a total effect of zero. This is a risk/reward decision that you totally control. The benefit is finer control of your rolls; the cost is the chance of total failure, and loss of potential critical successes – see <a href="extreme-results.md">Extreme Results</a>.</p>
+<h2>A Closer Look</h2>
+<p>If you like simple things, you can skip this section. If you’re a Dice Goblin like some of us, and enjoy pondering the complexities of permutations with your glorious math-rocks, then this may be for you…</p>
+<p>Evens/odds is just a simple way to use any dice you have as zero-based <strong>d2</strong>s…or more accurately, <strong>d[0-1]</strong>s. There’s generally no reason to ever roll fewer than your EL, since every die you add halves the current odds of rolling a zero total. Extra Effort by adding more dice is just manipulating the curve for better odds at a better roll.</p>
+<p>You don’t <em>have</em> to limit yourself to even/odd dice. If you really want finer control over the intensity of that bell curve, you can use any dice you like!</p>
+<h2>AnyDice</h2>
+<p>This is great for groups who enjoy “min-max” tactical optimization and don’t mind a bit of math.</p>
+<p>For reference, when talking about zero-base dice, we’ll use a special notation. If <strong>3d8</strong> means roll three “normal” eight-sided one-based polyhedra dice, then to be crystal clear, when talking about the equivalent zero base versions, we’ll say <strong>3d[0-7]</strong>. You can get this with “normal” dice by just reading the highest side as a zero, or by rolling every die as 1dX-1.</p>
+<p>If you are using AnyDice System zero-base dice, there is <em>literally no</em> constraint or restriction, though there are certainly some guidelines that will help.</p>
+<p>Want to play it safe at EL13? Just use a Simple Pool and roll 13 dice – <strong>13d[0-1]</strong>. With so many dice it’s <em>extremely</em> unlikely you’ll roll a zero – literally better than 8000 to 1 odds. It <em>cannot</em> roll over your EL13 so it’s “safe”, but the odds are equally low of rolling an optimal 13. The more dice you throw, the more the results will tend toward the middle of the range.</p>
+<p>Feeling lucky? Try <strong>4d[0-5]</strong>! The range is 0-20, but the average is 10, so it’s <em>pretty</em> safe, and you could hit that 13 perfectly… or roll too high and fail. <strong>3d[0-7]</strong> (0-21) is swingier and more dangerous. Your choice, your risk, your story.</p>
+<p>The dice selection becomes its own strategic layer for players who enjoy that kind of tactical and statistical thinking, while players who just want to roll can grab the most obvious combination and keep the story moving. It really is <em>any</em> dice, so you can still use a Simple Pool, or a single die.</p>
+<h2>Using Standard Dice</h2>
+<p>If you’re using standard dice instead of zero-based ones, you can just treat the highest number on each die as zero. A <strong>d6</strong> becomes 0-5 (the 6 reads as zero), a <strong>d8</strong> becomes 0-7, and so on.</p>
+<h3><em>I’d Really Rather Not Deal With All This…</em></h3>
+<p>If you absolutely do NOT want to buy new dice we won’t judge. We also completely understand if you don’t want to keep reminding yourself <em>“No, the 8 on my </em><em>d8</em><em> is a zero now…”</em></p>
+<p>The easy solution is Simple Pool, rolling even/odd as zeros and ones. If you don’t like that either, then just <em>use normal dice</em>. You won’t be able to roll zeroes, so it changes the dynamics a bit, but…</p>
+<p>The system is robust enough that if you really don’t want to use zero-base dice, <em>it still works</em>. The opposition system still lets enemies cancel out your success, so you can just use what you have and let the results take care of themselves. At EL4 roll a <strong>d4</strong>, and the GM will use the same rules for your opposition. It won’t be as elegant, but if it works for you, we promise not to tell anyone.</p>
+<h3>Other Alternatives</h3>
+<p>Use a deck of playing cards – if you read red/black as even/odd, just deal out however many you want and count the black cards, then shuffle them all back in.</p>
+<p>You can use practically any random number generation system. Make a spinner if it makes you happy.</p>
+<p>You can even play completely <em>without</em> dice. It will radically change the feel and function of the game, because it shifts more of the mechanics onto tactics and strategy, and making <a href="actions-and-timing.md#boost-actions">Boosts</a> is going to become very important, but there have been some very successful game systems that have done this.</p>
+<p>Just figure out your EL and the opposition, and assume that’s what you each rolled. <em>No swinginess, no randomness;</em> it’s all about the tactics and the story. Have fun!</p>
+<h1>Extreme Results</h1>
+<p>An optional rule, extreme rolls add drama. You can only get <em>extreme</em> results if you roll at least three dice. This <em>does</em> apply to Simple Pool if you want!</p>
+<h2>Extreme Failure</h2>
+<p>If all the dice roll <em>zeroes</em> you don’t just fail – you fail catastrophically. (You can’t get extreme fails without zero-based dice, but opposition can still get extreme successes against you.) Players are encouraged to suggest results, but the GM will make the final decision, and it should be something <em>bad</em> for the character. Not only do they <em>utterly fail</em> to accomplish anything good for that action, it has negative side effects.</p>
+<p>It always means your turn is <strong>over</strong>. If you had other actions in progress, they are aborted. You <em>cannot</em> use a <a href="luck.md">Luck Token</a>, though you <em>may</em> still use actual <a href="karma.md">Karma</a> – but only to make it just a <em>simple fail</em>.</p>
+<p>There should also be some immediate consequence. This should get more severe as the number of dice rolled increases. For just three dice, maybe the character fumbles and drops his weapon, lockpicks, reins, etc. As more dice are used, maybe the weapon breaks, or in extreme cases they get so off-balance they get no passive resistance rolls for the turn!</p>
+<h2>Extreme <em>Success</em></h2>
+<p>The GM is within his rights to say that you can’t roll extreme successes without zero-based dice, since you can’t roll extreme fails, but it’s <em>not</em> a rule.</p>
+<p>If all the dice are individually the highest value each could roll <em>AND</em> the total is <em>exactly</em> your EL, you have not merely succeeded, but done so <em>spectacularly</em>. Suggest results, but it should be something <em>good</em> for the character. Not only do they accomplish their best-possible result for that action, it has additional <em>positive</em> side effects.</p>
+<p>Extreme successes always award a free <a href="luck.md">Luck Token</a> if the character has room. If opponents use a <a href="luck.md">Luck Token</a> to resist or oppose, get an immediate <a href="karma.md">Karma</a>.</p>
+<p>There should also be some immediate beneficial result. This too should get more extreme as the number of dice rolled increases. For just three dice, maybe the character disarms their opponent, or creates a <a href="actions-and-timing.md#boost-actions">Boost</a> for the next roll <em>in addition to</em> their intended effect. As more dice are used, maybe they get to assign the results as a split (see <a href="multiple-actions.md">Multiple Actions</a>) <em>after</em> the roll, or in extreme cases their target gets no opposition or passive resistance at all!</p>
+<h2>Observations</h2>
+<p>Note that if you are using <em>AnyDice</em> unconstrained rolling, or even just Simple Pool <em>Extra Effort</em> dice, the player can and often will choose dice pools that do not total up to exactly their EL if every die rolls its highest result. This lets them manipulate their odds of getting better rolls at a certain amount of self-chosen risk, but it means they <em>cannot get extreme successes</em> on those rolls. They can still get extreme <em>fails</em> if they are using zero-base dice!</p>
+<p>It is also worthy of note that as characters become <em>more</em> competent they become <em>less</em> likely to get extreme rolls of any kind. This is by design. Extreme rolls are accidents of chance – a fumble, or a fortuitous windfall. They aren’t the result of skill. Skillful rolls are more dice, and optimal results are achieved by <em>foregoing</em> extreme successes with extra effort. You never have to play with that sort of dice-fiddling, but it’s an available tactical choice.</p>
+<h1>Harm and Recovery</h1>
+<p>We've mentioned "Harm" but haven't really addressed what it means. Let's fix that.</p>
+<h2><em>Where Are My Hit Points???</em></h2>
+<p>Take a deep breath… There aren't any.</p>
+<p>When you take harm, it just creates a modifier that reduces your effectiveness on future rolls by counting directly against your EL. Get punched hard enough to rattle your brain, it makes everything harder until you recover. When total harm <em>exceeds</em> your base Level, you're Down - or at least <a href="feeling-down.md"><em>Staggered</em></a>. Once Down, you can only make resistance rolls until you recover.</p>
+<p>Yes, this means anyone can be taken out easily at low levels. That's intentional - heroes grow into their legendary toughness. If that's a little too much realism for you, use the <a href="feeling-down.md"><em>Staggered</em></a> rule, but you should still pay attention to the odds and give yourself time to become awesome.</p>
+<p>The point in Level One is <em>not to get hit</em>, which is what <a href="armor.md">Armor</a> and <a href="luck.md">Luck Tokens</a> are for!</p>
+<h1>Three Types of Harm - and One More</h1>
+<p>All these reduce EL, but Hindrances don't count toward being Down; they are situational obstacles, not <em>damage</em>.</p>
+<p><strong>Hindrances</strong> can't be recovered at all. They must be dealt with through the story, be they Blindness spells, being bound with ropes, or any condition that requires specific narrative action to remove. That is both good and bad, because it means you can get rid of them in the middle of a fight, but healing magic and similar assistance doesn't apply to them (unless it does.)</p>
+<p><strong>Complications</strong> disappear completely on any successful recovery roll. Think short-term fatigue, vertigo from a head blow, a numbed limb, or losing your nerve after a good scare. <em>"Wait, what? How does 'losing my nerve' count as damage?"</em> It reduces your effectiveness, it's something care can fix, and most importantly, it can take you out of a fight. If something convinces you to quit, then it applies. Powerful illusions can count as Complications; if you think you are dead, you pass out, but given time and care you will wake up and realize it wasn't real. A successful intimidation attack that shakes your confidence is as good as a crack to the head.</p>
+<p><strong>Injury</strong> requires daily recovery rolls and heals slowly over time. Bruised ribs, sprained ankles, bleeding gashes, and broken bones are certainly real damage that can put you out of commission.</p>
+<h2>A Clarification</h2>
+<p>It is important to understand that Harm <em>does not mean damage</em>. Harm is anything which impedes a character, or takes away their <em>agency</em>. Psychological Harm that results in ongoing loss of confidence can be as debilitating as a broken leg. Social Harm that affects a character's reputation can certainly make them less effective in many situations, though if the <em>character</em> doesn't care about such things, the GM should be careful to apply something that <em>would</em> matter to them. Most of these can and should still be handled with the usual rules.</p>
+<p>Still, it is possible that the result someone takes from losing a resistance roll is an Imposed <a href="hooks.md">Hook</a>. See the section on <a href="hooks.md">Hooks</a> for more info.</p>
+<h1>Feeling Down?</h1>
+<p>When <a href="types-of-harm.md">Injury</a> plus <a href="types-of-harm.md">Complications</a> <em>exceeds</em> your base Level, you're Down. This doesn't necessarily mean unconscious, but you can't act meaningfully in the scene any more. The only rolls you can make are passive resistance - no more charging into battle or casting spells until you recover enough to get up and about. If the GM allows any actions besides that, it must be <a href="actions-and-timing.md#free-actions">Free Actions</a>. Note that in some cases, Down merely indicates a loss of agency - the character might have been charmed, and forced to run away.</p>
+<p>You stay Down until your total harm drops <em>below</em> your Level again.</p>
+<h2>Staggered</h2>
+<p>If that's too restrictive for your preferred style of play, keep going! You can keep taking turns until you simply have no positive EL left. At that point, you are definitely Down.</p>
+<p>Until then, as long as you can keep making rolls with positive results the GM might let you keep struggling, but any time you completely fail to achieve any positive effect for two consecutive turns you have to make a resistance roll against your current Harm to stay conscious.</p>
+<p>Yes, this means positive EL in ANY <a href="roles.md">Role</a> counts toward staying awake enough to at least call out advice to your teammates!</p>
+<h1>Recovery</h1>
+<p>Not all Harm is created equal. The difference isn't just in the numbers, but in how you get over it.</p>
+<p>We've already said <strong><a href="types-of-harm.md">Hindrances</a></strong> require story solutions, not just dice. Dispel the blindness, cut the ropes, or find whatever narrative fix makes sense. <strong><a href="types-of-harm.md">Complications</a></strong> can be recovered whenever the GM says so. They might offer a recovery after a fight, when you get medical attention, after real rest, or when you do something that specifically addresses the problem. Any success at all wipes out explicit <a href="types-of-harm.md">Complications</a> entirely, or at least their modifiers.</p>
+<p><strong><a href="types-of-harm.md">Injury</a></strong> is typically recovered once per day, and usually only with proper food and rest. Roll against your current <a href="types-of-harm.md">Injury</a> total. Success reduces your <a href="types-of-harm.md">Injury</a> by the amount of effect you generate. Severe injuries take longer to heal because they fight back harder. The GM is completely within their rights to refuse most bonuses on this roll; Warriors train to do damage and <em>avoid</em> damage, not to sit quietly while it mends, so don't expect that <a href="roles.md">Role</a> to help.</p>
+<h2>Making It Dark</h2>
+<p>If you want a grittier, more dangerous and historically accurate world, you can treat them as opposition rolls and let the wounds bleed, or fester and worsen. This makes all <a href="types-of-harm.md">Injury</a> more dangerous and all healing more precious, but it makes the game more "realistic".</p>
+<h2>Second Wind</h2>
+<p>Players may say they want the character to back out of the fight for a minute to catch their breath. Even if it makes sense, it still isn't a Recovery. They might manage to catch a second wind, but that's just a roll for a Persistent <a href="actions-and-timing.md#boost-actions">Boost</a> to negate the effect of some of their hurts, and it will go away at the end of the scene. The actual Recovery roll will still have to overcome all their damage. <em>No Recovery Mid-Fight without Magick!</em></p>
+<h1>The Oddball Rule</h1>
+<p><a href="recovery.md">Recovery</a> rolls seem like they don't quite follow the rules.</p>
+<p>You're not crazy, but they do. They are passive, <a href="actions-and-timing.md#free-actions">Free Action</a> rolls that can happen even if you are unconscious, but that do <em>generate effect</em> - like perception checks. Wounds resist them in turn, but typically cannot generate effect against the character without extreme rolls.</p>
+<p>It's semantics. Feel free to find another way to say it, or tweak them so that they make more sense to you. Currently, all characters have the <a href="chargen.md"><em>Conceit</em></a> that they get recovery rolls, which use slightly modified rules to better model real-world healing.</p>
+<h1>The Messy Reality</h1>
+<h4>…Of Not Knowing How Bad It Is</h4>
+<p>Most harm during a fight is a mix of real injury and temporary shock. You won't know how badly you're actually hurt until the adrenaline wears off.</p>
+<p>Smart GMs call for a recovery roll soon after a conflict, once characters have had a chance to breathe and bind their wounds, maybe eat or even sleep. Any Harm that disappears was just <a href="types-of-harm.md">Complications</a> like temporary stunning and pain. Whatever remains is real <a href="types-of-harm.md">Injury</a> that needs time to heal. (Any actual <a href="types-of-harm.md">Injury</a> there from before can't be healed this way.)</p>
+<p>This means it's better to describe Harm as "stunned and bleeding" rather than "gaping chest wound." Let the post-fight recovery roll reveal how much was just shock and how much was real damage. Again, you can tune your game by deciding whether to include Harm penalties in this roll; for new damage, the default is to assume it's all <a href="types-of-harm.md">Injury</a> until you know otherwise, but if you want your heroes to <em>walk it off</em> more easily, don't include unclassified Harm.</p>
+<p>If it doesn't make sense for an <a href="types-of-harm.md">Injury</a> to impede the character for ongoing rolls, perhaps it should have been treated as <em>explicit</em> <a href="types-of-harm.md">Complication</a>, but instead of designating it as <a href="types-of-harm.md">Injury</a>, the GM may also convert it to a temporary <a href="hooks.md">Hook</a>. This allows it to be applied thematically, to alter the character's motivations, but to be normally Recoverable.</p>
+<h1>So…What Do I Roll?</h1>
+<p>Always include base Level in <a href="recovery.md">Recovery</a> rolls, but not much else will count. Being a Warrior doesn't teach you to heal faster! What <em>does</em> count is <a href="actions-and-timing.md#boost-actions">Boosts</a> from Healers providing care, but <em>those do not stack</em>. Additional Healers may try to <a href="actions-and-timing.md#boost-actions">Boost</a> their senior member so that <em>their</em> roll is better, but only one bonus may be applied for medical care (though other rolls might usefully reduce relevant situational <a href="types-of-harm.md">Hindrances</a>.)</p>
+<p><a href="recovery.md">Recovery</a> rolls are expected to include the penalties of accumulated <em><a href="types-of-harm.md">Injury</a></em>.</p>
+<p>GMs who want a harsher game can include active <a href="types-of-harm.md">Complications</a>. For a lighter game, don't include Harm penalties in recovery rolls at all. Including unclassified Harm in the rolls to determine how much was <a href="types-of-harm.md">Injury</a> will make a game grimmer and deadlier, while leaving it out is more cinematic. If adding a second roll for armor, they don't <em>have</em> to use the same sets of modifiers…</p>
+<h1>Advanced Options</h1>
+<p><strong>Simple Rolls</strong>: you can skip the resistance roll for wounds and just use the current wound modifier. This is harsh but fair; effect is what you can roll above that. If you want to make characters heal faster, use the current wound score as the DL to resist the recovery.</p>
+<p><strong>Magical Healing</strong>: Spells can heal <a href="types-of-harm.md">Injury</a> point for point of effect after resistance, but you might prefer not to make light of damage taken. If you want to make healing cost, those points transfer to the healer as <a href="types-of-harm.md">Complications</a>. You might also (or alternately) limit magical healing to one extra recovery attempt per game day to prevent it from trivializing physical consequences.</p>
+<p><strong>Realistic Healing</strong>: Cap recovery at one point per <em>day</em> regardless of roll results if you want to emphasize the cost of violence. This has the side effect of making lower level characters heal relatively incapacitating wounds much more quickly, but this is because they are so much easier to incapacitate. Higher level characters are harder to take Down, and more likely to <em>receive</em> Harm that takes longer to heal. Being a hero has costs.</p>
+<p><strong>Lethality</strong>: By default, Down characters become unconscious or incapacitated, but don't die unless the group agrees they should. Attackers can easily finish off Down opponents if they take the time, but most fights end when the threat is neutralized. If you want <em>grimdark</em>, assume all potential <a href="types-of-harm.md">Complications</a> become shock and maybe coma if a Down character isn't successfully treated in a reasonable amount of time. In game terms, no treatment means all points are treated as <a href="types-of-harm.md">Injuries</a>.</p>
+<p><strong>Critical <a href="types-of-harm.md">Complications</a></strong>: A fail on a recovery is always bad. An <em>extreme</em> fail is <em>really</em> bad. The wound has developed an additional problem such as an infection, and the wound gets to make an attack roll. These mean serious and possibly permanent alterations! To resolve them, the <em>character</em> must accept a relevant <a href="hooks.md">Hook</a>.</p>
+<h1>The Kamikaze Blitz</h1>
+<p>An optional rule for the desperate, the dedicated, and the doomed.</p>
+<p>We've said that <a href="actions-and-timing.md#direct-opposition">opposition</a> is a <em>compression</em> - a single contest standing in for what is really a separate attack and a separate defense, rolled the long way. Most of the time the compression is exactly what you want: it's fast, and it quietly assumes both fighters are trying not to die. But sometimes a character <em>isn't</em>. The zealot, the cornered guardian, the warrior who has chosen an honorable death - for them, the Blitz takes the system at its word and opts <em>out</em> of the compression.</p>
+<h2>Opting Out of Opposition</h2>
+<p>Any combatant may declare that an engagement resolves as <strong>pure attack-and-defense</strong> instead of opposition. The actor declaring it forces this for that pairing - you cannot make someone's offense protect them against your abandon. When opted out:</p>
+<ul>
+<li><strong>Your attack dice no longer protect you.</strong> Only points you actually allocated to <em>defense</em> can soak a hit. In normal opposition your offense does double duty; opt out and that free protection is gone.</li>
+<li>Each side's attack is rolled against the other's defense, separately. <strong>Both fighters can land full effect in the same beat</strong> - the mutual kill, the <em>ai-uchi</em> , that ordinary opposition can never produce.</li>
+</ul>
+<p>The result is more swing, more lethality, more dependence on luck. This is <em>not</em> a free statistical equivalent of opposition; opposition is genuinely <em>safer</em>, because offense pulls double duty there. Opting out trades that safety for the chance to trade blood for blood. The lethality is the point.</p>
+<h2>The Blitz</h2>
+<p>The Blitz is the all-or-nothing version: <strong>allocate zero defense and pour your entire budget into one attack.</strong> Offering no defense at all is so far outside what any sane opponent plans for that it works like a kind of ambush - nobody expects a foe to simply <em>let</em> themselves be killed. That shock earns you an instantly available, no-preparation <strong>free-action Boost</strong>:</p>
+<p><strong>Roll a Boost right now, as a free action, and add its successes as bonus dice to your EL for the attack.</strong> This genuinely raises your ceiling - an EL6 strike with a 4-success Boost is rolled, and kept, at EL10. Its value scales with your own skill, so a dangerous fighter's death-strike is genuinely dangerous, while a mook's flailing sacrifice mostly just gets him killed. (<a href="dice.md">Extra Effort</a> is a separate, stackable choice with its own overshoot risk; you may layer it on the Boost or the attack, but it is not the same thing.)</p>
+<p>Against a foe who guards, the Blitz is largely soaked - but a pure defender deals little back, since defense dice are dice not spent attacking. Push the defense knob up and the whole engagement gets <em>less</em> lethal for everyone; two Blitzers, on the other hand, slaughter each other. That is the gambit's honest math: you make yourself impossible to ignore, and you accept that you will probably not survive being right.</p>
+<blockquote>
+<p><strong>Worked Example - Ai-uchi at the Daimyo's Door</strong></p>
+<p><strong>Kazuo</strong> (Level 2 / Warrior 2 / Swords 2 → EL6), no armor, his wakizashi broken and his luck nearly spent, will not let the assassin reach his lord. <strong>Komi</strong> (Level 3 / Warrior 3 / Katana 3 → EL9) is armored and known by reputation. Kazuo is outclassed and knows it, so after two careful exchanges he chooses an honorable <em>ai-uchi</em> over certain defeat.</p>
+<p>He rolls his Kamikaze Boost with 2 <a href="dice.md">Extra Effort</a> dice for a <strong>4</strong>, adds it to his EL, and attacks at <strong>EL10</strong> (with 4 more Extra Effort dice) for an <strong>8</strong>. Komi, expecting a man to fight for his life rather than throw it away, has split normally: <strong>4 attack, 5 defense</strong>. Because Kazuo opted out, it's pure attack-and-defense:</p>
+<p>Komi's blade goes into Kazuo's shoulder - Kazuo doesn't even try to deflect it. Komi's 4 attack rolls a <strong>2</strong>; with no defense, Kazuo takes 2 - his Down threshold is 3, so that leaves him standing, barely. Kazuo's <strong>8</strong> lands; Komi's 5 defense rolls only <strong>3</strong>, leaving <strong>5</strong> on his one-point men-yoroi mask - <strong>4</strong> gets through, past his Down-3. Unless Komi spends a <a href="luck.md">Luck Token</a> for <a href="gear.md">Plot Armor!</a>, the younger samurai has a story to tell about the night he saved his daimyo.</p>
+</blockquote>
+<p><strong>For the GM:</strong> when a player character pulls this off against a worthy foe, think hard before spending an NPC's <a href="luck.md">Luck Token</a> to cheat the ending. The Blitz is meant to earn its win. If no one ever dares it, it isn't doing its job.</p>
+<h1>How Characters Improve</h1>
+<p>"Good judgment comes from experience,<br />
+and a lot of that comes from bad judgment."<br />
+- Will Rogers</p>
+<p>We've mentioned Karma a lot already. Hopefully the idea is intuitive enough that it hasn't been confusing, but let's pin it down.</p>
+<h2>Karma Is Experience</h2>
+<p>Characters grow through <em>Karma</em> - the currency of experience and epic moments. You'll accumulate Karma during play and spend it to permanently improve your abilities.</p>
+<h3>Earning Karma</h3>
+<p>Note that the GM <em>can</em> earmark any given Karma for Level (or a specific <a href="roles.md">Role</a> or <a href="maneuvers.md">Maneuver</a> if from an Extreme roll) to keep the party power levels from diverging too much; don't overuse it.</p>
+<p><strong>Attendance</strong><br />
+Generally, each player should get one point of Karma every session just for showing up. It's ok to give it at the beginning of the session against the possibility that they will need it for an emergency, though they can't spend it on advancement till they get some downtime, usually at the end of the session.</p>
+<p><strong><a href="hooks.md">Hooks</a></strong><br />
+Characters earn a Karma the first time a <a href="hooks.md">Hook</a> is triggered in a session. This should happen at least once every session. If the group wants to allow characters to generate more Karma faster, they may do this a number of times per session equal to the current rating of the <a href="hooks.md">Hook</a>, so a <a href="hooks.md">Hook</a> 2 can be triggered twice for Karma before it starts yielding <a href="luck.md">Luck Tokens</a> instead.</p>
+<p>If at the end of a session the GM realizes they haven't triggered any <a href="hooks.md">Hooks</a> for a character, give them a Karma as an apology.</p>
+<p><strong>Extreme Rolls</strong><br />
+If you are using Extreme rolls in your game, you might want to allow characters to learn from their more dramatic successes and mistakes. Any time a character rolls an Extreme result, <em>whether success or failure</em>, mark the specific skill. At the end of that session, credit 1 Karma toward the <a href="roles.md">Role</a> or <a href="maneuvers.md">Maneuver</a> if one was used; or base Level if no <a href="roles.md">Role</a> was involved. This Karma is considered spent toward advancing that score, whichever it is. If the roll involved synergy from multiple <a href="roles.md">Roles</a> and/or <a href="maneuvers.md">Maneuvers</a>, let the player choose which gets the Karma.</p>
+<p><strong>Just Good Fun</strong><br />
+The GM should feel free to hand out a Karma just like <a href="luck.md">Luck Tokens</a> for any truly fun thing the character (or possibly even the player!) does during the game. A heroic sacrifice? Awesome tactics that carry the day? A brilliant joke that leaves everyone laughing? Great role-play that <em>wasn't</em> related to a <a href="hooks.md">Hook</a>? Anything the group agrees is worth it should earn an extra Karma, as long as they aren't getting "too many". If they are spending their Karma to benefit other members of the party, relax that rule and make sure they are rewarded for that too.</p>
+<h1>Spending Karma</h1>
+<p><strong>Level advancement</strong> costs <a href="karma.md">Karma</a> equal to your new Level. Going from Level 1 to Level 2 costs 2 <a href="karma.md">Karma</a>. Level 2 to Level 3 costs 3 <a href="karma.md">Karma</a>, and so on. You must be Rested and completely healed from all <a href="types-of-harm.md">Injury</a> before you can increase your Level.</p>
+<p><strong><em>Everything else</em></strong> that costs <a href="karma.md">Karma</a> requires <a href="karma.md">Karma</a> equal to its <em>current</em> rating to advance. A <a href="roles.md">Role</a> at Rank 2 costs 2 <a href="karma.md">Karma</a> to advance to Rank 3. No ability can exceed your current Level - that's your absolute ceiling. <a href="maneuvers.md">Maneuvers</a> can't exceed the <a href="roles.md">Role</a> on which they are based.</p>
+<p>By default, you can only increase one score per session, and only at the end… but if you're playing a short campaign, advance when it makes sense. If the group settles into a <em>down time</em> period, the GM can call everything before that session and allow advancements, then start a new session, so long as the PCs are <em>Healed</em> and <em>Rested</em>. Characters can't keep more <a href="karma.md">Karma</a> than the cost of their next Level. It's ok to receive more than you can keep, as long as you spend it before the next session.</p>
+<p>You can spend <a href="karma.md">Karma</a> as emergency luck. When you want a <a href="luck.md">Luck Token</a> but can't spend one, such as in <em>downtime</em> between sessions, use actual <a href="karma.md">Karma</a> instead. As a last-ditch effort, if you absolutely can't succeed any other way on a vitally important roll during a session, use a <a href="karma.md">Karma</a> to <em>Succeed</em>, even when a Token wouldn't be enough. When the PC has spent every other resource and is about to fall to their absolute doom in the bottomless ravine, a <a href="karma.md">Karma</a> will let them catch the edge by their fingertips and crawl out before collapsing.</p>
+<p>Sometimes it's good to have a little <a href="karma.md">Karma</a> on your side.</p>
+<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+</body></html>
