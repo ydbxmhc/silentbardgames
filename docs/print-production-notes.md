@@ -81,3 +81,14 @@ automatically. Use Canva for the **cover and the marketing**, not the **guts**.
 - Art at **300dpi** for print (web art is screen-res); bleed + crop marks at export;
   imposition is downstream (POD usually handles it from a reader-order PDF).
 - Commit from Windows (sandbox git can't write to the repo here).
+
+
+## Later edits
+
+**2026-07-14 - combat-chain order settled (web + print agree).** The website moved
+*The Kamikaze Blitz* out of the Harm & Recovery tail into the combat run, directly
+after *Resolving Combat* (chain: Resolving Combat -> The Kamikaze Blitz -> Luck Tokens;
+Advanced Options -> Gear closes the gap). It reads as combat-resolution content, not
+recovery. `WIP/core-rules-digest.html` was reordered to match, so the Core booklet and
+the site agree - no intentional divergence here. Advanced Options stays in Harm &
+Recovery on both (its content really is healing/recovery options).
