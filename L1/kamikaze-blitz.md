@@ -37,5 +37,5 @@ Against a foe who guards, the Blitz is largely soaked - but a pure defender deal
 
 ---
 
-- [← Previous: Advanced Options](advanced-options.md)
-- [Next →: Gear](gear.md)
+- [← Previous: Resolving Combat](resolving-combat.md)
+- [Next →: Luck Tokens](luck.md)

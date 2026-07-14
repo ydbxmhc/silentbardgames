@@ -19,5 +19,5 @@ The GM starts the session with a number of Tokens equal to the number of players
 
 ---
 
-- [← Previous: Resolving Combat](resolving-combat.md)
+- [← Previous: The Kamikaze Blitz](kamikaze-blitz.md)
 - [Next →: Picking Your Dice](dice.md)

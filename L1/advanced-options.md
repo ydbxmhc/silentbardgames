@@ -17,4 +17,4 @@ Core Mechanics
 ---
 
 - [← Previous: So…What Do I Roll?](what-do-i-roll.md)
-- [Next →: The Kamikaze Blitz](kamikaze-blitz.md)
+- [Next →: Gear](gear.md)

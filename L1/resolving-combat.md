@@ -47,4 +47,4 @@ At its simplest, combat is the whole system in miniature: assign a difficulty, r
 ---
 
 - [← Previous: Wagered Actions](wagered-actions.md)
-- [Next →: Luck Tokens](luck.md)
+- [Next →: The Kamikaze Blitz](kamikaze-blitz.md)

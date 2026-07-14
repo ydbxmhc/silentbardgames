@@ -12,5 +12,5 @@ Keep inventory simple. Characters are competent people who pack what they need f
 
 ---
 
-- [← Previous: The Kamikaze Blitz](kamikaze-blitz.md)
+- [← Previous: Advanced Options](advanced-options.md)
 - [Next →: What Gear Does](what-gear-does.md)
