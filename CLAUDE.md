@@ -309,4 +309,22 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
   from Namecheap to Cloudflare (registrar stays Namecheap; just change the
   nameservers), then use Cloudflare Email Routing (free) to forward
   `you@silentbardgames.com` to an existing inbox. Add Gmail "send as" or a
-  mailbox provider (Zoho/Workspace) later if sending *from*
+  mailbox provider (Zoho/Workspace) later if sending *from* the domain is
+  needed. Keep GitHub Pages DNS records DNS-only at first so its TLS cert keeps
+  working. Bonus: once DNS is on Cloudflare, binding R2 to
+  `assets.silentbardgames.com` becomes trivial.
+
+### Search (Lunr.js)
+- **Client-side full-text search, no backend.** Prebuild a JSON index from page
+  content (reuse the `html2md` / `extractFragment` DOM-walking; the `.md`
+  mirrors are a ready corpus), ship it as a static file, query it in the browser
+  with Lunr. Search box in the header; results show page title + snippet.
+  Self-host the Lunr script on the CDN. Fuller writeup in
+  `docs/dynamic-side-panels.md` section 13.
+- **Curated alias / synonym map** (author-maintained, e.g. `search-aliases.json`).
+  Maps common alternate or "wrong" terms to the right target so a query the
+  rulebook text wouldn't otherwise match still lands -- the system renames
+  familiar concepts, so players will search the D&D-ish word. Examples:
+  "hit points" --> Harm & Recovery, "armor class" --> Armor, "mana / spell
+  points" --> Focus. Use it to expand the Lunr query and/or show a "See also"
+  suggestion above the results. Adding a new redirect = one line in the JSON.
