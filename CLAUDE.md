@@ -284,6 +284,15 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
   resolves, no reroll). This removes the apparent contradiction between "guaranteed" and
   "opposed contest." Action: reword the Release definition in the Spellweaver text to
   "no reroll," and confirm the resist/oppose choice carries over to it.
+- **Hooks cut both ways -- an opponent may use your Hook against you.** The site only
+  states the character-side half (`hooks.html`: "add your Hook's current rank to any
+  roll where it's relevant; the GM may also apply it for free when it obviously fits").
+  The reciprocal is missing: when a Hook (a drive, fear, addiction, or nature) is
+  relevant *against* the character, the GM may add its rank to the opposing roll, or to
+  the situation's DL. It's implied by the two-edged framing (Hooks complicate you; the
+  GM triggers them hard and often) but never stated as a mechanic. Action: add a
+  clarifying line to `hooks.html`/`.md` (and fold into the source) making the
+  against-you application explicit. Surfaced 2026-07-14.
 
 ### Canon integration / source refactor (Tricks now canon)
 - **Tricks is live and canon** (`L1/tricks.html` + `.md`, wired into `nav.html`
