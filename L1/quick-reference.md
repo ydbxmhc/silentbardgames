@@ -95,7 +95,6 @@ Down threshold = Level + 1 Harm
 
 **Story Point.** Declare a plausible story event or fact. Negotiate with the GM - it must fit the fiction.
 
-**Wager Auto-Succeed.** Spend a Token to automatically succeed on a Persistent Wager roll - the wagered dice become a full scene Boost without rolling.
 
 ---
 
