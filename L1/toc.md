@@ -80,6 +80,7 @@
   - [Self-Hooking And Table Courtesy](self-hooking-and-table-courtesy.md)
   - [Common Pitfalls](common-pitfalls.md)
   - [Hooks And Growth](hooks-and-growth.md)
+  - [Imposed Hooks](imposed-hooks.md)
   - [Hooks On Credit](hooks-on-credit.md)
   - [Tricks - Your Signature Moves](tricks.md)
 - [Nonhuman Characters](nonhuman.md)

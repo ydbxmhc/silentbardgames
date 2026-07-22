@@ -14,7 +14,7 @@
 
 **Characters**
 
-[Building a Character](chargen.md) [Hooks](hooks.md) [How They Work in Play](hooks-how-they-work.md) [Crafting Good Hooks](crafting-good-hooks.md) [Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.md) [Common Pitfalls](common-pitfalls.md) [Hooks and Growth](hooks-and-growth.md) [Hooks on Credit](hooks-on-credit.md) [Tricks](tricks.md) [Nonhuman Characters](nonhuman.md) [Nonhuman As A Hook](nonhuman-as-a-hook.md)
+[Building a Character](chargen.md) [Hooks](hooks.md) [How They Work in Play](hooks-how-they-work.md) [Crafting Good Hooks](crafting-good-hooks.md) [Self-Hooking and Table Courtesy](self-hooking-and-table-courtesy.md) [Common Pitfalls](common-pitfalls.md) [Hooks and Growth](hooks-and-growth.md) [Imposed Hooks](imposed-hooks.md) [Hooks on Credit](hooks-on-credit.md) [Tricks](tricks.md) [Nonhuman Characters](nonhuman.md) [Nonhuman As A Hook](nonhuman-as-a-hook.md)
 
 [Roles](roles.md) [Roles - What You Do Well](roles.md) [The Nature of Roles](the-nature-of-roles.md) [Mechanical Function](mechanical-function.md) [Maneuvers](maneuvers.md) [The Sweet Spot](the-sweet-spot.md) [Examples in Practice](examples-in-practice.md) [Role Synergy](role-synergy.md)
 

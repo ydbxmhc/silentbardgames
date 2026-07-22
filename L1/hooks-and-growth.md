@@ -35,4 +35,4 @@ Shy" as your character learns more caution and develops a new kind of problem.
 ---
 
 - [← Previous: Common Pitfalls](common-pitfalls.md)
-- [Next →: Hooks on Credit](hooks-on-credit.md)
+- [Next →: Imposed Hooks](imposed-hooks.md)

@@ -43,5 +43,5 @@ write up a description for goblin culture and physique, and run with it. That
 
 ---
 
-- [← Previous: Hooks on Credit](hooks-on-credit.md)
+- [← Previous: Tricks](tricks.md)
 - [Next →: Nonhuman As A Hook](nonhuman-as-a-hook.md)

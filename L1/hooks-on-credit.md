@@ -95,5 +95,5 @@ servitude and the price of power.
 
 ---
 
-- [← Previous: Hooks and Growth](hooks-and-growth.md)
-- [Next →: Nonhuman Characters](nonhuman.md)
+- [← Previous: Imposed Hooks](imposed-hooks.md)
+- [Next →: Tricks](tricks.md)
