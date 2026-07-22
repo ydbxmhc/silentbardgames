@@ -8,7 +8,9 @@ It's not all about shooting obvious targets.
 
 ### Reconnaissance and Intelligence
 
-Snipers often serve as the eyes and ears of their groups. Their training in observation and patience makes them natural scouts. They can use their [Role](../roles.md) for:
+Snipers often serve as the eyes and ears of their groups. Their training in
+observation and patience makes them natural scouts. They can use their
+[Role](../roles.md) for:
 
 - Spotting distant threats or opportunities
 - Reading enemy movement patterns and numbers

@@ -4,9 +4,18 @@ Social Roles
 
 # Common Performer Maneuvers
 
-The classic trope for Performers is a bard or minstrel working on a literal stage, but politicians are Performers too, as are "good cop/bad cop" watchmen, loan shark enforcers intimidating debtors, street hucksters performing with 3-card monte, priests debating theological points, and virtually every merchant who haggles.
+The classic trope for Performers is a bard or minstrel working on a literal
+stage, but politicians are Performers too, as are "good cop/bad cop" watchmen,
+loan shark enforcers intimidating debtors, street hucksters performing with
+3-card monte, priests debating theological points, and virtually every
+merchant who haggles.
 
-The most effective Performers understand that their greatest performances happen when the audience doesn't realize they're watching a show. True mastery lies not in obvious manipulation, but in making people feel genuinely heard, understood, and inspired to act, whether it's placing a bet, confessing a crime, or just coming to their feet for the resounding applause of a nice long standing ovation.
+The most effective Performers understand that their greatest performances
+happen when the audience doesn't realize they're watching a show. True mastery
+lies not in obvious manipulation, but in making people feel genuinely heard,
+understood, and inspired to act, whether it's placing a bet, confessing a
+crime, or just coming to their feet for the resounding applause of a nice long
+standing ovation.
 
 ### Artistic Expression
 

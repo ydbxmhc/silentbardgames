@@ -10,7 +10,9 @@ Say your character has a rank 2 [Hook](hooks.md) of *Protect the Innocent*. Deal
 - Earn [Karma](karma.md) when you refuse a profitable bribe because it would harm common folk
 - Get an automatic bonus of its rank of 2 (GM's call) on *any* roll to deal with a threat to workers' families!
 
-[Hooks](hooks.md) make you *better* at the things your character cares about most, while creating the kind of complications that drive the stories you want to tell.
+[Hooks](hooks.md) make you *better* at the things your character cares about
+most, while creating the kind of complications that drive the stories you want
+to tell.
 
 ---
 

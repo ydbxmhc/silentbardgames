@@ -4,9 +4,15 @@ Combat Roles
 
 # Common Warrior Maneuvers
 
-Warriors will specialize their combat expertise in different ways. Remember, these are examples - feel free to create your own based on your character concept and the guidelines above if these don't work for you.
+Warriors will specialize their combat expertise in different ways. Remember,
+these are examples - feel free to create your own based on your character
+concept and the guidelines above if these don't work for you.
 
-Each represents expertise that transfers between related situations. A Warrior with *Polearms* understands reach and leverage whether wielding a spear, halberd, or improvised staff. Someone trained in *Dirty Fighting* can find dishonorable advantages in any combat, from tavern brawls to formal duels. These are just a few examples.
+Each represents expertise that transfers between related situations. A Warrior
+with *Polearms* understands reach and leverage whether wielding a spear,
+halberd, or improvised staff. Someone trained in *Dirty Fighting* can find
+dishonorable advantages in any combat, from tavern brawls to formal duels.
+These are just a few examples.
 
 ### Weapon Categories
 

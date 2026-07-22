@@ -4,7 +4,10 @@ Combat Roles
 
 # Common Sniper Maneuvers
 
-Good [Maneuvers](../maneuvers.md) can be any weapon that works beyond melee range, or that helps them create and maintain tactical advantages. Exotic weapons like lassos and boomerangs usually require [Maneuvers](../maneuvers.md) of their own.
+Good [Maneuvers](../maneuvers.md) can be any weapon that works beyond melee
+range, or that helps them create and maintain tactical advantages. Exotic
+weapons like lassos and boomerangs usually require
+[Maneuvers](../maneuvers.md) of their own.
 
 ### Weapon Mastery
 

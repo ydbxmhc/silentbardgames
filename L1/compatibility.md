@@ -4,11 +4,16 @@ License
 
 # Make Your Own Level One Material
 
-The Level One rules are free to build on under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - adventures, settings, hacks, supplements, commercial or not. To help players find work that uses the system, you’re welcome to mark yours as compatible.
+The Level One rules are free to build on under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - adventures,
+settings, hacks, supplements, commercial or not. To help players find work
+that uses the system, you’re welcome to mark yours as compatible.
 
 **You may** state that your work is “Compatible with Level One,” and link to [silentbardgames.com/L1/](https://silentbardgames.com/L1/).
 
-**Please don’t** use “Level One,” “Silent Bard,” or our logos in a way that suggests we made, reviewed, or endorsed your work. Let *your* title be the banner, with the compatibility line as a credit beneath it.
+**Please don’t** use “Level One,” “Silent Bard,” or our logos in a way that
+suggests we made, reviewed, or endorsed your work. Let *your* title be the
+banner, with the compatibility line as a credit beneath it.
 
 **Do include** the attribution line below somewhere in your work.
 

@@ -8,7 +8,9 @@ Social Roles
 
 **Psychological Operations** - Creating paranoia through barely-glimpsed presence, using the fear of being watched to manipulate behavior
 
-**Support Operations** - Discovering security measures before team infiltration, creating diversions that draw attention away from primary objectives
+**Support Operations** - Discovering security measures before team
+infiltration, creating diversions that draw attention away from primary
+objectives
 
 ---
 

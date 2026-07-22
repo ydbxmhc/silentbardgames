@@ -21,7 +21,9 @@ Swords +2; Parry +1 (an extra bonus when defending with any weapon.)
 Devoted to his calling, he will always seek *nonviolent* solutions, and is compelled to help all.  
 Healer [Maneuver](maneuvers.md): *Treat Contagion 1*  
 Loremaster [Maneuver](maneuvers.md): *Medicinal Lore 1*; a faith-based repository of healing knowledge.  
-Adept [Maneuver](maneuvers.md): *Divine Blessing 1* - Once per day per patient may use a Token to trigger a bonus [Recovery](recovery.md), to a maximum number of times/day equal to the [Maneuver](maneuvers.md) rank.
+Adept [Maneuver](maneuvers.md) : *Divine Blessing 1* - Once per day per
+patient may use a Token to trigger a bonus [Recovery](recovery.md) , to a
+maximum number of times/day equal to the [Maneuver](maneuvers.md) rank.
 
 ### Holy Templar
 

@@ -4,7 +4,11 @@ Roles
 
 # Roles - What You Do Well
 
-If [Hooks](hooks.md) define what drives your character, Roles define what they're capable of. They're broad thematic competencies - not job descriptions, but skillsets your character has developed. We've put these off long enough, but by now you should understand the rules well enough to understand seeing them in action.
+If [Hooks](hooks.md) define what drives your character, Roles define what
+they're capable of. They're broad thematic competencies - not job
+descriptions, but skillsets your character has developed. We've put these off
+long enough, but by now you should understand the rules well enough to
+understand seeing them in action.
 
 ---
 

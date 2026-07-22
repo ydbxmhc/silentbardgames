@@ -6,15 +6,28 @@ Outdoorsman Roles
 
 *- Faster, stronger, higher… better.*
 
-The Athlete transforms their body into a precision instrument, pushing physical capability to amazing heights through discipline and relentless practice. Fleet of foot, swimming like fish, they move with the mastery of a virtuoso and master feats of physical excellence: running, jumping, swimming, climbing, lifting, endurance challenges, and maintaining peak performance under stress. Athletes excel at improving their physical limits.
+The Athlete transforms their body into a precision instrument, pushing
+physical capability to amazing heights through discipline and relentless
+practice. Fleet of foot, swimming like fish, they move with the mastery of a
+virtuoso and master feats of physical excellence: running, jumping, swimming,
+climbing, lifting, endurance challenges, and maintaining peak performance
+under stress. Athletes excel at improving their physical limits.
 
-They aren't combatants - boxing and wrestling are Warrior territory, as are pitching and hitting a ball. Athletes might compete, but they focus on doing something *better* - running *faster* or *further*, jumping *higher*, lifting *more*. They excel at physical challenges: outrunning pursuers, swimming treacherous currents, scaling walls, or carrying what seem like impossible loads. Their training creates advantages that enhance other abilities, but the Athlete [Role](../roles.md) focuses on physical excellence for its own sake.
+They aren't combatants - boxing and wrestling are Warrior territory, as are
+pitching and hitting a ball. Athletes might compete, but they focus on doing
+something *better* - running *faster* or *further*, jumping *higher*, lifting
+*more*. They excel at physical challenges: outrunning pursuers, swimming
+treacherous currents, scaling walls, or carrying what seem like impossible
+loads. Their training creates advantages that enhance other abilities, but the
+Athlete [Role](../roles.md) focuses on physical excellence for its own sake.
 
 Need to lift a gate? Bend those bars? Scale a cliff in record time? Maybe catch that pickpocket? Trust an Athlete.
 
 ## Common Athlete Maneuvers
 
-The best Athletes make physical excellence a way of life. They find ways to achieve more through intelligence and dedication than raw talent alone could provide.
+The best Athletes make physical excellence a way of life. They find ways to
+achieve more through intelligence and dedication than raw talent alone could
+provide.
 
 ### Movement Specializations
 
