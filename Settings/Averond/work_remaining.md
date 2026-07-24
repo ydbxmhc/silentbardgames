@@ -29,6 +29,32 @@ Recovered `agnes-entry.md`, reconciled best-of-both into The Dead:
 - **Prose:** merged - kept the artifact's better lines ("None of it was ever worn or shown. It was hers, and hers was enough"; "someone might steal what she had stolen"; "that was unthinkable") *and* the Manifest's enrichments (garnet-and-pewter, ague-and-grippe). De-duplicated: dropped the mechanics-in-prose (help/fight, wins-slowly) since **How She Works** now carries it, and dropped the bargain-closer since **The Roads** carries it.
 - **Added the full L1 apparatus:** Conceit (*Keep It Secret, Keep It Safe*), **How She Works**, **The Roads**, and a three-tier **In Play**. Placed after the L1 block, before the other system blocks; In Play as the closing coda.
 - Structure choice (for review): apparatus sits with L1 (its home); Fate/Cortex/5e blocks follow; In Play closes. Lee may want it reordered.
+- [ ] **UNCAPPED HINDRANCE (realized 2026-07-22) - Agnes's true teeth.** Harm isn't capped; Hindrance never counts toward Down; therefore Hindrance is **uncapped.** Her compounding Hindrance-on-resistance can drive resistance-EL **below 1 = impossible** - the escape window doesn't narrow, it can *weld shut* (no roll possible).
+  - [ ] **FIX "The Roads / out-will her"** when rewriting: our text says *"it never fully locks - a great roll can still win a contest."* **Wrong** - with uncapped Hindrance it CAN fully lock. Correct it.
+  - Cruelty: because Hindrance ≠ Down-Harm, the victim **never breaks** - fully functional, wholly themselves, one bottomless compulsion. Party **cannot** subdue/exorcise them out of it (not Down-Harm). No "knock out the possessed friend" - the friend is *fine.*
+  - Self-sealing: Hindrance clears only by **story action**, and the story action (resist / be rid of it) is what the Hindrance forbids → **only external rescue** works (sever the Anchor, a Conjuror's ward, an un-Hindered ally drags them off).
+  - `@@ CRAFT CAVEAT - load-bearing:` an uncapped mechanic that can permanently delete player agency is the railroad the In Play note warns against **if misused.** Only works if the early window was *real* and the player watched it close by their own indulgence. Never slam it shut on someone who never had a shot. Scariness and trust are the same knife.
+  - **Not an Agnes-special:** uncapped Harm + Hindrance-not-toward-Down is straight RAW; she weaponizes it like the Zombie weaponizes Complication-immunity. **Headline exhibit for the "right tool for the job" page.**
+  - **Correction: the limit is EL, not Level.** A specialist's relevant EL buys more sessions before resistance breaks - but uncapped means it breaks eventually regardless. High level = slower to fall, not safe.
+  - **The sleeping ambush sidesteps specialty.** She picks the lowest-EL link (counting leverageable Hooks), follows until they *sleep*, and imposes the Hook + a first Hindrance while they resist at **base Level only** (asleep = no relevant Roles, no awareness). Her Possession rolls **EL 6** (Lv2 + Shade 2 + Possession 2) + Boosts vs a base-Level sleeper - she wins the opening walking away.
+  - **The "help" is Karma for advancement** - the player levels their own character by feeding her, which also ranks up the Hook and the Hindrance. The seduction pays in the currency no player refuses.
+  - `@@ HARD GM INSTRUCTION (the safety valve):` the bearer hides the barrette and rationalizes, but **Possession changes visible behaviour** - subtle at first, escalating to unmistakable. The GM is *obligated* to let the table notice. The victim can't self-rescue, so **the exit is the friends** - this is what converts "unbeatable curse" into "race against your friends' attention." Bake in as instruction, not suggestion.
+  - **Friends are her nemesis.** She loads every die (weakest link, asleep, base Level, Boosted) but **can't win them all**; the un-Hindered ally is the one actor she never Hooked. Lone bearer doomed; attentive party not. This is L1's earned counter.
+
+### CROSS-SYSTEM PRINCIPLE - "off-turn effect" translation (2026-07-22)
+**L1 gives reactive effect for free:** defense/resistance is a *free action* and can *carry effect* (impose a Hook/Hindrance on a winning defend), so an L1 creature works *on the player's turn* without spending its own. **No initiative system hands you that for nothing.** To translate any L1 creature that acts off-turn, bolt the effect onto that system's designated off-turn hook:
+- **Fate:** Defend-with-**style** → a *boost* (RAW, but temporary + 3+ shifts only). For a *lasting* aspect on any win → a **Stunt** (e.g. *"on a successful defend vs. revealing/discarding the barrette, place a situation aspect with a free invoke, no style required"*). The stunt IS the license.
+- **5e:** a **Reaction**, or **lair/legendary actions**.
+- **Cortex:** a reaction roll, or a triggered **SFX**.
+Do **not** fake L1's frictionlessness in the initiative systems - the creature *should* feel a hair less effortless there; that's their grain.
+**Recurs immediately:** Agnes's reactive imposition, Vane's *Doomglare* on eye contact, the Hanged Man's every-turn wail, Malisondre interrupting a cast. All want the right off-turn hook per system.
+
+### Concession-as-sacrifice / victim-as-inside-man (2026-07-23, Agnes but general)
+The victim's yield **inverts meaning depending on whether an ally can reach her**: alone it's a tragic retreat; with a rescuer who can cross the Veil it's a **bait play** - the victim throws the fight, narrates his exit so Agnes is fully committed/exposed taking him, and the ally strikes the **Anchor** in that window. Even while losing, his turns aren't empty: he defends to survive and spends actions **feeding the rescuer** (Fate: CaA to pass free invokes; generalize to whatever "help an ally" hook the system has). You mostly *can't* attack Agnes; the sacrifice only buys a window, and the ally must **convert on the barrette** or she's back.
+This is **not Fate-specific** - it applies in most systems; Fate just packages it neatly (Concession + fate-point compensation + CaA-assist). **Author's disposition:** address in more detail in the entry *if there's room*; otherwise fine to **trust the players** to find it. Low priority - a nice-to-surface, not a must.
+
+### `@@ RULES GAP - Second Sight is not True Sight` (surfaced via Agnes, 2026-07-22, bigger than Agnes)
+A spirit **rolls to conceal against a perceiver's Second Sight, even across the Veil** - detection is **opposed, not automatic.** Otherwise every table dips one Conjuror rank, spiritual sight auto-detects everything, and the whole hidden-spirit genre (Agnes, Malisondre, half the Fae) collapses into D&D's "I see it, I hit it." Needs a clarifying line in `roles/conjuror.md` (and/or the detection/Sensitivity material) the way `types-of-harm` needed the Imposed Hooks page. Agnes concealing = Display 2 + Social Camouflage 2 vs the perceiver's roll.
 - [ ] **Still-open Agnes fixes in the OTHER system blocks (not part of this merge):**
   - Cortex: **Crime d8 is under Powers** - it's a Skill. Plus the trait-set/Distinction-vs-minor decision.
   - 5e: **Covetous Wail makes the barrette "repellent"** - that drives the bearer to *abandon* it, contradicting her keep-it goal. Scope it to anti-confiscation (used on someone trying to take it) or cut.
@@ -301,7 +327,8 @@ Notes for whoever runs it:
 ### IMPOSED HOOKS - page drafted 2026-07-22, awaiting author review
 Draft at `SilentBardGames/_scratch/imposed-hooks-draft.md`. Fills a real gap: the live site references Imposed Hooks (`shaping-effects.md` Soulburn, `types-of-harm.md`) but never defines them - already logged as the top task in `docs/mechanics-working-model.md`. Covers: what it is (real Hook, counts *against* you, no Karma yet), imposing≠commanding (mounting pressure, resist each beat), **adoption via self-hooking** (take the Karma = it's yours; the ACT gates it, not sincerity - no GM mind-reading), rename-as-it-evolves (*Charm → Grief and Remorse*), and recovery (decline + resist, ~1 rank/session, rename as it fades). Worked example: *Drop Your Sword*.
 - [x] ~~Author review + place in the Hooks chain.~~ **DONE 2026-07-22 (.md side).** `L1/imposed-hooks.md` created between `hooks-and-growth` and `hooks-on-credit`; prev/next rewired on both neighbors; added to `toc.md` and `nav.md`; draft duplicates removed. **Not committed** (Lee handles push).
-  - [ ] **Still needed for it to go LIVE: the `.html` side** - author `L1/imposed-hooks.html` and add the entry to `nav.html` (the site serves HTML; `.md` are source mirrors). Author's build/publish step.
+  - [x] ~~The `.html` side.~~ **DONE 2026-07-22.** Learned the pipeline: **HTML is source, `.md` are generated from it** (`tools/html2md.py`; no md→html tool). Authored `L1/imposed-hooks.html` in-template (all 12 links resolve), added drawer entry to `nav.html` and TOC entry to `toc.html`, fixed `hooks-and-growth.html` next → Imposed Hooks and `hooks-on-credit.html` prev → Imposed Hooks. HTML chain verified bidirectionally. **Note:** the Tricks "leak" was only ever in the `.md` mirrors - the live `.html` chain was already correct. Commit + push + Pages republish = live.
+  - [ ] *Optional polish:* regenerate `imposed-hooks.md` from the new `.html` via `tools/html2md.py` so the mirror is canonical (the hand-written `.md` is functionally equivalent, just not tool-generated).
   - [x] ~~Tricks orphaned in the linear prev/next.~~ **FIXED 2026-07-22.** `hooks-on-credit.next` → Tricks; `nonhuman.prev` → Tricks. Full chain now bidirectionally consistent: Common Pitfalls → Hooks and Growth → Imposed Hooks → Hooks on Credit → Tricks → Nonhuman → Nonhuman As A Hook → Roles. (.md side; Tricks .html already existed - only the .md prev/next were leaky.)
 - [ ] **Companion dependency:** the *"They Cut Both Ways"* text (approved draft, still not placed in `hooks.md`) - the imposed-Hooks page links to it. Place both together or the link dangles.
 - [ ] Repoint `shaping-effects.md`'s `[Imposed Hook](../hooks.md)` to the new page once it exists.
@@ -319,14 +346,55 @@ When does it make more sense to impose which? "The attacker chooses the Harm" is
 - **Down / Possession** - end the contest / seize control.
 - Natural home: near `types-of-harm.md`, or a GM-craft page. Every bestiary creature's "method" is really a Harm-type choice - this page is the through-line for that.
 
-### `@@ THE NARRATOR - a Voice for the booklet` (noted 2026-07-21, to develop later)
+### Editorial Notes reconciliation (from `Averond-The-Dead-Editorial-Notes-2026-07-22.md`)
+A separate review of The Dead. Heavy overlap with items already tracked here (Vane artifact gone; Covetous Wail backwards; Wear the Field Cortex-leak; Halfling/taxonomy gap; inconsistent Hook ranks) - independent agreement, good sign. **New / notable, not yet tracked:**
 
-An in-world character delivers everything that isn't metadata: introductions, filler blocks, color text, cross-references and inferences between entries. **Needs a format convention that makes it unmistakable which words are his.**
+- [x] ~~"...and another chapter" stray line~~ **cut 2026-07-22** (it was my Agnes-merge over-inclusion).
+- [ ] **BIG: the four-tier structure** - player-facing *folklore* (hedged, sourced, sometimes *wrong*) / GM-truth *description* / *functional* "how to run" block / *system* blocks. **This is the Voice/Narrator made concrete.** Corollary: current descriptions leak solutions (Hanged Man hands over the quest; Vane announces "three endings"; Agnes names the Anchor + calls her a coward) - none survive a player-facing tier unedited. *"Wrong folklore is the prize"* (village swears to bury Agnes's barrette at a crossroads; false; great scene). **Deserves a dedicated session.**
+- [x] ~~Hanged Man 5e damage conflict.~~ **RESOLVED 2026-07-22:** now **2 psychic, save for half** (1 on a success), frighten+flee on a failed save. The confident who stay bleed 1/turn; failures take 2 and run. Applied.
+- [ ] `@@ LEAVE ALONE (review over-corrects):` Vane `Revenant` Role + `Hook: Revenant` is the intentional `nonhuman-as-a-hook` pattern, not a copy-paste bug. Add one clarifying line so reviewers stop flagging it.
+- [ ] `@@ LEAVE ALONE:` "a clever **world**" (Zombie prose) is correct, not "word."
+- [ ] **Common Resource list:** strike the **Zombie** (its 5e is fully custom, no Commoner) and add the **Hanged Man** (only entry that invokes Commoner by name).
+- [ ] **Zombie cross-system persistence gap:** the "pulls its own hand off, heedless" behaviour is L1-Conceit-only. 5e (Undead Fortitude ≠ self-dismemberment) and Fate don't inherit it; Cortex mob-model is closest. Decide per system.
+- [ ] **Zombie Fate needs an In Play note** that *promises* a solution without naming one ("at least four ways to end it, none of them a sword"); reconcile the cosmetic-vs-attrition readings of the red-herring stress track; consider a non-Taken-Out note (RAW: no stress + no consequences reads as Taken Out).
+- [ ] **Malisóndrë 5e header conflict:** header says "Ethereal Predator + Hazard + Fallback Block" (three), note beneath says "requires five subsystems." Pick a number.
+- [ ] **Liora "almost old enough to start thinking about boys"** - commercial/safety: the one line a hostile reader screenshots. Loses nothing if she's just fond of frogs and knows too much about sailing. Trim.
+- [ ] **Cosmetic sweep:** Pell's `### D&D 5e*` orphan asterisk; `---` block-rules present for Pell/Hanged Man then vanish; "the dead" capitalization wanders; `Constrained 1d[0-3]` undefined in the doc; declare the entry *tiers* (sketch vs full vs stub) in the preamble or normalize.
+- [ ] **Hanged Man Boundless:** *Echoes of Dread* and *Spectre's Wail* overlap (both Will → Disquieted) - escalation or redundancy?
+- [ ] **Entry-order bookend** (living man the dead speak *through* → living child who walked back *from* them) - reads as intentional; keep.
+- [ ] `@@` **Spell interruption** (5e concentration on any damage) - flagged for consideration, not action.
 
-- A **Loremaster**, a *less* accomplished **Conjuror**, and **maybe a little Performer** - the last revealing itself only gradually, in subtleties of the writing.
-- Late in the document, an **unexpected twist about him** that makes his own story interesting and retroactively re-colors every entry he wrote.
-- Craft notes toward this (from the medieval-list discussion): he should **assert rather than classify**, admit doubt, distrust his sources, cross-reference associatively, and never claim completeness. Structure without consensus is what buys the age.
-- Details TBD. Parked deliberately.
+### THE VOICE - CONFIRMED 2026-07-22: *Grand Loremaster Tael-Merynd Booksmythe of Crossroads Waest*
+
+**The frame.** Tael-Merynd was visited by an ifrit of his lord **Rikitak** and commanded to set his knowledge to paper for *"those that come from beyond."* He does not understand the prophecy and dares not refuse. (Meta: "those from beyond" = us, the readers/GMs. His creeping fear that he is *beginning* to understand is the thread to pay off late - a scribe who dismisses the prophecy on the page while it keeps him awake.)
+
+**Register.** Readable archaic-*flavored* prose - **not** full dialect (a wall to read). Full Canterbury-Tales dialect is reserved for when he **quotes an old manuscript** (nested, occasional - one layer is flavor, two is a wall). His spelling tics are his own and consistent - protect *Waest*, etc.
+
+**Craft of his fallibility (this is the product, not a bug):** he must **assert rather than classify**, admit doubt, trust some sources too much, ride a pet theory, keep a superstition his learning should have cured, credit the wrong village. Never claims completeness. His errors should be *characterful and consistent* so they accrete into a person the reader loves and doubts at once.
+
+---
+
+### PER-ENTRY STRUCTURE - APPLY TO EVERY ENTRY (the four-tier, as three)
+
+1. **Tael-Merynd's Account** (player-facing, in his voice) - the **folklore**. Hedged, sourced to fishwives and half-remembered rhymes, sometimes flat *wrong*. **NEVER states the solution** (Anchor, quest, seam, true name). *"Wrong folklore is the prize"* - the village swears you bury Agnes's barrette at a crossroads; it's false; it's a great scene. Read-aloud-able.
+   - **Folklore depth tracks fame (2026-07-22).** He writes the *rumor*, not the creature - and how much rumor exists tracks how the world knows the thing. Per entry ask *"how is this known, if at all?"*: a **famous** haunt (Hanged Man) → a page of garbled legend (wrong name, false cure, rival villages each claiming the crime); a **secret** one (Agnes) → a shrug and a category, *"of such shades I have heard, of any certain case I have no honest account"* - the **thinness IS the character**, since her whole power is never being written down; an **unattributed pattern** (Malisondre) → scattered rumors that never cohere into a name, the wrong causes blamed. **Non-uniform by design** - some entries are three sentences and a disclaimer, and the GM Section stands alone. He knows *types* (Zombie) as general lore; *individuals* only as local legend, and ones he never met barely at all.
+2. **GM Section** (out-of-character, system-generic) - the **truth + how to run it**. Merges what is currently the "description" with the "How She Works / The Roads" apparatus. The Anchor, the quest, the seam, the finishers all live HERE.
+3. **System Blocks** - L1 · Fate · Cortex · 5e · Boundless · Shadowdark · Daggerheart, each with system-specific adaptation notes.
+   - **5e approach (decided 2026-07-22): build bespoke traits/effects inline in the stat block.** Modern 5e is lean and homebrew-friendly - a self-defining block is standard practice, not a hack - so 5e can match the other systems' flexibility without the multi-document kludge. Collapse fragmented builds (e.g. Agnes's cursed-item + ghost two-document version) into one self-contained block that simply *states* what it does. *"If shenan, then shenan again."*
+
+**Scale with function:** simple entities (Pell, Hanged Man) get a short folklore note + lean GM note; complex agents earn the full stack.
+
+**Conversion job per existing entry** (our current descriptions are GM-truth in omniscient voice - they *leak the answer*):
+- (a) write a NEW Tael-Merynd account that gives the legend *without* the answer;
+- (b) move the solution-bearing lines (Hanged Man's quest, Vane's "three endings," Agnes's Anchor + "coward") into the **GM Section**;
+- (c) keep the evocative truth-prose as GM Section.
+
+**Status:**
+- [ ] **Preamble in Tael-Merynd's voice** - author writing now (2026-07-22).
+- [ ] Tael-Merynd folklore accounts: **0/7** (Pell · Hanged Man · Zombie · Agnes · Vane · Malisóndrë · Liora).
+- [ ] GM Sections: extract truth + apparatus per creature. **Agnes's apparatus (How She Works / The Roads / In Play) is the model for this tier.**
+- [ ] Decide the **visual/format convention** that marks his words unmistakably (bordered box? distinct heading? framed italics?) vs the GM section vs the blocks.
+- [ ] The **late reveal** about him - what "those from beyond" means, and his fate - seeded in framing notes across entries, paid off at the end.
 
 ### `@@ Flag good spots for cross-references and inferences in the description texts` as they come up during entry work.
 

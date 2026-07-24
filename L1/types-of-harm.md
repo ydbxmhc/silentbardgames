@@ -38,8 +38,8 @@ apply something that *would* matter to them. Most of these can and should
 still be handled with the usual rules.
 
 Still, it is possible that the result someone takes from losing a resistance
-roll is an Imposed [Hook](hooks.md) . See the section on [Hooks](hooks.md) for
-more info.
+roll is an [Imposed Hook](imposed-hooks.md) . See the section on Hooks for
+[more info](imposed-hooks.md).
 
 ---
 

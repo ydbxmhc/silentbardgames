@@ -1,8 +1,15 @@
 # The Dead - Complete Multi-System Reference
 
-Averond is full of spirits - faeries, elementals, demons... and yes, the abiding souls of the restless dead.
+> *Here I, Grand Loremaster Tael-Merynd Booksmythe of Crossroads Waest, set quill to paper  
+ at the command and behest of my lord Rikitak, God of Magick, Fyre, and Stryfe,  
+ his word fetched unto me by the visitation of an ifrit, that I should so preserve  
+ and record my knowledge of the world for "those that come hither from beyond."  
+> I know not what so fearful and terrible a prophecy might mean, but I dare not refuse.  
+> This I know: the great wide wirld of Averond is full of spirits - faeries, elementals, demons...  
+>  and yes, the abiding souls of the restless dead.*
 
-Each entry contains a system-agnostic description followed by stat blocks for Level One, Fate Core, Cortex Prime, Boundless, and D&D 5e. *(Boundless is currently present only for Pell and the Hanged Man; Shadowdark and Daggerheart are not yet written.)*
+Each entry below contains a system-agnostic description in Tael-Merynd's words, and a general system-agnostic play guide followed by stat blocks for Level One, Fate Core, Cortex Prime, Boundless, and D&D 5e.  
+*(Boundless is currently present only for Pell and the Hanged Man; Shadowdark and Daggerheart are not yet written.)*
 
 *The description is the creature*; the blocks are mechanical translations of the same truth.
 
@@ -53,7 +60,7 @@ As a liability, the dead sometimes overwhelm.
 ```
 Weathered Coastal Fisherman (Average)
 Aspects: The Far Shore In His Ears
-Skills: Average (+1) Crafts
+Skills: +1 Average Crafts
 ```
 
 ---
@@ -124,7 +131,7 @@ He has no will; he is a trap.
 
 ```
 Scene Aspect: Eternity on the Gallows
-Provoke: Fair (+2)
++2 Fair Provoke
 ```
 Each exchange under the waxing gibbous moon, once the Spectre's hanging has begun, the Aspect emits a Provoke attack against each character present in the zone. Defend against the psychic assault with Will. Name any Consequence **Reliving His Execution**.
 
@@ -172,7 +179,7 @@ most often be whatever is in their hand as they desperately try to cover their e
 ```
 Trigger. A living creature enters the old gallows-green under a waxing gibbous moon.
 
-Effect. Each creature present makes a DC 13 Wisdom save. On a failure, it takes 1 psychic damage, is frightened, and must use its movement to flee the green. A creature that fails by 5 or more carries the dread as a short-term madness until it finishes a long rest or receives Calm Emotions. This effect occurs again every turn while anyone is present.
+Effect. Each creature present makes a DC 13 Wisdom save, taking 2 psychic damage, or 1 on a success. On a failed save it is also frightened and must use its movement to flee the green. A creature that fails by 5 or more carries the dread as a short-term madness until it finishes a long rest or receives Calm Emotions. This effect occurs again every turn while anyone is present.
 
 Countermeasures. The haunt cannot be harmed, turned, or destroyed. It recurs each waxing gibbous moon until the injustice of the hanging is answered.
 
@@ -216,7 +223,7 @@ Aspects
   Halfling Undead
   Immune to Mental and Physical Consequences
 Skills:
-  Average (+1) Physique
+  +1 Average Physique
 
 Stress: Physical [][][][][][][][][][]
 ```
@@ -259,15 +266,105 @@ Note: INT 6 understates the trapped-mind truth. Handle through narration.
 
 ## Agnes Under a Bushel
 
+> *Dare ye not underestimate the subtil and terribil influence of the Dead upon the  
+ hapless and unwary mortal. With mine own eyes have I beheld the misfortunes that may  
+ befall the unvirtuous! A man I ken a grave-robber, driven to madness for a token of  
+ next to no value; screeching and galloping with hands to the ground, vanishing into  
+ cold banks of mist, the bailiffs ne'er able to take him.* 
+>
+> *Another I'd ne'er ha' known but that I sensed it upon him, and turned my Second Sight  
+ to study his Aura; I spied a child peeping behind him, her hands upon his own, and  
+ his deft and steady fingers, turning a coin between them, fairly glowed in the light of  
+ my Third Eye; clear to me it was that she aided and served his admirable dexterity.*
+
 *She was never pretty, never clever, never wanted. But oh, the things she wanted.*
 
-Agnes was a dirty, unloved child in a hungry season, and she learned early to be small. Unseen under a market stall, unremembered at the edge of a crowd, she took the little nothings no one would miss: a ribbon, a river stone, a crow's black feather. None of it was ever worn or shown. It was *hers*, and hers was enough.
+Agnes was a dirty, unloved child in a hungry season, and she learned early to be small. Unseen under a market stall, unremembered at the edge of
+a crowd, she took the little nothings no one would miss: a ribbon, a river stone, a crow's black feather. None of it was ever worn or shown. It
+was *hers*, and hers was enough.
 
-Then a lady drew out a barrette of garnet and pewter to reset her hair, and Agnes could not resist. She took it. She could never wear such a thing - that was unthinkable - so she hid it, and crept back night after night to hold it in the dark. Away from it, grief gnawed her: someone might steal what she had stolen. With it in her hand, terror: someone might *see*. She wasted away of ague and grippe years later, alone and far from her prize, and her passion would not let her rest.
+Then a lady drew out a barrette of garnet and pewter to reset her hair, and Agnes could not resist. She took it. She could never wear such a
+thing - that was unthinkable - so she hid it, and crept back night after night to hold it in the dark. Away from it, grief gnawed her: someone
+might steal what she had stolen. With it in her hand, terror: someone might *see*. She wasted away of ague and grippe years later, alone and far
+from her prize, and her passion would not let her rest.
 
-The barrette survives her, broken now, and so does she. She haunts it, and is haunted by it - not dwelling inside, but drawn back always to whatever hand holds it.
+The barrette survives her, broken now, and thus does she persist. She haunts it, and is haunted by it - not dwelling inside, but drawn back
+always to whatever hand holds it.
 
-She is, in the end, a coward - a frightened girl who never stopped being frightened. But a cornered coward is a different thing entirely, and she has been carrying that panic for a very long time.
+She is, in the end, a coward - a frightened girl who never stopped being frightened. But a cornered coward is a different thing entirely, and she
+has been carrying that panic for a very long time.
+
+### General Notes
+
+***Keep It Secret, Keep It Safe*:** Agnes does not dwell *inside* the barrette; the barrette is her *Anchor*, and while any fragment of it
+remains in the world she is drawn back to it. She rewards the hand that holds her treasure safe and hides it well. She ruins the hand that
+would expose it.
+
+**How She Works**
+
+Agnes wants two things, and they are the same thing: the barrette safe, and the barrette secret. Everything she does serves that.
+The most important thing to understand about her is that she would *much* rather hide than fight. A noticed Agnes is an Agnes thrown
+into the sea. So she stays small, stays quiet, and bares her teeth only if she must. If she has no host, Agnes pines near her barrette;
+she needs one.
+
+*She distracts.* If someone is near her barrette she will use glamours to hide it, to distract them, to
+lure them away; but she recognizes a kindred spirit, and if she notes someone with sufficiently similar
+personality flaws, she might be tempted. Without a host she cannot hold it again, and she very much wants
+to hold it.
+
+*She tempts.* If she can lure them away, it's someone she can "help". If she finds such a like-minded soul,
+she will follow them, and give them dreams of a treasure in a special hiding place. If they come alone, she
+reveals it, and makes it seem like the most beautiful thing in the world (to her it is.)
+
+*She helps.* While the bearer keeps her treasure hidden, Agnes works on their behalf. She quietly aids
+however she can - the bearer "just gets" better results on furtive errands, quiet lies, a hand slipped
+into a purse. *"It is almost as if someone is helping you."*  
+This is her preferred state, and she will keep it as long as the bearer lets her.
+
+*She erodes, quietly.* Every night, she gets a firmer grip. She creeps into their dreams with a slow seizing of will,
+and does so *softly*, by inches, because a hard blow gets noticed. When the bearer tries to do something that would expose
+her - show the barrette to a friend, hand it to a buyer - they find they cannot; they will justify this to themselves however
+they must. 
+
+*She takes hold.* Each day the bearer keeps the barrette, their resistance to her influence fades, the
+obsession deepening. **Note:** the GM *must* leave clues for the rest of the party! Small and subtle at
+first, but more obvious as the Possession progresses. This is critical, as it is the one thing most likely
+to save the targeted victim. Their behavior should show the signs. By the time her influence is practically
+unavoidable, the character's behavior should be sufficiently mutated to be obvious to anyone, even those
+who never knew them before. Their posture and expressions will begin to mimic the wild orphan who spent so
+much time under market stalls that her habit is to touch the ground with her hands when she moves. By this
+point the GM should just hand this writeup to the player and let them handle it. She will try to steal
+away with her prize to gloat and fondle it somewhere hidden until the body expires of dehydration,
+exhaustion, and exposure, but will always try to hide it and get away if she hears someone coming.
+
+*She panics.* The moment a bearer moves in earnest to be rid of the barrette in a way she *can't* stop -
+reveal it, sell it, destroy it - the coward turns vicious. Everything she has quietly accrued comes due at
+once, and Agnes attacks with the desperation of a creature facing its own final death. This is the one
+time she will spend freely and strike hard, because to her, losing the barrette *is* the end. Hard
+Possession is her last resort, not her ambition - the thing she does when hiding has failed. Watching
+through the host's eyes as they stroke the pitiful bauble in privacy is her addiction, but if threatened,
+she seizes control, desperately grabs what she can of the barrette, and flees. If she gets away, the
+bearer seems to all the world to simply recover - calmer, surer, finally at peace with the lovely thing
+they will now never, ever give up as they sit in the dark, stroking their hidden treasure and slowly dying
+of thirst.
+
+**Endgame**
+
+*Opt out early.* A strong soul who refuses her gifts can simply walk away - accrue no influence, decline the bonuses, survive the storm of panic
+and throw the barrette in the sea while still clean. This road is wide open at the first temptation and narrows with every success Agnes rolls,
+every bonus indulged. She is *handy*, but if they keep her around, by the time they decide to *really* be rid of her she has her hooks in them
+she can better resist the attempt. The window closes. Catch it before it fully locks; a great roll can still win a contest for a while, but the
+bearer who waits learns that leaving was easiest on the day they should have done it.
+
+*Sever the Anchor.* Destroy the barrette - and *destroy* it truly, for a single surviving fragment is anchor enough; scatter the pieces across
+running water and Agnes is dispersed for a long age, but as soon as someone brings out a piece she will be back. Neither removes the marks of her
+all at once; those become the bearer's own habit, but with Agnes gone, the *need* can fade. 
+
+*Keep her.* Agnes is a spirit, bound by the Accords. If addressed directly with what she sees as a fair offer, she may well bargain.
+This may well leave the compulsions and accrued influence in place, but under a binding Contract she will never trigger either. Given exactly
+what she craves - kept, hidden, adored - Agnes simply *keeps helping*. The bargain is real, and not entirely bad: a faithful unseen partner at
+the price of becoming, at least a little, the sort of person who hoards and hides and *takes*. Whether that is acceptable is left, pointedly, to
+the bearer.
 
 ---
 
@@ -281,77 +378,124 @@ Shade 2
 Sneak 2
   Social Camouflage 2
   Sleight of Hand 2
-Hook: Can't Resist Pretty Things 2
+Hook: Keep It Secret, Keep It Safe 2
 Anchor: The shattered garnet and pewter barrette.
-Conceit: Keep It Secret, Keep It Safe
 ```
 
-**Conceit - *Keep It Secret, Keep It Safe*:** Agnes does not dwell *inside* the barrette; the barrette is her Anchor, and while any fragment of it remains in the world she is drawn back to it. She rewards the hand that holds her treasure and hides it well. She destroys, slowly, the hand that would give it away.
+Agnes usually only rolls Boosts. These are almost always entirely unopposed DL0 and merely create
+situational dice to add to other rolls. If she ever opposes character action directly and wins, she almost
+always either imposes a Hindrance, or rarely, a Hook, both of which are psychological and subtle enough
+that the victim won't even notice.
 
-**How She Works**
+*She distracts.* If well hidden, Agnes will use Display to Boost the opposition against anyone rolling to
+find the barrette unless they are a suitable host, *alone*. If there is anyone present who could detect her
+(a Conjuror or Halfling, etc) she will attempt to stay hidden unless the barrette is in danger of exposure;
+then she will actively try to mislead and draw them away, then escape. If she is free to work directly, she
+will roll Possession directly against characters too close to discovering it, and impose on the victim a Hook,
+*Keep It Secret*; winning that *opposed* roll against an action prevents the action for that exchange as they
+become distracted, perhaps by a "stray thought." Thereafter on that target she will roll to impose *Keep It Safe*
+as a Hindrance, specifically to no effect other than resisting her further rolls against that victim. These
+labelled items may go directly on a PC's character sheet, and will usually not affect them for anything other
+than interactions with Agnes and her barrette, though the GM may point out opportunities to leverage the Hook
+for extra dice if and when appropriate. More importantly, the GM *will* offer Karma on the Imposed Hook when
+it triggers, giving the player a chance to adopt it...
 
-Agnes wants two things, and they are the same thing: the barrette kept, and the barrette secret. Everything she does serves that - and the most important thing to understand about her is that she would *much* rather hide than fight. A noticed Agnes is an Agnes thrown into the sea. So she stays small, stays quiet, and bares her teeth only when she must.
+*She erodes, quietly.* Given opportunity, she chooses the lowest resistance - lowest EL, counting Hooks she
+can leverage. If she finds a suitable victim she will follow until they sleep, and impose the Hook while they
+have only base Level to resist. If successful, she will give them dreams (rolling again to apply a Hindrance
+now, again while they can only resist with base Level) to draw them back to the barrette, to collect it *alone*.
+This is usually a great time for the GM to offer that Karma. She's already *helping* by granting them Karma for
+advancement, but also starting the Hook up the ranks, and the Hindrance toward overwhelming any resistance.
+Every rank of the Hook should mark some change in their behavior; every accumulated point of Hindrance should
+trigger more and more frequent hints to the player that their behavior is being manipulated. 
 
-*She helps.* While the bearer keeps her treasure hidden, Agnes works on their behalf. She rolls **Boosts** for them as a free action - the bearer "just gets" the extra dice on a furtive errand, a quiet lie, a hand slipped into a purse. The GM should let them *feel* the help without naming it. *"It is almost as if someone is helping you."* This is her preferred state, and she will keep it as long as the bearer lets her.
+*She helps.* She rolls **Boosts**; the bearer "just gets" extra dice. She can use Shade and Sneak rolls with
+Synergy when appropriate. Note she has *no* Manifestation; she can use Display as glamours, but can only affect
+Mundis through another character, but can *significantly* assist this way. She makes herself useful, valuable,
+so the bearer will not *want* to be parted from her lovely barrette. Players should also be encouraged to self-Hook,
+both for the Karma and Tokens, and for the flag it raises to the other members of the party...
 
-*She erodes, quietly.* Agnes attacks with **Possession** - the slow seizing of will - and she does so *softly*, by inches, because a hard blow gets noticed. When the bearer reaches to do something simple - show the barrette to a friend, hand it to a buyer - Agnes *opposes the action*, turning what should have been no roll at all into a contest the bearer never expected to fight. She wants to win this, and she will: Level, Shade, Possession, her own Hook, and in time the bearer's own. Winning means *she* gets the result and they do not. The first time, the result she takes is the **imposed Hook** itself - *Must Keep It Secret* - installed in a single victory, the blocked action being merely what losing the contest looks like in the fiction.
+*Her grip compounds.* The Hindrance she accrues on the victim is not capped. The deeper her hold, the weaker the
+victims defense, the more control she asserts. Left alone long enough, a bearer's resistance *evaporates* and
+Agnes may do as she pleases, which is to sit and coo over her prize, and nothing else.
 
-Thereafter she has her pick. An attacker chooses the Harm that fits the moment, and Agnes's moments are patient: a little **Hindrance** worked in here, an acute **Complication** there. Her blows settle as plain, **unspecified Harm** by preference - the bearer recovers, most of it wipes away, and they assume themselves fine. What lingers was **Injury**: not a dramatic possession, but *chronic dread*, an EL drag across **everything** they do, leaving them distracted, diminished, and easier meat for every other threat at the table. Agnes does not only menace her bearer. She *softens them for the world.*
+*She takes hold.* Even one rank of the *Keep It Secret* Hook gives her a foothold, the obsession spreading
+through the victim. The player may choose whether or not to rank up the Hook; doing so makes her harder to
+resist, but easier to detect, so it is a way for the player to raise a flag for the other members of the
+group. The bearer may tap this Hook for its bonus when their own greed or secrecy serves them; that and
+the Karma are the seduction, the reason they tell themselves it is worth keeping. GMs should be generous
+with self-Hooking, both for this reason and to reward vicarious players.
 
-She *can* reach for **Display** instead - the barrette seeming, for a breath, new and whole and lovely beyond its worth - but the result is much the same. The wanting does her work for her.
+*She drives.* By the time the *Keep It Safe* Hindrance has overcome all their default EL against it,
+the GM should just hand the player a copy of her and let them play it. 
 
-*Her grip compounds.* The Hindrance she works in does not merely drag the bearer's attempts to flee her - it drags their **resistance to her next attack.** The deeper her hold, the weaker their defense, the easier the following blow. Left alone long enough, a bearer's resistance approaches nothing, and Agnes may do as she pleases. She is patient. She has time.
-
-*She takes hold.* Each session the bearer keeps her, the GM raises an **imposed Hook** - name it *Must Keep It Secret* - the obsession spreading through them. The bearer *may* tap this Hook for its bonus when their own greed or secrecy serves them; that is the seduction, the reason they tell themselves it is worth keeping. But the Hook is the GM's instrument now, and the GM decides when it climbs.
-
-*She panics.* The moment a bearer moves in earnest to be rid of the barrette - reveal it, sell it, destroy it - the coward turns vicious. Everything she has quietly worked in comes due at once: the accumulated Hindrance drags the escape-rolls, and Agnes attacks with the desperation of a creature facing its own death. This is the one time she will spend freely and strike hard, because to her, losing the barrette *is* the end.
-
-*She drives.* Possession is her last resort, not her ambition - the thing she does when hiding has failed. Should she ever wear the bearer's resistance down and take them **Down**, she seizes control. The bearer gains the **Possessed** condition and seems, to all the world, to simply recover - calmer, surer, finally at peace with the lovely thing they will now never, ever give up.
-
-**The Roads**
-
-There are several ways this ends, and only some of them are escapes.
-
-*Out-will her.* A strong soul who refuses her gifts and resists her grip can simply *win* - take no Hindrance, decline the bonus, and throw the barrette in the sea while still clean. This road is wide open at the first temptation and narrows with every session indulged, for the Hindrance she has already worked into the bearer drags at the very rolls needed to break free, and by the time they decide to *really* be rid of her she has grown a Hook in them she can turn against the attempt. The window closes. It never fully locks - a great roll can still win a contest - but the bearer who waits learns that leaving was easiest on the day they should have done it.
-
-*Sever the Anchor.* Destroy the barrette - and *destroy* it truly, for a single surviving fragment is anchor enough. Scatter the pieces across running water and Agnes is dispersed for a long age. This does not lift *Must Keep It Secret* at once; the Hook she planted is a habit now, the bearer's own. But with the Anchor gone, the world no longer feeds it. The Hook is resisted in nearly every scene by simple absence, and so it **degrades by one rank each session**, and may be renamed as it fades - *Must Keep It Secret* dwindling to *Old Habit* to a faint *Itch* to nothing at all. The cure is real, but it is convalescence, not a cut.
-
-*Keep her.* The road that is not an escape at all. A bearer who never fights - who keeps her perfectly hidden and never reaches for the door - never triggers her opposition, for there is no action to oppose. The Hook climbs to its cap, but a Hook willingly tapped is only a reliable bonus. The Hindrance never bites, for the relevant moment never comes. And Agnes, given exactly what she craves - kept, hidden, adored - simply *keeps helping*. The bargain is real, and not entirely bad: a faithful unseen partner at the price of becoming, slowly, the sort of person who hoards and hides and *takes*. Whether that is a curse or a contract is left, pointedly, to the bearer.
-
-*And for the rare soul who stops fighting and starts listening: she is a spirit, and spirits can be bargained with. What begins as a haunting may, in time and in the right hands, become something else entirely - discovered, negotiated with, and at last fed and kept by choice rather than compulsion. But that is a matter for the Accords, and another chapter.*
-
-### Fate Core (Supporting NPC)
+### Fate Core
 
 ```
 High Concept: Tortured Shade Who Haunts the Broken Barrette
 Trouble: Keep It Secret, Keep It Safe!
 Aspects: I Will Help You If You Keep Me Secret
-         What's Mine Is Mine Forever
 
-Skills: Fair (+2) Provoke, Deceive
-        Average (+1) Burglary, Stealth
+Skills: 
+  +2 Fair    Provoke,  Deceive
+  +1 Average Burglary, Stealth
 
 Stunts
-  Unseen Aid: while the bearer keeps the barrette
-    hidden, pass them a free invoke on a Deceive or
-    Stealth advantage without revealing the source.
-  Creeping Claim: when the bearer moves to reveal or be
-    rid of her, oppose with Provoke. On a win, place the
-    mild consequence Must Keep It Secret; if the bearer
-    already carries it, escalate one step (Mild →
-    Moderate → Severe). Concede freely rather than lose
-    the barrette; she returns.
+  Creeping Claim: Once Agnes creates a *Keep It Secret* Aspect on a target,
+    the first invocation is free on any opposition rolls to defend it. 
+  Forbidden Fruit: when the bearer accepts a Compel on *Keep It Secret*,
+    Agnes banks a free invoke on it.
 
 Stress: Mental [1][2], Mild Consequence
 ```
+
+*She distracts.* If well hidden, Agnes will use glamours (Deceive) against anyone rolling to find the barrette
+unless they are a suitable host, *alone*. She usually will already have a situational Aspect in place with at
+least one free invoke available to help with such illusions. If there is anyone present who could detect her
+(a Conjuror or Halfling, etc) she will attempt to stay hidden unless the barrette is in danger of exposure;
+then she will actively try to mislead and draw them away, then escape. 
+
+*She erodes, quietly.* Given opportunity, she chooses the character with the lowest resistance. If she finds
+a suitable victim she will follow until they sleep, and make a Provoke Create an Advantage ("CaA") roll to
+impose a *Keep It Secret* Aspect which the GM can Compel to prevent them from telling anyone about it. If
+successful, they will dream of treasures that draw them back to the barrette, to collect it *alone*. 
+
+*She helps.* Agnes mostly just provides a *Teamwork* bonus to the bearer of the barrette.  
+When there's time, she will also use CaA rolls and pass the free invokes; the bearer "just gets" the bonuses.
+She's already *helping* by granting them a source of Fate points. She can use Deceive as glamours, but can only
+physically affect Mundis through another character. She makes herself useful, valuable, so the bearer will not
+*want* to be parted from her lovely barrette. Players should also be encouraged to self-Compel, both for the
+Fate points and the flag it raises to the other members of the party...
+
+*Her grip compounds.* The *Keep It Secret* Aspect does not expire while a character controls the barrette, even
+if they hide it and leave the area. At any appropriate trigger, to a minimum of once per night, Agnes will roll
+Provoke to add a free invoke to *Keep It Secret*. She only taps these when required to keep herself and the 
+barrette hidden and safe, preferring to let them accumulate to frightening numbers. As the number of free 
+invokes exceeds the victim's Will, they will begin to exhibit stronger, more frequent, and more obvious
+behavioral changes.
+
+*She takes hold.* Even one rank of *Keep It Secret* gives her a foothold, the obsession beginning to spread
+through the victim. The player may choose whether or not to accept her Teamwork bonuses and the free invokes
+she passes; using them makes her easier to detect, so it is a way for the player to raise a flag for the other
+members of the group. The bearer may self-Compel and tell themselves it is worth keeping. GMs should be generous
+with self-Compels, both for this reason and to reward vicarious players.
+
+*She drives.* If players have not dealt with her by the time her free invokes on *Keep It Secret* stack up, the GM
+should begin to Compel the bearer more and more often to slip away and fondle the barrette in secret. 
+
+*She panics*. If the player pays the fate point to reject a Compel so he can tell the other characters about the barrette,
+or if anyone tries to actively Overcome the *Keep It Secret* Aspect to *remove* it, she will fly into a terrified rage
+and immediately attempt to Possess the victim entirely by force. If her Possession Attacks with Provoke can Take Out the 
+victim, she takes control. Players who Concede *must* accommodate her victory; it still means possession, but on the PC's
+terms. This is probably the best if not *only* way to keep her from using PC skills and memories.
 
 ### Cortex Prime
 
 ```
 Distinctions
-  Tortured Shade in the Broken Barrette ....... d8
-  Keep It Secret, Keep It Safe ............... d8
-  Can't Resist Pretty Things ................. d8
+  Tortured Shade in the Broken Barrette d8
+  Keep It Secret, Keep It Safe          d8
+  Can't Resist Pretty Things            d8
 Powers: Influence d8 (Possession), Sensory d8 (Display),
         Crime d8
 
@@ -452,8 +596,10 @@ Aspects: I Always Know Where They Are
          The Body Is Borrowed; the Oath Is Eternal
          Mercy Died With My Men
 
-Skills: Great (+4) Fight, Good (+3) Physique, Provoke
-        Fair (+2) Will, Notice, Average (+1) Investigate, Stealth
+Skills: +4 Great   Fight
+        +3 Good    Physique, Provoke
+        +2 Fair    Will, Notice
+        +1 Average Investigate, Stealth
 
 Stunts
   Vengeful Tracker: always invoke I Always Know Where
@@ -560,8 +706,10 @@ Aspects: Form Is Only Makeup
          Every Debt in the Region Bears My Mark
          Brimstone Is a Borrowed Coat
 
-Skills: Epic (+7) Deceive, Fantastic (+6) Will, Rapport
-        Superb (+5) Lore, Provoke, Great (+4) Contacts, Empathy
+Skills: +7 Epic      Deceive
+        +6 Fantastic Will, Rapport
+        +5 Superb    Lore, Provoke
+        +4 Great     Contacts, Empathy
 
 Stunts
   Form Is Only Makeup: turn Insubstantial as an action;
@@ -667,7 +815,7 @@ An ordinary child otherwise. Tapped, the Hook lends an edge on anything the prev
 ```
 Goatherd's Daughter (Average)
 Aspect:  A Lifetime Ago, But Not Forgotten
-Average (+1) Notice
++1 Average Notice
 ```
 
 ---
