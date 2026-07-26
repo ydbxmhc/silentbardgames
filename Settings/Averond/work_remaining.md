@@ -55,9 +55,64 @@ This is **not Fate-specific** - it applies in most systems; Fate just packages i
 
 ### `@@ RULES GAP - Second Sight is not True Sight` (surfaced via Agnes, 2026-07-22, bigger than Agnes)
 A spirit **rolls to conceal against a perceiver's Second Sight, even across the Veil** - detection is **opposed, not automatic.** Otherwise every table dips one Conjuror rank, spiritual sight auto-detects everything, and the whole hidden-spirit genre (Agnes, Malisondre, half the Fae) collapses into D&D's "I see it, I hit it." Needs a clarifying line in `roles/conjuror.md` (and/or the detection/Sensitivity material) the way `types-of-harm` needed the Imposed Hooks page. Agnes concealing = Display 2 + Social Camouflage 2 vs the perceiver's roll.
-- [ ] **Still-open Agnes fixes in the OTHER system blocks (not part of this merge):**
-  - Cortex: **Crime d8 is under Powers** - it's a Skill. Plus the trait-set/Distinction-vs-minor decision.
-  - 5e: **Covetous Wail makes the barrette "repellent"** - that drives the bearer to *abandon* it, contradicting her keep-it goal. Scope it to anti-confiscation (used on someone trying to take it) or cut.
+- [ ] **Still-open Agnes fixes in the OTHER system blocks:**
+  - Cortex: **Crime d8 is under Powers** - it's a Skill. **Trait-set decided 2026-07-25:** rebuild
+    on the L1 frame (Distinctions = Hooks carrying the SFX; Shade & Sneak as Roles; Maneuvers as
+    Specialties; the separate Powers set retired) - Crime becomes a Sneak Specialty, which retires
+    the misfile. Execution still pending. Also fix the Cortex panic keying off an undefined
+    "Keep It Safe" Complication (the carried Complication is "Keep It Secret").
+  - [x] ~~5e: **Covetous Wail makes the barrette "repellent"**~~ **CUT 2026-07-25.** She has no
+    loud attack; cornered she flees or seizes. (Dropped the too-loud 7 psychic with it.)
+
+### Agnes - 5e cursed-item design (2026-07-25) - DESIGN COMPLETE, polish pending
+*Full mechanics live in `The Dead` (Agnes -> D&D 5e + In Play). This logs the decisions so a
+cold-start session keeps the reasoning.*
+
+**Architecture: two documents, KEPT (not collapsed)** - the cursed item + the ghost. 5e's
+attunement-curse is Agnes's strongest native voice in any system (attune = the bargain; benefit +
+hidden cost + hard to remove). The manifest's "collapse fragmented 5e builds" still applies to real
+kludges (Malisondre's five subsystems), NOT to Agnes - her two documents are two real things.
+
+**The Barrette of Agnes - a tiered "ongoing attunement" curse.** Pickup = Charmed (barrette as the
+object of the charm; blocks *destroying* it, not *abandoning* it, so early self-rescue is real; -2
+on all future saves against this Charm; expires after a clean day + a DC15(-2) save). Descent is
+**player-chosen greed** - attunement is never forced; "players always decide whether to attune" is
+the non-negotiable agency guardrail. Three slots, each a demand + an escalating reveal-save
+(15 -> 17 -> cry-for-help 15) + richer spells. Tier 3 locks (Remove Curse breaks only the 3rd rank,
+back to rank 2; charm & exhaustion remain), sleepwalk (modest DC, exhaustion re-inflates), 1d6
+psychic pangs ("her pining, not an attack"; no charm-break).
+
+**Signature mechanics established (reusable across the other six):**
+- **Modest base DC + let exhaustion escalate** - never stack a steep base on a mechanic exhaustion
+  is already climbing (the trapdoor-avoidance rule).
+- **The who-narrates telegraph** - DC5 save each push: success = *player* narrates their restraint,
+  fail = *GM* narrates the tell + 1 exhaustion (fail-only, clears on a long rest pre-tier-3,
+  foreshadowing the lethal tier-3 version). The roll *telegraphs and prices*, never *determines* -
+  the choice stays the player's. It is the "GM must leave clues" mandate rendered as dice, and the
+  middle rung of the Hooks escalation ladder.
+- **Possession-as-cursed-item climax** - seize at near-death (0 HP or about-to-die-of-exhaustion,
+  *attuned only*); wipe exhaustion; animate with her own aura (host HP = min(16, full)); beat the 16
+  to 0 = disrupted (reforms tomorrow); overage -> host; nonlethal (melee) finish = host stable at 0,
+  safe to revive. Player runs the possessed PC, double XP for evading the party. **This template
+  lifts straight onto Malisondre / any Anchored spirit.**
+- **"The odds always lie; easy is not sure"** - per-roll odds vs the cumulative clock.
+  Lessons-Learned-worthy.
+
+**Creature block = a footnote** (AC 12, HP 16, Ethereal, Anchored). "The item isn't enchanted - she
+is." Inert without her; disrupting her form only disperses (reforms 24h); true end = destroy the
+anchor (scatter across running water) or bind/bargain (Accords).
+
+**STATUS: Agnes is complete in all four current systems (L1, Fate, Cortex, 5e).**
+Boundless / Shadowdark / Daggerheart still 0/7 for everyone.
+
+**Still open (polish, next session):**
+- [ ] **Tight redundancy pass** - block vs In Play still duplicate charm-expiry, sleepwalk, and
+  Remove Curse (possession is now consolidated into In Play with a block pointer - do the rest).
+- [ ] Optional table-note: disrupting her != winning (she reforms tomorrow; the barrette is still
+  the only real answer).
+- [ ] Execute the Cortex rebuild-on-L1-frame above; fix the "Keep It Safe" Complication naming.
+- [ ] Factor the italic beats across L1/Fate/Cortex/5e down to system-specific notes - let the
+  agnostic section carry the narrative once.
 
 ---
 
@@ -419,6 +474,18 @@ A separate review of The Dead. Heavy overlap with items already tracked here (Va
 - [ ] **Malisondre has no Skills** despite being Performer 6 and Loremaster 5 in L1. Those should appear.
 
 **Confirmed clean and worth noting:** *Hinder* is used correctly on Pell and the Zombie. Vane's *"when stressed out"* is **correct** in Cortex (stress past d12) even though the identical phrase was wrong in his Fate block - a nice illustration that the grammars genuinely differ. Malisondre's *"double a power die"* is likewise correct Cortex; it was only wrong in Fate.
+
+### `@@ SETTING-BOOK NOTE TO PLACE` - "Improvised Labels" (2026-07-24)
+The multi-system thesis crystallized tonight into one line worth carrying into the
+**setting book** as an author's aside, not just buried in the design notes: *every
+system is Improvised Labels - Fate calls them Aspects, L1 calls them Traits / Roles /
+Hooks, Cortex calls them Labels & Dice - and the design act is always "name what
+matters, give it weight, and make it up."* The corollary that a die size (or rank, or
+ladder rung) should tell the truth about a thing's potency belongs with it.
+- [x] Added to `lessons-learned §7` (Cross-System Lessons) - 2026-07-24.
+- [ ] **TODO (Lee): add as a note to the setting book** - `Setting - Averond
+  (Fantasy).md` or the setting summary, author's pick of exact home and wording.
+  Flagged here at author's request so it doesn't get lost.
 
 ### L1 audit - findings 2026-07-21
 

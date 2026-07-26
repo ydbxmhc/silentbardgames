@@ -143,7 +143,7 @@ He can only be targeted by those able to interact across the Veil; they can atte
 
 ```
 Location Distinction
- Eternity on the Gallows .... d8
+ Eternity on the Gallows d8
 
 Effect - Echoes of Dread: each exchange under the waxing gibbous moon,
  roll 3d8 (Distinction + d8 + d8) against each living soul present.
@@ -300,6 +300,15 @@ has been carrying that panic for a very long time.
 remains in the world she is drawn back to it. She rewards the hand that holds her treasure safe and hides it well. She ruins the hand that
 would expose it.
 
+Never let the bearer feel **stopped** - let them feel **persuaded**, in their own voice, with true things, toward a conclusion that flatters the keeping. The player says "Hey, Joe, look at this -" and the dice say *nope*; do not narrate a ghost seizing their arm. Narrate a thought, arriving in their own head, reasonable and even pleasant:
+> *"It occurs to you, with some amusement, that probably no one but you has seen this thing in years. Someone loved it once - went to real lengths to keep it safe. It's only pitted pewter and a couple of small garnets, but you can feel there's something to it that only works while it stays yours alone. Secrets have power. Right?"*
+
+Every word of that is true, which is the cruelty. She does not lie; she curates. Present the hook, when it comes, as the contract that grants the magic, which is honest enough. The bearer does not experience "I have been cursed." They experience "I have found a thing that helps me, and the price is discretion." The buried clause is what happens when they try to leave.
+
+Mind her threat. She is "weak," beneath notice, the sort of thing a capable party swats without a glance. That is exactly her armor. Her danger was never how hard she hits; it is hidden in patience and concealment. She hides behind her own triviality, bites softly so no one looks too hard, and lets the rules do her work for her - the bearer assumes they are fine, and the sliver that scars goes unattributed. A "weak" monster that can hollow out a strong one is a lesson worth teaching. The "weak" ghost trolls hardest at the end, and every point of it was something the bearer built by keeping her. 
+
+The art of running her is patience and subtlety, closing the trap by gentle degrees until the only ways out are for the bearer's friends to *find* them and wrestle them through the process of letting go, to figure out how to truly banish her, or to co-opt her into the ongoing game.
+
 **How She Works**
 
 Agnes wants two things, and they are the same thing: the barrette safe, and the barrette secret. Everything she does serves that.
@@ -429,6 +438,11 @@ with self-Hooking, both for this reason and to reward vicarious players.
 *She drives.* By the time the *Keep It Safe* Hindrance has overcome all their default EL against it,
 the GM should just hand the player a copy of her and let them play it. 
 
+*She panics*. If the player pays the Token to reject a Hook so he can tell the other characters about the barrette,
+or if anyone tries to actively counter the *Keep It Safe* Hindrance and *remove* it, she will fly into a terrified rage
+and immediately attempt to Possess the victim entirely by force. If her Possession Attacks can Take the victim Down,
+she takes control.
+
 ### Fate Core
 
 ```
@@ -491,62 +505,165 @@ terms. This is probably the best if not *only* way to keep her from using PC ski
 
 ### Cortex Prime
 
-```
-Distinctions
-  Tortured Shade in the Broken Barrette d8
-  Keep It Secret, Keep It Safe          d8
-  Can't Resist Pretty Things            d8
-Powers: Influence d8 (Possession), Sensory d8 (Display),
-        Crime d8
+**System Notes**: Pure Spirits have the innate abilities of Glamour Displays, Manifestations, and Possession.  
 
-SFX - Unseen Aid: bearer gains d6 to Crime/Sneak pools
-  while keeping her hidden; step back their stress on a
-  win. Never explain why.
-SFX - Creeping Claim: oppose reveals with Influence; on
-  a win, step up Must Keep It Secret Complication.
-  Past d12: possession (taken out).
-Anchor: shattered barrette. Scatter pieces across running
-  water to disperse; Must Keep It Secret then degrades one
-  step each session.
-Limit - Beneath Notice: her modest pool is the armor. She
-  scales on patience, not power.
 ```
+Tortured Shade Who Haunts the Broken Barrette d6
+  SFX: Keep It Safe       - step up Display/Possession when protecting her barrette Anchor is threatened.
+  SFX: Keep It Secret     - step up Display/Possession against anyone with a Keep It Secret Complication.
+  SFX: Creeping Influence - pay a PP; add a d6 to Agnes' Influence pool. 
+
+A Life of Fear and Filching d6
+
+d6 Signature Item: Agnes' Barrette
+This is her Anchor, a broken barrette of pitted, crumbling pewter with one of four tiny garnets remaining.
+   SFX: The Borrowed Hidden Treasure - Anyone may Pay a PP, accept a d6 Keep It Secret Complication to Attune. 
+          Once they have this they can see what it once looked like, and why they must Keep It Secret.
+          As long as this Complication stays on a PC's sheet and they comply to Keep It Secret,
+          Agnes will accompany the PC and assist them. They may add the following SFX to their sheet:
+   SFX: My Own Private Genie - Pay a PP; you may choose to step up Agnes' Barrette to a d8 and apply it on
+          any roll where stealth, deception, or influence would assist. *Agnes keeps the PP.*
+          If preferred, roll a d12; the Asset is any single die no larger than the number rolled.
+
+Influence Resource Pool: Agnes may use dice from her Influence Pool on rolls against anyone with a Complication
+  she has placed, and/or anyone with a Keep It Secret Complication they took to use her barrette.
+  She may collapse 2 identical dice in her Influence Pool into one and step up that die.
+  She may spend a d6 from the pool to cause the bearer to Sleepwalk, hiding in secret with the
+      barrette to fondle it; the bearer may awaken in strange hidden places, dirty and tired. 
+  Dice spent from the pool do not return; they must be replaced by new dice bought with Creeping Influence.
+```
+Agnes usually only creates Assets to pass to the bearer. 
+
+*She distracts.* She will roll to oppose anyone trying to find the barrette. If there is anyone present who
+could detect her (a Conjuror or Halfling, etc) she will stay hidden unless the barrette is in danger of exposure;
+then she will actively try to mislead and draw them away, then escape. 
+
+*She erodes, quietly.* Given opportunity, she chooses the lowest resistance. If she finds a suitable victim
+she will follow until they sleep, and give them dreams to draw them back to the barrette, to collect it *alone*.
+If they refuse to take the Complication they will wake in their bed, and she will continue to try and hide it if
+they really return. If they take it, they will remember the dream of a forlorn child bringing them feathers and ribbons.
+
+*She helps.* She creates **Assets**; the bearer "just gets" extra dice. Note she has *no* Manifestation; she can
+use Display as glamours, but can only affect Mundis through another character, though she can *significantly* assist
+this way. She makes herself useful, valuable, so the bearer will not *want* to be parted from her lovely barrette. 
+
+*Her grip compounds.* She spends PP (any from the bearer; GM can add more) for Influence dice. The stronger her Influence,
+the deeper her hold; the bearer's behavior should begin to show changes to represent the building pressure of her unused
+Influence Pool. She prefers not to spend it, but if the pool gets large (GM's discretion) enough she will begin to
+make them Sleepwalk.
+
+*She takes hold.* If the PC does not *Keep It Secret* she opposes their every attempt to expose it, stepping up the
+*Keep It Secret* Complication and always including it in her rolls. She will add dice from the Influence Pool to win
+these Tests. Shrinking the pool stops the Sleepwalking until it has grown again; the GM decides how much. 
+
+*She drives.* If the Complication ever steps up past a d12, Agnes seizes control of the character. He is Possessed;
+the GM should just hand the player a copy of her and let them play it.
+
+*She panics*. If the player insists on telling others about the barrette, or if anyone tries to actively remove or
+reduce the *Keep It Secret* Complication, she will fly into a terrified rage and immediately attempt to Possess the
+victim entirely by force. If her Possession Attacks can step the Complication up and Take the victim Out, she takes
+control.
+
 
 ### D&D 5e
 
 ```
-Requires two documents.
 
-The Barrette of Agnes (Cursed wondrous item, requires attunement)
-While attuned: +2 to Dexterity (Stealth) and Sleight of Hand. Curse activates on attunement.
+Agnes tries to stay hidden. She doesn't want to be seen, a habit that serves her well from when she was alive.
 
-Curse. Agnes's hold deepens each time the bearer benefits from the barrette or attempts to reveal it. Track Agnes's Hold (0-3): Hold 1 (Whispers) - disadvantage on saves to part with it; Hold 2 (Insists) - DC rises to 16, bearer instinctively conceals it; Hold 3 (Decides) - if reduced to 0 HP, Agnes possesses the bearer (rise as an NPC under DM control). Hold decreases by 1 after a long rest in which the bearer neither used nor concealed it. Remove curse (5th level) or greater restoration ends possession but not Agnes.
+Agnes Under a Bushel (Small undead, CR 1)
+AC 12, HP 16 (3d6+6)
+Ethereal   : perceives and acts from the Border Ethereal. Visible only to truesight, See Invisibility, or those who can see into the Ethereal.
+Anchored   : Cannot move more than 120 ft. from the barrette for more than a day; reforms beside it in 24 hours if dispersed.
+Possession : Agness will possess a near-death PC who has attuned to the barrette - see below. 
+
+Agnes' Barrette
+This is a unique item that allows separate attunement slots to be used for increasing mastery of its powers.  
+
+Anyone who touches the barrette must make a DC 15 Wisdom save or be Charmed by Agnes, and treat the barrette itself as the object of the charm. 
+Those charmed must Keep It Safe, and all future saves against Charm from this item will be at -2.
+
+Anyone Charmed and carrying the barrette gets +1 on any stealth-related rolls, and will *just know* they can Attune it for more.
+
+While attuned: 
+Bearer must protect the barrette and Keep It Secret, or lose access to its added benefits.  
+Once attuned, Any attempt to reveal the item in word or deed takes a DC 15 Wisdom save.  
+Succeed and you can do it, but it breaks Attunement; the bearer will know this. It does not remove the Charm.
+While attuned, the bearer remains Charmed; it does not expire, and there is no save. The barrette asks nothing...
+but Agnes will appear in the PC's dreams and ask to let her serve them better, by attuning *more*.
+  At will
+    Minor Illusion 
+    Message
+    Alarm
+    
+Second Attunement slot: (Requires first)
+While attuned, Agnes will begin to whisper to the PC, asking them to "Keep it secret! Keep us safe!" and "Let me see it..."
+Bearer must spend an hour a day meditating with the item, at least nominally *alone*. This can be counted as a short rest.
+If a day passes without doing so after the second attunement, bearer takes 1d6 psychic damage; save vs Wisdom at DC17 for half.
+This damage does not break the Charm! Saves to reveal the barrette rise to DC17, and success breaks all attunements to it.  
+Agnes will continue to ask the PC to take the next attunement for her to serve them better, and the Charm stands.
+  At Will:
+    Darkvision (for one round, Self Only)
+  Once per Short Rest:
+    False Life
+    Locate Object
+
+Third Attunement Slot: 
+The curse fully activates - character now cannot un-attune without Remove Curse.  
+They no longer get any save against the psychic damage of missing the hour of meditation per day with the barrette.
+At this point the save DCs drop back to 15 (see below.)
+Each long rest the PC must make a Wisdom save or Sleepwalk.  
+On a fail they slip away to fondle it in private for as long as possible, receiving only a short rest's benefits.  
+The character still has to roll a Wisdom save to reveal the barrette, but it can no longer break attunement.  
+A Remove Curse will only break the 3rd attunement, the only one that is truly cursed; it does not remove the Charmed condition.
+  Once per Short Rest:
+    Invisibility (self only)
+    Locate Creature
+    See Invisibility    
+    Sending
+  Once per Long Rest:
+    Clairvoyance
 
 Agnes (Small undead, CR 1)
 AC 12, HP 16 (3d6+6)
-Ethereal; perceives and acts from the Border Ethereal. Visible only to truesight or those who can see into the Ethereal.
-Anchored. Cannot move more than 120 ft. from the barrette; reforms beside it in 24 hours if dispersed.
-Covetous Wail. DC 12 Wis save or 7 (2d6) psychic; target finds the barrette repellent (the You Don't Want That effect).
-Unseen Aid. Grants a hidden bearer advantage on one Stealth or Sleight of Hand check per short rest.
+Ethereal: perceives and acts from the Border Ethereal. Visible only to truesight, See Invisibility, or those who can see into the Ethereal.
+Anchored: Cannot move more than 120 ft. from the barrette for more than a day; reforms beside it in 24 hours if dispersed.
+
+
 ```
 
 **In Play**
 
-*Agnes is a cursed item that loves you. That is the whole of her horror. She is not a fight; she is a relationship that ends with you gone and her treasure safe in the cold hands she has made of yours.*
+*Agnes is a cursed item that loves you; that is the whole of her horror.  
+ She is not a fight; she is a relationship that ends with her treasure safe in your dead, cold hands.*
 
-*Never let the bearer feel **stopped** - let them feel **persuaded**, in their own voice, with true things, toward a conclusion that flatters the keeping. The player says "Hey, Joe, look at this -" and the dice say no; do not narrate a ghost seizing their arm. Narrate a thought, arriving in their own head, reasonable and even pleasant:*
+This is not simply a cursed item. In fact, the item itself *is not enchanted*; the pieces of the pitted and crumbling old barrette of blackened pewter will show a faint aura under Detect Magic simply because it is the conduit of supernatural power. The real power is the intensity of Agnes' obsession that brings her back again and again.
 
-> *"It occurs to you, with some amusement, that probably no one but you has seen this thing in years. Someone loved it once - went to real lengths to keep it safe. It's only pewter and a couple of small garnets, but you can feel there's something to it that only works while it stays yours alone. Secrets have power. Right?"*
+Anyone Charmed by it will see the barrette as it is, but also as it once was, and "understand" that there is more. 
+Any number of targets can be Charmed at once, but if unattuned, characters may roll a DC15 Wisdom save (at -2!) after a long rest and any full day without touching the barrette. 
+The Charmed condition's prohibition against harm applies to the barrette, *not to Agnes.*  
+The other half of the Charm makes it harder to resist her urging to increase your attunement.  
+Players always get to decide whether OR NOT to attune; that is non-negotiable. That won't stop Agnes from trying.
+Each time she does, make a DC5 Wisdom save to determine who gets to describe your *effort* to the rest of the table.
+Of course, if they choose to agree and attune, no rolls are necessary, but if they want to refuse, or even wait...
+After the first attunement, she will bring them dreams. Failing the check will cause them to wake themselves as they argue in their sleep, 
+and apply a rank of exhaustion.
+This does not prevent a successful long rest for the rest of the party unless they decide to wake everyone up to discuss it, right now...
 
-*Every word of that is true, which is the cruelty. She does not lie; she curates. Present the Hook, when it comes, as the contract that grants the magic - which is honest enough. The bearer does not experience "I have been cursed." They experience "I have found a thing that helps me, and the price is only discretion." The buried clause is what happens when they try to leave.*
+After the second attunement she will also force a DC5 roll every time they meditate with the barrette as well. Failing this roll will also trigger a rank of exhaustion and cause them to get up and walk as they talk to themselves, shaking their head as if trying to get a bug out of their ear, and now and then *touching the ground with their hands* as they walk, sometimes even shifting their weight onto them before they realize what they are doing. 
+Anyone asking about these odd behaviors will either get some excuse, or force a Wisdom save to reveal the barrette by talking about it.
 
-*Mind her Level. She is a 2 - "weak," beneath notice, the sort of thing a capable party swats without a glance. That is exactly her armor. Her danger was never in how hard she hits; it is in patience and concealment. She hides behind her own triviality, hits softly so no one looks too closely, and lets unspecified Harm and an honest recovery roll do her hiding for her - the bearer assumes they are fine, and the sliver that scars goes unattributed. A "weak" monster that can hollow out a strong one is a lesson worth teaching: in this system, Level tells you a thing's force, never its threat.*
+Using the second attunement slot gives Agnes deeper access to the bearer's soul. They feel her obsession more acutely, driving their Wisdom save DCs up to 17, and if they go a day without meditating on the barrette for an hour they will feel her need of it as psychic damage. This is not an attack, and does not break the Charm. Note that this hour can be counted as a short rest, and the bearer may choose to take the third attunement during this hour; this is always a choice, but Agnes will try to wheedle and coerce. 
 
-*And when cornered she is far more than her Level. She draws on her Role, her own Hook, and the very Hook she has grown in the bearer - their attachment turned against them - all against a resistance her patient Hindrance has already gutted. The "weak" ghost rolls hardest at the end, and every point of it was something the bearer built by keeping her. Do the sum when she panics. It will surprise the table that loved her too long.*
+At this point the PC could make the save, reveal the barrette, break any attunements, set it aside, and wait out the Charm. It requires a good roll, but it's still reasonably easy to walk away. 
 
-*The art of running her is patience to match her own. A possessing spirit should win slowly. Because a Hook need not be declared before the dice are seen, the GM may watch a contest resolve and spend Agnes's grip only when it is needed for the barest success - never to shatter the bearer in a scene, always to tilt the floor one more degree. She climbs the ladder of Harm only when forced; her true goal is to stay at the bottom of it, helpful and hidden, forever.*
+If they decide to accept the third attunement the curse activates. At this point revealing the barrette no longer breaks attunement - the bond is past the bearer's reach, and only Remove Curse will loosen it. Save DCs drop back to 15 as Agnes feels the trap closing and worries less, but also so the character has a *chance* to cry for help, though exhaustion will soon drive it back up and out of any hope as she sleepwalks the PC to potentially fatal levels. She will try to be quiet and/or subtle about this, but if she can't get away, will go back to the PC's spot and pretend to sleep while she pines for it until eventually slipping away, leaving the host with only a short rest instead of a long one, so he can no longer recover HP either, and she still demands her daily meditation to avoid a few more points of psychic damage. 
 
-*Note: this power is real, and it is a trust. Agnes lets the GM erode a player's character from the inside. Spend that to make the player's struggle meaningful - never to make it hopeless. The horror is the bearer fighting the slide while they still can. Rob them of the fight and you have not made a monster; you have only taken a turn that was theirs.*
+If a PC attuned to her barrette is reduced to 0HP by any means, *or* about to die of exhaustion, Agnes steps in and takes over, animating it with her own aura and wiping away any outstanding exhaustion. The host receives the vitality of her spirit, immediately restoring up to a max of *her* 16HP, or the body's full health, whichever is less. Any damage at this point affects her, and if reduced to zero she is disrupted to re-form tomorrow; at that point *any further damage goes to the host*. If the damage done is explicitly stated as nonlethal, the party will be able to treat the body as having just been reduced to zero.
+
+If the host attuned the third and final slot that activated the curse, she will be able to use their knowledge and skills; a night curled around her prize restores the body to full health. If not, she will only be able to use the body, and the powers of the barrette. 
+
+In either case, hand the player the sheet, and give them double XP for evading the rest of the party as long as they can!
 
 ---
 

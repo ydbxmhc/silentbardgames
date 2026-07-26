@@ -139,6 +139,7 @@ The system was never the point. **The table does the heavy lifting; the system's
 - **Scary vs. playable is a real tradeoff.** L1 can foreclose. Fate and Cortex give players levers. Boundless trusts fiction. Neither is wrong; they serve different tables.
 - **5e's kludge is cross-category, not difficulty.** A simple single-category creature (zombie) rolls out cleanly in 5e. Fragmentation bites Agnes (item + monster) and Malisondre (five subsystems).
 - **Boundless runs closest to the fiction.** The minimal block forces the GM's imagination to do what rules text does elsewhere. This is a feature and a risk simultaneously.
+- **Every system is Improvised Labels; Cortex just calls it "Labels & Dice."** The design act is identical across all three: name the thing that matters and give it weight. Fate says Aspect, L1 says Trait/Role/Hook, Cortex says Label plus a die. Cortex only *feels* different because it ships as a catalogue of trait-set bins - Attributes, Skills, Roles, Powers, Values - that look like required structure. They are example label-sets, not a code; the actual rule is "pick your trait sets and name them," the same permission Fate and L1 grant in a smaller font. The trap, especially for the less-practiced hand, is mistaking the sample characters for the standard. Corollary for GMCs: stat the two or three things the creature actually *does*, at a die size that tells the truth about its potency - a d10 on a "beneath notice" ghost is the mechanics lying about the fiction. Make it up; scale to function.
 
 ---
 
