@@ -575,7 +575,7 @@ Agnes Under a Bushel (Small undead, CR 1)
 AC 12, HP 16 (3d6+6)
 Ethereal   : perceives and acts from the Border Ethereal. Visible only to truesight, See Invisibility, or those who can see into the Ethereal.
 Anchored   : Cannot move more than 120 ft. from the barrette for more than a day; reforms beside it in 24 hours if dispersed.
-Possession : Agness will possess a near-death PC who has attuned to the barrette - see below. 
+Possession : Agnes will possess a near-death PC who has attuned to the barrette - see below. 
 
 Agnes' Barrette
 This is a unique item that allows separate attunement slots to be used for increasing mastery of its powers.  
@@ -623,12 +623,6 @@ A Remove Curse will only break the 3rd attunement, the only one that is truly cu
     Sending
   Once per Long Rest:
     Clairvoyance
-
-Agnes (Small undead, CR 1)
-AC 12, HP 16 (3d6+6)
-Ethereal: perceives and acts from the Border Ethereal. Visible only to truesight, See Invisibility, or those who can see into the Ethereal.
-Anchored: Cannot move more than 120 ft. from the barrette for more than a day; reforms beside it in 24 hours if dispersed.
-
 
 ```
 
