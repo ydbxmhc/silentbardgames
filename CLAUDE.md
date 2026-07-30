@@ -270,6 +270,34 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
   - Unclosed italics: `*rarely.` at end of Psychic Predators --> should be `*rarely.*`
 
 ### Rules design / clarifications (not yet in the book)
+- **NEW PAGE -- "The Recovery Trope" (building-a-character / quick-start section).**
+  Let players start at the table with their starting Karma **unspent** and allocate it
+  *retroactively* across session one -- "I always had this Role, and that Maneuver..."
+  -- so they're up and playing fast and the character assembles itself out of what the
+  fiction actually calls for. Author writes the page prose (new design, not a PDF
+  transcription); Claude may scaffold the HTML shell + nav/toc/prev-next wiring to site
+  convention with `@@` placeholders. Decisions to pin when writing: (a) the deadline/cap
+  on the retroactive spend -- all of it by end of session one, or a set number of
+  declarations? (b) may you flashback-justify something already *done* ("I always had
+  lockpicks" after trying the door), or only declare *forward*? Cross-reference the
+  parked "reincarnates make viable PCs" idea (sample-characters booklet) -- a reincarnate
+  "remembering" a prior life's skill is this same trope; they may share the page or the
+  example. Surfaced 2026-07-25.
+- **NEW PAGE + CANON -- "It's Not About the Build" (design-philosophy; building-a-character
+  / intro, and folded into the canon rules).** L1 is deliberately **not** about *builds*.
+  There must be no construction that hands a player an unfair edge the way MMORPGs do --
+  no "goblin rogue with the assassin build that stun-locks the tank." The three real axes
+  instead: **EL for skill *depth*; *breadth* for versatility to cover your weak seams; and
+  *role*-playing your Hooks** -- so the GM has an obvious lever to complicate your day in a
+  way that *moves the story forward*, and one that *pays* you for good characterization, so
+  that later you get to be **awesome** when it's your turn in the spotlight. Thesis: the game
+  is not about assembling the "build" that "wins," it's about playing it and enjoying it --
+  and as a system, **the vicarious characterization IS the power-play.** Author writes the
+  prose (new design / manifesto, not a PDF transcription); Claude may scaffold the site page
+  (HTML shell + nav/toc/prev-next wiring) with `@@` placeholders. Wanted on the **site** *and*
+  folded into the **canon rules**. Pairs naturally with the Recovery-Trope page above -- both
+  are building-a-character philosophy, and both argue play-first over optimize-first. Surfaced
+  2026-07-29.
 - **Resist vs. oppose on *imposed effects*.** The resist/oppose choice (Resistance
   page: "any defense that can't hurt your attacker back is resistance rather than
   opposition") applies to *any* imposed effect, not just blows -- but players won't
