@@ -137,7 +137,8 @@ The Accords also formally state these rules:
 - A Debt or Contract Accepted constitutes an established Agreement.
 - A favor Accepted implies a Debt Accepted unless explicitly excluded.
 - Payment Accepted precludes future litigation or revenge.
-- Proper Payment Refused implies a Continuance of the Agreement.
+- Proper Payment Refused implies an offered Continuance of the Agreement.
+- Continuance Refused must receive the Payment and Contract Concluded.
 - Improper Payment offered may be freely Refused without Consequence.
 - An Agreement Concluded is wiped clean.
 - Breaking these Accords by one Participant Absolves the other from all Obligation.

@@ -37,7 +37,8 @@ The village wisewoman saw him struggling for the shore, and saw him fail. She pu
 
 Most of the time he hears them faintly, as through a wall: mumbling to themselves as they did in life, calling out in confusion, wailing in grief. For a coin or a kindness he will carry a message, or perhaps find a thing the dead once hid. It is a modest gift and a modest life, and he makes no more of it than that.
 
-The burden of it is modest too, most days. The dead know he sees them and they come uninvited - they trouble his sleep, crowd around, and shriek with frustrated rage if he will not follow - *come now, tell them I'm sorry, please help me...* 
+The burden of it is modest too, most days. The dead know he sees them and they come uninvited - they trouble his sleep, crowd around, and shriek with frustrated rage if he will not follow -  
+*come **now**! tell them I'm sorry! please help me...* 
 
 They know him, and do not intend to lose him...
 A scare, and a scar. The door does not close. He has learned to live with it open, though he shivers in the draft.
@@ -321,6 +322,14 @@ lure them away; but she recognizes a kindred spirit, and if she notes someone wi
 personality flaws, she might be tempted. Without a host she cannot hold it again, and she very much wants
 to hold it.
 
+*She distracts.* If well hidden, Agnes will use Display to oppose anyone likely to find the barrette, unless
+they are a suitable host, *alone*; but she recognizes a kindred spirit, and if she notes someone with sufficiently
+similar personality flaws, she might be tempted. Without a host she cannot hold it again, and she very much wants
+to hold it. If there is anyone present who could detect her (a Conjuror or Halfling, etc) she will attempt to stay
+hidden unless the barrette is in danger of exposure; then she will actively try to mislead and draw them away, then
+escape. If she is free to work directly, she will roll Possession directly against characters too close to discovering
+it, and start trying to influence them to *Keep It Secret*.
+
 *She tempts.* If she can lure them away, it's someone she can "help". If she finds such a like-minded soul,
 she will follow them, and give them dreams of a treasure in a special hiding place. If they come alone, she
 reveals it, and makes it seem like the most beautiful thing in the world (to her it is.)
@@ -330,7 +339,8 @@ however she can - the bearer "just gets" better results on furtive errands, quie
 into a purse. *"It is almost as if someone is helping you."*  
 This is her preferred state, and she will keep it as long as the bearer lets her.
 
-*She erodes, quietly.* Every night, she gets a firmer grip. She creeps into their dreams with a slow seizing of will,
+*She erodes, quietly.* Given opportunity, she chooses the lowest resistance character as a potential host.
+Every night, she gets a firmer grip. She creeps into their dreams with a slow seizing of will,
 and does so *softly*, by inches, because a hard blow gets noticed. When the bearer tries to do something that would expose
 her - show the barrette to a friend, hand it to a buyer - they find they cannot; they will justify this to themselves however
 they must. 
@@ -396,23 +406,17 @@ situational dice to add to other rolls. If she ever opposes character action dir
 always either imposes a Hindrance, or rarely, a Hook, both of which are psychological and subtle enough
 that the victim won't even notice.
 
-*She distracts.* If well hidden, Agnes will use Display to Boost the opposition against anyone rolling to
-find the barrette unless they are a suitable host, *alone*. If there is anyone present who could detect her
-(a Conjuror or Halfling, etc) she will attempt to stay hidden unless the barrette is in danger of exposure;
-then she will actively try to mislead and draw them away, then escape. If she is free to work directly, she
-will roll Possession directly against characters too close to discovering it, and impose on the victim a Hook,
-*Keep It Secret*; winning that *opposed* roll against an action prevents the action for that exchange as they
-become distracted, perhaps by a "stray thought." Thereafter on that target she will roll to impose *Keep It Safe*
-as a Hindrance, specifically to no effect other than resisting her further rolls against that victim. These
-labelled items may go directly on a PC's character sheet, and will usually not affect them for anything other
-than interactions with Agnes and her barrette, though the GM may point out opportunities to leverage the Hook
-for extra dice if and when appropriate. More importantly, the GM *will* offer Karma on the Imposed Hook when
-it triggers, giving the player a chance to adopt it...
+*She distracts.* If she can't keep it hidden, Agnes will try first to impose a Hook, *Keep It Secret*; winning
+that *opposed* roll against an action prevents the action for that exchange as they become distracted, perhaps
+by a "stray thought." Thereafter on that target she will roll to impose *Keep It Safe* as a Hindrance; these
+rolls may still interrupt actions to reveal the barratte, but the Hindrance itself is to no *effect* other than
+resisting her further rolls against that victim. These labelled items may go directly on a PC's character sheet,
+and will usually not affect them for anything other than interactions with Agnes and her barrette, though the GM
+may point out opportunities to leverage the Hook for extra dice if and when appropriate. More importantly, the GM
+*will* offer Karma on the Imposed Hook when it triggers, giving the player a chance to adopt it.
 
-*She erodes, quietly.* Given opportunity, she chooses the lowest resistance - lowest EL, counting Hooks she
-can leverage. If she finds a suitable victim she will follow until they sleep, and impose the Hook while they
-have only base Level to resist. If successful, she will give them dreams (rolling again to apply a Hindrance
-now, again while they can only resist with base Level) to draw them back to the barrette, to collect it *alone*.
+*She erodes, quietly.*  A Hook while they sleep resists only with base level. She will give them dreams (rolling
+again to apply a Hindrance now, again while they can only resist with base Level) to draw them back to the barrette.
 This is usually a great time for the GM to offer that Karma. She's already *helping* by granting them Karma for
 advancement, but also starting the Hook up the ranks, and the Hindrance toward overwhelming any resistance.
 Every rank of the Hook should mark some change in their behavior; every accumulated point of Hindrance should
