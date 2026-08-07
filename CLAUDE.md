@@ -298,6 +298,35 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
   folded into the **canon rules**. Pairs naturally with the Recovery-Trope page above -- both
   are building-a-character philosophy, and both argue play-first over optimize-first. Surfaced
   2026-07-29.
+- **CLARIFY -- when/how a Hook can reach zero and be removed.** The working rule is that
+  Hooks "can't *generally* go to zero," yet the book already describes paths that clearly end
+  at nothing: an unfed or refused **Imposed Hook** degrades a rank per session and fades out
+  entirely (`imposed-hooks.html`: *"Must Keep It Secret* dwindles to *Habit of Silence*, to
+  *Socially Distant*, to nothing at all"), and `hooks-and-growth.html` covers reducing a Hook
+  by declining its events. Need an explicit statement of the exception: under what conditions
+  a Hook may actually be driven to zero and struck from the sheet, versus being floored at
+  rank 1. Also pin the timing asymmetry the author noted: *advancement* (ranking a Hook up)
+  happens only at end of session and counts against the one-improvement-per-session limit,
+  but *downgrading* a Hook can happen at any time. Reconcile the "generally" floor with the
+  Imposed/adopted-Hook fade-out so the two sections don't appear to contradict. Surfaced
+  2026-08-06.
+- **TEST -- multiple Karma-paying Hook triggers per session (Hook-severity variance).** Base rule:
+  a Hook pays **Karma** on its first trigger in a session and **Luck Tokens** on any trigger after
+  that. Proposed variance, surfaced from the *Dominion and Accord* setting: an exceptionally severe
+  Hook may pay **Karma up to three times per session**. Test case is **Pellan Atavism** (see the
+  setting notes below) -- a Hook on Credit that starts at **rank 3 minimum**, grants up to 3 dice
+  whenever Pellan physiology is an advantage (once per scene), and can be triggered for Karma up to
+  3x/session. **Not yet written into the rules; author is unsure whether to keep it.** Things to
+  watch in playtest: (a) a player willing to take the trigger becomes the fastest-advancing
+  character at the table -- is that a feature (it rewards leaning into a brutal Hook) or a
+  balance problem? (b) does the multiplier belong to *rank*, to a named severity tier, or stay a
+  per-Hook GM ruling? (c) does it also multiply the Luck Token fallback once the Karma triggers are
+  spent? (d) interaction with the Hooks-on-Credit debt rules, since a rank-3 credited Hook already
+  can't be declined with a Luck Token while Karma is owed. Note the Level interaction is a real
+  constraint, not a side effect: a rank-3 Hook requires **Level 3**, which costs 5K, so a 5-Karma
+  starting Pellan (5 + 2 credit = 7K) has only 2K left for Roles and Maneuvers -- very strong
+  physically, nearly untrained. That may be exactly right, but it means the variance effectively
+  sets a build floor. Surfaced 2026-08-07.
 - **Resist vs. oppose on *imposed effects*.** The resist/oppose choice (Resistance
   page: "any defense that can't hurt your attacker back is resistance rather than
   opposition") applies to *any* imposed effect, not just blows -- but players won't
