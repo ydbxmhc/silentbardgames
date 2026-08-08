@@ -246,7 +246,9 @@ T'kon.
 
 - **More numerous worlds than any other faction.**
 - Generally **healthier** than other populations -- they eat well, exercise, get fresh air,
-  and are the quiet beneficiaries of a centuries-old breeding program.
+  and are the quiet beneficiaries of a centuries-old breeding program. **"Quiet beneficiaries"
+  is literal:** the program is the T'kon Order breeding for itself (see below), and the general
+  public genestock is **slightly improved as runoff**, not as the goal.
 - Exports: **food, fine hand-crafted goods, and people.**
 - Seen by other cultures as stupid, backward rubes -- but grudgingly credited with being more
   statistically capable and trustworthy *individually*.
@@ -286,9 +288,8 @@ in *every* environment for different reasons:
 Ptokers are generally healthy with **no modifications**, and tend toward moral and ethical
 behavior and Hooks.
 
-`@@ OPEN:` the breeding program itself -- who runs it, whether rank-and-file Ptokers know it
-exists, what traits it targets, and whether the Tenets are used as theological cover. Author
-has this; not yet captured.
+**RESOLVED:** there is no separate breeding program. **The T'kon *are* the breeding program.**
+See the T'kon section below.
 
 ---
 
@@ -307,7 +308,22 @@ do anything they like and justify it to no one but another T'kon who disagrees.
 superhuman demonstrations of strength, agility, and intellect. **A mere human cannot survive
 them.** To even qualify, a candidate must prove ability **purely from their own gifts** -- no
 transplants, cyberwear, or drugs. All candidates therefore come from the centuries-old
-selective breeding pool. **The first and final Trials are each a thorough grilling by a board
+selective breeding pool -- **which is the Order itself.**
+
+> **The T'kon *are* the breeding program.** There is no separate institution, no inner
+> priesthood arranging the population's marriages, and no theological cover required -- because
+> nothing is being imposed on the public. The Order breeds for the Order, selecting for exactly
+> the traits needed to survive the Trials, and the prohibition on artificial augmentation is
+> *why* the lineage has to exist at all.
+>
+> **The general Ptoker genestock is slightly improved as runoff**, not as an objective. The
+> transmission vector is everyone who carries the lineage without entering the Order: washouts
+> cut during training, offspring who never became candidates, relatives, and their descendants
+> dispersing back into the population over centuries.
+>
+> Which also makes the markers meaningful in ordinary life. A Ptoker with a touch of gold in
+> the eye isn't an Agent -- they're kin to the line, and everyone around them knows roughly
+> what that means. **The first and final Trials are each a thorough grilling by a board
 of current Agents on thorny philosophical questions about the Tenets -- and *these* understand
 them quite well.**
 
@@ -698,8 +714,8 @@ objection to them is properly about the *ancestors'* choice, not theirs.
 
 ## Held threads / not yet captured
 
-- `@@ OPEN:` **The Ptokeriat breeding program** -- governance, secrecy, targeted traits,
-  theological cover. Author has this; ask.
+- ~~**The Ptokeriat breeding program.**~~ **RESOLVED 2026-08-08:** the T'kon *are* the program.
+  Public genestock is slightly improved as runoff, not by design.
 - `@@ OPEN:` Whether tachyonic drives break light speed.
 - `@@ OPEN:` Epiphany certification, necessarily per-jurisdiction.
 - `@@ OPEN:` Pellan cultural memory of the admiral.
