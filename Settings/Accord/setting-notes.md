@@ -558,16 +558,105 @@ Hydrans are **bald waterbreathers with webbed fingers and awesome pressure resis
 
 **But the edit was incomplete:**
 
-- **15% still cannot breathe water** (air-only -- "wheezers")
-- **10% can breathe *only* water** ("bubblers")
+- **15% still cannot breathe water** (air-only -- **"bubblers"**)
+- **10% can breathe *only* water** (**"wheezers"**)
 - leaving ~75% genuinely amphibious
 
 So their cities (mostly submerged) and their starships make extensive use of
 hyperoxygenated perfluorocarbon compounds and their functional successors -- **Flox**.
 
-> Only three-quarters of them fit their own world. Fifteen percent can't breathe the ocean
-> they live in; ten percent can't leave it. The entire civilization is plumbed around a
-> permanent accommodation of its own incomplete solution.
+> Only three-quarters of them fit their own world without help. The civilization is plumbed
+> around its own incomplete solution -- but "incomplete" is not "helpless," and the
+> workarounds are mature. See Flexibilities below.
+
+> **Get the direction right.** A **bubbler** is an **air** breather -- that's what you see when
+> they're under: bubbles. A **wheezer** is a **water** breather -- that's what they do out of
+> it. Both names come from watching someone in the wrong medium.
+>
+> These are established terms from the author's fiction, not invented slang. The novel
+> **Bubbler** is the deep source; this section only skims it.
+
+#### Flexibilities (important -- do not overstate the separation)
+
+Hydrans are **not** trapped in their respective halves. The constraints are real but
+**encumbering rather than absolute**:
+
+- **Flox is the universal medium.** Both bubblers and wheezers can operate **normally** in
+  Flox areas. A bubbler's limitation is specifically *water* -- the oxygen-bearing
+  perfluorocarbon doesn't require water-processing. This is the actual reason the cities and
+  ships are Flox-plumbed: it's the one medium all three body plans share.
+- **Extended breath-holding.** All Hydrans hold their breath considerably longer than standard
+  humans.
+- **Aerator tech is advanced and casual.** Bite-in mouthpieces that work like a snorkel.
+  Stick it in your teeth and go.
+- **Helmets work, and preserve speech.** An air breather can wear a helmet in a flooded
+  section and still talk normally.
+
+So crossing between halves is a matter of gear, preparation, and duration -- not a wall.
+
+> **Note this does not weaken the bridge-crew problem above; it explains it.** A helmet gives
+> an air breather presence in the wet *and* speech precisely because the lungs stay
+> air-filled -- which is why there's no acceleration benefit. **Speech or flooded lungs, never
+> both.** The helmet buys presence, not liquid breathing.
+
+#### Flox itself
+
+**Flox is considerably better than modern perfluorocarbons in every functional way:** lighter,
+lasts longer, absorbs more CO2, and it doesn't go corrosive. Treat real PFC as the crude
+ancestor and the floor of what Flox can do, not the model.
+
+**Loading is easy.** Exhale whatever you were breathing, inhale Flox, repeat two or three times
+until the lungs are full. Once loaded you can travel into **any** environment and simply
+breathe the Flox for a while -- **no breather needed.** The user exhales bubbles as it slowly
+evaporates off.
+
+**Clearing is the harder direction.** Either let it evaporate away over time, or hang
+upside-down and exhale it back out the way it came in. Hydrans are entirely used to this, and
+there are **drain stations** here and there -- a bar at knee height to hook your legs over
+while you empty out.
+
+**Buoyancy.** Flox is a little heavier than the body, so a loaded user tends to **sink** --
+noticeable but not prohibitive. (For scale: real PFC at ~1.9 g/mL would put roughly 5-6 kg of
+dead ballast in a 3 L lungful, which would make a person solidly negative and force them to
+walk rather than swim. Flox being engineered lighter is what keeps this a mild tendency instead
+of a serious handicap. Even so, expect wet sections to be built for walking -- floors worth
+standing on, handholds, and drain bars at knee height.)
+
+#### Duration of a lungful
+
+Derivation from real PFC, as the conservative floor. Saturated with pure O2 at 1 atm, PFC
+carries ~40-50 mL O2 per 100 mL, so ~450 mL O2 per liter. A filled adult lung is realistically
+3 L, giving ~1.35 L dissolved O2, of which maybe 60% is extractable before the partial-pressure
+gradient collapses -- call it 800 mL usable. Against a resting burn of ~250 mL O2/min that's
+about **three minutes**.
+
+Worth noting: that's roughly what a held breath of *air* provides (6 L at 21% is ~1.26 L O2).
+**Natural PFC is not a payload improvement** -- its advantage is immersion and equalization.
+Flox, being hyperoxygenated and engineered, *is* a real improvement, and Hydran adaptation
+stacks on top: greater lung volume, better extraction, and a strong bradycardic dive response
+lowering baseline consumption.
+
+Recommended working figures:
+
+| State | Duration on one lungful |
+|---|---|
+| Calm, still or drifting | ~20 minutes |
+| Working, moving, doing repairs | ~5 minutes |
+| Exertion, fighting, panic | **under a minute** |
+
+> **The steep exertion curve is the useful part.** A lungful is generous for anything planned
+> and nearly worthless in a crisis. A Hydran who crosses deliberately has a comfortable walk; a
+> Hydran who crosses *because something already went wrong* is short before they start. Panic
+> spends it four times faster, which is exactly the trap a Hook should set.
+
+**For L1, skip the stopwatch.** Rule it as: **one lungful is one scene of calm transit, or a
+handful of exchanges if things go sideways.** The system doesn't want minutes, it wants "do you
+have enough left."
+
+**The long-run limiter is CO2, not O2.** PFC dissolves CO2 even more readily than oxygen and
+Flox is better again, which buys real time -- but with no exchange the gradient eventually
+collapses and the failure mode is acidosis rather than suffocation. That's the justification
+for drain-and-refill existing as infrastructure instead of people simply topping off forever.
 
 #### Why Hydrans are not a naval power
 

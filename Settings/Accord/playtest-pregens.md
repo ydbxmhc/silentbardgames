@@ -95,12 +95,17 @@ personhood is a jurisdiction rather than a status. Nobody is aboard to rule on e
 > Members of a small family ship that serves as a travelling home and just needs to earn
 > enough to support everyone.
 
-**Make them Hydran.** The two-player dynamic then becomes two sisters who **cannot be in the
-same room.**
+**Make them Hydran.** The two-player dynamic becomes two sisters for whom **being in the same
+room always costs something** -- a mouthpiece, a helmet, a clock, a section reflooded.
+
+Not a wall. Hydran workarounds are mature: extended breath-holding, casual bite-in aerators,
+helmets that preserve speech, and **Flox, which both of them breathe normally.** The drama is
+that togetherness is never free and never indefinite. See the Flexibilities section in
+`setting-notes.md`.
 
 ### Sey -- elder sister, runs the ship
 
-One of the 15% who cannot breathe water. A *wheezer*.
+One of the 15% who cannot breathe water. A *bubbler*.
 
 ```
 5K   Level 3              3 Luck Tokens
@@ -120,7 +125,7 @@ Tricks:
 
 ### Miri -- younger sister, keeps it flying
 
-One of the 10% who can breathe *only* water. A *bubbler*.
+One of the 10% who can breathe *only* water. A *wheezer*.
 
 ```
 5K   Level 3              3 Luck Tokens
@@ -129,7 +134,7 @@ One of the 10% who can breathe *only* water. A *bubbler*.
 1K   Loremaster 1         Salvage 1
 1K   Athlete 1            Pressure-Born 1
 
-Hook: Never Leaves the Water 1 (free)
+Hook: Dry Is Borrowed Time 1 (free)
 
 Tricks:
      Hands in the Wet -- Tinker(Flox Systems) free-action Boost
@@ -141,20 +146,24 @@ Tricks:
        the ship.
 ```
 
-> Sey runs the dry half. Miri runs the wet half. They talk through a pressure window and a
-> comm. They share a home neither can fully occupy, and every crisis forces one of them to
-> handle it alone in a section the other physically cannot enter.
+> Sey runs the dry half, Miri the wet. Day to day they talk through a pressure window and a
+> comm because that's *easier*, not because it's required. Either can cross when it matters,
+> geared and on a clock, and the Flox sections are common ground where both are simply
+> comfortable.
 >
-> **Dry-Born and Never Leaves the Water are the same Hook from opposite ends**, and both earn
-> Karma constantly without anybody firing a shot.
+> **Dry-Born and Dry Is Borrowed Time are the same Hook from opposite ends**, and both earn
+> Karma constantly without anybody firing a shot -- not from being imprisoned, but from the
+> steady accumulation of small costs, delays, and preparations that everyone else takes for
+> granted.
 
-**The lever:** the ship needs a repair requiring hands in both halves simultaneously, and one
-of them has to trust a stranger.
+**The lever:** something needs hands in both halves *at once*, for longer than a mouthpiece or
+a helmet buys, and one of them has to trust a stranger.
 
 ### Third player -- Tavi, the middle sibling
 
-Standard amphibious Hydran, one of the 75%. The **only** person who can carry a message, a
-tool, or a hand into either half of the ship -- and grew up knowing that's the job.
+Standard amphibious Hydran, one of the 75%. Both sisters *can* cross with gear and a clock.
+Tavi is the only one for whom crossing is **free** -- no mouthpiece, no helmet, no countdown,
+as many times as needed. Grew up knowing that made them the family's errand.
 
 ```
 5K   Level 3              3 Luck Tokens
@@ -171,9 +180,9 @@ Tricks:
        and cleaner than anyone, because it's their whole life.
 
      Two Hands, Two Rooms -- Tavi Assists whichever sister is
-       working, because they can physically be where the other
-       cannot. Uses the standard Assist rule; the point is that
-       Tavi is the only one who *can*.
+       working, using the standard Assist rule. Not exclusive
+       access; the point is Tavi can do it repeatedly and
+       indefinitely while the others are spending air.
 ```
 
 *"I'll Go"* is reflexive volunteering. It earns Karma when Tavi is pulled two directions at
