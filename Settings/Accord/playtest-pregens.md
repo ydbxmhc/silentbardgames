@@ -1,5 +1,13 @@
 # Dominion and Accord -- Playtest Pregens
 
+> `@@*` **NONCANON -- ENTIRE FILE.**
+>
+> Every character, scenario framing, Hook, Trick, and Karma allocation here was invented
+> by Claude. Some were redirected by the author in conversation, but conversational
+> agreement is not validation. All of it awaits discussion and formal approval.
+>
+> See the `@@*` convention in `/CLAUDE.md`.
+
 *Three scenario options with ready characters. Built 2026-08-07.*
 *Setting reference: `setting-notes.md` in this folder.*
 

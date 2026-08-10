@@ -34,6 +34,30 @@ The PDF is the source of truth. The HTML must match it -- not improve on it.
 
 ---
 
+## The `@@*` tag -- NONCANON UNTIL VALIDATED
+
+**`@@*` marks content that is NOT canon and must not be treated as settled.**
+
+It means: *proposed, suggested, or inferred -- awaiting the author's discussion and
+formal validation.* Place it immediately before or after any such block.
+
+- **Anything Claude invents, proposes, infers, or reformulates gets `@@*`.** Rules,
+  mechanics, names, definitions, terminology, character builds, setting details,
+  analytical conclusions -- all of it, without exception.
+- **Agreement in conversation is not validation.** The author's position: *"in
+  conversation is never official until stamped and approved."* A discussion that went
+  well still leaves the content tagged. Only an explicit, formal decision clears it.
+- **Clearing a tag is an author action.** When something is ratified, the author says
+  so; then remove the `@@*` and, where the file has one, record it in that file's
+  Decisions Log with a date.
+- `@@*` is deliberately greppable. `grep -rn '@@\*'` should always answer "what in here
+  is still unratified?"
+
+Related existing marker: `@@ OPEN:` flags a question with no answer yet. `@@*` flags an
+*answer that hasn't been approved.* Both mean "not settled," for different reasons.
+
+---
+
 ## Workflow
 
 - Always consult before making changes to multiple files in one go.

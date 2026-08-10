@@ -1,5 +1,16 @@
 # Dominion and Accord -- Setting Notes
 
+> `@@*` **NONCANON -- ENTIRE FILE.**
+>
+> There is no official *Dominion and Accord* document yet. This whole file is
+> unratified: a capture of conversation, organized and phrased by Claude. The
+> underlying facts are the author's; the structure, connective reasoning, section
+> framing, and every derived conclusion are Claude's and await discussion and formal
+> validation.
+>
+> See the `@@*` convention in `/CLAUDE.md`. Nothing here is settled until the author
+> says it is.
+
 *Science fiction setting for Level One. Distilled from several NaNoWriMo novels.*
 *Captured from conversation 2026-08-06 / 2026-08-07. Baseline is solid but subject to change --*
 *the canonical version lives in the author's head. `@@ OPEN:` marks things not yet decided.*

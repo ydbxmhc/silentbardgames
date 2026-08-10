@@ -1,5 +1,13 @@
 # Firefly Conversions -- Calibration Reference
 
+> `@@*` **NONCANON -- ENTIRE FILE.**
+>
+> Every build here was constructed by Claude. The author reviewed and redirected them
+> in conversation, but conversational agreement is not validation -- these remain
+> unratified illustrations of a translation method, not approved reference builds.
+>
+> See the `@@*` convention in `/CLAUDE.md`.
+
 *Not setting material. These are the worked examples used to calibrate the 10-Karma standard*
 *and to sanity-check the translation method before building Accord pregens. Built 2026-08-07.*
 
