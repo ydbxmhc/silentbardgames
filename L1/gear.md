@@ -19,7 +19,7 @@ to do it.
 wash away downstream. This might feel devastating, but characters can get more
 stuff. Equipment comes and goes. If an item matters to a character concept,
 consider representing it as a [Hook](hooks.md) or [Maneuver](maneuvers.md) .
-Add a [Conceit](hooks-in-play.md) , or just make a House Rule that "the hero
+Add a [Conceit](nonhuman.md#conceits) , or just make a House Rule that "the hero
 never loses his hat."
 
 ---

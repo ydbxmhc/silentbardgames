@@ -14,7 +14,7 @@ against the character without extreme rolls.
 
 It's semantics. Feel free to find another way to say it, or tweak them so that
 they make more sense to you. Currently, all characters have the
-[*Conceit*](chargen.md) that they get recovery rolls, which use slightly
+[*Conceit*](nonhuman.md#conceits) that they get recovery rolls, which use slightly
 modified rules to better model real-world healing.
 
 ---

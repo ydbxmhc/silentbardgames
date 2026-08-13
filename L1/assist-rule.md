@@ -121,7 +121,7 @@ gets a sheet, and the Assist Rule applies.
 
 ItemTreatment A mundane sworddoesn’t need anything A Masterwork sword
 [Traits](gear-traits.md) only An enchanted sword that glows near enemies
-[Traits](gear-traits.md) plus a [Conceit](hooks-in-play.md) An enchanted sword
+[Traits](gear-traits.md) plus a [Conceit](nonhuman.md#conceits) An enchanted sword
 that parries on its ownSheet - that’s the Assist Rule An enchanted sword with
 its own agendaFull character sheet, [Hooks](hooks.md) and all
 
