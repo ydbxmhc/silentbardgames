@@ -23,6 +23,10 @@ Usage:
 
 With no PATHS, defaults to every text file in the repo (recursively):
 .html, .md, .txt, .css, .js, .json. The .git directory is skipped.
+
+Files listed in EXCLUDED are always skipped, named explicitly or not, because
+their non-ASCII dashes are deliberate. Skips are announced rather than silent,
+so --check can reach a clean exit without hiding anything.
 """
 import re
 import sys
@@ -36,6 +40,17 @@ EMDASH_ANY = re.compile(r'&#8212;|&mdash;|\u2014')
 ENDASH_ANY = re.compile(r'&#8211;|&ndash;|\u2013')
 
 TEXT_EXTS = {'.html', '.md', '.txt', '.css', '.js', '.json'}
+
+# Repo-relative posix paths whose non-ASCII dashes must survive. The print
+# production guide documents this very rule using the literal character, so
+# rewriting its examples would destroy their meaning.
+EXCLUDED = {'docs/print-production-guide.md'}
+
+
+def is_excluded(path):
+    """True if path is one of EXCLUDED, given relatively or absolutely."""
+    posix = path.as_posix()
+    return any(posix == ex or posix.endswith('/' + ex) for ex in EXCLUDED)
 
 
 def _repl(m):
@@ -90,6 +105,9 @@ def main(argv):
         if not p.is_file():
             print(f'skip (not a file): {p}', file=sys.stderr)
             continue
+        if is_excluded(p):
+            print(f'skip (dashes are deliberate): {p}')
+            continue
         original = p.read_text(encoding='utf-8')
         em, en = find_dashes(original)
         count = em + en
@@ -99,7 +117,10 @@ def main(argv):
         if check:
             print(f'{p}: {em} em-dash(es), {en} en-dash(es)')
             continue
-        p.write_text(dedash_text(original), encoding='utf-8')
+        # newline='\n' is required: .gitattributes pins the repo to eol=lf, but
+        # text mode would translate to os.linesep and emit CRLF on Windows,
+        # making the tool's output differ by platform.
+        p.write_text(dedash_text(original), encoding='utf-8', newline='\n')
         changed += 1
         print(f'dedashed: {p} ({count})')
 
