@@ -4,9 +4,10 @@ Running the Game
 
 # Traits
 
-Gear, spells, and creatures can have **Traits** - special properties that give them unique capabilities or limitations.
+Gear, spells, and creatures can have **Traits** - special properties that give
+them unique capabilities or limitations.
 
-** [Conceits](nonhuman.md#conceits) ** are unrated Traits - narrative truths that
+**[Conceits](glossary.md#conceit)** are unrated Traits - narrative truths that
 can't be measured but are absolutely true within the game world - they won't
 have numbers attached, same as for player characters. A demon might be *Immune
 To Fire* (unrated) rather than *Resistant +3* (rated).
@@ -16,10 +17,10 @@ to the same defensive situation (if at different points) while multiple
 *Immune* traits simply expand the range of things that cannot affect the
 target.
 
-Many creatures and items will get a " [Role](roles.md) " that is just whatever
+Many creatures and items will get a "[Role](roles.md)" that is just whatever
 they are - "Bear", for example, or "Sylph" for a type of air elemental. They
 can then get [Maneuvers](maneuvers.md) relevant to that. Special items might
-get dedicated [Maneuver](maneuvers.md) -like rated bonuses in specific
+get dedicated [Maneuver](maneuvers.md)-like rated bonuses in specific
 situations, such as *Sharp* for a supernally dangerous edge, or *Flaming* that
 provides light and ignites fuel in addition to its combat bonus.
 
@@ -42,7 +43,8 @@ Some ideas are worth repeatable labels, though. When the GM scribbles
 
 ## Behavioral Traits
 
-Some creatures or objects act in predictable patterns that affect how players can interact with them.
+Some creatures or objects act in predictable patterns that affect how players
+can interact with them.
 
 **Reactive** - Only acts when triggered. Obviously this applies to a classic
 trap or magical ward that lies dormant until someone steps on the wrong stone,
@@ -58,7 +60,8 @@ Ablative things usually go away when all the battery of points is spent up.
 
 ## Combat Traits
 
-These modify how attacks and defenses work in ways that can dramatically alter tactical situations.
+These modify how attacks and defenses work in ways that can dramatically alter
+tactical situations.
 
 **Inexorable** - Does not allow Resistance rolls! This is *extremely
 dangerous* and should be commensurately rare and moderated. It should usually
@@ -70,7 +73,8 @@ Warrior, but a Conjuror might be able to establish a protective Ward.
 defense entirely. You can't use a sword to fight a poison already in your
 system, though a Healer might be able to use an antidote.
 
-**Subtle** - effect is not obvious to anyone unable to perceive the Borderlands or the Spirit Realm.
+**Subtle** - effect is not obvious to anyone unable to perceive the
+Borderlands or the Spirit Realm.
 
 **Contagious** - Spawns a copy of itself on any victim of a successful attack.
 Yes, this is as terrifying as it sounds. While this obviously applies to
@@ -83,9 +87,11 @@ strong, but never roll *anything* but a **d12**.
 
 ## Area Effect Traits
 
-**Area Effect: Targetable** - Caster can use splitting to divide up the EL among different targets. (This is the default.)
+**Area Effect: Targetable** - Caster can use splitting to divide up the EL
+among different targets. (This is the default.)
 
-**Area Effect: Blanket** - One roll applies equally to everyone and everything in the affected area. No splitting allowed.
+**Area Effect: Blanket** - One roll applies equally to everyone and everything
+in the affected area. No splitting allowed.
 
 **Area Effect: Selective** - Affects only targets meeting specific criteria:
 those wearing metal, supernatural beings, whatever the effect specifies. The
@@ -115,19 +121,24 @@ types are possible, but be careful that they tell the right story.
 specified type, or adds to active attacks using that type. The GM determines
 appropriate Traits (*Insidious*, *Inexorable*, etc.) based on circumstances.
 
-**Protected** - Rating adds to Resisted effect *after* a successful Resistance roll.
+**Protected** - Rating adds to Resisted effect *after* a successful Resistance
+roll.
 
-**Worsened** - Rating always adds directly to incoming successful effect of the specified type.
+**Worsened** - Rating always adds directly to incoming successful effect of
+the specified type.
 
-**Resistant** - Rating adds to EL of resistance rolls against the specified effect type.
+**Resistant** - Rating adds to EL of resistance rolls against the specified
+effect type.
 
-**Sensitive** - Rating adds to the EL of effects of the relevant type targeting this entity.
+**Sensitive** - Rating adds to the EL of effects of the relevant type
+targeting this entity.
 
 ## Spell-Specific Traits
 
 Magic often behaves in ways that need mechanical precision.
 
-**Immutable** - the spell has all Traits set when bound, and cannot be cast any other way.
+**Immutable** - the spell has all Traits set when bound, and cannot be cast
+any other way.
 
 **Vancian** - The spell erases itself from the caster's memory when used,
 regardless of success or failure. Old school and unforgiving. Some settings
@@ -142,9 +153,11 @@ effort to maintain, and can stay active while casting other spells. They
 cannot hold an effect against someone else's roll, but might hold the spell
 active so that the caster can use it for new rolls.
 
-**Guidable** - Caster can continue directing the effect after casting as long as they maintain line of sight.
+**Guidable** - Caster can continue directing the effect after casting as long
+as they maintain line of sight.
 
-**Status** - NOT accumulating. When cast again, replace the previous value rather than stacking.
+**Status** - NOT accumulating. When cast again, replace the previous value
+rather than stacking.
 
 ## Creating New Traits
 

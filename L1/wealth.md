@@ -8,7 +8,8 @@ Character wealth is a common problem in games. Being *poor* can be
 inconvenient for the characters and frustrating for some players, but is
 rarely problematic for the GM.
 
-Characters getting "too rich" on the other hand can pose issues. How do you manage PC wealth?
+Characters getting "too rich" on the other hand can pose issues. How do you
+manage PC wealth?
 
 ## Level-Based Wealth Abstraction
 
@@ -29,7 +30,7 @@ actual coin.
 This implicitly links their purchasing power to their Level, which isn't
 entirely crazy, but has some side effects that may seem odd. A Level 3 PC with
 no [Role](roles.md) at all won't have the purchasing power of a same-Level
-Performer with haggling-relevant [Maneuvers](maneuvers.md) , but that's more a
+Performer with haggling-relevant [Maneuvers](maneuvers.md), but that's more a
 matter of the smooth-talker getting more for their money. Level drives
 everything in Level One. It makes a certain amount of sense that a character
 with more worldliness and reputation might also have more wealth.
@@ -37,7 +38,7 @@ with more worldliness and reputation might also have more wealth.
 Also, always remember that you shouldn't bother to roll for things that aren't
 really consequential and interesting. New characters may struggle to afford a
 beer, but well-established heroes won't quibble over the price of the better
-wine with their meal. If they have a *Big Spender* [Hook](hooks.md) , maybe
+wine with their meal. If they have a *Big Spender* [Hook](hooks.md), maybe
 they find out when it's time to pay that they don't have enough after all!
 
 You never *have* to do it this way, though.

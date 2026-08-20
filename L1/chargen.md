@@ -24,8 +24,8 @@ you do for a living. Level does three crucial things:
 
 ### Concept Drives Everything
 
-Before you spend any [Karma](karma.md) , get an idea who the character is,
-what their *story* is. What drives them? What would they risk their life for?
+Before you spend any [Karma](karma.md), get an idea who the character is, what
+their *story* is. What drives them? What would they risk their life for?
 Concept is the framework where every choice must fit. You're translating their
 life experience into game terms, not cataloging every quirk and skill they
 possess. The game assumes competent people can handle routine tasks - you only
@@ -35,7 +35,8 @@ to them and their story, and that create interesting choices.
 > **The Power of Good Representation**
 >
 > It's a truth about this system that veterans of other games might miss:
-> **Good narrative representation is more mechanically powerful than raw numbers.**
+> **Good narrative representation is more mechanically powerful than raw
+> numbers.**
 >
 > The mechanics reward thematic coherence!
 

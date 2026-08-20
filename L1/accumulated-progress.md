@@ -28,9 +28,9 @@ filling with water and you will drown if you don't get it open in time...
 
 In a rooftop chase where you must leap an alley, a single roll trivializes a
 jump that could potentially kill you. Treat it like a fight! If it wins a roll
-you hit the far wall, knock the wind out of yourself (a *
-[Complication](types-of-harm.md) *), and scramble to hold on, but pull
-yourself up and continue the chase. A worthwhile^ [1](#fn1) obstacle is a
+you hit the far wall, knock the wind out of yourself (a
+*[Complication](types-of-harm.md)*), and scramble to hold on, but pull
+yourself up and continue the chase. A worthwhile^[1](#fn1) obstacle is a
 challenge in its own right, rolling against you with purpose and potential.
 
 #### Notes

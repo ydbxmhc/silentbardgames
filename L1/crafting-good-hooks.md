@@ -26,7 +26,12 @@ irritation.
 
 > **Don't be a Pain!**
 >
-> If you're going to spend the entire game every session being blind drunk, pushing every button, and pocketing everyone's property, they may decide not to play with you at all! Consider the effects your [Hooks](hooks.md) will have on everyone's fun. GMs are well within their rights to ask the table, or to just reject a suggested [Hook](hooks.md) out of hand, though they should usually work with you to refine it.
+> If you're going to spend the entire game every session being blind drunk,
+> pushing every button, and pocketing everyone's property, they may decide not
+> to play with you at all! Consider the effects your [Hooks](hooks.md) will have
+> on everyone's fun. GMs are well within their rights to ask the table, or to
+> just reject a suggested [Hook](hooks.md) out of hand, though they should
+> usually work with you to refine it.
 
 ---
 

@@ -67,7 +67,7 @@ investments.
 
 ## Advanced Applications
 
-**Synergy with Other [Roles](../roles.md) :** Tinkers often complement other
+**Synergy with Other [Roles](../roles.md):** Tinkers often complement other
 abilities - a Spellweaver might use Tinker [Maneuvers](../maneuvers.md) to
 create scrolls, potions, or magical implements, while a Warrior might craft
 superior weapons or armor through dedicated smithing expertise.

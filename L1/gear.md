@@ -18,8 +18,8 @@ to do it.
 **Gear is transient** - it's just stuff. Swords break, tents catch fire, packs
 wash away downstream. This might feel devastating, but characters can get more
 stuff. Equipment comes and goes. If an item matters to a character concept,
-consider representing it as a [Hook](hooks.md) or [Maneuver](maneuvers.md) .
-Add a [Conceit](nonhuman.md#conceits) , or just make a House Rule that "the hero
+consider representing it as a [Hook](hooks.md) or [Maneuver](maneuvers.md).
+Add a [Conceit](glossary.md#conceit), or just make a House Rule that "the hero
 never loses his hat."
 
 ---

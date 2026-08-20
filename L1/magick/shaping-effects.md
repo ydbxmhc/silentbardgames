@@ -41,7 +41,7 @@ too far.
 ## Conjurors Pay in the Relationship
 
 A Conjuror's power is neither internal nor formulaic - it lives in the spirit,
-the bargain, and [the Accords](conjuring.md) , and the strength of their own
+the bargain, and [the Accords](conjuring.md), and the strength of their own
 will and soul. A Conjuror pays for Traits in the relationship, or in scars on
 his psyche rather than body or merely his time and opportunity. There are two
 cases, because Conjurors do two different kinds of work.
@@ -56,7 +56,7 @@ against the power of an otherworldly will. Unresisted exposure of this sort is
 taken as a *Soulburn* [Hindrance](../types-of-harm.md) which weakens the
 Conjuror's interactions with any spirit until *resolved*. At recovery time
 after the conflict, the Conjuror and the GM can negotiate converting the
-Soulburn into an [Imposed Hook](../hooks.md) , which can then be dealt with
+Soulburn into an [Imposed Hook](../hooks.md), which can then be dealt with
 like any Imposed Hook.
 
 Note that useful [Traits](../traits.md) for Conjuror actions might not be what
@@ -68,7 +68,7 @@ Ward which "only affects spirits" is the norm, but it also doesn't *have* to
 take a Trait for "affects insubstantial spirits," so that's a wash; narrow it
 to "only demons" for a difficulty reduction. *Inexorable* (the sealed
 salt-circle) and *Persistent* (a standing wall that needs no concentration,
-without a [Wager](../wagered-actions.md) ) might be useful, but a spirit who
+without a [Wager](../wagered-actions.md)) might be useful, but a spirit who
 chooses to breach an Inexorable Ward must simply accept that portion of the
 effect as Harm, since it cannot be resisted. *Area* Rebuke might affect
 several spirits (or Halflings!) and *Inexorable* could apply, but *Guidable*
@@ -80,7 +80,7 @@ constructed and then directed about.
 When a spirit produces an effect on the Conjuror's behalf, its own nature
 governs how the effect is shaped. The Conjuror's cost for demanding more is
 always a negotiation. A bigger ask is a steeper bargain, paid in offerings,
-[Karma](../karma.md) , or [Luck Tokens](../luck.md) spent as bargaining chips.
+[Karma](../karma.md), or [Luck Tokens](../luck.md) spent as bargaining chips.
 This can be negotiated in advance for appropriately increased cost, or on the
 fly at a *much* higher price. Pay it and the spirit obliges; refuse and it
 declines or immediately renegotiates, which is an action spent. If you try to
@@ -91,7 +91,11 @@ spell, but a recalcitrant, angry, literal-minded, or loosed spirit.
 
 > **The Shared Shape**
 >
-> Three currencies, one bargain with reality: the Spellweaver risks *losing the working*, the Adept risks *burning herself*, the Conjuror risks *the spirit's price or its treachery*. In every case, a more powerful effect costs more difficulty, and a roll stands between the caster and the consequence. Pick the Trait you want and decide, in your own coin, whether you can afford it.
+> Three currencies, one bargain with reality: the Spellweaver risks *losing the
+> working*, the Adept risks *burning herself*, the Conjuror risks *the spirit's
+> price or its treachery*. In every case, a more powerful effect costs more
+> difficulty, and a roll stands between the caster and the consequence. Pick the
+> Trait you want and decide, in your own coin, whether you can afford it.
 
 ---
 

@@ -27,7 +27,7 @@ now you’ve introduced the possibility of rolling higher than your EL, which
 always completely fails with a total effect of zero. This is a risk/reward
 decision that you totally control. The benefit is finer control of your rolls;
 the cost is the chance of total failure, and loss of potential critical
-successes – see [Extreme Results](extreme-results.md) .
+successes - see [Extreme Results](extreme-results.md).
 
 ## A Closer Look
 
@@ -46,7 +46,8 @@ control over the intensity of that bell curve, you can use any dice you like!
 
 ## AnyDice
 
-This is great for groups who enjoy “min-max” tactical optimization and don’t mind a bit of math.
+This is great for groups who enjoy “min-max” tactical optimization and don’t
+mind a bit of math.
 
 For reference, when talking about zero-base dice, we’ll use a special
 notation. If **3d8** means roll three “normal” eight-sided one-based polyhedra
@@ -58,8 +59,8 @@ If you are using AnyDice System zero-base dice, there is *literally no*
 constraint or restriction, though there are certainly some guidelines that
 will help.
 
-Want to play it safe at EL13? Just use a Simple Pool and roll 13 dice –
-**13d[0-1]**. With so many dice it’s *extremely* unlikely you’ll roll a zero –
+Want to play it safe at EL13? Just use a Simple Pool and roll 13 dice -
+**13d[0-1]**. With so many dice it’s *extremely* unlikely you’ll roll a zero -
 literally better than 8000 to 1 odds. It *cannot* roll over your EL13 so it’s
 “safe”, but the odds are equally low of rolling an optimal 13. The more dice
 you throw, the more the results will tend toward the middle of the range.
@@ -99,11 +100,12 @@ not to tell anyone.
 
 ### Other Alternatives
 
-Use a deck of playing cards – if you read red/black as even/odd, just deal out
+Use a deck of playing cards - if you read red/black as even/odd, just deal out
 however many you want and count the black cards, then shuffle them all back
 in.
 
-You can use practically any random number generation system. Make a spinner if it makes you happy.
+You can use practically any random number generation system. Make a spinner if
+it makes you happy.
 
 You can even play completely *without* dice. It will radically change the feel
 and function of the game, because it shifts more of the mechanics onto tactics

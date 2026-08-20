@@ -42,10 +42,10 @@ instantly available, no-preparation **free-action Boost**:
 dice to your EL for the attack.** This genuinely raises your ceiling - an EL6
 strike with a 4-success Boost is rolled, and kept, at EL10. Its value scales
 with your own skill, so a dangerous fighter's death-strike is genuinely
-dangerous, while a mook's flailing sacrifice mostly just gets him killed. (
-[Extra Effort](dice.md) is a separate, stackable choice with its own overshoot
-risk; you may layer it on the Boost or the attack, but it is not the same
-thing.)
+dangerous, while a mook's flailing sacrifice mostly just gets him killed.
+([Extra Effort](dice.md) is a separate, stackable choice with its own
+overshoot risk; you may layer it on the Boost or the attack, but it is not the
+same thing.)
 
 Against a foe who guards, the Blitz is largely soaked - but a pure defender
 deals little back, since defense dice are dice not spent attacking. Push the
@@ -56,11 +56,25 @@ probably not survive being right.
 
 > **Worked Example - Ai-uchi at the Daimyo's Door**
 >
-> **Kazuo** (Level 2 / Warrior 2 / Swords 2 → EL6), no armor, his wakizashi broken and his luck nearly spent, will not let the assassin reach his lord. **Komi** (Level 3 / Warrior 3 / Katana 3 → EL9) is armored and known by reputation. Kazuo is outclassed and knows it, so after two careful exchanges he chooses an honorable *ai-uchi* over certain defeat.
+> **Kazuo** (Level 2 / Warrior 2 / Swords 2 → EL6), no armor, his wakizashi
+> broken and his luck nearly spent, will not let the assassin reach his lord.
+> **Komi** (Level 3 / Warrior 3 / Katana 3 → EL9) is armored and known by
+> reputation. Kazuo is outclassed and knows it, so after two careful exchanges
+> he chooses an honorable *ai-uchi* over certain defeat.
 >
-> He rolls his Kamikaze Boost with 2 [Extra Effort](dice.md) dice for a **4**, adds it to his EL, and attacks at **EL10** (with 4 more Extra Effort dice) for an **8**. Komi, expecting a man to fight for his life rather than throw it away, has split normally: **4 attack, 5 defense**. Because Kazuo opted out, it's pure attack-and-defense:
+> He rolls his Kamikaze Boost with 2 [Extra Effort](dice.md) dice for a **4**,
+> adds it to his EL, and attacks at **EL10** (with 4 more Extra Effort dice) for
+> an **8**. Komi, expecting a man to fight for his life rather than throw it
+> away, has split normally: **4 attack, 5 defense**. Because Kazuo opted out,
+> it's pure attack-and-defense:
 >
-> Komi's blade goes into Kazuo's shoulder - Kazuo doesn't even try to deflect it. Komi's 4 attack rolls a **2**; with no defense, Kazuo takes 2 - his Down threshold is 3, so that leaves him standing, barely. Kazuo's **8** lands; Komi's 5 defense rolls only **3**, leaving **5** on his one-point men-yoroi mask - **4** gets through, past his Down-3. Unless Komi spends a [Luck Token](luck.md) for [Plot Armor!](gear.md), the younger samurai has a story to tell about the night he saved his daimyo.
+> Komi's blade goes into Kazuo's shoulder - Kazuo doesn't even try to deflect
+> it. Komi's 4 attack rolls a **2**; with no defense, Kazuo takes 2 - his Down
+> threshold is 3, so that leaves him standing, barely. Kazuo's **8** lands;
+> Komi's 5 defense rolls only **3**, leaving **5** on his one-point men-yoroi
+> mask - **4** gets through, past his Down-3. Unless Komi spends a [Luck
+> Token](luck.md) for [Plot Armor!](gear.md), the younger samurai has a story to
+> tell about the night he saved his daimyo.
 
 **For the GM:** when a player character pulls this off against a worthy foe,
 think hard before spending an NPC's [Luck Token](luck.md) to cheat the ending.

@@ -6,7 +6,8 @@ Magick!
 
 ## Adepts: Intuitive Power and *Thematic* Magic
 
-*- The power flows through me like breathing; I don't cast spells, I simply am.*
+*- The power flows through me like breathing; I don't cast spells, I simply
+am.*
 
 The intuitive approach makes Adept magic both powerful and personal. Not all
 pyromancers work identically - one might specialize in precise flame shaping
@@ -47,7 +48,13 @@ play now and then.
 
 > **Example**
 >
-> Marcus is Level 4 Adept(Fire) 3 Manifestation 2, so his Threshold is 6 (Role x2). He channels at EL8 *plus any Boosts*, so he can reach well past safe. He looses a flame bolt and rolls an 8. He can hold it to 6 - safe, wasting 2; loose all 8 and roll base Level 4 + Adept 3 = EL7 to resist the 2-point overage; or opt somewhere between, which for this example means a 7 to resist just 1 - but he must choose before it lands, and it makes *no difference* whether the target resists.
+> Marcus is Level 4 Adept(Fire) 3 Manifestation 2, so his Threshold is 6 (Role
+> x2). He channels at EL8 *plus any Boosts*, so he can reach well past safe. He
+> looses a flame bolt and rolls an 8. He can hold it to 6 - safe, wasting 2;
+> loose all 8 and roll base Level 4 + Adept 3 = EL7 to resist the 2-point
+> overage; or opt somewhere between, which for this example means a 7 to resist
+> just 1 - but he must choose before it lands, and it makes *no difference*
+> whether the target resists.
 
 ### Thematic Flexibility
 

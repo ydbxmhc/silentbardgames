@@ -34,6 +34,30 @@ The PDF is the source of truth. The HTML must match it -- not improve on it.
 
 ---
 
+## The `@@*` tag -- NONCANON UNTIL VALIDATED
+
+**`@@*` marks content that is NOT canon and must not be treated as settled.**
+
+It means: *proposed, suggested, or inferred -- awaiting the author's discussion and
+formal validation.* Place it immediately before or after any such block.
+
+- **Anything Claude invents, proposes, infers, or reformulates gets `@@*`.** Rules,
+  mechanics, names, definitions, terminology, character builds, setting details,
+  analytical conclusions -- all of it, without exception.
+- **Agreement in conversation is not validation.** The author's position: *"in
+  conversation is never official until stamped and approved."* A discussion that went
+  well still leaves the content tagged. Only an explicit, formal decision clears it.
+- **Clearing a tag is an author action.** When something is ratified, the author says
+  so; then remove the `@@*` and, where the file has one, record it in that file's
+  Decisions Log with a date.
+- `@@*` is deliberately greppable. `grep -rn '@@\*'` should always answer "what in here
+  is still unratified?"
+
+Related existing marker: `@@ OPEN:` flags a question with no answer yet. `@@*` flags an
+*answer that hasn't been approved.* Both mean "not settled," for different reasons.
+
+---
+
 ## Workflow
 
 - Always consult before making changes to multiple files in one go.
@@ -268,6 +292,23 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
     despair, while investigating a site of great joy could leave them euphorically
     unable to focus on their mission."*
   - Unclosed italics: `*rarely.` at end of Psychic Predators --> should be `*rarely.*`
+- **`glossary.html` Conceit entry -- the closing see-also needs an author decision.**
+  The entry ends *"See Hooks in Play."* but `hooks-in-play.html` never uses the word
+  Conceit. Fixing it means either changing the wording, or leaving a link labelled
+  "Hooks in Play" pointing somewhere that is not that page, so it was left exactly as
+  written. It is also the strongest evidence that `hooks-in-play.html` was originally
+  meant to carry a Conceits section. **Context:** on 2026-08-20 the other ten Conceit
+  references (in `assist-rule`, `gear`, `gear-traits`, `nonhuman` x4, `oddball-rule`,
+  `traits`, and the glossary `dt`) were repointed to `glossary.html#conceit`, and the
+  `<h2>Conceits</h2>` in `nonhuman.html` gained an `id="conceits"` anchor for the fuller
+  discussion. If that section does eventually get written into `hooks-in-play.html`,
+  revisit where those ten should point.
+- **Opportunity, not an error: every glossary term is now anchored.** All 51 `<dt>`
+  elements in `glossary.html` carry ids as of 2026-08-20 (`#wager`, `#staggered`,
+  `#el-effective-level`, and so on). Term mentions scattered through the book could be
+  pointed at their own definitions rather than at a page top. This also gives the
+  planned Lunr alias map somewhere precise to land. Worth a deliberate pass rather than
+  piecemeal changes; ask before starting one.
 
 ### Rules design / clarifications (not yet in the book)
 - **NEW PAGE -- "The Recovery Trope" (building-a-character / quick-start section).**
@@ -298,6 +339,35 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
   folded into the **canon rules**. Pairs naturally with the Recovery-Trope page above -- both
   are building-a-character philosophy, and both argue play-first over optimize-first. Surfaced
   2026-07-29.
+- **CLARIFY -- when/how a Hook can reach zero and be removed.** The working rule is that
+  Hooks "can't *generally* go to zero," yet the book already describes paths that clearly end
+  at nothing: an unfed or refused **Imposed Hook** degrades a rank per session and fades out
+  entirely (`imposed-hooks.html`: *"Must Keep It Secret* dwindles to *Habit of Silence*, to
+  *Socially Distant*, to nothing at all"), and `hooks-and-growth.html` covers reducing a Hook
+  by declining its events. Need an explicit statement of the exception: under what conditions
+  a Hook may actually be driven to zero and struck from the sheet, versus being floored at
+  rank 1. Also pin the timing asymmetry the author noted: *advancement* (ranking a Hook up)
+  happens only at end of session and counts against the one-improvement-per-session limit,
+  but *downgrading* a Hook can happen at any time. Reconcile the "generally" floor with the
+  Imposed/adopted-Hook fade-out so the two sections don't appear to contradict. Surfaced
+  2026-08-06.
+- **TEST -- multiple Karma-paying Hook triggers per session (Hook-severity variance).** Base rule:
+  a Hook pays **Karma** on its first trigger in a session and **Luck Tokens** on any trigger after
+  that. Proposed variance, surfaced from the *Dominion and Accord* setting: an exceptionally severe
+  Hook may pay **Karma up to three times per session**. Test case is **Pellan Atavism** (see the
+  setting notes below) -- a Hook on Credit that starts at **rank 3 minimum**, grants up to 3 dice
+  whenever Pellan physiology is an advantage (once per scene), and can be triggered for Karma up to
+  3x/session. **Not yet written into the rules; author is unsure whether to keep it.** Things to
+  watch in playtest: (a) a player willing to take the trigger becomes the fastest-advancing
+  character at the table -- is that a feature (it rewards leaning into a brutal Hook) or a
+  balance problem? (b) does the multiplier belong to *rank*, to a named severity tier, or stay a
+  per-Hook GM ruling? (c) does it also multiply the Luck Token fallback once the Karma triggers are
+  spent? (d) interaction with the Hooks-on-Credit debt rules, since a rank-3 credited Hook already
+  can't be declined with a Luck Token while Karma is owed. Note the Level interaction is a real
+  constraint, not a side effect: a rank-3 Hook requires **Level 3**, which costs 5K, so a 5-Karma
+  starting Pellan (5 + 2 credit = 7K) has only 2K left for Roles and Maneuvers -- very strong
+  physically, nearly untrained. That may be exactly right, but it means the variance effectively
+  sets a build floor. Surfaced 2026-08-07.
 - **Resist vs. oppose on *imposed effects*.** The resist/oppose choice (Resistance
   page: "any defense that can't hurt your attacker back is resistance rather than
   opposition") applies to *any* imposed effect, not just blows -- but players won't
@@ -340,6 +410,44 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
 - **Suppress rails on meta-pages**: `toc.html` and `settings.html` currently show
   the side panels (TOC beside the TOC, etc.). Suppress with a `body[data-no-rails]`
   check in `rails.js` if desired -- harmless for now.
+
+### Tooling (`tools/`) follow-ups
+
+Found during the 2026-08-20 pass. `html2md.py` and `dedash.py` were repaired that day;
+these are what remain.
+
+- **`html2md.py` flattens `<table>`, exactly as it used to flatten `<dl>`.** `table` is
+  in `BLOCK_TAGS` but `tr`, `th` and `td` are not, so every cell flushes into a single
+  buffer. One page is affected, `assist-rule.html`, and the mirror output is genuinely
+  wrong rather than merely ugly:
+  `ItemTreatment A mundane sworddoesn't need anything A Masterwork sword...` -- that is
+  the "when does something get a sheet?" reference table with its cells fused. A GFM
+  pipe table renders on GitHub and everywhere else, and it is the same shape of fix as
+  the `<dl>` branch added the same day.
+- **`anchor_sections.py` writes CRLF on Windows.** Both of its write paths call
+  `write_text(new, encoding="utf-8")` with no `newline="\n"`, so its output fights
+  `.gitattributes eol=lf`. Third instance of that bug; the other two tools were fixed
+  2026-08-20. It matters more here, because this tool writes `toc.html` and `nav.html`.
+- **A regenerate-and-diff CI gate is now feasible.** Every `.md` mirror is reproducible
+  from its `.html` by one command, and `dedash --check` exits 0. A step that regenerates
+  and fails on any diff would stop the mirrors drifting again. They had drifted badly and
+  silently: half the corpus unwrapped, `.html` link targets left in Markdown, stray
+  spaces before punctuation, and a dead placeholder link in `imposed-hooks.md` that its
+  HTML never contained.
+
+**Settled 2026-08-20, recorded so it is not re-litigated:**
+
+- The `.md` mirrors contain non-ASCII characters (curly quotes, ellipses, breadcrumb and
+  nav glyphs) and that is fine. The `.html` uses numeric entities such as `&#8217;`,
+  which are ASCII bytes *encoding* a non-ASCII character, a different thing from a
+  non-ASCII character sitting in the file. The ASCII rule means "prefer ASCII where a
+  simple equivalent exists," which is why dashes become hyphens while ellipses stay.
+- `html2md.py` mirrors every HTML page in the repo, `WIP/` and `Settings/` included.
+  Those mirrors are harmless, being reachable only by direct URL or through the
+  repository, so the walk was deliberately left unscoped.
+- `dedash.py` permanently skips `docs/print-production-guide.md`, whose two em-dashes are
+  the literal examples inside the sentences documenting the dash rule. The skip is
+  announced, not silent, so `--check` can exit 0 honestly.
 
 ### Infrastructure / ops
 - **Domain email**: set up addresses on `silentbardgames.com`. Plan: move DNS

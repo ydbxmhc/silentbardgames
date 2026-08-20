@@ -5,8 +5,8 @@ Core Mechanics
 # Spending Karma
 
 **Level advancement** costs [Karma](karma.md) equal to your new Level. Going
-from Level 1 to Level 2 costs 2 [Karma](karma.md) . Level 2 to Level 3 costs 3
-[Karma](karma.md) , and so on. You must be Rested and completely healed from
+from Level 1 to Level 2 costs 2 [Karma](karma.md). Level 2 to Level 3 costs 3
+[Karma](karma.md), and so on. You must be Rested and completely healed from
 all [Injury](types-of-harm.md) before you can increase your Level.
 
 ***Everything else*** that costs [Karma](karma.md) requires [Karma](karma.md)
@@ -23,9 +23,9 @@ PCs are *Healed* and *Rested*. Characters can't keep more [Karma](karma.md)
 than the cost of their next Level. It's ok to receive more than you can keep,
 as long as you spend it before the next session.
 
-You can spend [Karma](karma.md) as emergency luck. When you want a
-[Luck Token](luck.md) but can't spend one, such as in *downtime* between
-sessions, use actual [Karma](karma.md) instead. As a last-ditch effort, if you
+You can spend [Karma](karma.md) as emergency luck. When you want a [Luck
+Token](luck.md) but can't spend one, such as in *downtime* between sessions,
+use actual [Karma](karma.md) instead. As a last-ditch effort, if you
 absolutely can't succeed any other way on a vitally important roll during a
 session, use a [Karma](karma.md) to *Succeed*, even when a Token wouldn't be
 enough. When the PC has spent every other resource and is about to fall to

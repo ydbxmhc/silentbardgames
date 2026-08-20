@@ -4,7 +4,8 @@ Supernatural Roles
 
 # Spellweaver
 
-*"The universe speaks in mathematics and metaphor - I simply learned the language and taught it better grammar."*
+*"The universe speaks in mathematics and metaphor - I simply learned the
+language and taught it better grammar."*
 
 The Spellweaver approaches magic as both science and art, transforming cosmic
 forces into reproducible effects through elaborate ritual preparation. Where
@@ -71,7 +72,15 @@ magic and general defense, but be careful: if you release a spell that is
 currently active it winks out. The same happens if recasting fails and
 destabilizes it.
 
-Spells persist according to their nature and *[Traits](../traits.md)* (see that section), and the needs and application of the caster. A *Light* typically continues glowing as long as the caster needs and maintains it, and vanishes when he allows it, but can be cast as *Persistent* to last throughout the scene without maintenance, and can even be duplicated with no ill effect so long as the caster still has the spell. *Fax Iacta* exemplifies versatility - once cast, the conjured flame can be held to serve as torch or thrown as a weapon. The same binding creates multiple problem-solving options through creative use rather than rigid definitions.
+Spells persist according to their nature and *[Traits](../traits.md)* (see
+that section), and the needs and application of the caster. A *Light*
+typically continues glowing as long as the caster needs and maintains it, and
+vanishes when he allows it, but can be cast as *Persistent* to last
+throughout the scene without maintenance, and can even be duplicated with no
+ill effect so long as the caster still has the spell. *Fax Iacta* exemplifies
+versatility - once cast, the conjured flame can be held to serve as torch or
+thrown as a weapon. The same binding creates multiple problem-solving options
+through creative use rather than rigid definitions.
 
 ---
 

@@ -178,10 +178,10 @@ section so the page plan lives with the other build items.
   at the repo root (download/upload artifact). Consolidated it into the
   canonical `TS/oracle-master.md`; removed the root duplicate.
 - **Reverted housekeeping (FYI, needs a yes/no):** the edited copy was based on
-  a pre-resolution version, so it reopened the `@@DECISION A–E` status stamps
+  a pre-resolution version, so it reopened the `@@DECISION A-E` status stamps
   and reverted the subsite TODO (dropping the **sensitivity watch** and
   **editing-passes** bullets). The author's *content* edits already settle
-  A–E in practice. **Q: re-stamp A–E as RESOLVED and restore the sensitivity-
+  A-E in practice. **Q: re-stamp A-E as RESOLVED and restore the sensitivity-
   watch / editing-pass TODO bullets?** (Not done yet - awaiting the nod.)
 
 ## N4 - Per-card page architecture (from author's lexicon comment)
@@ -213,7 +213,7 @@ frames, now populated with the current single reading + card art.
 ## CHANGE LOG - 2026-06-27 (author-authorized typo + housekeeping pass)
 
 **Applied to `TS/oracle-master.md`:**
-- Re-stamped `@@DECISION A–E` to RESOLVED (reflecting the author's edit-pass
+- Re-stamped `@@DECISION A-E` to RESOLVED (reflecting the author's edit-pass
   choices) and updated the header status index. No prose changed.
 - Restored the subsite TODO grouping: re-added **sensitivity watch** +
   **multiple editing passes**, and the **build** items (per-card pages,

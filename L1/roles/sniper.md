@@ -28,7 +28,8 @@ lies in controlling engagement range and making every shot count when it
 matters most. A Sniper's greatest weapon isn't their bow or crossbow - it's
 their ability to be exactly where their enemy doesn't expect them to be.
 
-Obviously, Snipers get *excellent* synergy with *Sneak*, and work well with *Warrior* and *Naturalist*.
+Obviously, Snipers get *excellent* synergy with *Sneak*, and work well with
+*Warrior* and *Naturalist*.
 
 ---
 

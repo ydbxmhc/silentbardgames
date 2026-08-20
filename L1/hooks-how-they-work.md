@@ -4,7 +4,8 @@ Characters
 
 # How They Work in Play
 
-Say your character has a rank 2 [Hook](hooks.md) of *Protect the Innocent*. Dealing with a corrupt baron, you could:
+Say your character has a rank 2 [Hook](hooks.md) of *Protect the Innocent*.
+Dealing with a corrupt baron, you could:
 
 - Add its rank of 2 to one intimidation roll over their exploitation of workers
 - Earn [Karma](karma.md) when you refuse a profitable bribe because it would harm common folk

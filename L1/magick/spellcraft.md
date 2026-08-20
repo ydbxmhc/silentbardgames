@@ -39,7 +39,7 @@ will select spells to *bind*.
 **Binding Spells**
 
 To do this, the ritual of casting dedicates *at least* one rank of their
-Spellweaver [Role](../roles.md) . Ranks bound this way are no longer available
+Spellweaver [Role](../roles.md). Ranks bound this way are no longer available
 for other uses; they apply when casting this spell, or when *counterspelling*
 this spell or any effect the GM rules sufficiently similar. This sets an
 absolute maximum number of spells the character can bind.
@@ -121,11 +121,12 @@ fire elemental, the Spellweaver will be considerably more powerful; if the
 Firebolt spell only counts against another Firebolt spell, he will still be
 able to use his base level. He could use a [Maneuver](../maneuvers.md) to
 learn the ability to apply certain spells more broadly: *Fire Counter* is a
-perfectly valid [Maneuver](../maneuvers.md) .
+perfectly valid [Maneuver](../maneuvers.md).
 
 ### So what IS a "Spell"?
 
-We could say it's just a [Maneuver](../maneuvers.md), or a mechanic, but how is that putting story first?
+We could say it's just a [Maneuver](../maneuvers.md), or a mechanic, but how
+is that putting story first?
 
 A spell is a very complicated and particular skill that Spellweavers learn.
 Until you learn to do it for yourself, you'll never really understand it;
@@ -199,7 +200,7 @@ directly; it can ONLY affect supernatural targets, though that does include
 other *active* wielders of magic… *Mind Spike* strikes the psyche, and victims
 can only roll base Level plus supernatural [Role](../roles.md) ranks for
 resistance, but it inflicts explicit [Complication](../types-of-harm.md)
-damage by default rather than true [Injury](../types-of-harm.md) .
+damage by default rather than true [Injury](../types-of-harm.md).
 *Tanglebones* applies a [Hindrance](../types-of-harm.md) rather than actual
 damage, but slows victims to the point of paralysis if the unresisted effect
 is enough!

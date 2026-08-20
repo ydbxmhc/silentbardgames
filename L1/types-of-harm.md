@@ -4,7 +4,8 @@ Core Mechanics
 
 # Three Types of Harm - and One More
 
-All these reduce EL, but Hindrances don't count toward being Down; they are situational obstacles, not *damage*.
+All these reduce EL, but Hindrances don't count toward being Down; they are
+situational obstacles, not *damage*.
 
 **Hindrances** can't be recovered at all. They must be dealt with through the
 story, be they Blindness spells, being bound with ropes, or any condition that
@@ -38,7 +39,7 @@ apply something that *would* matter to them. Most of these can and should
 still be handled with the usual rules.
 
 Still, it is possible that the result someone takes from losing a resistance
-roll is an [Imposed Hook](imposed-hooks.md) . See the section on Hooks for
+roll is an [Imposed Hook](imposed-hooks.md). See the section on Hooks for
 [more info](imposed-hooks.md).
 
 ---

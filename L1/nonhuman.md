@@ -14,16 +14,17 @@ assume human.
 
 ## Conceits
 
-A [Conceit](#conceits) is an unrated Truth (capital "T") about the game or something in it.
+A [Conceit](glossary.md#conceit) is an unrated Truth (capital "T") about the
+game or something in it.
 
 Some things can't be measured. When those things are really important, but the
 only accurate way to represent them is just to say "*this is true,*" then
-that's a [Conceit](#conceits) . A demon might be *Immune To Fire*, able
-to stand in an active furnace without harm, but still subject to other types
-of damage.
+that's a [Conceit](glossary.md#conceit). A demon might be *Immune To Fire*,
+able to stand in an active furnace without harm, but still subject to other
+types of damage.
 
 *Powerful* nonhuman characters rely on this heavily. A
-[Conceit](#conceits) is often all you need to wrap up a bundle of
+[Conceit](glossary.md#conceit) is often all you need to wrap up a bundle of
 complicated details that don't really need a rating. A character might be an
 orc, a pixie, or a ghost; the whole group probably immediately knows a lot
 about them, what they might be good at and what troubles they might have
@@ -33,7 +34,7 @@ before bothering to try and put numbers on these things.
 >
 > *Do not **assume** reasonable behavior from anything with an opposable thumb.*
 
-[Conceits](#conceits) are *incredibly* powerful. Don't abuse them!
+[Conceits](glossary.md#conceit) are *incredibly* powerful. Don't abuse them!
 Still, games are about fun. If it's fun, and everyone agrees... have at it.
 
 Sometimes, to make a nonhuman, all you really need is the idea. "My character

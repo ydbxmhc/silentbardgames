@@ -9,13 +9,13 @@
 
 | Creature | L1 | Fate | Cortex | Boundless | 5e | Shadowdark | Daggerheart |
 |---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Old Pell | ✓ | ✓ | ✓ | ✓ | ✓ | — | — |
-| Hanged Man | ✓ | ✓ | ✓ | ✓ | ✓ | — | — |
-| Zombie | ✓ | ✓ | ✓ | **✗** | ✓ | — | — |
-| Agnes | ✓ | ✓ | ✓ | ✗ | ✓ | — | — |
-| Vane | ✓ | ✓ | ✓ | ✗ | ✓ | — | — |
-| Malisondre | ✓ | ✓ | ✓ | ✗ | ✓ | — | — |
-| Reincarnate / Liora | ✓ | ✓ | ✓ | ✗ | ✓ | — | — |
+| Old Pell | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| Hanged Man | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| Zombie | ✓ | ✓ | ✓ | **✗** | ✓ | - | - |
+| Agnes | ✓ | ✓ | ✓ | ✗ | ✓ | - | - |
+| Vane | ✓ | ✓ | ✓ | ✗ | ✓ | - | - |
+| Malisondre | ✓ | ✓ | ✓ | ✗ | ✓ | - | - |
+| Reincarnate / Liora | ✓ | ✓ | ✓ | ✗ | ✓ | - | - |
 
 **Complete: L1, Fate, Cortex, 5e - 7/7 each.** *(Fate reached 7/7 on 2026-07-21 when Liora's block was written.)*
 **Boundless: 2/7** - and the Zombie was *marked complete* on this checklist but isn't in the document.
@@ -459,13 +459,13 @@ A separate review of The Dead. Heavy overlap with items already tracked here (Va
 
 | Creature | Distinctions | Attributes | Skills | Powers |
 |---|:--:|:--:|:--:|:--:|
-| Pell | ✓ | — | ✓ | — |
-| Hanged Man | ✓ (Location) | — | — | — |
-| Zombie | ✓ | ✓ | ✓ | — |
-| Agnes | ✓ | — | — | ✓ |
-| Vane | ✓ | ✓ | ✓ | — |
-| Malisondre | ✓ | ✓ | — | ✓ |
-| Reincarnate | ✓ | — | ✓ | — |
+| Pell | ✓ | - | ✓ | - |
+| Hanged Man | ✓ (Location) | - | - | - |
+| Zombie | ✓ | ✓ | ✓ | - |
+| Agnes | ✓ | - | - | ✓ |
+| Vane | ✓ | ✓ | ✓ | - |
+| Malisondre | ✓ | ✓ | - | ✓ |
+| Reincarnate | ✓ | - | ✓ | - |
 
 - [ ] **Declare the build once**, near the 5e Commoner base block - e.g. *Distinctions + Attributes + Skills, plus Powers where supernatural* - and bring every creature onto that frame. Pell simply has no Powers; that's fine. Agnes having no Attributes *or* Skills is not.
 - [ ] **Hanged Man: "Effect - Echoes of Dread" → "SFX -".** "Effect" is not Cortex vocabulary. Same class of error as the Fate leaks.

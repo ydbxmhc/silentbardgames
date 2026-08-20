@@ -7,7 +7,8 @@ Outdoorsman Roles
 *Old Henrik uses an unconventional recruitment method.*
 
 > Level 3, Beast Handler 3, Naturalist 2, Warrior 2.
-> Beast Handler 3, Guard Training 2, Exotic Handling 2, Battlefield Coordination 1.
+> Beast Handler 3, Guard Training 2, Exotic Handling 2, Battlefield Coordination
+> 1.
 
 Standing at the edge of Thornwick village, Henrik studies the claw marks
 scoring the baker's door and scattered chicken feathers near the well. The
@@ -32,9 +33,16 @@ tenses but neither flees nor bites. "You're not a monster. You're just lost
 and hurt and angry." That night the beast sleeps in his camp, and he wakes
 with it lying next to him, staring warily.
 
-> He spends the day getting a sense of the animal. He is pretty sure it was `Betrayed by Previous Sister`. He also knows that barghests are `Fiercely Protective Accepted Pack`, and intelligent enough for complex commands. This is promising - the creature isn't mad or feral, just abandoned and afraid, hurt and bitter, but apparently hopeful enough to risk Henrik's touch. It still misses human companionship.
+> He spends the day getting a sense of the animal. He is pretty sure it was
+> `Betrayed by Previous Sister`. He also knows that barghests are `Fiercely
+> Protective Accepted Pack`, and intelligent enough for complex commands. This
+> is promising - the creature isn't mad or feral, just abandoned and afraid,
+> hurt and bitter, but apparently hopeful enough to risk Henrik's touch. It
+> still misses human companionship.
 
-> At Level 3 + Beast Handler 3 + Exotic Handling 2 = EL8, he rolls to evaluate the beast's [Hooks](../hooks.md). The barghest's supernatural nature makes it complex to read - the GM calls it a 3 and Henrik wins by 5.
+> At Level 3 + Beast Handler 3 + Exotic Handling 2 = EL8, he rolls to evaluate
+> the beast's [Hooks](../hooks.md). The barghest's supernatural nature makes it
+> complex to read - the GM calls it a 3 and Henrik wins by 5.
 
 ## A New Life, A New Pack
 
@@ -85,7 +93,8 @@ announces. "A barghest's loyalty runs deeper than any ordinary hound's - treat
 him with respect; as long as you trust him, you'll have protection no bandit
 or monster in these parts will challenge."
 
-He pets Shadow. "Stay," he says. "Guard." Shadow perks his ears and cocks his head, but he is smart. He seems to understand.
+He pets Shadow. "Stay," he says. "Guard." Shadow perks his ears and cocks his
+head, but he is smart. He seems to understand.
 
 Six months later, Thornwick hasn't lost livestock to any predator, and no
 bandit dares approach Shadow's territory. Henrik's methods don't work on every

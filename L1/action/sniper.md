@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sniper](../roles/sniper.md) › A Sniper In Action
+[Home](../index.md) › [Roles](../roles.md) › [Sniper](../roles/sniper.md) › A
+Sniper In Action
 
 Combat Roles
 
@@ -25,13 +26,17 @@ movement; too much chaos in the square today.
 
 > First, she studies her target's movement pattern and the crowd dynamics.
 >
-> She wagers 4 points and rolls at Level 3 + Sniper 3 + *Bows 3 + Urban Hunter 1* = EL10 - 4 wagered = EL6 for a 2 vs the chaos of the marketplace. The GM rolls resistance at DL5 for a 3. Vera loses - she fails to discern a predictable pattern for the bonus she wanted.
+> She wagers 4 points and rolls at Level 3 + Sniper 3 + *Bows 3 + Urban Hunter
+> 1* = EL10 - 4 wagered = EL6 for a 2 vs the chaos of the marketplace. The GM
+> rolls resistance at DL5 for a 3. Vera loses - she fails to discern a
+> predictable pattern for the bonus she wanted.
 
 No matter - she's good enough for this. She knocks and draws an arrow,
 accounting for crosswind and the swaying laundry, slowly exhaling, lining up
 her shot.
 
-> Her EL10 rolls an Aim +5 [Boost](../actions-and-timing.md#boost-actions). No one opposes, DL0.
+> Her EL10 rolls an Aim +5 [Boost](../actions-and-timing.md#boost-actions). No
+> one opposes, DL0.
 > She is now Level 3 + Sniper 3 + *Bows 3 + Urban Hunter 1* + Aim 5 = EL15.
 > The GM adjusts with EL15 - Range 3 - Wind 2 = EL10. She rolls a 7.
 
@@ -40,7 +45,8 @@ through the heart. He drops instantly, and Vera is already moving to her
 extraction route before his bodyguards even realize what happened. His cartel
 will think twice before trying to sell their poison in her city again.
 
-> He gets a basic resistance roll using just his Level 2. He rolls a 0 and drops.
+> He gets a basic resistance roll using just his Level 2. He rolls a 0 and
+> drops.
 
 Professional. Clean. Precise.
 

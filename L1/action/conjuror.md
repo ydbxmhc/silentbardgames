@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Conjuror](../roles/conjuror.md) › A Conjuror In Action
+[Home](../index.md) › [Roles](../roles.md) › [Conjuror](../roles/conjuror.md)
+› A Conjuror In Action
 
 Supernatural Roles
 
@@ -29,15 +30,18 @@ envelope? He turned and looked toward the sea, and walked away from the
 cottage without a second glance, stumbling down the sandy path to the beach
 where he fell heavily to his knees in the wet sand.
 
-He began to weep. His aura crumpled into forlorn desperation, so much that Mira feared his heart might stop.
+He began to weep. His aura crumpled into forlorn desperation, so much that
+Mira feared his heart might stop.
 
 She descended the path quietly. The wife's ghost turned to her with desperate
 gratitude - forty years of trying to comfort her husband, and finally someone
 who could serve as bridge between them.
 
-"She wants you to know," Mira said gently, settling beside him in the sand, "that she's sorry."
+"She wants you to know," Mira said gently, settling beside him in the sand,
+"that she's sorry."
 
-The old man looked up, startled by this stranger who spoke as if she'd heard his private grief. "What?"
+The old man looked up, startled by this stranger who spoke as if she'd heard
+his private grief. "What?"
 
 Mediating for spirits was often hard - some drifted so far from the daily
 details of bodily existence that their needs hardly translated into words
@@ -54,7 +58,8 @@ What d'ye expect?" He turned his face back to the sea, and didn't bother to
 wipe his tears. She waited, and let him come to the telling in his own time.
 Eventually he pointed back over his shoulder with a careless thumb.
 
-"'At's his house. Heard he took ill a few years back." He wiped his nose. "I should pro'ly look in on 'im, make sure he's ok."
+"'At's his house. Heard he took ill a few years back." He wiped his nose. "I
+should pro'ly look in on 'im, make sure he's ok."
 
 This surprised Mira, but she held her silence. He eventually waved the letter
 in his hand her direction. "She kep' this love letter. Bastard was a poet
@@ -69,7 +74,8 @@ It took a long time. When he could speak again - it took a few tries - he
 haltingly got out "I jes' wanted to see 'em again, but it's jes' the sea." He
 shook his head. "'Tain't nearly as…as…"
 
-But he couldn't continue. Mira looked up at the spirit beside him, and could see the shock and relief and *disbelief* in it.
+But he couldn't continue. Mira looked up at the spirit beside him, and could
+see the shock and relief and *disbelief* in it.
 
 *Spirit,* she whispered, *take my hand.*
 
@@ -89,7 +95,8 @@ softly. "I missed you." He leaned his brow onto her shoulder, and sighed, this
 time a sound of contentment, fading as all the breath left his body a final
 time.
 
-Mira held him as the spirit released her to go with her husband into the beyond.
+Mira held him as the spirit released her to go with her husband into the
+beyond.
 
 ---
 

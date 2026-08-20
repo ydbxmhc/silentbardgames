@@ -4,7 +4,8 @@ Supernatural Roles
 
 # Conjuror
 
-*"The wise know when to ask for help, and spirits… they're always eager to make a deal."*
+*"The wise know when to ask for help, and spirits… they're always eager to
+make a deal."*
 
 The Conjuror walks between worlds, mediating between mortal needs and
 otherworldly urges. Where Spellweavers bind cosmic forces and Adepts channel
@@ -17,7 +18,7 @@ knowing exactly what to offer and what to *never* give away.
 The Conjuror's path demands respect, cunning, and iron will. Spirits are not
 tools to be used but entities with their own agendas, personalities, and
 sometimes very mercenary price structures defined by their driving
-[Hooks](../hooks.md) . A Conjuror's power grows not only from personal mastery
+[Hooks](../hooks.md). A Conjuror's power grows not only from personal mastery
 but also their reputation in the otherworld, their skill at striking mutually
 beneficial bargains, and their spiritual strength to *compel* the required
 obedience when negotiation fails. They are the meeting places where mortals
@@ -30,7 +31,8 @@ existence shaped by the [Hooks](../hooks.md) that anchor them to
 consciousness. Understanding their drives, desires, needs, and fears makes the
 difference between profitable partnership and catastrophic possession.
 
-Conjuror magic operates on four fundamental principles: **Perception**, **Negotiation**, **Abjuration** and **Compulsion**.
+Conjuror magic operates on four fundamental principles: **Perception**,
+**Negotiation**, **Abjuration** and **Compulsion**.
 
 ## The Unseen
 
@@ -85,21 +87,21 @@ poorly-considered bargains.
 
 To seal a *formal* Contract a spirit must agree to a set of terms with an oath
 by their [True Name](../magick/conjuring.md) - which means you will have their
-[True Name](../magick/conjuring.md) ! To get them to agree is usually a
+[True Name](../magick/conjuring.md)! To get them to agree is usually a
 negotiation for payment, but it can be coerced under duress - see
 **Compulsion** below. However managed, a successful Contract creates a special
 sort of [Hook](../hooks.md) on the spirit. Unlike mortal [Hooks](../hooks.md)
 which are reduced by resisting them, a Contract [Hook](../hooks.md) is reduced
 when a service is rendered, *unless* some other payment is offered and
-accepted specifically for that service. When the [Hook](../hooks.md) 's last
+accepted specifically for that service. When the [Hook](../hooks.md)'s last
 service is rendered the spirit may eliminate the [Hook](../hooks.md) by
 Closing the Contract, which requires they completely leave the mortal realm.
 If they opt *not* to do so, it automatically amounts to an implicit agreement
-to another service, reinstating the last rank of the [Hook](../hooks.md) .
-This [Hook](../hooks.md) and the [True Name](../magick/conjuring.md) are
-enough for a Conjuror to call the spirit into attendance as a free action
-anywhere not otherwise prevented by some explicit means, so calling a water
-elemental into the desert is not a problem.
+to another service, reinstating the last rank of the [Hook](../hooks.md). This
+[Hook](../hooks.md) and the [True Name](../magick/conjuring.md) are enough for
+a Conjuror to call the spirit into attendance as a free action anywhere not
+otherwise prevented by some explicit means, so calling a water elemental into
+the desert is not a problem.
 
 Need a Familiar? Many spirits will willingly and happily contract themselves
 and serve to the best of their ability in order to be paid, with *or without*
@@ -108,9 +110,10 @@ unfathomably different, commerce is still possible.
 
 ## Abjuration
 
-Often the role of the Conjuror is really as an Abjuror - one who wards a spirit *away*.
+Often the role of the Conjuror is really as an Abjuror - one who wards a
+spirit *away*.
 
-**Wards** are a primary function of the [Role](../roles.md) . Ritual Wards
+**Wards** are a primary function of the [Role](../roles.md). Ritual Wards
 affect spirits and other supernatural phenomena the way walls in the physical
 world affect mortals. A spirit successfully so Warded must treat those
 boundaries as impassable. This means a warded creature, object, or place can
@@ -119,7 +122,8 @@ particular creature, object, or place and unable to leave it. This is
 generally very frustrating to creatures whose typical limitations are only
 conceptual…
 
-**Exorcism** pushes them entirely into the spirit realm, from which they cannot return without a specific anchor or explicit summoning.
+**Exorcism** pushes them entirely into the spirit realm, from which they
+cannot return without a specific anchor or explicit summoning.
 
 ## Compulsion
 
@@ -134,8 +138,8 @@ feelings, and will.
 ### Spiritual Conflict
 
 Engaging a spirit directly works much like a Warrior's
-[Brawling](warrior-maneuvers.md) , only fought on the plane of will rather
-than the body. Because spirits are creatures of idea and emotion, the usual
+[Brawling](warrior-maneuvers.md), only fought on the plane of will rather than
+the body. Because spirits are creatures of idea and emotion, the usual
 physical handles do not apply: *range*, *proximity*, and how long the struggle
 "lasts" are purely conceptual. Two wills simply close and grapple until one
 gives way.
@@ -159,11 +163,11 @@ physical presence - the opening for the three finishers below.
 
 Spirits are not fragile constructs of meat and bone; they are expressions of
 fundamental forces, of ultimate Truths, of bare *souls* or raw, endless need,
-so when * [Staggered](../feeling-down.md) * or Down they are merely
+so when *[Staggered](../feeling-down.md)* or Down they are merely
 incapacitated until they can recover. Without truly exceptional means they
 cannot be destroyed, but they can certainly be inconvenienced.
 
-A vulnerable spirit ( [Staggered](../feeling-down.md) or Down) will always be
+A vulnerable spirit ([Staggered](../feeling-down.md) or Down) will always be
 at least temporarily deprived of any physical presence such as a manifest form
 or a possessed puppet, but they drift adjacent to the world and can be acted
 upon by those able to touch the spiritual realm. Once in this state, a
@@ -174,12 +178,12 @@ Conjuror has three primary options to deal with them.
 **Extraction** squeezes some relevant bit of information from them. This could
 be whatever the GM finds appropriate, such as perhaps the formula for a spell
 which emulates one of their simple powers, but the most common item is their
-[True Name](../magick/conjuring.md) . If this roll *fails* it pushes them into
+[True Name](../magick/conjuring.md). If this roll *fails* it pushes them into
 the umbra of the spirit realm, out of reach of further attempts, but does not
 prevent them from coming back once recovered. If it succeeds then the
 character has the information desired and can use it accordingly.
 
-**Binding** *requires* the spirit's [True Name](../magick/conjuring.md) , but
+**Binding** *requires* the spirit's [True Name](../magick/conjuring.md), but
 creates a Contract [Hook](../hooks.md) much like the ones generated from
 negotiated contracts. This is dangerous, because the spirit is virtually
 always a hostile agent and has no motivation to interpret commands in a
@@ -190,9 +194,9 @@ contracts acquired through means such as blackmail or threats!
 
 ## Summoning
 
-**Summoning** is calling a spirit to you. If you have a spirit's
-[True Name](../magick/conjuring.md) you can almost always get their attention.
-This allows you to call a bound spirit to you wherever you are, or to summon a
+**Summoning** is calling a spirit to you. If you have a spirit's [True
+Name](../magick/conjuring.md) you can almost always get their attention. This
+allows you to call a bound spirit to you wherever you are, or to summon a
 spirit from anywhere, even the deep spirit realm, with the right ritual. These
 rituals are also part of basic Conjuror training, but the summoning itself
 only calls the spirit to a specified physical location; it does not restrict
@@ -209,19 +213,21 @@ beyond their ability to manage.
 
 ## Typical Maneuvers
 
-[Maneuvers](../maneuvers.md) are commonly taken by Type and by Action, though others are certainly possible.
+[Maneuvers](../maneuvers.md) are commonly taken by Type and by Action, though
+others are certainly possible.
 
-**Type** represents improved skill by classification of spirits such as *The Dead*, *Fae*, or *Halflings*.
+**Type** represents improved skill by classification of spirits such as *The
+Dead*, *Fae*, or *Halflings*.
 
-**Action** [Maneuvers](../maneuvers.md) would be concentrations in *Summoning*, *Binding*, *Wards*, or *Exorcism*, etc.
+**Action** [Maneuvers](../maneuvers.md) would be concentrations in
+*Summoning*, *Binding*, *Wards*, or *Exorcism*, etc.
 
-The ** [True Names](../magick/conjuring.md) ** of spirits have power. Note
-that spirits can grow in power by the sacrifices to them; Spending additional
-[Maneuver](../maneuvers.md) ranks on a spirit's
-[True Name](../magick/conjuring.md) reflects ongoing sacrifices and offerings
-which bolster their strength, and can raise the base Level of a weak but
-friendly spirit. This tends to make them much more amenable to further
-Contracts.
+The **[True Names](../magick/conjuring.md)** of spirits have power. Note that
+spirits can grow in power by the sacrifices to them; Spending additional
+[Maneuver](../maneuvers.md) ranks on a spirit's [True
+Name](../magick/conjuring.md) reflects ongoing sacrifices and offerings which
+bolster their strength, and can raise the base Level of a weak but friendly
+spirit. This tends to make them much more amenable to further Contracts.
 
 Others might be
 

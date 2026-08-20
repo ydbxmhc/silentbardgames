@@ -1,4 +1,5 @@
-[Home](index.md) › [Roles](roles.md) › [Maneuvers](maneuvers.md) › The Sweet Spot
+[Home](index.md) › [Roles](roles.md) › [Maneuvers](maneuvers.md) › The Sweet
+Spot
 
 Roles
 
@@ -9,8 +10,10 @@ Roles
 The key to good [Maneuvers](maneuvers.md) is **conceptual coherence** - they
 should represent a meaningful area of expertise with sensible boundaries.
 
-**Blades** is too broad - straight razors and halberds both have blades, but nothing in common in how they are used.  
-**Broadsword** is too narrow - it excludes sabres, cutlasses, saxes and battlefield rapiers for no good reason.  
+**Blades** is too broad - straight razors and halberds both have blades, but
+nothing in common in how they are used.  
+**Broadsword** is too narrow - it excludes sabres, cutlasses, saxes and
+battlefield rapiers for no good reason.  
 **Swords** is just about right - it leverages the shared principles of edge
 work, distance, timing, and technique, and though it won't teach the specific
 uses of katana, epee, or khopesh, it could reasonably be used to make any of

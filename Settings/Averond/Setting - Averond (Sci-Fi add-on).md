@@ -28,12 +28,12 @@ The five greater gods are actually the surviving leadership of the original colo
 
 ### Richard Takahashi (Rikitak)
 **Original Role**: Ship's psychologist and behavioral specialist
-**Divine Transformation**: Unlike the others, Rikitak has maintained a semblance his original human appearance—a thin man in red robes with flame-blue eyes behind pince-nez, stark red hair that manages to be unruly even though cut short, and a salt-and-pepper black goatee. This seemingly conservative choice masks the most radical transformation of all, as will be detailed in his expanded section below.
+**Divine Transformation**: Unlike the others, Rikitak has maintained a semblance his original human appearance - a thin man in red robes with flame-blue eyes behind pince-nez, stark red hair that manages to be unruly even though cut short, and a salt-and-pepper black goatee. This seemingly conservative choice masks the most radical transformation of all, as will be detailed in his expanded section below.
 
 ## The Technological Infrastructure
 
 ### Orbital Ring and Colony Ship
-The planet is surrounded by a stable equatorial orbital ring, with the original colony ship mounted within this ring structure between the first pillars. This explains the visible "Arch of Heaven" and "Pillars" that dominate Averond's sky—they are actually the "star ladder" orbital infrastructure supporting the colony ship.
+The planet is surrounded by a stable equatorial orbital ring, with the original colony ship mounted within this ring structure between the first pillars. This explains the visible "Arch of Heaven" and "Pillars" that dominate Averond's sky - they are actually the "star ladder" orbital infrastructure supporting the colony ship.
 
 ### Planetary Nanite Ecosystem
 The entire planet is infused with self-replicating nanotechnology that maintains the terraforming systems and provides the foundation for the augmented reality network. These nanites are invisible but omnipresent, constantly monitoring and adjusting atmospheric composition, soil chemistry, weather patterns, and biological systems. There are also millions of drones cloaked by AR, and millions of human-seeming agents who help perpetuate the facade.
@@ -62,7 +62,7 @@ After two millennia and countless backup/restoration cycles, profound questions 
 Most Saints are first-generation colonists who have survived through longevity technology and now govern the various city-states. Many possess enhanced abilities through nanotech augmentation, and they often work with populations of synthetic citizens who may or may not be aware of their artificial nature.
 
 ### Real vs. Artificial Population
-While the original colony had a relatively small population, the current population is mostly "real"—descendants of low-berth passengers who were awakened over the centuries, plus children created through AI-assisted cloning and genetic engineering. However, synthetic citizens created by advanced AI are scattered throughout society, often without knowing their own artificial nature.
+While the original colony had a relatively small population, the current population is mostly "real" - descendants of low-berth passengers who were awakened over the centuries, plus children created through AI-assisted cloning and genetic engineering. However, synthetic citizens created by advanced AI are scattered throughout society, often without knowing their own artificial nature.
 
 ### Agents and Monitoring
 The benevolent panopticon is maintained through a network of agents embedded throughout society. These agents work within magistrates, bazaars, temples, and other institutions, ensuring that the prayer/justice system functions properly and that social stability is maintained. Some think they are just people; other are pure AI who know exactly what their task is. 
@@ -84,7 +84,7 @@ Carter built ethical limitations into the Heaven AI system designed to minimize 
 Richard Takahashi undertook the most radical transformation of any Charter Member. Refusing to accept the limitations of single consciousness, he connected multiple *conscious* clone bodies to his awareness through their quantum-entangled communication systems. Starting with two bodies sharing sensory input and motor control, he gradually expanded to daisy-chained networks of multiple selves.
 
 ### The Learning Process
-The initial phases were torturous—walking into walls, severe headaches, nausea, and complete proprioceptive confusion. However, as a trained psychologist, Takahashi *knew* the brain could adapt to extraordinary circumstances. Through persistence and careful methodology, he learned to manage multiple simultaneous consciousness streams, eventually discovering that multiple brains could literally multitask cognitive workloads.
+The initial phases were torturous - walking into walls, severe headaches, nausea, and complete proprioceptive confusion. However, as a trained psychologist, Takahashi *knew* the brain could adapt to extraordinary circumstances. Through persistence and careful methodology, he learned to manage multiple simultaneous consciousness streams, eventually discovering that multiple brains could literally multitask cognitive workloads.
 
 ### Digital Integration
 Rikitak incorporated digital copies of himself into his consciousness network, discovering that the digital selves could think faster than biological brains and could emulate the neural changes necessary for integration. This hybrid biological-digital consciousness network gave him unprecedented processing power and perspective diversity.
@@ -96,7 +96,7 @@ By integrating with the planetary nanite network, Rikitak learned to perceive in
 Rikitak created clone children and connected their experiences directly to his consciousness network without any data flow going to the clones. This allowed him to experience entire lifetimes from birth, understanding suffering and joy not as observed phenomena but as lived reality. He expanded this to non-human experiences, living as goblins and other creatures within the fantasy reality they had created.
 
 ### Mastery of the System
-Through his expanded consciousness and deep integration with the nanite network, Rikitak learned to manipulate the planetary systems intuitively, without using administrative codes. He began performing what appeared to be genuine magic—reality manipulation that *hacked* the system's rules rather than overriding them with admin privileges.
+Through his expanded consciousness and deep integration with the nanite network, Rikitak learned to manipulate the planetary systems intuitively, without using administrative codes. He began performing what appeared to be genuine magic - reality manipulation that *hacked* the system's rules rather than overriding them with admin privileges.
 
 ### The Discovery of True Magic
 Rikitak's most disturbing discovery was when his expanded awareness eventually transcended the technological systems entirely. He began spontaneously acquiring information with no technological sources and performing alterations to the *physical world*, not just AR, without using any drones, nanites, or other system interfaces at all. Through some process he didn't fully understand, his consciousness expansion allowed him to access and manipulate the quantum substrate of reality itself.
@@ -117,7 +117,7 @@ Rikitak's approach to godhood reflects his background as a psychologist. He unde
 ## Implications for the Setting
 
 ### Layer Revelation
-Groups playing in the pure fantasy layer are experiencing a genuine reality—the augmented reality and nanite systems make their magical world completely real from their perspective. The science fiction layer doesn't invalidate the fantasy; it explains how the fantasy became possible.
+Groups playing in the pure fantasy layer are experiencing a genuine reality - the augmented reality and nanite systems make their magical world completely real from their perspective. The science fiction layer doesn't invalidate the fantasy; it explains how the fantasy became possible.
 
 ### Technological Magic
 "Magic" in Averond works through three distinct mechanisms:
@@ -138,7 +138,7 @@ The science fiction layer adds layers of complexity to every adventure:
 - The possibility of encountering Rikitak means that any strange encounter might be a test or lesson from a genuine cosmic consciousness
 
 ### The Ultimate Secret
-The greatest secret in Averond is not that technology underlies the fantasy, but that Rikitak has transcended both technology and fantasy to achieve something genuinely unprecedented—a form of consciousness that can directly manipulate reality through pure awareness and will.
+The greatest secret in Averond is not that technology underlies the fantasy, but that Rikitak has transcended both technology and fantasy to achieve something genuinely unprecedented - a form of consciousness that can directly manipulate reality through pure awareness and will.
 
 
 

@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Advanced Applications
+[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Advanced
+Applications
 
 Combat Roles
 
@@ -19,7 +20,8 @@ observation and patience makes them natural scouts. They can use their
 
 ### Psychological Warfare
 
-The threat of an unseen sniper changes battlefield dynamics. Smart snipers leverage this:
+The threat of an unseen sniper changes battlefield dynamics. Smart snipers
+leverage this:
 
 - Forcing enemies into unfavorable positions
 - Creating hesitation and paranoia in opposing forces

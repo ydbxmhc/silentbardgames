@@ -26,9 +26,9 @@ include unclassified Harm.
 
 If it doesn't make sense for an [Injury](types-of-harm.md) to impede the
 character for ongoing rolls, perhaps it should have been treated as *explicit*
-[Complication](types-of-harm.md) , but instead of designating it as
-[Injury](types-of-harm.md) , the GM may also convert it to a temporary
-[Hook](hooks.md) . This allows it to be applied thematically, to alter the
+[Complication](types-of-harm.md), but instead of designating it as
+[Injury](types-of-harm.md), the GM may also convert it to a temporary
+[Hook](hooks.md). This allows it to be applied thematically, to alter the
 character's motivations, but to be normally Recoverable.
 
 ---

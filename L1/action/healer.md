@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Healer](../roles/healer.md) › A Healer In Action
+[Home](../index.md) › [Roles](../roles.md) › [Healer](../roles/healer.md) › A
+Healer In Action
 
 Knowledge and Craft Roles
 
@@ -29,7 +30,9 @@ bleeding shoulder. The new arrival was a simple case - a deep puncture from a
 field-point arrow. Tam was young but well trained for his age. He assessed the
 wound.
 
-> He's Level 1 + Healer 1 = EL2, rolling a 2. The man's Battlefield Wound 2 rolled 1d[0-2] for a 0 and seemed to hide no secrets, giving Tam a *Diagnosis 2* [Boost](../actions-and-timing.md#boost-actions).
+> He's Level 1 + Healer 1 = EL2, rolling a 2. The man's Battlefield Wound 2
+> rolled 1d[0-2] for a 0 and seemed to hide no secrets, giving Tam a *Diagnosis
+> 2* [Boost](../actions-and-timing.md#boost-actions).
 
 The wound represented significant trauma, but it was fresh and clean - nothing
 exotic requiring specialized knowledge. There was muscle damage but no
@@ -50,7 +53,8 @@ front of his infirmary tent, ignoring the shouts and twangs of bowfire to
 collect steaming bandages into a tray. The man watched with obvious fear as he
 returned.
 
-"Are - are you going to torture me?" Tam met his eyes, his expression unreadable, but not unkind.
+"Are - are you going to torture me?" Tam met his eyes, his expression
+unreadable, but not unkind.
 
 "Yes," he said gently. "Know that the price of the blessings of Rikitak is
 high, but not one moment of your agony will go wasted. All your pain and fear
@@ -100,9 +104,13 @@ brought him in. "Why are you wearing that boot? I told you to stay off it."
 
 > **Extreme [Recovery](../recovery.md) Failure!**
 >
-> Sergeant Doek came to see Tamoen a few days ago for an injured foot. His other hurts have healed, but this one persists. This morning his daily recovery rolled (0,0,0) - an Extreme failure. The foot has become infected and gone septic overnight.
+> Sergeant Doek came to see Tamoen a few days ago for an injured foot. His other
+> hurts have healed, but this one persists. This morning his daily recovery
+> rolled (0,0,0) - an Extreme failure. The foot has become infected and gone
+> septic overnight.
 
-The sergeant panted but met his eye. "My men need me. I - " He grimaced and lost the rest of the sentence. Tam exhaled slowly.
+The sergeant panted but met his eye. "My men need me. I - " He grimaced and
+lost the rest of the sentence. Tam exhaled slowly.
 
 "Did you use the powder I gave you?"
 
@@ -126,7 +134,8 @@ went back on the cot, gripping the sides with white knuckles, but let the man
 work. He tugged at the heel and the sergeant screamed as Tam gathered more
 bandages from the boiling pot.
 
-The priest walked back into the tent to the smell of foetid meat. He closed his eyes and steadied his breathing.
+The priest walked back into the tent to the smell of foetid meat. He closed
+his eyes and steadied his breathing.
 
 The sergeant's foot was an ugly, mottled mess. "You fool," Tam whispered. "You
 put that boot back on and laced it tight so that you could limp on through
@@ -167,9 +176,11 @@ as the morning."
 
 ## Desperate Measures
 
-"I can perhaps save his life," Tamoen said quietly, "but the price will be high. The infected tissue must be removed. All of it."
+"I can perhaps save his life," Tamoen said quietly, "but the price will be
+high. The infected tissue must be removed. All of it."
 
-The soldier blinked. "I - " He just shook his head. He didn't want to make the decision.
+The soldier blinked. "I - " He just shook his head. He didn't want to make the
+decision.
 
 "I am not asking for permission, you buffoon. I am explaining, though the gods
 alone know why. Go, begone. Fetch me the midwife, and *be you quick about
@@ -185,9 +196,20 @@ coffee, a fresh bottle of brandy; he handed the terrified woman a brandy-laced
 coffee and told her to drink every drop. The poor woman spoke not a word, but
 did as bid with a fierce grimace, and he assessed her with an approving nod.
 
-> He used the sedative as a [Wagered](../wagered-actions.md) boost for the surgery. At Level 1 + Healer 1 + Naturalist 1 + Herbalism 1 = EL4 he set aside just the one point for a final EL3. He rolled 3d2 (0,0,1) for a 1. The sergeant resisted with only his base level of 3, but his Festering Wound 2 limited him to a single die for a 0, and he slept soundly, giving Tam a *Sedated Patient 1* persistent [Boost](../actions-and-timing.md#boost-actions).
+> He used the sedative as a [Wagered](../wagered-actions.md) boost for the
+> surgery. At Level 1 + Healer 1 + Naturalist 1 + Herbalism 1 = EL4 he set aside
+> just the one point for a final EL3. He rolled 3d2 (0,0,1) for a 1. The
+> sergeant resisted with only his base level of 3, but his Festering Wound 2
+> limited him to a single die for a 0, and he slept soundly, giving Tam a
+> *Sedated Patient 1* persistent
+> [Boost](../actions-and-timing.md#boost-actions).
 
-> He had prepared his operating space as well as he could with Level 1 + Healer 1 + Infections 1 = EL3, rolling a careful 3d2 (0,0,1) for a 1 vs DL2 Questionable Conditions which rolled 1d3 for a 2, hindering him with a *Poor Environment 1*. The midwife was also Level 1 + Healer 1 = EL2 and she rolled 2d2 (0,0) for a 0 to help, but the DL2 Questionable Conditions also rolled (0,0) for a 0 to make her no hindrance.
+> He had prepared his operating space as well as he could with Level 1 + Healer
+> 1 + Infections 1 = EL3, rolling a careful 3d2 (0,0,1) for a 1 vs DL2
+> Questionable Conditions which rolled 1d3 for a 2, hindering him with a *Poor
+> Environment 1*. The midwife was also Level 1 + Healer 1 = EL2 and she rolled
+> 2d2 (0,0) for a 0 to help, but the DL2 Questionable Conditions also rolled
+> (0,0) for a 0 to make her no hindrance.
 
 He told her clearly every thing before he did it, what to expect and what was
 expected of her, and then he did what he said with precision and commitment.
@@ -196,7 +218,9 @@ only bade her wipe her face with a clean towel and clean her hands after. In
 the end, all Tam's preparations were thwarted by the crude battlefield
 infirmary, and it would be his skill alone that mattered.
 
-> He rolled Level 1 + Healer 1 + Infections 1 (+ Sedated Patient 1 - Poor Environment 1) = EL3 for (0,0,1) a 1. The Festering Wound 2 rolled 1d3 for a 0, and he succeeded in his emergency procedure.
+> He rolled Level 1 + Healer 1 + Infections 1 (+ Sedated Patient 1 - Poor
+> Environment 1) = EL3 for (0,0,1) a 1. The Festering Wound 2 rolled 1d3 for a
+> 0, and he succeeded in his emergency procedure.
 
 Doek's critical condition had been removed, and was now in the bucket at the
 foot of the bed. Tamoen had cleaned and cauterized it, salved and bandaged,
@@ -205,7 +229,8 @@ peg Doek would need built to replace the foot.
 
 > **A Changed Man**
 >
-> The sergeant now has an **Amputee** [Hook](../hooks.md) on his character sheet which acts like any other.
+> The sergeant now has an **Amputee** [Hook](../hooks.md) on his character sheet
+> which acts like any other.
 
 As dawn broke over the embattled town, the crow cawed once more and took
 flight through the open tent flap. Tamoen gathered his tools and prepared for

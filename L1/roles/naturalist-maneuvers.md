@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Naturalist](naturalist.md) › Common Naturalist Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Naturalist](naturalist.md) ›
+Common Naturalist Maneuvers
 
 Outdoorsman Roles
 

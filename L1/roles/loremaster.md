@@ -43,7 +43,8 @@ parallels.
 
 ## Common Loremaster Maneuvers
 
-Different Loremasters focus their scholarly attention in various ways. They certainly are NOT all about dusty old books, though *some* are.
+Different Loremasters focus their scholarly attention in various ways. They
+certainly are NOT all about dusty old books, though *some* are.
 
 ### Academic Disciplines
 

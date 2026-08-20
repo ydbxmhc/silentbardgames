@@ -9,7 +9,7 @@ if you roll at least three dice. This *does* apply to Simple Pool if you want!
 
 ## Extreme Failure
 
-If all the dice roll *zeroes* you don’t just fail – you fail catastrophically.
+If all the dice roll *zeroes* you don’t just fail - you fail catastrophically.
 (You can’t get extreme fails without zero-based dice, but opposition can still
 get extreme successes against you.) Players are encouraged to suggest results,
 but the GM will make the final decision, and it should be something *bad* for
@@ -17,8 +17,8 @@ the character. Not only do they *utterly fail* to accomplish anything good for
 that action, it has negative side effects.
 
 It always means your turn is **over**. If you had other actions in progress,
-they are aborted. You *cannot* use a [Luck Token](luck.md) , though you *may*
-still use actual [Karma](karma.md) – but only to make it just a *simple fail*.
+they are aborted. You *cannot* use a [Luck Token](luck.md), though you *may*
+still use actual [Karma](karma.md) - but only to make it just a *simple fail*.
 
 There should also be some immediate consequence. This should get more severe
 as the number of dice rolled increases. For just three dice, maybe the
@@ -40,14 +40,14 @@ action, it has additional *positive* side effects.
 
 Extreme successes always award a free [Luck Token](luck.md) if the character
 has room. If opponents use a [Luck Token](luck.md) to resist or oppose, get an
-immediate [Karma](karma.md) .
+immediate [Karma](karma.md).
 
 There should also be some immediate beneficial result. This too should get
 more extreme as the number of dice rolled increases. For just three dice,
 maybe the character disarms their opponent, or creates a
 [Boost](actions-and-timing.md#boost-actions) for the next roll *in addition
 to* their intended effect. As more dice are used, maybe they get to assign the
-results as a split (see [Multiple Actions](multiple-actions.md) ) *after* the
+results as a split (see [Multiple Actions](multiple-actions.md)) *after* the
 roll, or in extreme cases their target gets no opposition or passive
 resistance at all!
 
@@ -63,7 +63,7 @@ using zero-base dice!
 
 It is also worthy of note that as characters become *more* competent they
 become *less* likely to get extreme rolls of any kind. This is by design.
-Extreme rolls are accidents of chance – a fumble, or a fortuitous windfall.
+Extreme rolls are accidents of chance - a fumble, or a fortuitous windfall.
 They aren’t the result of skill. Skillful rolls are more dice, and optimal
 results are achieved by *foregoing* extreme successes with extra effort. You
 never have to play with that sort of dice-fiddling, but it’s an available

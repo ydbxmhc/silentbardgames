@@ -10,7 +10,7 @@ in new directions, grow as they get more invested in their commitments.
 
 Character [Hooks](hooks.md) should change over time. One way this happens is
 when the basic behavior develops specific cases when it's stronger. That's not
-separate [Hooks](hooks.md) , just degrees of applicability.
+separate [Hooks](hooks.md), just degrees of applicability.
 
 ---
 
