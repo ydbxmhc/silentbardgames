@@ -24,7 +24,7 @@ rank; for each patient beyond that limit, reduce EL by 1 for all medical
 rolls. Having a Healer present is especially valuable after conflicts, when
 characters make recovery rolls to determine how much of their Harm was
 temporary [Complications](../types-of-harm.md) versus lasting
-[Injury](../types-of-harm.md) . A skilled Healer can provide bonuses to these
+[Injury](../types-of-harm.md). A skilled Healer can provide bonuses to these
 crucial rolls, turning potentially permanent damage into manageable temporary
 setbacks.
 
@@ -43,12 +43,12 @@ lasting [Injury](../types-of-harm.md) (strains, sprains, broken bones, etc.) A
 Healer can create bonuses for these rolls based on their expertise and
 available supplies. *Do not underestimate the value of this!*
 
-**Long-Term [Recovery](../recovery.md) :** Characters with
+**Long-Term [Recovery](../recovery.md):** Characters with
 [Injury](../types-of-harm.md) must make daily recovery rolls modified by the
-severity of the [Injury](../types-of-harm.md) , with success reducing their
+severity of the [Injury](../types-of-harm.md), with success reducing their
 [Injury](../types-of-harm.md) total. Healers can provide ongoing care bonuses
 to these rolls, significantly improving healing rates. The more severe the
-[Injury](../types-of-harm.md) , the more valuable skilled medical attention
+[Injury](../types-of-harm.md), the more valuable skilled medical attention
 becomes.
 
 ## Common Healer Maneuvers

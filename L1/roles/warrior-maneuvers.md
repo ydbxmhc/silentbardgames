@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Warrior](warrior.md) › Common Warrior Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Warrior](warrior.md) › Common
+Warrior Maneuvers
 
 Combat Roles
 

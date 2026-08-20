@@ -4,12 +4,11 @@ Core Mechanics
 
 # Resolving Combat: A Two-Axis Model
 
-You've now met every piece of a fight:
-[opposition and resistance](resistance-and-opposition.md) ,
-[splitting](multiple-actions.md) your EL, and [wagering](wagered-actions.md)
-for a guaranteed effect. This page puts them together into the single picture
-you actually use each exchange. There are no new rules here - just a clearer
-way to see the ones you have.
+You've now met every piece of a fight: [opposition and
+resistance](resistance-and-opposition.md), [splitting](multiple-actions.md)
+your EL, and [wagering](wagered-actions.md) for a guaranteed effect. This page
+puts them together into the single picture you actually use each exchange.
+There are no new rules here - just a clearer way to see the ones you have.
 
 ## Two Axes, Not Two Modes
 
@@ -18,11 +17,18 @@ Every exchange, your EL is a budget you divide along *two axes*:
 - **Offense** - points aimed at *specific targets* . An attack is per-target.
 - **Defense** - one pool, *reusable* for the whole exchange.
 
-That's the whole decision. [Opposition](resistance-and-opposition.md) and [resistance](resistance.md) are *not* a third thing you pick from a menu; they're simply what happens when your offense meets a foe who did, or did not, aim offense back. If they swung at you too, the two attacks contest each other - that's opposition. If they didn't, your attack lands against whatever defense they set aside - that's resistance. Same dice, same turn; the label just describes the geometry.
+That's the whole decision. [Opposition](resistance-and-opposition.md) and
+[resistance](resistance.md) are *not* a third thing you pick from a menu;
+they're simply what happens when your offense meets a foe who did, or did
+not, aim offense back. If they swung at you too, the two attacks contest each
+other - that's opposition. If they didn't, your attack lands against whatever
+defense they set aside - that's resistance. Same dice, same turn; the label
+just describes the geometry.
 
 ## The Two Layers
 
-Because you allocate *both* buckets, a single engaged exchange can put an attacker through two hurdles at once:
+Because you allocate *both* buckets, a single engaged exchange can put an
+attacker through two hurdles at once:
 
 1. **The contest.** Your offense against their offense. The higher roll wins and the *difference* is its effect. This is the clash of blades, the riposte - either fighter can come out ahead.
 2. **The defense.** Whatever effect leaks through to you then meets your *separately allocated* defense pool, rolled fresh. This is the shield-block, the duck-and-cover.
@@ -54,10 +60,10 @@ fragile against attacks it cannot answer.
 
 The corollary is sharp. Any foe you did *not* engage, against whom you
 allocated *no* defense, hits you with **no roll to stop it at all** - only
-[Armor](armor.md) , [Plot Armor!](gear.md) , or a [Luck Token](luck.md) can
-save you. The all-out attacker is the easiest target on the field. "The point
-is not to get hit," and offense alone does nothing to keep you from getting
-hit by someone you aren't threatening.
+[Armor](armor.md), [Plot Armor!](gear.md), or a [Luck Token](luck.md) can save
+you. The all-out attacker is the easiest target on the field. "The point is
+not to get hit," and offense alone does nothing to keep you from getting hit
+by someone you aren't threatening.
 
 ## The Same Engine, Simple or Deep
 
@@ -70,9 +76,17 @@ resolutions. That duality is the whole point.
 
 > **Worked Example - One Engaged Foe**
 >
-> You have EL10 and face a single enemy. You allocate **5 to offense, 5 to defense**. You both swing, so it's a contest: your offense rolls a **2**, theirs a **3**. They win the contest by **1** - that one point of effect now comes at you.
+> You have EL10 and face a single enemy. You allocate **5 to offense, 5 to
+> defense**. You both swing, so it's a contest: your offense rolls a **2**,
+> theirs a **3**. They win the contest by **1** - that one point of effect now
+> comes at you.
 >
-> But your 5 points of defense are still sitting there, reusable. You roll them fresh against that single leaking point. As long as your defense roll is at least **1**, the hit is canceled and no harm lands. You "lost" the exchange of blades and *still* took nothing, because you bought the second layer. Spend all 10 on offense instead, win the contest by a mile, and the *next* foe you didn't engage drops you for free.
+> But your 5 points of defense are still sitting there, reusable. You roll them
+> fresh against that single leaking point. As long as your defense roll is at
+> least **1**, the hit is canceled and no harm lands. You "lost" the exchange of
+> blades and *still* took nothing, because you bought the second layer. Spend
+> all 10 on offense instead, win the contest by a mile, and the *next* foe you
+> didn't engage drops you for free.
 
 ---
 

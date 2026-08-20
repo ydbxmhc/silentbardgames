@@ -27,9 +27,9 @@ An unbreakable sword, silent boots, or a ring of invisibility change the
 narrative, which is always more powerful than just adding numbers.
 
 **Creates More Narrative!** - Gear often comes with built-in drawbacks or
-"Snags" that generate story complications. Like Plot [Hooks](hooks.md) , these
+"Snags" that generate story complications. Like Plot [Hooks](hooks.md), these
 limitations can sometimes work in your favor - but they don't provide
-[Karma](karma.md) .
+[Karma](karma.md).
 
 Walking into town armed and armored marks you as potential trouble until
 locals know better - one doesn't stroll into the marketplace with a strung bow
@@ -37,7 +37,7 @@ to buy sausages. Using weapons to intimidate might work once, but creates
 lasting reputation that affects prices, available services, and attracts
 attention from both the watch and local toughs.
 
-Gear can also apply [Hindrances](types-of-harm.md) , usually to specific
+Gear can also apply [Hindrances](types-of-harm.md), usually to specific
 activities - most any sort of heavy weapon or armor is going to be a serious
 [Hindrance](types-of-harm.md) to any attempt to swim, but "dealing with it in
 the narrative" is simple - drop it, or take it off. If you're already in the

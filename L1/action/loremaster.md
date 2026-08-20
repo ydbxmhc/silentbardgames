@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Loremaster](../roles/loremaster.md) › A Loremaster In Action
+[Home](../index.md) › [Roles](../roles.md) ›
+[Loremaster](../roles/loremaster.md) › A Loremaster In Action
 
 Knowledge and Craft Roles
 
@@ -13,11 +14,14 @@ dates, family connections, personality quirks, romantic disasters, and the
 intricate web of relationships that bind a small community together.
 
 > **Loremaster [Maneuvers](../maneuvers.md):**
-> *Genealogy* 2 - Family histories, bloodlines, and the complex mathematics of suitable matches
-> *Local Customs* 2 - Village traditions, social expectations, and the unwritten rules of rural courtship
+> *Genealogy* 2 - Family histories, bloodlines, and the complex mathematics of
+> suitable matches
+> *Local Customs* 2 - Village traditions, social expectations, and the unwritten
+> rules of rural courtship
 >
 > **Performer [Maneuver](../maneuvers.md):**
-> *Social Mediation* 1 - Gentle guidance and diplomatic resolution of interpersonal conflicts
+> *Social Mediation* 1 - Gentle guidance and diplomatic resolution of
+> interpersonal conflicts
 
 This morning brings a delicate challenge. Young Willem the carpenter's son has
 been making eyes at Rosalie, the miller's daughter, but their families nurse a
@@ -28,13 +32,23 @@ determined to court the blacksmith's daughter despite them being utterly
 unsuited for each other; he's sweet, but not very bright, while she's mean,
 spoiled, and vain.
 
-Marta settles at her kitchen table with tea and opens her record books. Time for some strategic thinking.
+Marta settles at her kitchen table with tea and opens her record books. Time
+for some strategic thinking.
 
 ## Understanding the Terrain
 
-First, she needs to understand the full scope of today's romantic complications.
+First, she needs to understand the full scope of today's romantic
+complications.
 
-> She decides to [Wager](../wagered-actions.md) her expertise carefully, banking 2 points for sustained strategic thinking throughout the day. With Level 2 + Loremaster 2 + Genealogy 2 + Local Customs 2 - 2 banked = EL6, she maps out family connections, personality matches, and social obstacles. Rolling a nice, safe 3d3: (2,1,0) for 3 against the village's accumulated romantic chaos rated at DL4. The GM rolls 1d5 for 2. Marta's expertise wins by 1, which turns her banked [Wager](../wagered-actions.md) into a *Strategic Overview 2* [Boost](../actions-and-timing.md#boost-actions) that will persist through all her matchmaking efforts today.
+> She decides to [Wager](../wagered-actions.md) her expertise carefully, banking
+> 2 points for sustained strategic thinking throughout the day. With Level 2 +
+> Loremaster 2 + Genealogy 2 + Local Customs 2 - 2 banked = EL6, she maps out
+> family connections, personality matches, and social obstacles. Rolling a nice,
+> safe 3d3: (2,1,0) for 3 against the village's accumulated romantic chaos rated
+> at DL4. The GM rolls 1d5 for 2. Marta's expertise wins by 1, which turns her
+> banked [Wager](../wagered-actions.md) into a *Strategic Overview 2*
+> [Boost](../actions-and-timing.md#boost-actions) that will persist through all
+> her matchmaking efforts today.
 
 She identifies the core problem: Willem and Rosalie would actually be perfect
 together - their personalities complement beautifully, and they're clearly
@@ -64,7 +78,12 @@ definitely interested but feels constrained by the family feud.
 
 Now comes the delicate part - planting hope without seeming manipulative.
 
-> With her Strategic Overview 2 still active, Marta combines her knowledge with gentle social pressure: Level 2 + Loremaster 2 + Performer 1 + Social Mediation 1 + Strategic Overview 2 = EL8. Rolling 3d4: (3,2,1) for 6 against Rosalie's natural reticence (EL3), rolling 1d4 for 1. Success by 5 - she creates a powerful *Romantic Hope 5* [Boost](../actions-and-timing.md#boost-actions) in the girl's thinking.
+> With her Strategic Overview 2 still active, Marta combines her knowledge with
+> gentle social pressure: Level 2 + Loremaster 2 + Performer 1 + Social
+> Mediation 1 + Strategic Overview 2 = EL8. Rolling 3d4: (3,2,1) for 6 against
+> Rosalie's natural reticence (EL3), rolling 1d4 for 1. Success by 5 - she
+> creates a powerful *Romantic Hope 5*
+> [Boost](../actions-and-timing.md#boost-actions) in the girl's thinking.
 
 "You know," Marta muses, "I've been thinking about that old boundary dispute.
 Such a silly thing to let fester when both families are good people who've
@@ -92,7 +111,11 @@ Elena laughs, tension melting away. "It's maddening! I'm still the same person
 who used to help my aunt knead bread, but now everyone acts like I might
 vanish in a puff of smoke."
 
-> Marta uses Level 2 + Loremaster 2 + Genealogy 2 + Strategic Overview 2 = EL8 to identify which local young man would be confident and intelligent enough to appreciate Elena's growth rather than be intimidated by it. Rolling 3d4: (2,1,3) for 6. The village's social patterns offer little resistance here - she knows these people too well, and the GM declares it DL0.
+> Marta uses Level 2 + Loremaster 2 + Genealogy 2 + Strategic Overview 2 = EL8
+> to identify which local young man would be confident and intelligent enough to
+> appreciate Elena's growth rather than be intimidated by it. Rolling 3d4:
+> (2,1,3) for 6. The village's social patterns offer little resistance here -
+> she knows these people too well, and the GM declares it DL0.
 
 Perfect. The answer is obvious: Marcus, the schoolmaster's son who's been away
 at university himself and just returned with similar experiences.
@@ -126,7 +149,10 @@ the weaver's daughter has grown up. She's been asking such thoughtful
 questions about the village history project - not many young people show such
 genuine interest in understanding where they come from."
 
-> Marta uses Level 2 + Loremaster 2 + Performer 1 + Social Mediation 1 + Strategic Overview 2 = EL8 to present this redirection convincingly. She rolls 3d4: (2,2,0) for a 4 against his stubborn but simple infatuation rated at EL2. He rolls 1d3 for a 2, and her gentle guidance succeeds by 2.
+> Marta uses Level 2 + Loremaster 2 + Performer 1 + Social Mediation 1 +
+> Strategic Overview 2 = EL8 to present this redirection convincingly. She rolls
+> 3d4: (2,2,0) for a 4 against his stubborn but simple infatuation rated at EL2.
+> He rolls 1d3 for a 2, and her gentle guidance succeeds by 2.
 
 The genealogy concern gives him a face-saving reason to step back, while
 Anna's intellectual curiosity intrigues him - he's always been drawn to people
@@ -168,7 +194,8 @@ and dissolve on the dancing ground. Mrs. Carpenter approaches with a knowing
 look. "Three successful matches in one season, Marta? Even for you, that's
 impressive."
 
-Marta chuckles and sips her cider. "Young people have a way of finding each other when the obstacles aren't quite so overwhelming."
+Marta chuckles and sips her cider. "Young people have a way of finding each
+other when the obstacles aren't quite so overwhelming."
 
 But her eyes twinkle with satisfaction as she watches Willem spin Rosalie
 through a complicated dance figure, both of them laughing with pure joy.

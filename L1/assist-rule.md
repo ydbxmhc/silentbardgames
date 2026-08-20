@@ -14,14 +14,14 @@ powered suit of armor’s HUD, or an onboard AI assist when jacked into the
 network.
 
 When the thing you’re working with can *act on its own*, it gets a character
-sheet - or at least a mini-sheet with a [Level](core-mechanics.md) , a
-[Role](roles.md) , and maybe some [Maneuvers](maneuvers.md) . The question
-then becomes: how do you and this thing work together?
+sheet - or at least a mini-sheet with a [Level](core-mechanics.md), a
+[Role](roles.md), and maybe some [Maneuvers](maneuvers.md). The question then
+becomes: how do you and this thing work together?
 
 ## The Rule
 
-When you use something with its own capabilities, it can provide a **
-[Boost](actions-and-timing.md#boost-actions) ** to your roll - but you can
+When you use something with its own capabilities, it can provide a
+**[Boost](actions-and-timing.md#boost-actions)** to your roll - but you can
 only benefit from as much [Boost](actions-and-timing.md#boost-actions) as your
 own rank in the relevant [Role](roles.md) allows. The rest is wasted, not
 because the item isn’t good enough, but because *you* aren’t skilled enough to
@@ -34,7 +34,7 @@ Sniper 4 archer with the same bow gets the full 4 points - the demon handles
 the grunt work and he’s free to focus on anticipation and timing. Same magic,
 radically different outcome.
 
-If you have *no* rank in the relevant [Role](roles.md) , you get no
+If you have *no* rank in the relevant [Role](roles.md), you get no
 [Boost](actions-and-timing.md#boost-actions) at all. The item is doing things
 you can’t understand or use. You’re holding something speaking a completely
 foreign language.
@@ -42,13 +42,13 @@ foreign language.
 ## Autonomous Operation
 
 Alternatively, the item can act entirely on its own. It rolls its own Level +
-[Role](roles.md) + [Maneuvers](maneuvers.md) , with no input from you. This is
+[Role](roles.md) + [Maneuvers](maneuvers.md), with no input from you. This is
 the enchanted *Dancing* sword fighting by itself while you just hold on, or
 even let it go.
 
 Autonomous operation has real advantages - especially when the item’s stats
 are better than what you could achieve even with its
-[Boost](actions-and-timing.md#boost-actions) . Sometimes the smart move is to
+[Boost](actions-and-timing.md#boost-actions). Sometimes the smart move is to
 let go and *trust the demon*.
 
 Autonomous operation has hard limits:
@@ -85,22 +85,22 @@ for simplicity’s sake.
 
 Two engineers working on separate damage spots will only compete if the
 supplies providing the [Boost](actions-and-timing.md#boost-actions) are
-limited - in which case the relevant [Trait](traits.md) will be *
-[Ablative](traits.md) * and disappear as points of bonus are spent.
+limited - in which case the relevant [Trait](traits.md) will be
+*[Ablative](traits.md)* and disappear as points of bonus are spent.
 
 This is why a well-crewed ship is so much more dangerous than an autopilot. An
 enchanted ship makes one roll per turn. A crew of five makes five rolls, each
 [Boosted](actions-and-timing.md#boost-actions) by the ship’s capabilities,
-each drawing on different [Roles](roles.md) . The ship is one shared resource
+each drawing on different [Roles](roles.md). The ship is one shared resource
 that many people tap differently.
 
 ## Assisted Gear Traits
 
-Items with their own sheets can *also* have [Traits](gear-traits.md) . A
+Items with their own sheets can *also* have [Traits](gear-traits.md). A
 self-aiming crossbow might have a Sniper 2 sheet (for the targeting assist)
 AND a *Penetrating 1* rated [Trait](traits.md) (for the armor-piercing bolts).
 The Assist Rule governs the targeting
-[Boost](actions-and-timing.md#boost-actions) . The [Trait](traits.md) governs
+[Boost](actions-and-timing.md#boost-actions). The [Trait](traits.md) governs
 the contingent damage. They’re separate contributions from the same item, each
 following its own rules.
 
@@ -113,17 +113,19 @@ only need to give them an excuse.
 
 The boundary is simple: ***does it make decisions?***
 
-If it just sits there being sharp, balanced, or magical - it’s a [Trait](traits.md). No sheet needed.
+If it just sits there being sharp, balanced, or magical - it’s a
+[Trait](traits.md). No sheet needed.
 
 If it aims itself, fights on its own, navigates, diagnoses, opens doors to
 give you cover, or does anything that requires judgment, however simple - it
 gets a sheet, and the Assist Rule applies.
 
-ItemTreatment A mundane sworddoesn’t need anything A Masterwork sword
-[Traits](gear-traits.md) only An enchanted sword that glows near enemies
-[Traits](gear-traits.md) plus a [Conceit](hooks-in-play.md) An enchanted sword
-that parries on its ownSheet - that’s the Assist Rule An enchanted sword with
-its own agendaFull character sheet, [Hooks](hooks.md) and all
+ItemTreatment A mundane sworddoesn’t need anything A Masterwork
+sword[Traits](gear-traits.md) only An enchanted sword that glows near
+enemies[Traits](gear-traits.md) plus a [Conceit](hooks-in-play.md) An
+enchanted sword that parries on its ownSheet - that’s the Assist Rule An
+enchanted sword with its own agendaFull character sheet, [Hooks](hooks.md) and
+all
 
 ---
 

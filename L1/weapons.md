@@ -10,7 +10,7 @@ fade after the fight. Characters can still choose to inflict
 [Injury](types-of-harm.md) deliberately, but this requires a
 [Wager](wagered-actions.md) to represent the extra effort and intent needed to
 cause lasting harm with bare hands, or at least a believable explanation of
-how their action could have caused real [Injury](types-of-harm.md) , such as a
+how their action could have caused real [Injury](types-of-harm.md), such as a
 believable improvised weapon - often the ground or a wall will do.
 
 Weapons make conflicts dangerous by changing this default. Armed combat uses

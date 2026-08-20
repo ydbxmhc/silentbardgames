@@ -21,7 +21,7 @@ creating lasting bonds that provide ongoing tactical and practical advantages.
 ## Understanding Animals
 
 Beast Handlers can evaluate an animal's personality and potential by
-identifying its [Hooks](../hooks.md) . Like people, animals have driving
+identifying its [Hooks](../hooks.md). Like people, animals have driving
 motivations and behavioral patterns. A war-trained destrier might have
 `Fearless in Battle` and `Contemptuous of Weak Riders`, while a mistreated
 stray might have `Loves Complete Once Trust is Earned` but `Territorial of
@@ -31,7 +31,7 @@ machines - someone threw those rolls too. The GM decides the opposition
 depending on the specifics.
 
 Successful Beast Handlers work with an animal's natural disposition (as
-usually expressed in [Hooks](../hooks.md) ) rather than against it. You can
+usually expressed in [Hooks](../hooks.md)) rather than against it. You can
 teach a loyal and brave dog to be brave and defend its beloved handler, but a
 naturally timid animal will never become a fearless guardian of strangers. We
 are what we are - and it applies to beasts as well. The GM will always control
@@ -52,15 +52,15 @@ the animal has to figure out what you want and agree to try.
 
 Successfully trained beasts allow the Beast Handler to create standing
 persistent bonuses that apply whenever relevant. Unlike temporary
-[Boosts](../actions-and-timing.md#boost-actions) , these partnerships provide
+[Boosts](../actions-and-timing.md#boost-actions), these partnerships provide
 ongoing advantages - but only when the companion is healthy and present. A war
 hound trained in *Pack Fighting 2* makes it easier to achieve a successful
 Focus roll that creates a persistent
 [Boost](../actions-and-timing.md#boost-actions) to its handler's combat rolls
-when they coordinate attacks. * [Luck Tokens](../luck.md) DO NOT APPLY* to
+when they coordinate attacks. *[Luck Tokens](../luck.md) DO NOT APPLY* to
 these down-time rolls! Those are only available during sessions, and companion
 bonuses are taught and *rolled* during the down-time between sessions. If you
-want to spend real, actual [Karma](../karma.md) , that's up to you, but the GM
+want to spend real, actual [Karma](../karma.md), that's up to you, but the GM
 can always rule the duration of a
 [Boost](../actions-and-timing.md#boost-actions) over because of events
 in-game, forcing you to roll it again. When/if the critter is Injured, the
@@ -121,11 +121,11 @@ attempt separate actions with the EL assigned. Experienced handlers can manage
 several trained animals simultaneously, but each is a separate roll requiring
 more splits.
 
-Companions aren't the only value for the [Role](../roles.md) , though. A
-racing jockey needs to understand and cajole his mount, not just teach it to
-run.
+Companions aren't the only value for the [Role](../roles.md), though. A racing
+jockey needs to understand and cajole his mount, not just teach it to run.
 
-→ See [A Beast Handler In Action](../action/beast-handler.md) for a full example of the Beast Handler [Role](../roles.md) in play.
+→ See [A Beast Handler In Action](../action/beast-handler.md) for a full
+example of the Beast Handler [Role](../roles.md) in play.
 
 ---
 

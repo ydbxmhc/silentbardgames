@@ -1,10 +1,12 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sneak](sneak.md) › Common Sneak Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Sneak](sneak.md) › Common Sneak
+Maneuvers
 
 Social Roles
 
 # Common Sneak Maneuvers
 
-Sneak [Maneuvers](../maneuvers.md) are anything that makes them a little less conspicuous *somehow*.
+Sneak [Maneuvers](../maneuvers.md) are anything that makes them a little less
+conspicuous *somehow*.
 
 ### Environmental Specialization
 

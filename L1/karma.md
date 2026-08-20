@@ -8,7 +8,8 @@ Core Mechanics
 and a lot of that comes from bad judgment."  
 - Will Rogers
 
-We've mentioned Karma a lot already. Hopefully the idea is intuitive enough that it hasn't been confusing, but let's pin it down.
+We've mentioned Karma a lot already. Hopefully the idea is intuitive enough
+that it hasn't been confusing, but let's pin it down.
 
 ## Karma Is Experience
 
@@ -33,11 +34,12 @@ session.
 Characters earn a Karma the first time a [Hook](hooks.md) is triggered in a
 session. This should happen at least once every session. If the group wants to
 allow characters to generate more Karma faster, they may do this a number of
-times per session equal to the current rating of the [Hook](hooks.md) , so a
+times per session equal to the current rating of the [Hook](hooks.md), so a
 [Hook](hooks.md) 2 can be triggered twice for Karma before it starts yielding
 [Luck Tokens](luck.md) instead.
 
-If at the end of a session the GM realizes they haven't triggered any [Hooks](hooks.md) for a character, give them a Karma as an apology.
+If at the end of a session the GM realizes they haven't triggered any
+[Hooks](hooks.md) for a character, give them a Karma as an apology.
 
 **Extreme Rolls**  
 If you are using Extreme rolls in your game, you might want to allow
@@ -47,7 +49,7 @@ specific skill. At the end of that session, credit 1 Karma toward the
 [Role](roles.md) or [Maneuver](maneuvers.md) if one was used; or base Level if
 no [Role](roles.md) was involved. This Karma is considered spent toward
 advancing that score, whichever it is. If the roll involved synergy from
-multiple [Roles](roles.md) and/or [Maneuvers](maneuvers.md) , let the player
+multiple [Roles](roles.md) and/or [Maneuvers](maneuvers.md), let the player
 choose which gets the Karma.
 
 **Just Good Fun**  
@@ -55,7 +57,7 @@ The GM should feel free to hand out a Karma just like [Luck Tokens](luck.md)
 for any truly fun thing the character (or possibly even the player!) does
 during the game. A heroic sacrifice? Awesome tactics that carry the day? A
 brilliant joke that leaves everyone laughing? Great role-play that *wasn't*
-related to a [Hook](hooks.md) ? Anything the group agrees is worth it should
+related to a [Hook](hooks.md)? Anything the group agrees is worth it should
 earn an extra Karma, as long as they aren't getting "too many". If they are
 spending their Karma to benefit other members of the party, relax that rule
 and make sure they are rewarded for that too.

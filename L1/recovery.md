@@ -4,18 +4,18 @@ Core Mechanics
 
 # Recovery
 
-Not all Harm is created equal. The difference isn't just in the numbers, but in how you get over it.
+Not all Harm is created equal. The difference isn't just in the numbers, but
+in how you get over it.
 
-We've already said ** [Hindrances](types-of-harm.md) ** require story
-solutions, not just dice. Dispel the blindness, cut the ropes, or find
-whatever narrative fix makes sense. ** [Complications](types-of-harm.md) **
-can be recovered whenever the GM says so. They might offer a recovery after a
-fight, when you get medical attention, after real rest, or when you do
-something that specifically addresses the problem. Any success at all wipes
-out explicit [Complications](types-of-harm.md) entirely, or at least their
-modifiers.
+We've already said **[Hindrances](types-of-harm.md)** require story solutions,
+not just dice. Dispel the blindness, cut the ropes, or find whatever narrative
+fix makes sense. **[Complications](types-of-harm.md)** can be recovered
+whenever the GM says so. They might offer a recovery after a fight, when you
+get medical attention, after real rest, or when you do something that
+specifically addresses the problem. Any success at all wipes out explicit
+[Complications](types-of-harm.md) entirely, or at least their modifiers.
 
-** [Injury](types-of-harm.md) ** is typically recovered once per day, and
+**[Injury](types-of-harm.md)** is typically recovered once per day, and
 usually only with proper food and rest. Roll against your current
 [Injury](types-of-harm.md) total. Success reduces your
 [Injury](types-of-harm.md) by the amount of effect you generate. Severe

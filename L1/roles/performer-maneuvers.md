@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Performer](performer.md) › Common Performer Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Performer](performer.md) ›
+Common Performer Maneuvers
 
 Social Roles
 

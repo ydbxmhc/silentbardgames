@@ -4,14 +4,15 @@ Characters
 
 # Hooks and Growth
 
-[Hooks](hooks.md) evolve through play, representing changes in your character's identity, but *you* control that evolution.
+[Hooks](hooks.md) evolve through play, representing changes in your
+character's identity, but *you* control that evolution.
 
 **When a [Hook](hooks.md) is triggered during a session**, you *may* rank it
 up at the end of the session if you want to and it doesn't exceed your base
 Level. You're not required to - maybe you're satisfied with how much it
 motivates and drives your character. Note that this is *player* decision; it's
 not directly up to the character, though the change may represent character
-effort. [Hooks](hooks.md) *do not cost [Karma](karma.md) !*
+effort. [Hooks](hooks.md) *do not cost [Karma](karma.md)!*
 
 **When the GM proposes a [Hook](hooks.md) event and you *decline***, you
 *must* immediately pay a [Luck Token](luck.md) or reduce that [Hook](hooks.md)

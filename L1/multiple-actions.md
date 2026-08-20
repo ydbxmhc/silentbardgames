@@ -6,7 +6,7 @@ Core Mechanics
 
 You can almost always defend as a free action as many times as required. If
 you don't know it's required you might not be able to apply bonuses like
-[Roles](roles.md) , but at worst you should always be able to use base Level.
+[Roles](roles.md), but at worst you should always be able to use base Level.
 
 Sometimes, though, you want to do more than one thing on your turn, like hit
 more than one opponent, or rally the troops while you continue to fight, and
@@ -37,7 +37,7 @@ do them, but to assign points of split.
 Calculate the EL for each role. Start with the *lowest* EL and assign points
 to it, then reduce ALL your ELs by that amount. Move to the next lowest
 remaining EL and repeat until you've assigned points to everything you want to
-attempt.^ [1](#fn1)
+attempt.^[1](#fn1)
 
 **Split Action Example**  
 A PC has Performer EL10 and Warrior EL20. She assigns 8 points to rally her

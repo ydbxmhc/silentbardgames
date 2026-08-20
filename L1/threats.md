@@ -12,7 +12,8 @@ Natural animals.
 
 ### Wolves
 
-Not generally aggressive unless hungry or threatened. [Hooks](hooks.md) will greatly affect their individual behavior.
+Not generally aggressive unless hungry or threatened. [Hooks](hooks.md) will
+greatly affect their individual behavior.
 
 #### Lone Adolescent
 
@@ -33,8 +34,8 @@ Level 4 Wolf 4; Tracking 4, Stealth 3, Chase 4, Ferocity 3, Pack Tactics 4
 A Hunting Pack can roll a *Flanking*
 [Boost](actions-and-timing.md#boost-actions) as a free action.The GM should
 treat the pack as a single skilled opponent that will use
-[Boosts](actions-and-timing.md#boost-actions) , tap [Hooks](hooks.md) , and
-even use ** [Plot Armor](gear.md) !**.
+[Boosts](actions-and-timing.md#boost-actions), tap [Hooks](hooks.md), and even
+use **[Plot Armor](gear.md)!**.
 
 ## Spirits
 

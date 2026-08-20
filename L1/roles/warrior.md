@@ -6,7 +6,8 @@ Roles
 
 ## Combat Roles
 
-Lots of characters fight, but if they do it well they are probably using one of these.
+Lots of characters fight, but if they do it well they are probably using one
+of these.
 
 *I am brave, strong, and ready to fight.*
 
@@ -20,7 +21,7 @@ anything handy at short range.
 
 This doesn't mean they instinctively know the specialized techniques for
 exotic weapons like a khopesh or kusarigama - that requires specific training,
-expressed as * [Maneuvers](../maneuvers.md) *. At its base, the Warrior
+expressed as *[Maneuvers](../maneuvers.md)*. At its base, the Warrior
 [Role](../roles.md) is a brawler; it represents someone who understands the
 fundamentals of violence: timing, distance, leverage, and the will to act
 decisively without being squeamish when it matters.

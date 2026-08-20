@@ -29,7 +29,7 @@ transformation, and brilliant intensity. Aeromancers don't "control" winds,
 they *breathe* freedom, movement, and the space between things. Their power is
 their essential nature.
 
-This primal nature usually manifests as a [Hook](../hooks.md) . The
+This primal nature usually manifests as a [Hook](../hooks.md). The
 storm-touched are volatile and impetuous, lycanthropes seethe with
 barely-contained passions, and Shadow Adepts shun the light. These aren't
 weaknesses - they're the price and proof of power.
@@ -46,14 +46,15 @@ to match the task.
 
 Every Adept has a *Source* - a theme for their magic. If a player wants to
 take up Adept magic after character creation, they need to justify it, and it
-should be something related to an existing [Hook](../hooks.md) . The theme
+should be something related to an existing [Hook](../hooks.md). The theme
 should be broad enough for varied application but focused enough to create
 meaningful limitations. "Fire" works well; "energy" is far too broad, and
 "torches" too narrow.
 
 ### The Price of Power
 
-Adept magic carries unique risks. Their power is internal, so pushing too hard can do literal Harm.
+Adept magic carries unique risks. Their power is internal, so pushing too hard
+can do literal Harm.
 
 An Adept's Power Threshold is Role rank x2: base Level + Adept rank, but as
 with any feat only a given [Role](../roles.md) can perform, it takes no more

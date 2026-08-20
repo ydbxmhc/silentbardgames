@@ -59,7 +59,7 @@ as chaotic regions where navigation becomes nearly impossible and exposed
 consciousness suffers constant buffeting. Ancient battlefields, sites of great
 tragedies, or areas of ongoing magical conflict often generate this sort of
 persistent sites of power. These can be tapped as *pre-existing
-[Boosts](../actions-and-timing.md#boost-actions) * as a free action if your
+[Boosts](../actions-and-timing.md#boost-actions)* as a free action if your
 intended use aligns with any Aspect on the power.
 
 **Anchors** appear as beacons or landmarks in spiritual geography - bright
@@ -184,18 +184,19 @@ spirits, or develop unpredictable properties as they accumulate spiritual
 
 To create a temporary anchor, an arcane practitioner can create a
 [Wagered](../wagered-actions.md)
-[Boost](../actions-and-timing.md#boost-actions) . Spending a
-[Luck Token](../luck.md) has the same effect. For a more permanent anchor a
-character may devote a [Maneuver](../maneuvers.md) . This *can* be one spent
-on a spirit, and does not have to be solely devoted to the purpose of creating
+[Boost](../actions-and-timing.md#boost-actions). Spending a [Luck
+Token](../luck.md) has the same effect. For a more permanent anchor a
+character may devote a [Maneuver](../maneuvers.md). This *can* be one spent on
+a spirit, and does not have to be solely devoted to the purpose of creating
 the anchor; any [Maneuver](../maneuvers.md) point permanently spent on a
 spirit *or any other* entity creates a permanent anchor line to that point. As
-with any [Maneuver](../maneuvers.md) , these can be bought with
-[Karma](../karma.md) .
+with any [Maneuver](../maneuvers.md), these can be bought with
+[Karma](../karma.md).
 
 ## Spiritual Hazards
 
-The Spirit Realm contains dangers beyond hostile entities and protective wards.
+The Spirit Realm contains dangers beyond hostile entities and protective
+wards.
 
 Spiritual Storms arise from concentrations of powerful emotion or magical
 conflict. These manifest as chaotic regions where navigation becomes nearly
@@ -222,7 +223,8 @@ Fortunately, such terrors rarely surface into the Borderlands - *rarely.*
 
 ## Practical Applications
 
-Understanding the Spirit Realm transforms how practitioners approach traditional magical effects:
+Understanding the Spirit Realm transforms how practitioners approach
+traditional magical effects:
 
 Scrying becomes reconnaissance through spiritual projection rather than merely
 a means of mysterious remote viewing. You can only observe what you can
@@ -241,10 +243,10 @@ having an anchor that maintains connection, or firing a message off like a
 carrier pigeon that could be intercepted by trained or wild hawks.
 
 Summoning operates by calling out through the Spirit Realm to entities by
-their [True Name](../magick/conjuring.md) . Note that only spirits have
-[True Names](../magick/conjuring.md) . The spirit must still travel through
-spiritual space to reach you, and their response time depends on their current
-location in the realm's geography.
+their [True Name](../magick/conjuring.md). Note that only spirits have [True
+Names](../magick/conjuring.md). The spirit must still travel through spiritual
+space to reach you, and their response time depends on their current location
+in the realm's geography.
 
 ---
 

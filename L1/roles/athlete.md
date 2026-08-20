@@ -21,7 +21,8 @@ treacherous currents, scaling walls, or carrying what seem like impossible
 loads. Their training creates advantages that enhance other abilities, but the
 Athlete [Role](../roles.md) focuses on physical excellence for its own sake.
 
-Need to lift a gate? Bend those bars? Scale a cliff in record time? Maybe catch that pickpocket? Trust an Athlete.
+Need to lift a gate? Bend those bars? Scale a cliff in record time? Maybe
+catch that pickpocket? Trust an Athlete.
 
 ## Common Athlete Maneuvers
 

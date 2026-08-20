@@ -30,7 +30,8 @@ the PCs through a false "choose your own adventure" where all choices wind up
 at the same ending. You can fake the *appearance* of choice now and then, but
 if you do that too often your players will lose confidence in you.
 
-The intermediate approach works very well - give yourself a basic direction, and expand details fractally as they become relevant.
+The intermediate approach works very well - give yourself a basic direction,
+and expand details fractally as they become relevant.
 
 ### Scenes
 
@@ -41,7 +42,8 @@ players working in the moment to accomplish some goal, even if it's just
 enjoying each other's company in character. People and places and events are
 described, choices are made, and maybe dice hit the table.
 
-When preparing a scene, even if it's an impromptu surprise, take a moment to consider a few basic questions.
+When preparing a scene, even if it's an impromptu surprise, take a moment to
+consider a few basic questions.
 
 - What are the characters trying to accomplish?
 - How important is it to them? To the story? To the *players?*
@@ -77,7 +79,7 @@ figuring out the goal for the evening. As mentioned above, have a few ideas
 for triggering Plot [Hooks](hooks.md) of various characters, but remind
 players that they can and *should* point out moments when triggering a
 [Hook](hooks.md) is appropriate. Take them up on it when they do! Make sure
-it's actually worthy of the [Karma](karma.md) , but if a player has the idea
+it's actually worthy of the [Karma](karma.md), but if a player has the idea
 themselves, pay attention and use it as a template for future triggers; this
 is the kind of event they want and expect.
 
@@ -89,7 +91,7 @@ story, while others will be happy to diverge more often.
 When planning conflicts for a session, remember that stakes don't have to be
 life and limb, but should still feel important. Try to include some that are
 easy and at least one that is not. If you don't have a minimum of one
-character recovering from a previous session's [Injury](types-of-harm.md) ,
+character recovering from a previous session's [Injury](types-of-harm.md),
 consider making your opposition a little tougher. If several are, then either
 give them a different sort of challenge while they heal, or take advantage of
 it to make them really nervous.
@@ -98,7 +100,7 @@ it to make them really nervous.
 
 This is where some planning really shines, but you need to be able to adjust
 for player actions. Level One is designed so that you can literally improvise
-entire campaigns from a vague idea, some setting and a few [Hooks](hooks.md) ,
+entire campaigns from a vague idea, some setting and a few [Hooks](hooks.md),
 but the more time and thought you put into what's happening off-stage, and how
 and *when* that will affect the PCs, the better.
 
@@ -133,12 +135,12 @@ found your sweet spot. You can focus on the game and stop worrying about
 Leveling. There comes a point where you have *created* the character you
 wanted all along, and more stuff would just be unnecessary baggage.
 
-Enjoy the extra guaranteed successes - with a pocket full of
-[Luck Tokens](luck.md) *and* the freedom to spend your [Karma](karma.md) on
+Enjoy the extra guaranteed successes - with a pocket full of [Luck
+Tokens](luck.md) *and* the freedom to spend your [Karma](karma.md) on
 successes, you should be really awesome, and at that point the GM is going to
 be using *his* Tokens to interfere a LOT, so you may need those
 [Karma](karma.md) successes. ELs will outstrip Level more and more, and even
-the * [Staggered](feeling-down.md) * rule will not protect you from one-hit
+the *[Staggered](feeling-down.md)* rule will not protect you from one-hit
 takedowns forever.
 
 In short campaigns, spend that [Karma](karma.md) freely! Be awesome while you
@@ -150,15 +152,15 @@ making the character, and then on being awesome.
 
 ### Advancement
 
-Did the characters start at Level 1 with no initial [Karma](karma.md) ? Then
+Did the characters start at Level 1 with no initial [Karma](karma.md)? Then
 you get to expose them to whatever will inspire them to take up the
 [Roles](roles.md) that interest the players, and a lot of the early session
 planning will be about how they survive to grow. This is a great way to start
 a "market street orphans" game.
 
 Did they start with 5 karma? You might have a Level 1 character with 5
-[Roles](roles.md) , a Jack of Trades that covers a wide range of situations
-competently. You might have a Level 2 with three [Roles](roles.md) , or a
+[Roles](roles.md), a Jack of Trades that covers a wide range of situations
+competently. You might have a Level 2 with three [Roles](roles.md), or a
 [Role](roles.md) at rank 2 and another at 1. You might even have a character
 at Level 3 with no [Roles](roles.md) at all. It's fine to have a mix! The
 Level 3 character is going to be tougher, but the Level 2 Warrior 2 with

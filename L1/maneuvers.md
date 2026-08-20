@@ -15,10 +15,10 @@ details with their group.
 When your Maneuver applies to a situation, it typically provides an additional
 +1 to your EL per rank in the Maneuver. You absolutely can take the same
 Maneuver more than once to rank it up! You can even buy additional ranks with
-[Karma](karma.md) , exactly like [Roles](roles.md) , though you never have to.
+[Karma](karma.md), exactly like [Roles](roles.md), though you never have to.
 Maneuvers can never exceed their associated [Role](roles.md) rank, and *in
 general* a character shouldn't have more Maneuvers than ranks in the
-associated [Role](roles.md) .
+associated [Role](roles.md).
 
 ---
 

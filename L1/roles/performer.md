@@ -4,7 +4,8 @@ Roles
 
 # Social Roles
 
-Not every character is a fighter, though there's certainly nothing wrong with being a Warrior-Poet or a Skirmisher/Scout.
+Not every character is a fighter, though there's certainly nothing wrong with
+being a Warrior-Poet or a Skirmisher/Scout.
 
 ## Performer
 

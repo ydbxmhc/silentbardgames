@@ -18,7 +18,7 @@ armor can apply this rating as a bonus to any roll the armor might help, such
 as defense or intimidation rolls. Treat it as after-the-fact extra EL that
 already rolled Simple Pool dice successfully.
 
-It also provides ** [Plot Armor](gear.md) !** Instead of taking harm, spend a
+It also provides **[Plot Armor](gear.md)!** Instead of taking harm, spend a
 [Luck Token](luck.md) or [Karma](karma.md) to have the armor absorb ALL the
 damage. This reduces the armor's rating by the amount absorbed unless
 [Karma](karma.md) was used - if the damage exceeds the armor's rating, the

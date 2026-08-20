@@ -12,7 +12,7 @@ score as the DL to resist the recovery.
 **Magical Healing**: Spells can heal [Injury](types-of-harm.md) point for
 point of effect after resistance, but you might prefer not to make light of
 damage taken. If you want to make healing cost, those points transfer to the
-healer as [Complications](types-of-harm.md) . You might also (or alternately)
+healer as [Complications](types-of-harm.md). You might also (or alternately)
 limit magical healing to one extra recovery attempt per game day to prevent it
 from trivializing physical consequences.
 
@@ -30,13 +30,13 @@ end when the threat is neutralized. If you want *grimdark*, assume all
 potential [Complications](types-of-harm.md) become shock and maybe coma if a
 Down character isn't successfully treated in a reasonable amount of time. In
 game terms, no treatment means all points are treated as
-[Injuries](types-of-harm.md) .
+[Injuries](types-of-harm.md).
 
-**Critical [Complications](types-of-harm.md) **: A fail on a recovery is
-always bad. An *extreme* fail is *really* bad. The wound has developed an
-additional problem such as an infection, and the wound gets to make an attack
-roll. These mean serious and possibly permanent alterations! To resolve them,
-the *character* must accept a relevant [Hook](hooks.md) .
+**Critical [Complications](types-of-harm.md)**: A fail on a recovery is always
+bad. An *extreme* fail is *really* bad. The wound has developed an additional
+problem such as an infection, and the wound gets to make an attack roll. These
+mean serious and possibly permanent alterations! To resolve them, the
+*character* must accept a relevant [Hook](hooks.md).
 
 ---
 

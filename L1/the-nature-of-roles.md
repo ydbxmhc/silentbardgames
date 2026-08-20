@@ -18,7 +18,9 @@ unexpected ways to create unique or standard archetypes.
 
 > **Class-ic Tropes?**
 >
-> Yes, pun intended, but the point remains. Most any standard character types from another system can be created here using the standard [Roles](roles.md) and a little creative presentation.
+> Yes, pun intended, but the point remains. Most any standard character types
+> from another system can be created here using the standard [Roles](roles.md)
+> and a little creative presentation.
 
 They are also intentionally *limited*. [Roles](roles.md) are *not* labels that
 hand you a list of different abilities; a [Role](roles.md) does *one thing*.

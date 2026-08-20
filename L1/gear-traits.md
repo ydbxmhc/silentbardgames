@@ -5,15 +5,15 @@ Gear
 # Gear Traits
 
 Most gear is just gear. A sword is a sword - it enables your weapon
-[Maneuvers](maneuvers.md) , changes damage to [Injury](types-of-harm.md) , and
+[Maneuvers](maneuvers.md), changes damage to [Injury](types-of-harm.md), and
 provides reach advantages. It doesn’t need anything more than a description
 and whatever narrative permission makes sense. The difference between a knife
 and a greatsword is mostly tactical. A zwiehander is less useful in a closet.
 
 Some gear is special - a master-forged blade with an edge that never dulls, a
 bow with wheels and loops that give it astonishing range and penetration, an
-ancient staff that hums with bound arcane power. These items have **
-[Traits](traits.md) ** - properties that make them mechanically distinct from
+ancient staff that hums with bound arcane power. These items have
+**[Traits](traits.md)** - properties that make them mechanically distinct from
 ordinary equipment.
 
 Gear [Traits](traits.md) come in two forms: **rated** and **unrated**.
@@ -25,8 +25,8 @@ An unrated [Trait](traits.md) is essentially a simple
 leverage. A *Sharp* sword, a *Sturdy* staff, a *Balanced* crossbow. The
 quality is real, but taking advantage of it requires skill and a roll.
 
-When you use gear with an unrated [Trait](traits.md) , you may attempt a **
-[free-action Boost](actions-and-timing.md#free-action-boosts) ** to leverage
+When you use gear with an unrated [Trait](traits.md), you may attempt a
+**[free-action Boost](actions-and-timing.md#free-action-boosts)** to leverage
 that quality on a relevant roll. This doesn’t use your turn - it’s the natural
 advantage of superior equipment in capable hands. Roll for the
 [Boost](actions-and-timing.md#boost-actions) as usual; success adds to your
@@ -74,7 +74,7 @@ You don’t roll for them, you don’t dedicate them from your EL, and they
 neither reduce nor increase your chance to hit. They’re the weapon’s
 contribution, not yours.
 
-The danger: on an [Extreme Failure](extreme-results.md) , those contingent
+The danger: on an [Extreme Failure](extreme-results.md), those contingent
 points are part of the catastrophe. They activate - but not the way you
 intended. A *Sharp 1* sword fumble doesn’t just mean you dropped your weapon.
 It means that point of dedicated cutting power went somewhere *wrong*, like
@@ -91,27 +91,29 @@ by even 1 point of effect, the full contingent value lands on top.
 - *Penetrating 1* - 1 contingent point that bypasses armor on successful hits.
 - *Fortified 2* - 2 contingent points added to successful resistance rolls when the item is relevant. A shield, a suit of armor, a warded amulet.
 
-Guns generally have Rated [Traits](traits.md); if you miss, you missed. If you hit, the damage might be considerable.  
+Guns generally have Rated [Traits](traits.md); if you miss, you missed. If you
+hit, the damage might be considerable.  
 Yes, it *is* still possible to be “just grazed” by a halberd (or a shotgun) if
 you roll well to resist. You managed to minimize the alngle of attack, or got
 *mostly* behind some cover before it hit, or armor deflected some, etc.
 
 ## Combining Traits
 
-A truly exceptional item might have both rated and unrated [Traits](traits.md)
-. A master-forged sword might be *Sharp 1* (rated - always a little extra
-bite) and *Balanced* (unrated - a skilled user can leverage the handling for a
-free-action [Boost](actions-and-timing.md#boost-actions) ). The rated points
-are automatic; the unrated [Boost](actions-and-timing.md#boost-actions)
-requires a roll.
+A truly exceptional item might have both rated and unrated
+[Traits](traits.md). A master-forged sword might be *Sharp 1* (rated - always
+a little extra bite) and *Balanced* (unrated - a skilled user can leverage the
+handling for a free-action [Boost](actions-and-timing.md#boost-actions)). The
+rated points are automatic; the unrated
+[Boost](actions-and-timing.md#boost-actions) requires a roll.
 
-An item can also have multiple rated [Traits](traits.md) . A *Sharp 1, Flaming
+An item can also have multiple rated [Traits](traits.md). A *Sharp 1, Flaming
 2* sword delivers 1 contingent point of cutting damage and 2 contingent points
-of fire damage on every successful hit, subject to the narrative - a target **
-[Immune to Fire](traits.md) ** won’t care about the *Flaming*, but the *Sharp*
-might still bite.
+of fire damage on every successful hit, subject to the narrative - a target
+**[Immune to Fire](traits.md)** won’t care about the *Flaming*, but the
+*Sharp* might still bite.
 
-And on a fumble, you’re holding a sharp thing that’s also on fire. Choose your weapons carefully.
+And on a fumble, you’re holding a sharp thing that’s also on fire. Choose your
+weapons carefully.
 
 ---
 

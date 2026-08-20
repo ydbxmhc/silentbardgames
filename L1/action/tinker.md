@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Tinker](../roles/tinker.md) › Tinkers In Action
+[Home](../index.md) › [Roles](../roles.md) › [Tinker](../roles/tinker.md) ›
+Tinkers In Action
 
 Knowledge and Craft Roles
 
@@ -27,7 +28,8 @@ Sigmont snatched up a wrench, drawing back to smash the offending apparatus to
 scrap, when he noticed Olberict standing in the doorway with arms crossed and
 a sheepish expression.
 
-"I'm sorry," the older brother muttered. "There, I've said it. Now why aren't you using a proper gasket and constriction band?"
+"I'm sorry," the older brother muttered. "There, I've said it. Now why aren't
+you using a proper gasket and constriction band?"
 
 Sigmont lowered the wrench slowly. "Because I can't get the tolerances right.
 The pressure builds too fast, and by the time I notice the leak, half the
@@ -46,7 +48,8 @@ perfect tool for duer diplomacy - a distilled essence so pure and intoxicating
 that even the proudest sidhe lord couldn't resist its allure.
 
 > **Tinker [Maneuvers](../maneuvers.md):**
-> *Alchemy* 3 - Distillation, purification, and understanding of chemical properties
+> *Alchemy* 3 - Distillation, purification, and understanding of chemical
+> properties
 > *Herbalism* 2 - Knowledge of plant essences and their extraction
 > *Tool Making* 1 - Creating specialized implements for alchemical work
 >
@@ -101,26 +104,38 @@ after only a few…" He didn't finish, but Olberict nodded anyway. "Come help
 me," said Sigmont, dragging his older brother by the apron, "and I can fix
 *your* problem."
 
-> Olberict used Level 3 + Tinker 3 + Engineering 3 = EL9 to design proper gaskets and constriction bands for Sigmont's apparatus. Rolling 14d2 for an 8 against the technical challenge of creating leak-proof seals rated at DL5, which rolled 1d6 for a 4. Success by 4 - he creates precisely fitted components that maintain perfect pressure throughout the distillation process. Meanwhile, Sigmont analyzed Olberict's fuel requirements using Level 3 + Tinker 3 + Alchemy 3 = EL9, determining the exact combustion properties needed. Rolling 4d4: (2,2,1,1) for a 6 against the challenge of matching fuel to engine requirements, DL4 which rolled a 0! He calculated exactly the properties needed, and knew he had the solution.
+> Olberict used Level 3 + Tinker 3 + Engineering 3 = EL9 to design proper
+> gaskets and constriction bands for Sigmont's apparatus. Rolling 14d2 for an 8
+> against the technical challenge of creating leak-proof seals rated at DL5,
+> which rolled 1d6 for a 4. Success by 4 - he creates precisely fitted
+> components that maintain perfect pressure throughout the distillation process.
+> Meanwhile, Sigmont analyzed Olberict's fuel requirements using Level 3 +
+> Tinker 3 + Alchemy 3 = EL9, determining the exact combustion properties
+> needed. Rolling 4d4: (2,2,1,1) for a 6 against the challenge of matching fuel
+> to engine requirements, DL4 which rolled a 0! He calculated exactly the
+> properties needed, and knew he had the solution.
 
 Three days later, Sigmont's rebuilt apparatus completed its first perfect
 distillation. The result was barely a ladle of crystal clear liquid, the
 concentrated essence of an entire cask of wine.
 
-"Careful," Sigmont warned as Olberict examined the precious liquid. "Even the vapors are potent."
+"Careful," Sigmont warned as Olberict examined the precious liquid. "Even the
+vapors are potent."
 
 Olberict loaded a small quantity into his stone-breaker's fuel chamber, aimed
 the device at a granite block, and triggered the mechanism. The controlled
 explosion drove the piston with perfect force - the granite split cleanly in
 half - and left nothing but a dampness in the chamber.
 
-"By my beard," Olberict whispered. "It works exactly as designed. It's…it's perfect."
+"By my beard," Olberict whispered. "It works exactly as designed. It's…it's
+perfect."
 
 Sigmont grinned and held up his own sample. "And this, dear brother, is going
 to make us rich." He tipped the beaker into his maw and swallowed, then shook
 himself all over with a shout.
 
-"The very essence that makes wine intoxicating, with every impurity removed. The fae will trade kingdoms for something this perfect."
+"The very essence that makes wine intoxicating, with every impurity removed.
+The fae will trade kingdoms for something this perfect."
 
 He raised the beaker in salute. "To brotherly cooperation."
 

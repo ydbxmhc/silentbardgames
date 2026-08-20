@@ -1,4 +1,5 @@
-[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Common Sniper Maneuvers
+[Home](../index.md) › [Roles](../roles.md) › [Sniper](sniper.md) › Common
+Sniper Maneuvers
 
 Combat Roles
 

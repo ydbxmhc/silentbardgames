@@ -4,7 +4,8 @@ Roles
 
 # Outdoorsman Roles
 
-Some characters just fit best around trees and animals! There are [Roles](../roles.md) for those too.
+Some characters just fit best around trees and animals! There are
+[Roles](../roles.md) for those too.
 
 ## Naturalist
 

@@ -14,11 +14,12 @@ assume human.
 
 ## Conceits
 
-A [Conceit](hooks-in-play.md) is an unrated Truth (capital "T") about the game or something in it.
+A [Conceit](hooks-in-play.md) is an unrated Truth (capital "T") about the game
+or something in it.
 
 Some things can't be measured. When those things are really important, but the
 only accurate way to represent them is just to say "*this is true,*" then
-that's a [Conceit](hooks-in-play.md) . A demon might be *Immune To Fire*, able
+that's a [Conceit](hooks-in-play.md). A demon might be *Immune To Fire*, able
 to stand in an active furnace without harm, but still subject to other types
 of damage.
 

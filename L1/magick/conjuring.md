@@ -7,11 +7,12 @@ Magick!
 ## Conjuring: Contracts, Relationships, and *Spiritual* Power
 
 Conjurors deal with spirits.  
-Unlike spells which are just tools, spirits have minds and motivations of their own.
+Unlike spells which are just tools, spirits have minds and motivations of
+their own.
 
 ### Nature and Powers of Spirits
 
-Spirits are virtually always defined by their [Hooks](../hooks.md) . Weak
+Spirits are virtually always defined by their [Hooks](../hooks.md). Weak
 spirits might not even have a Level, and be represented almost exclusively as
 a [Hook](../hooks.md) - a ghostly apparition unaware of its own existence,
 just a tragic impression left on a desolate property.
@@ -20,7 +21,7 @@ Practically all spirits of any power have a [Role](../roles.md) that *is*
 their nature as a particular type of spirit, with all the thematically
 attendant attributes and abilities. As they become more powerful and make
 pacts and bargains among themselves they will often begin to accumulate other
-[Roles](../roles.md) , expanding their portfolio of abilities.
+[Roles](../roles.md), expanding their portfolio of abilities.
 
 #### The Spiritual Realm
 
@@ -137,8 +138,7 @@ The Accords also formally state these rules:
 - A Debt or Contract Accepted constitutes an established Agreement.
 - A favor Accepted implies a Debt Accepted unless explicitly excluded.
 - Payment Accepted precludes future litigation or revenge.
-- Proper Payment Refused implies an offered Continuance of the Agreement.
-- Continuance Refused must receive the Payment and Contract Concluded.
+- Proper Payment Refused implies a Continuance of the Agreement.
 - Improper Payment offered may be freely Refused without Consequence.
 - An Agreement Concluded is wiped clean.
 - Breaking these Accords by one Participant Absolves the other from all Obligation.
@@ -160,7 +160,7 @@ into the material realm. At low ranks, this enables only the most basic
 effects - ghostly images, spectral sounds, temperature changes, sudden smells.
 Powerful spirits use Display to create complex Glamours that seem completely
 real to mortal senses. Any direct harm from Display creates only
-[Complications](../types-of-harm.md) , and wounds directly caused by Glamours
+[Complications](../types-of-harm.md), and wounds directly caused by Glamours
 vanish when the illusion is removed - though spirits can absolutely use
 deception to trick victims into real danger. Virtually all spirits have some
 of this ability, even if they do not spend [Maneuver](../maneuvers.md) ranks
@@ -176,7 +176,7 @@ Display ranks to Manifestation (making it more accurate). However, the
 physical form is subject to physical Harm, and if brought Down the
 Manifestation dissipates and shocks the spirit back to the spiritual realm.
 Most spirits have at least some small ability to Manifest if they want to,
-even without the [Maneuver](../maneuvers.md) , but many avoid it as an
+even without the [Maneuver](../maneuvers.md), but many avoid it as an
 uncomfortable vulnerability.
 
 Manifestation is also generally a spirit's primary means of interacting
@@ -187,16 +187,16 @@ manifestation, but the more they Manifest, the more vulnerable they become to
 mundane actions being able to affect them in return.
 
 **Possession** requires seizing control of existing physical beings through
-the Possession [Maneuver](../maneuvers.md) . This isn't simple takeover -
+the Possession [Maneuver](../maneuvers.md). This isn't simple takeover -
 spirits must slowly familiarize themselves with their target's emotional
 "strings," synchronizing with their motivations until host and possessor
 become indistinguishable. This process works primarily through the victim's
-[Hooks](../hooks.md) , with spirits battering emotions through these exposed
+[Hooks](../hooks.md), with spirits battering emotions through these exposed
 vulnerabilities. Most mortals are too spiritually oblivious for possession
 except by the most powerful entities, and it works poorly against those who
 can perceive and rebuff spirits like Conjurors and Halflings. Possession is
 less common, and spirits cannot even attempt this without at least one rank as
-a [Maneuver](../maneuvers.md) . It is most common among Demons and the Dead,
+a [Maneuver](../maneuvers.md). It is most common among Demons and the Dead,
 least common for Elementals, and impossible for Halflings.
 
 Spirits may also have any other [Maneuvers](../maneuvers.md) the GM feels
@@ -225,8 +225,8 @@ common [Maneuver](../maneuvers.md) spirits have; powerful spirits use it to
 warp mortal perceptions with complex Glamours that seem completely real.
 
 Direct Harm from Display is always [Hindrance](../types-of-harm.md) or
-explicit [Complication](../types-of-harm.md) ; a wound *directly* caused *by*
-a Glamour *is* a Glamour, and will vanish when the illusion is removed. On the
+explicit [Complication](../types-of-harm.md); a wound *directly* caused *by* a
+Glamour *is* a Glamour, and will vanish when the illusion is removed. On the
 other hand, the spirit can absolutely use its ability to deceive to make
 victims subject themselves to real injury - walking out a high window still
 hurts when you fall.
@@ -256,7 +256,7 @@ This doesn't work very well against those who can perceive and rebuff them
 such as Conjurors and Halflings, and *most* mortals are just too oblivious to
 the spirit world to be valid candidates for any but the most powerful and
 terrifying spirits. Emotion is the engine that drives mortal behavior, so most
-spirits who achieve possession do so through our [Hooks](../hooks.md) . They
+spirits who achieve possession do so through our [Hooks](../hooks.md). They
 batter our emotions through these raw, exposed gears. They wear us down and
 make us think the only peace is to surrender, to succumb, by which time they
 have acquired enough mastery of our hearts and minds to become the puppet
@@ -277,11 +277,11 @@ Another [Maneuver](../maneuvers.md) spirits use to acquire physicality is
 helps.
 
 The medium of *Manifestation* is entirely up to the GM, but it generally
-aligns with the type of spirit and their specific [Hooks](../hooks.md) . A
-fire elemental would most likely manifest from a great fire, composing
-themselves from the fuel, the ashes and soot, and the smoke. A demon might
-draw their substance from the spilled blood of a great slaughter. Ghosts often
-use *ectoplasm*, a transient material spontaneously generated from strong
+aligns with the type of spirit and their specific [Hooks](../hooks.md). A fire
+elemental would most likely manifest from a great fire, composing themselves
+from the fuel, the ashes and soot, and the smoke. A demon might draw their
+substance from the spilled blood of a great slaughter. Ghosts often use
+*ectoplasm*, a transient material spontaneously generated from strong
 emotions, and so easier to disrupt, but immensely flexible in form and
 presentation.
 
@@ -311,7 +311,7 @@ conventional weapons. An earth elemental will likely create a form composed of
 crystals and living, growing vine that has low vulnerability for different
 reasons. Accordingly the GM will very often assign any *Manifestation* its own
 "armor" as part of their description, complete with the same
-[Hook](../hooks.md) -style disadvantages suitable to their type. They can use
+[Hook](../hooks.md)-style disadvantages suitable to their type. They can use
 these to resist damage the same way a Warrior wearing armor with appropriate
 [Maneuvers](../maneuvers.md) would apply them, or any character deferring
 damage to their gear.
