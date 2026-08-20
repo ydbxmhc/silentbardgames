@@ -292,6 +292,23 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
     despair, while investigating a site of great joy could leave them euphorically
     unable to focus on their mission."*
   - Unclosed italics: `*rarely.` at end of Psychic Predators --> should be `*rarely.*`
+- **`glossary.html` Conceit entry -- the closing see-also needs an author decision.**
+  The entry ends *"See Hooks in Play."* but `hooks-in-play.html` never uses the word
+  Conceit. Fixing it means either changing the wording, or leaving a link labelled
+  "Hooks in Play" pointing somewhere that is not that page, so it was left exactly as
+  written. It is also the strongest evidence that `hooks-in-play.html` was originally
+  meant to carry a Conceits section. **Context:** on 2026-08-20 the other ten Conceit
+  references (in `assist-rule`, `gear`, `gear-traits`, `nonhuman` x4, `oddball-rule`,
+  `traits`, and the glossary `dt`) were repointed to `glossary.html#conceit`, and the
+  `<h2>Conceits</h2>` in `nonhuman.html` gained an `id="conceits"` anchor for the fuller
+  discussion. If that section does eventually get written into `hooks-in-play.html`,
+  revisit where those ten should point.
+- **Opportunity, not an error: every glossary term is now anchored.** All 51 `<dt>`
+  elements in `glossary.html` carry ids as of 2026-08-20 (`#wager`, `#staggered`,
+  `#el-effective-level`, and so on). Term mentions scattered through the book could be
+  pointed at their own definitions rather than at a page top. This also gives the
+  planned Lunr alias map somewhere precise to land. Worth a deliberate pass rather than
+  piecemeal changes; ask before starting one.
 
 ### Rules design / clarifications (not yet in the book)
 - **NEW PAGE -- "The Recovery Trope" (building-a-character / quick-start section).**
@@ -393,6 +410,44 @@ These are known gaps to revisit -- do NOT silently fix them; ask the author firs
 - **Suppress rails on meta-pages**: `toc.html` and `settings.html` currently show
   the side panels (TOC beside the TOC, etc.). Suppress with a `body[data-no-rails]`
   check in `rails.js` if desired -- harmless for now.
+
+### Tooling (`tools/`) follow-ups
+
+Found during the 2026-08-20 pass. `html2md.py` and `dedash.py` were repaired that day;
+these are what remain.
+
+- **`html2md.py` flattens `<table>`, exactly as it used to flatten `<dl>`.** `table` is
+  in `BLOCK_TAGS` but `tr`, `th` and `td` are not, so every cell flushes into a single
+  buffer. One page is affected, `assist-rule.html`, and the mirror output is genuinely
+  wrong rather than merely ugly:
+  `ItemTreatment A mundane sworddoesn't need anything A Masterwork sword...` -- that is
+  the "when does something get a sheet?" reference table with its cells fused. A GFM
+  pipe table renders on GitHub and everywhere else, and it is the same shape of fix as
+  the `<dl>` branch added the same day.
+- **`anchor_sections.py` writes CRLF on Windows.** Both of its write paths call
+  `write_text(new, encoding="utf-8")` with no `newline="\n"`, so its output fights
+  `.gitattributes eol=lf`. Third instance of that bug; the other two tools were fixed
+  2026-08-20. It matters more here, because this tool writes `toc.html` and `nav.html`.
+- **A regenerate-and-diff CI gate is now feasible.** Every `.md` mirror is reproducible
+  from its `.html` by one command, and `dedash --check` exits 0. A step that regenerates
+  and fails on any diff would stop the mirrors drifting again. They had drifted badly and
+  silently: half the corpus unwrapped, `.html` link targets left in Markdown, stray
+  spaces before punctuation, and a dead placeholder link in `imposed-hooks.md` that its
+  HTML never contained.
+
+**Settled 2026-08-20, recorded so it is not re-litigated:**
+
+- The `.md` mirrors contain non-ASCII characters (curly quotes, ellipses, breadcrumb and
+  nav glyphs) and that is fine. The `.html` uses numeric entities such as `&#8217;`,
+  which are ASCII bytes *encoding* a non-ASCII character, a different thing from a
+  non-ASCII character sitting in the file. The ASCII rule means "prefer ASCII where a
+  simple equivalent exists," which is why dashes become hyphens while ellipses stay.
+- `html2md.py` mirrors every HTML page in the repo, `WIP/` and `Settings/` included.
+  Those mirrors are harmless, being reachable only by direct URL or through the
+  repository, so the walk was deliberately left unscoped.
+- `dedash.py` permanently skips `docs/print-production-guide.md`, whose two em-dashes are
+  the literal examples inside the sentences documenting the dash rule. The skip is
+  announced, not silent, so `--check` can exit 0 honestly.
 
 ### Infrastructure / ops
 - **Domain email**: set up addresses on `silentbardgames.com`. Plan: move DNS
