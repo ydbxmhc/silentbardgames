@@ -19,17 +19,35 @@ Method
 - Walk the DOM and emit Markdown, mapping the site's known constructs
   (.box callouts, .page-header, .breadcrumb, .page-nav, .text-image-block,
   emphasis spans) to faithful Markdown equivalents.
+- Rewrite internal link targets from .html to .md as they are written, so the
+  Markdown corpus is navigable on its own (see rewrite_href). This is the same
+  rule tools/relink_md.py applies; that tool remains for fixing files by hand.
+- Hard-wrap paragraph text at MD_WIDTH columns, matching the house style of the
+  hand-wrapped pages. Headings, list items, code fences and nav links are left
+  on one line, because the hand-wrapped pages leave them that way.
 
 Usage
 -----
   python tools/html2md.py            # convert every *.html in the repo
-  python tools/html2md.py FILE...    # convert only the given files (preview)
+  python tools/html2md.py FILE...    # convert only the given files
+
+Both forms write the .md siblings in place; naming files only narrows the set.
 """
 
 import re
 import sys
+import textwrap
 from html.parser import HTMLParser
 from pathlib import Path
+
+# Column limit for wrapped paragraph text. Derived from the hand-wrapped pages,
+# whose line lengths plateau at 78 and drop off sharply at 79.
+MD_WIDTH = 78
+
+# A wrapped continuation line must never begin with something CommonMark reads
+# as a list marker: "- ", "* ", "+ ", "1. ", "1) ". The house style writes a
+# spaced " - " freely, so a naive wrap can turn prose into a list.
+LIST_MARKER_RE = re.compile(r'^([-*+]|\d+[.)])\s')
 
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input",
         "link", "meta", "param", "source", "track", "wbr"}
@@ -90,6 +108,20 @@ def norm_ws(s):
     return re.sub(r"\s+", " ", s)
 
 
+def rewrite_href(href):
+    """Point an internal .html link at its .md sibling, preserving any anchor.
+
+    External schemes and bare in-page anchors are returned untouched, as are
+    targets that are not .html at all (images, PDFs, directory links).
+    """
+    if href.startswith(("http://", "https://", "mailto:", "#")):
+        return href
+    path_part, sep, anchor = href.partition("#")
+    if path_part.endswith(".html"):
+        path_part = path_part[:-len(".html")] + ".md"
+    return path_part + sep + anchor
+
+
 def img_md(node):
     src = node.attrs.get("data-src") or node.attrs.get("src", "")
     alt = node.attrs.get("alt", "")
@@ -113,7 +145,7 @@ def render_inline(node):
         elif t == "br":
             out.append(BR)
         elif t == "a":
-            href = ch.attrs.get("href", "")
+            href = rewrite_href(ch.attrs.get("href", ""))
             out.append(f"[{inner}]({href})" if href and inner.strip() else inner)
         elif t == "img":
             out.append(img_md(ch))
@@ -146,6 +178,37 @@ def finalize(text):
     return text.strip()
 
 
+def wrap_block(text, width=MD_WIDTH):
+    """Hard-wrap paragraph text, leaving Markdown structure intact.
+
+    Each existing line wraps independently, so a hard break (a line ending in
+    two spaces) stays a hard break. Long unbreakable runs -- URLs, link targets
+    -- are never split, and hyphenated words are never broken apart.
+
+    If a continuation line would open with a list marker, the width is nudged
+    down until it does not; otherwise CommonMark would read the paragraph's
+    tail as a new list.
+    """
+    out = []
+    for line in text.split("\n"):
+        hard_break = line.endswith("  ")
+        stripped = line.strip()
+        if not stripped:
+            out.append("")
+            continue
+        for w in range(width, max(width - 12, 20), -1):
+            pieces = textwrap.wrap(
+                stripped, width=w,
+                break_long_words=False, break_on_hyphens=False,
+            ) or [stripped]
+            if not any(LIST_MARKER_RE.match(p) for p in pieces[1:]):
+                break
+        if hard_break:
+            pieces[-1] += "  "
+        out.extend(pieces)
+    return "\n".join(out)
+
+
 # ----------------------------------------------------------------------------
 # Block rendering
 # ----------------------------------------------------------------------------
@@ -176,7 +239,7 @@ def render_children_blocks(node):
         if buf:
             para = finalize("".join(buf))
             if para:
-                blocks.append(para)
+                blocks.append(wrap_block(para))
             buf.clear()
 
     for ch in node.children:
@@ -241,7 +304,7 @@ def render_block(node):
 
     if t == "p":
         text = finalize(render_inline(node))
-        return [text] if text else []
+        return [wrap_block(text)] if text else []
 
     if t == "hr":
         return ["---"]
@@ -263,7 +326,7 @@ def render_block(node):
     if t == "blockquote":
         inner = render_children_blocks(node)
         if not inner:
-            inner = [finalize(render_inline(node))]
+            inner = [wrap_block(finalize(render_inline(node)))]
         return [quote("\n\n".join(b for b in inner if b))]
 
     if t == "pre":
@@ -304,7 +367,7 @@ def render_page_nav(node):
     for a in node.children:
         if a.is_text or a.tag != "a":
             continue
-        href = a.attrs.get("href", "")
+        href = rewrite_href(a.attrs.get("href", ""))
         label = title = ""
         for s in a.children:
             if s.is_text:
@@ -392,7 +455,10 @@ def main(argv):
     for html_path in files:
         md = convert(html_path.read_text(encoding="utf-8"))
         md_path = html_path.with_suffix(".md")
-        md_path.write_text(md, encoding="utf-8")
+        # newline="\n" is required: .gitattributes pins the repo to eol=lf, but
+        # text mode would translate to os.linesep and emit CRLF on Windows,
+        # making the tool's output differ by platform.
+        md_path.write_text(md, encoding="utf-8", newline="\n")
         print(f"{html_path.relative_to(repo)} -> {md_path.relative_to(repo)}")
     print(f"\n{len(files)} file(s) converted.")
 
