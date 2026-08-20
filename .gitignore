@@ -14,3 +14,7 @@ Thumbs.db
 
 # Session logs
 *.log
+
+# Python bytecode cache (tools/ import each other, so this appears on any run)
+__pycache__/
+*.pyc

@@ -294,6 +294,35 @@ def list_items(node, ordered, depth):
     return "\n".join(lines)
 
 
+def definition_pairs(node):
+    """Render a <dl> as one block per term/definition pair.
+
+    No Markdown definition-list syntax renders reliably on GitHub, so each pair
+    becomes an ordinary paragraph: the <dt> content, already bold in the source,
+    followed by its <dd>. Nothing is invented -- the only difference from the
+    default treatment is that the pairs stop running together into one blob.
+
+    A <dt> with no <dd>, or a stray <dd>, is emitted on its own rather than
+    dropped.
+    """
+    blocks = []
+    term = None
+    for ch in node.children:
+        if ch.is_text or ch.tag not in ("dt", "dd"):
+            continue
+        inline = finalize(render_inline(ch))
+        if ch.tag == "dt":
+            if term:
+                blocks.append(term)
+            term = inline
+            continue
+        blocks.append(f"{term} {inline}".strip() if term else inline)
+        term = None
+    if term:
+        blocks.append(term)
+    return [wrap_block(b) for b in blocks if b]
+
+
 def render_block(node):
     t = node.tag
     c = node.cls()
@@ -322,6 +351,9 @@ def render_block(node):
         ordered = (t == "ol") or ("step-list" in c)
         body = list_items(node, ordered, 0)
         return [body] if body.strip() else []
+
+    if t == "dl":
+        return definition_pairs(node)
 
     if t == "blockquote":
         inner = render_children_blocks(node)
