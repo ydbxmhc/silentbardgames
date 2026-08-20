@@ -53,7 +53,7 @@ Driven by media queries keyed off viewport width. The reading column is a fixed
 | State | Width (approx.) | Behavior |
 |-------|-----------------|----------|
 | 0 | < 1060px | Single centered column, no rails (identical to a normal page). |
-| 1 | 1060–1339px | One panel fits. Column shifts to one side; the single rail fills the freed margin. Which side is kept = the `railside` pref (default **left**). |
+| 1 | 1060-1339px | One panel fits. Column shifts to one side; the single rail fills the freed margin. Which side is kept = the `railside` pref (default **left**). |
 | 2 | ≥ 1340px | A panel on each side; column stays centered. |
 
 Rails **grow to fill** their gutter (no fixed cap on the rail itself). Inside,

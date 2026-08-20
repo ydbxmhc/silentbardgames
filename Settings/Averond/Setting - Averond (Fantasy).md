@@ -6,7 +6,7 @@ Averond is a world where the divine is visible and present. The great Arch of He
 
 ## Technology and Culture
 
-The world reflects late Renaissance advancement with sophisticated clockwork mechanisms, graceful dirigibles floating through the skies, and vessels of remarkable craftsmanship. However, steel holds sacred significance—it is blessed by Carterion himself and controlled exclusively through his temples. This divine monopoly shapes trade, warfare, and craftsmanship throughout the realm.
+The world reflects late Renaissance advancement with sophisticated clockwork mechanisms, graceful dirigibles floating through the skies, and vessels of remarkable craftsmanship. However, steel holds sacred significance - it is blessed by Carterion himself and controlled exclusively through his temples. This divine monopoly shapes trade, warfare, and craftsmanship throughout the realm.
 
 ## Political Structure
 
@@ -18,10 +18,10 @@ Averond is not ruled by kings or emperors, but by independent city-states, each 
 The divine patron of skill, creation, and all works of the hand. Carterion's temples serve triple duty as libraries preserving knowledge, academies training artisans, and guildhalls organizing craftsmen. His priests are learned scholars and master craftsmen who ensure that knowledge and skill are preserved and properly transmitted. The god himself appears rarely in person, more often communicating through dreams and visions, but his influence permeates every act of creation and learning.
 
 ### Rana, Goddess of Beauty, Air, and Caprice
-A deity of mercurial nature who embodies both the ethereal beauty of the sky and the unpredictable nature of wind and weather. Rana's influence extends over all things beautiful and transient, from art and music to the changing seasons and the flight of birds. Her followers often serve as artists, entertainers, and those who work with the winds—including the pilots of the great dirigibles.
+A deity of mercurial nature who embodies both the ethereal beauty of the sky and the unpredictable nature of wind and weather. Rana's influence extends over all things beautiful and transient, from art and music to the changing seasons and the flight of birds. Her followers often serve as artists, entertainers, and those who work with the winds - including the pilots of the great dirigibles.
 
 ### Susheil, Goddess of Secrets, Water, and All That Swims
-The mysterious goddess who governs the depths—both of water and of hidden knowledge. Susheil's domain encompasses not only rivers, lakes, and seas, but also the secrets that flow beneath the surface of all things. Her followers include sailors, fishermen, spies, and scholars who seek hidden truths. She is known for her aquatic nature and her tendency to speak in riddles and veiled meanings.
+The mysterious goddess who governs the depths - both of water and of hidden knowledge. Susheil's domain encompasses not only rivers, lakes, and seas, but also the secrets that flow beneath the surface of all things. Her followers include sailors, fishermen, spies, and scholars who seek hidden truths. She is known for her aquatic nature and her tendency to speak in riddles and veiled meanings.
 
 ### Grolikarnigan, God of Deep Places, Earth, Wood, and Silence
 The ancient god of the deep earth, growing things, and the profound silence of stone and root. Grolikarnigan governs forests, mountains, caves, and all the slow, patient processes of growth and geological time. His followers include miners, foresters, hermits, and those who seek wisdom in solitude. He is known for his ability to appear as a walking tree made of bark and stone, with crystals growing from his form.
@@ -34,7 +34,7 @@ The most paradoxical of the great gods, Rikitak embodies the destructive and cre
 Magic in Averond operates primarily through the conjuring and negotiation with elemental spirits. These beings are organized into courts and hierarchies based on their elemental nature:
 
 ### The Fae Courts
-Spirits of air, water, earth, and wood belong to the fae courts—ancient, alien intelligences that embody the natural forces of the world. They are neither good nor evil in human terms, but operate according to their own complex codes of behavior and obligation. Mages who work with fae spirits must understand diplomacy, bargaining, and the intricate web of favors and debts that govern fae society.
+Spirits of air, water, earth, and wood belong to the fae courts - ancient, alien intelligences that embody the natural forces of the world. They are neither good nor evil in human terms, but operate according to their own complex codes of behavior and obligation. Mages who work with fae spirits must understand diplomacy, bargaining, and the intricate web of favors and debts that govern fae society.
 
 ### Demon Spirits
 Fire spirits are demons, beings of a fundamentally different nature from the fae. They are creatures of passion, destruction, and transformation. Working with demon spirits is dangerous not because they are evil, but because they embody forces that can easily consume the unwary. However, they also offer power over healing, as they understand that sometimes destruction is necessary for renewal.
@@ -44,7 +44,7 @@ Beyond the elemental spirits that mages conjure, there exist invisible spirits t
 
 ## The Saints and Their Cities
 
-Each city-state is ruled by a Saint—an immortal demigod with their own personality, powers, and approach to governance. These beings were once mortal but have transcended death through divine favor or their own achievements. They are:
+Each city-state is ruled by a Saint - an immortal demigod with their own personality, powers, and approach to governance. These beings were once mortal but have transcended death through divine favor or their own achievements. They are:
 
 - **Immortal**: They do not age or die from natural causes
 - **Powerful**: Each possesses supernatural abilities related to their nature and portfolio
