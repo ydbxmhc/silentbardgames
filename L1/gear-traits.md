@@ -21,8 +21,8 @@ Gear [Traits](traits.md) come in two forms: **rated** and **unrated**.
 ## Unrated Gear Traits
 
 An unrated [Trait](traits.md) is essentially a simple
-[Conceit](hooks-in-play.md) - a quality the gear has that a skilled user can
-leverage. A *Sharp* sword, a *Sturdy* staff, a *Balanced* crossbow. The
+[Conceit](glossary.md#conceit) - a quality the gear has that a skilled user
+can leverage. A *Sharp* sword, a *Sturdy* staff, a *Balanced* crossbow. The
 quality is real, but taking advantage of it requires skill and a roll.
 
 When you use gear with an unrated [Trait](traits.md), you may attempt a

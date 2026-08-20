@@ -7,7 +7,7 @@ Running the Game
 Gear, spells, and creatures can have **Traits** - special properties that give
 them unique capabilities or limitations.
 
-**[Conceits](hooks-in-play.md)** are unrated Traits - narrative truths that
+**[Conceits](glossary.md#conceit)** are unrated Traits - narrative truths that
 can't be measured but are absolutely true within the game world - they won't
 have numbers attached, same as for player characters. A demon might be *Immune
 To Fire* (unrated) rather than *Resistant +3* (rated).

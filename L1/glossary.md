@@ -6,133 +6,200 @@ Appendices
 
 **Adept** *[Role](roles.md).* “I **am** the flame, the very **essence** of the
 furnace in flesh and will!” An Adept doesn’t “study” magic, they **are** the
-magic, manifest in mortal form. See [Adept](roles/adept.md). **Anchor** A
-fixed point in the Spirit Realm’s shifting landscape, created by investing
-spiritual energy and intention into a physical location or object. Provides
-reliable navigation references for both astral projection and ethereal travel.
-See [Magick: Beyond](magick/beyond.md). **Aspect** Spiritual character of a
-location or current. Locations become *Aspected*, lending themselves and
-boosting actions that accord with their Aspect - but hindering any that run
-counter. See [Magick: Beyond](magick/beyond.md). **Athlete**
-*[Role](roles.md).* “Faster, stronger, higher… better.” Transforms the body
-into a precision instrument, pushing physical capability to amazing heights
-through discipline and relentless practice. See [Athlete](roles/athlete.md).
+magic, manifest in mortal form. See [Adept](roles/adept.md).
+
+**Anchor** A fixed point in the Spirit Realm’s shifting landscape, created by
+investing spiritual energy and intention into a physical location or object.
+Provides reliable navigation references for both astral projection and
+ethereal travel. See [Magick: Beyond](magick/beyond.md).
+
+**Aspect** Spiritual character of a location or current. Locations become
+*Aspected*, lending themselves and boosting actions that accord with their
+Aspect - but hindering any that run counter. See [Magick:
+Beyond](magick/beyond.md).
+
+**Athlete** *[Role](roles.md).* “Faster, stronger, higher… better.” Transforms
+the body into a precision instrument, pushing physical capability to amazing
+heights through discipline and relentless practice. See
+[Athlete](roles/athlete.md).
+
 **Beast Handler** *[Role](roles.md).* “They understand me better than most
 people do.” Understands that every creature operates on motivations and
 principles that transcend language. See [Beast
 Handler](roles/beast-handler.md).
+
 **[Boost](actions-and-timing.md#boost-actions)** Temporary modifier adding to
-future EL. **[Complication](types-of-harm.md)** Temporary harm. Think
-short-term fatigue, vertigo from a head blow, a numbed limb, or losing your
-nerve after a good scare. [Complications](types-of-harm.md) disappear
-completely on any successful recovery roll. See [Types of
-Harm](types-of-harm.md). **[Conceit](hooks-in-play.md)** An unrated Truth
-(capital “T”) about the game or something in it. When something can’t be
-measured but is really important, a [Conceit](hooks-in-play.md) simply says
-“this is true.” See [Hooks in Play](hooks-in-play.md). **Conjuror**
-*[Role](roles.md).* “The wise know when to ask for help, and spirits… they’re
-always eager to make a deal.” Walks between worlds, mediating between mortal
-needs and otherworldly urges. See [Conjuror](roles/conjuror.md).
+future EL.
+
+**[Complication](types-of-harm.md)** Temporary harm. Think short-term fatigue,
+vertigo from a head blow, a numbed limb, or losing your nerve after a good
+scare. [Complications](types-of-harm.md) disappear completely on any
+successful recovery roll. See [Types of Harm](types-of-harm.md).
+
+**Conceit** An unrated Truth (capital “T”) about the game or something in it.
+When something can’t be measured but is really important, a
+[Conceit](nonhuman.md#conceits) simply says “this is true.” See [Hooks in
+Play](hooks-in-play.md).
+
+**Conjuror** *[Role](roles.md).* “The wise know when to ask for help, and
+spirits… they’re always eager to make a deal.” Walks between worlds, mediating
+between mortal needs and otherworldly urges. See
+[Conjuror](roles/conjuror.md).
+
 **Contingent** Secondary action that only occurs if primary succeeds.
+
 **Contract [Hook](hooks.md)** A special [Hook](hooks.md) created by a formal
 agreement with a spirit; reduced when a service is rendered, unless other
 payment is offered and accepted specifically for that service. See
-[Conjuring](magick/conjuring.md). **Dedicated** [Wagered](wagered-actions.md)
-points assigned to specific outcome type. **DL (Difficulty Level)** Used
-instead of EL when whatever’s resisting you is probably inanimate/passive. See
-[Core Mechanics](core-mechanics.md). **Down** When [Injury](types-of-harm.md)
-plus [Complications](types-of-harm.md) exceeds your base Level, you’re Down.
+[Conjuring](magick/conjuring.md).
+
+**Dedicated** [Wagered](wagered-actions.md) points assigned to specific
+outcome type.
+
+**DL (Difficulty Level)** Used instead of EL when whatever’s resisting you is
+probably inanimate/passive. See [Core Mechanics](core-mechanics.md).
+
+**Down** When [Injury](types-of-harm.md) plus
+[Complications](types-of-harm.md) exceeds your base Level, you’re Down.
 Doesn’t necessarily mean unconscious, but you can’t act meaningfully in the
 scene any more; only passive resistance rolls are available. See [Feeling
-Down?](feeling-down.md) **Effect** Successful result after opposition
-subtracted. What actually happens. **EL (Effective Level)** Total capability
-for specific action. Sum of Level + relevant [Roles](roles.md),
-[Maneuvers](maneuvers.md), Modifiers. **[Extreme
-Failure](extreme-results.md)** If all dice roll zeroes, a catastrophic failure
-with immediate negative side effects; your turn is over. An optional rule
-requiring at least three dice. See [Extreme Results](extreme-results.md).
+Down?](feeling-down.md)
+
+**Effect** Successful result after opposition subtracted. What actually
+happens.
+
+**EL (Effective Level)** Total capability for specific action. Sum of Level +
+relevant [Roles](roles.md), [Maneuvers](maneuvers.md), Modifiers.
+
+**[Extreme Failure](extreme-results.md)** If all dice roll zeroes, a
+catastrophic failure with immediate negative side effects; your turn is over.
+An optional rule requiring at least three dice. See [Extreme
+Results](extreme-results.md).
+
 **[Extreme Success](extreme-results.md)** If all dice individually roll their
 highest value AND the total is exactly your EL, a spectacular success with
 positive side effects. An optional rule requiring at least three dice. See
-[Extreme Results](extreme-results.md). **[Free
-Action](actions-and-timing.md#free-actions)** A roll that doesn’t use up your
-turn; happens in response to something else or alongside your main action.
-Common examples include resistance rolls, quick perception checks, or memory
-rolls mid-conversation. See [Actions and Timing](actions-and-timing.md).
+[Extreme Results](extreme-results.md).
+
+**[Free Action](actions-and-timing.md#free-actions)** A roll that doesn’t use
+up your turn; happens in response to something else or alongside your main
+action. Common examples include resistance rolls, quick perception checks, or
+memory rolls mid-conversation. See [Actions and
+Timing](actions-and-timing.md).
+
 **Healer** *[Role](roles.md).* “Drink this and get some rest; we’ll see how
 you are in the morning.” Guides patients back toward health with skill and
 careful intervention. See [Healer](roles/healer.md).
+
 **[Hindrance](types-of-harm.md)** Situational obstacle; does not count toward
 being Down. [Hindrances](types-of-harm.md) can’t be recovered at all - they
 must be dealt with through the story. See [Types of Harm](types-of-harm.md).
+
 **[Hook](hooks.md)** A character’s motivations, drives, and complications that
 transform a collection of abilities into a *character* with agency in the game
 world. Earns [Karma](karma.md) and [Luck Tokens](luck.md) and provides bonuses
-when they matter most. See [Hooks](hooks.md). **Imposed [Hook](hooks.md)** A
-[Hook](hooks.md) placed on a character as the result of losing a resistance
-roll. See [Types of Harm](types-of-harm.md). **[Injury](types-of-harm.md)**
-Harm requiring daily recovery rolls that heals slowly over time. Bruised ribs,
-sprained ankles, bleeding gashes, and broken bones are certainly real damage
-that can put you out of commission. See [Types of Harm](types-of-harm.md).
+when they matter most. See [Hooks](hooks.md).
+
+**Imposed [Hook](hooks.md)** A [Hook](hooks.md) placed on a character as the
+result of losing a resistance roll. See [Types of Harm](types-of-harm.md).
+
+**[Injury](types-of-harm.md)** Harm requiring daily recovery rolls that heals
+slowly over time. Bruised ribs, sprained ankles, bleeding gashes, and broken
+bones are certainly real damage that can put you out of commission. See [Types
+of Harm](types-of-harm.md).
+
 **[Karma](karma.md)** The currency of experience and epic moments; accumulated
 during play and spent to permanently improve abilities. See [Karma](karma.md).
+
 **Level** Character’s base capability and durability. Foundation for all
-rolls. **Loremaster** *[Role](roles.md).* “Knowledge is power, but wisdom
-knows when to use it.” Transforms information into understanding, weaving
-together fragments of knowledge to reveal the larger patterns that escape
-casual observation. See [Loremaster](roles/loremaster.md). **[Luck
-Token](luck.md) (Token)** A metacurrency to alter events in the story.
+rolls.
+
+**Loremaster** *[Role](roles.md).* “Knowledge is power, but wisdom knows when
+to use it.” Transforms information into understanding, weaving together
+fragments of knowledge to reveal the larger patterns that escape casual
+observation. See [Loremaster](roles/loremaster.md).
+
+**[Luck Token](luck.md) (Token)** A metacurrency to alter events in the story.
 Characters begin each session with Tokens equal to their base Level. See [Luck
-Tokens](luck.md). **[Maneuver](maneuvers.md)** Specialization within a
-[Role](roles.md). Adds rank to EL when applicable. **Modifier** Bonus or
-penalty to EL (circumstance, gear, conditions,
-[Boosts](actions-and-timing.md#boost-actions)). **Naturalist**
-*[Role](roles.md).* “You say ‘Wilderness’ like it’s a bad thing.” Reads the
-stories written in animal tracks, growth patterns, and cloud formations. See
-[Naturalist](roles/naturalist.md). **Opposition** A roll against action that
-can generate effect. Both sides roll; higher wins, affects loser.
+Tokens](luck.md).
+
+**[Maneuver](maneuvers.md)** Specialization within a [Role](roles.md). Adds
+rank to EL when applicable.
+
+**Modifier** Bonus or penalty to EL (circumstance, gear, conditions,
+[Boosts](actions-and-timing.md#boost-actions)).
+
+**Naturalist** *[Role](roles.md).* “You say ‘Wilderness’ like it’s a bad
+thing.” Reads the stories written in animal tracks, growth patterns, and cloud
+formations. See [Naturalist](roles/naturalist.md).
+
+**Opposition** A roll against action that can generate effect. Both sides
+roll; higher wins, affects loser.
+
 **Performer** *[Role](roles.md).* “The world is my stage, and I know exactly
 how to play it.” An emotional architect who understands that all human
 interaction is fundamentally theater. See [Performer](roles/performer.md).
+
 **Persistent** Effect lasting beyond immediate action (typically full scene).
+
 **[Plot Armor](gear.md)** Spend a [Luck Token](luck.md) (or [Karma](karma.md))
 to have armor take ALL the damage from a hit. See [Gear](gear.md).
+
 **[Recovery](recovery.md)** The process of healing Harm.
 [Complications](types-of-harm.md) recover on any successful roll;
 [Injury](types-of-harm.md) recovers once per day with proper food and rest.
-See [Recovery](recovery.md). **Residual Effect** A
-[Wagered](wagered-actions.md) action that creates a named bonus or standalone
-ongoing condition that continues to act after the initial roll. See [Wagered
-Actions](wagered-actions.md). **Resistance** A roll resisting action that only
-prevents effect. Generates no effect of its own. **Result** Number generated
-by roll. **[Role](roles.md)** Broad thematic competency (Warrior, Healer,
-etc). Adds rank to EL when applicable. **[Role](roles.md) Synergy** The
-application of multiple [Roles](roles.md) to a single action when each is
-relevant. If it makes sense, do it! See [Role Synergy](role-synergy.md).
-**Roll** Generate number via dice. Must be >0 and ≤ EL to succeed. **Sneak**
-*[Role](roles.md).* “You never saw me, and you never will.” Master of
-misdirection who understands that true invisibility isn’t about becoming
+See [Recovery](recovery.md).
+
+**Residual Effect** A [Wagered](wagered-actions.md) action that creates a
+named bonus or standalone ongoing condition that continues to act after the
+initial roll. See [Wagered Actions](wagered-actions.md).
+
+**Resistance** A roll resisting action that only prevents effect. Generates no
+effect of its own.
+
+**Result** Number generated by roll.
+
+**[Role](roles.md)** Broad thematic competency (Warrior, Healer, etc). Adds
+rank to EL when applicable.
+
+**[Role](roles.md) Synergy** The application of multiple [Roles](roles.md) to
+a single action when each is relevant. If it makes sense, do it! See [Role
+Synergy](role-synergy.md).
+
+**Roll** Generate number via dice. Must be >0 and ≤ EL to succeed.
+
+**Sneak** *[Role](roles.md).* “You never saw me, and you never will.” Master
+of misdirection who understands that true invisibility isn’t about becoming
 literally unseen - it’s about being *unnoticed*. See [Sneak](roles/sneak.md).
+
 **Sniper** *[Role](roles.md).* “If I can see you, you’re already dead.”
 Predator who turns distance into dominance, wielding projectiles with surgical
 precision from positions of tactical advantage. See [Sniper](roles/sniper.md).
+
 **Spellweaver** *[Role](roles.md).* “The universe speaks in mathematics and
 metaphor - I simply learned the language and taught it better grammar.”
 Approaches magic as both science and art, transforming cosmic forces into
 reproducible effects through elaborate ritual preparation. See
-[Spellweaver](roles/spellweaver.md). **Split** Dividing EL among multiple
-simultaneous actions. **[Staggered](feeling-down.md)** Optional rule: instead
-of going Down when [Injury](types-of-harm.md) +
-[Complications](types-of-harm.md) exceed Level, keep acting until no positive
-EL remains. See [Feeling Down?](feeling-down.md) **Tinker**
-*[Role](roles.md).* “These don’t grow on trees, you know.” Transforms raw
-materials into solutions, wielding hammer and plans with equal precision. See
-[Tinker](roles/tinker.md). **[True Name](magick/conjuring.md)** A spirit’s
-unique identifier that has binding power; knowing a spirit’s [True
-Name](magick/conjuring.md) allows summoning from anywhere, and is required for
-Binding. Note that only spirits have [True Names](magick/conjuring.md). See
-[Conjuring](magick/conjuring.md). **[Wager](wagered-actions.md)** Points
-removed from EL before rolling. Added back to result if roll succeeds.
+[Spellweaver](roles/spellweaver.md).
+
+**Split** Dividing EL among multiple simultaneous actions.
+
+**[Staggered](feeling-down.md)** Optional rule: instead of going Down when
+[Injury](types-of-harm.md) + [Complications](types-of-harm.md) exceed Level,
+keep acting until no positive EL remains. See [Feeling Down?](feeling-down.md)
+
+**Tinker** *[Role](roles.md).* “These don’t grow on trees, you know.”
+Transforms raw materials into solutions, wielding hammer and plans with equal
+precision. See [Tinker](roles/tinker.md).
+
+**[True Name](magick/conjuring.md)** A spirit’s unique identifier that has
+binding power; knowing a spirit’s [True Name](magick/conjuring.md) allows
+summoning from anywhere, and is required for Binding. Note that only spirits
+have [True Names](magick/conjuring.md). See [Conjuring](magick/conjuring.md).
+
+**[Wager](wagered-actions.md)** Points removed from EL before rolling. Added
+back to result if roll succeeds.
+
 **Warrior** *[Role](roles.md).* “I am brave, strong, and ready to fight.”
 Deals in physical conflict, dealing out harmful force (or the threat of it)
 with skill and precision. See [Warrior](roles/warrior.md).
