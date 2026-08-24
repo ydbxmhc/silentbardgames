@@ -221,6 +221,30 @@ either copy risks overwriting good work with older work.
 snapshot, and the divergences are most likely author edits made in the digest
 after that snapshot. Worth confirming before ruling on canon. `@@*`
 
+**Reframed 2026-08-24 - this is bigger than a diff.** The author's account: the
+site has accumulated a significant body of **canon the PDF does not contain**.
+`tricks.html` is the known case, but `kamikaze-blitz.html` and
+`resolving-combat.html` are also web-only, and there are others. The digest is
+not a copy of the book that drifted. It is the **vehicle for rebuilding the book**
+at half-letter size with the web canon folded in.
+
+The per-page process, as described, is manual and genuinely slow:
+
+1. render the content into the new half-letter format
+2. fit and re-flow to the page
+3. edit the wording so the page works **visually, audially, and logically** - the
+   text changes to suit the layout, not only the layout to suit the text
+4. re-render the PDF
+
+**Progress: roughly page 8.** And step 3 is why the digest text diverges from the
+site: those are deliberate authorial edits made for the printed page, not drift.
+That resolves the "which side is newer" question in the digest's favour for any
+divergence inside the first eight pages, and leaves it open beyond them. `@@*`
+
+It also means the *Starting Out* rename and anything else we change may send
+already-finished pages back for another look. Worth batching site-side changes
+that touch the first pages rather than dribbling them out.
+
 **Method:** a section-by-section diff, digest against site, with an author ruling
 on each divergence. Then back-port in the ruled direction. Small batches,
 verified, as with everything else.
@@ -279,6 +303,28 @@ undone by the next regeneration. Fix the generator, then regenerate wholesale.
 
 Bucket for whatever surfaces. Items get promoted out of here into a lettered item
 once they are more than a note.
+
+- **Repeated-link verbosity for screen reader users.** `PARKED` by the author,
+  low priority, recorded with data so it can be picked up cleanly. The concern:
+  a page that links the same term twenty times makes an audio reader announce
+  *"link, Warrior"* over and over. Measured 2026-08-24 and the problem is real -
+  `builds.html` links *Maneuver* 23 times, `hooks-on-credit.html` links *Hook*
+  21, `glossary.html` links *Role* 16. 1551 body links across 112 pages.
+
+  **The hard constraint:** a link cannot be hidden from assistive technology
+  while remaining clickable. `aria-hidden` on a focusable element is a WCAG
+  failure - keyboard users land on something with no accessible name. There is
+  no "visible link, silent to AT" mode, by design.
+
+  So the fix is **editorial, not technical**: link the first mention and leave
+  later ones as plain text. First-per-page or first-per-section is an author
+  call; long pages argue for per-section. This reduces audio noise and visual
+  noise together, and may make `.quiet` less necessary rather than more.
+  `glossary.html` is a special case - a glossary is link-dense by nature.
+
+  Note this changes what a reader can click, so it is a design decision rather
+  than pure formatting, and wants the author's approval per page or per rule.
+  `@@*`
 
 - `TS/` link rot: 54 broken nav targets, 43 broken anchors, 55 missing images,
   the latter being the entire card deck. Out of scope, recorded so it is not
