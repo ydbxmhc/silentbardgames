@@ -10,7 +10,7 @@ No classes. Any dice. Stories first.
 
 [Open the Book](start.md)
 
-[Table of Contents](toc.md) [Quick Start](quickstart.md) [Quick
+[Table of Contents](toc.md) [Starting Out](starting-out.md) [Quick
 Reference](quick-reference.md) [License](license.md) [Safety Tools](safety.md)
 
 [Get the PDF](https://silentbardgames.itch.io/level-one-rpg)

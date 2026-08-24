@@ -319,9 +319,14 @@ handled ad hoc and none of them are addressable.
 of these. Settling it now means they are built to convention instead of being
 retrofitted. `@@*`
 
-**A survey of existing callouts is wanted before deciding** - how many there are,
-how they are currently marked up, and which are named. Cheap, read-only, and I
-can run it on request.
+**Survey done** 2026-08-24 - see `docs/callout-survey-2026-08-24.md`. Headline:
+96 callouts in `L1/`, only 13 titled, **none of the 13 carries an `id`**, and
+`.box-title` is a `<span>` styled smaller than body text, so neither
+`anchor_sections.py` nor the TOC generator can see it. The 13 sort into three
+kinds rather than two: six named concepts (the Recovery Trope's species,
+including *Hodges' Rule of Thumb*, a named rule that is currently unlinkable),
+three worked examples, and four narrative captions that want no anchor at all.
+Retrofit cost once the standard lands is small - nine callouts.
 
 ---
 

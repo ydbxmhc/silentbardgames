@@ -12,5 +12,5 @@ but eventually you'll want some dice.
 
 ---
 
-- [← Previous: Quick Start](quickstart.md)
+- [← Previous: Starting Out](starting-out.md)
 - [Next →: Dice & Tests](mechanics.md)

@@ -124,7 +124,7 @@ helps.
 | File | Why |
 |---|---|
 | `core-loop.md` | The resolution engine in four steps. EL, roll, count odds, compare. |
-| `quickstart.md` | A full character built in dialogue. Best single orientation. |
+| `starting-out.md` | A full character built in dialogue. Best single orientation. |
 | `karma.md` | How Karma is earned. **Contains the rank-scaled Hook trigger rule.** |
 | `spending-karma.md` | **The cost curve.** Level costs its NEW value; everything else costs its CURRENT rating. Caps, and the one-advance-per-session limit. |
 

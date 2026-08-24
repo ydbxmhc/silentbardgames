@@ -76,9 +76,17 @@ to page-level. `@@*`
 
 ## The 10 missing images in `L1/*.md`
 
-Every image in every mirror is broken, for one reason: the HTML serves art from
-the R2 bucket, and `html2md.py` strips the host, leaving a bare filename that
+Every image in every mirror is broken, for one reason - and it is not the one it
+first looks like. The HTML does not contain the R2 host at all. It writes
+`<img data-src="lilli.png">`, and `config.js` prepends `SiteConfig.CDN_BASE` at
+load time (`nav.js` does the same for injected fragments). So `html2md.py` reads
+`data-src`, finds a bare filename, and faithfully emits a bare filename - which
 resolves to nothing beside the `.md`.
+
+The generator therefore needs to know the CDN base, not merely stop stripping
+something. Cleanest is to read it from `config.js` rather than hard-code it, so
+the author's stated intent - *"Change CDN_BASE here to update all image
+references sitewide"* - keeps holding for the mirrors too. `@@*`
 
     L1/core-loop.md                waywright_imp_girl_300_DPI_-_no_Background.png
     L1/core-loop.md                corner-dice.jpg
@@ -95,8 +103,10 @@ resolves to nothing beside the `.md`.
 One extra wrinkle: `the tale.jpg` contains a space, which needs `%20` or angle
 brackets in Markdown regardless of the host question.
 
-Fix is one line in the generator - keep the absolute R2 URL instead of the
-basename. `@@*`
+A second, unrelated wrinkle spotted in the same markup: that image carries an
+inline `style="width:80%; height:auto; ..."` attribute, on a page in a repo whose
+steering file says *"Never add inline styles."* Pre-existing, not touched, and
+flagged rather than fixed. It wants a class. `@@*`
 
 ---
 

@@ -44,4 +44,4 @@ game works this way.
 ---
 
 - [← Previous: This is a Game?](start.md)
-- [Next →: Quick Start](quickstart.md)
+- [Next →: Starting Out](starting-out.md)

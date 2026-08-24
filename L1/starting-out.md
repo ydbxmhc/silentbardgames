@@ -1,10 +1,10 @@
 ![](the tale.jpg)
 
-[Home](index.md) › Quick Start
+[Home](index.md) › Starting Out
 
 Getting Started
 
-# Quick Start
+# Starting Out
 
 As with everything, *always start with the story.*
 

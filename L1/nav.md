@@ -9,8 +9,8 @@ Own →](compatibility.md)
 
 **Getting Started**
 
-[This is a Game?](start.md) [The Core Loop](core-loop.md) [Quick
-Start](quickstart.md)
+[This is a Game?](start.md) [The Core Loop](core-loop.md) [Starting
+Out](starting-out.md)
 
 [Core Mechanics](core-mechanics.md) [Dice & Tests](mechanics.md) [Resistance &
 Opposition](resistance-and-opposition.md) [Can I Try

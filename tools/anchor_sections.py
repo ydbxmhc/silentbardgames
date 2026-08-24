@@ -161,7 +161,10 @@ def main(argv):
 
         new = HEAD_RE.sub(ins, text)
         if new != text:
-            tpath.write_text(new, encoding="utf-8")
+            # newline="\n" is required: .gitattributes pins the repo to eol=lf, but
+            # text mode would translate to os.linesep and emit CRLF on Windows,
+            # making the tool's output differ by platform.
+            tpath.write_text(new, encoding="utf-8", newline="\n")
             changed.append(tpath)
 
     # ---- pass 2b: rewrite TOC/nav links ----
@@ -178,7 +181,8 @@ def main(argv):
 
         new = LINK_RE.sub(rew, text)
         if new != text:
-            navf.write_text(new, encoding="utf-8")
+            # newline="\n": see the note in pass 2 above.
+            navf.write_text(new, encoding="utf-8", newline="\n")
             changed.append(navf)
 
     print("\nWROTE:")

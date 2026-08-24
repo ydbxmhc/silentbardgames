@@ -49,7 +49,10 @@ def rewrite_file(path):
 
     rewritten = LINK_RE.sub(replace_link, original)
     if rewritten != original:
-        path.write_text(rewritten, encoding='utf-8')
+        # newline='\n' is required: .gitattributes pins the repo to eol=lf, but
+        # text mode would translate to os.linesep and emit CRLF on Windows,
+        # making the tool's output differ by platform.
+        path.write_text(rewritten, encoding='utf-8', newline='\n')
         return True
     return False
 
