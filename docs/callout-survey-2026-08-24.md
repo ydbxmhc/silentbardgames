@@ -7,15 +7,22 @@ callouts. Counts are for `L1/` and its subfolders. Nothing was changed.
 
 ## What exists
 
-    .box              96 uses      the general callout container
-      of which:
-        .box               78      plain, no modifier
-        .box.example        3
-        .box.highlight      2
-        (13 carry a .box-title, distributed across the above)
+**Corrected 2026-08-24.** An earlier count in this file said "96 callouts, 78
+untitled." That was wrong: it counted `class="box"` and `class="box-title"` as
+separate items, when a titled callout contains both. Parsing the actual `<div>`
+elements gives:
 
-    .example-play      5 uses      dialogue-style in-play example
-    .box-title        13 uses      the label inside a box
+    83 callouts total
+       13  titled     (carry a <span class="box-title">)
+       70  untitled
+
+    by area:                    titled   untitled   total
+      L1/ (top level)                8          6      14
+      L1/action/                     3         64      67
+      L1/magick/                     2          0       2
+
+    modifiers in use:  .box (plain), .box.example (3), .box.highlight (2)
+    related:           .example-play (5 uses), dialogue-style in-play example
 
 **Defined in CSS but never used anywhere:** `.box.gm-note`, `.box.warning`,
 `.box.rule`. Three variants carrying styling nobody invokes. `gm-note` and
@@ -23,9 +30,44 @@ callouts. Counts are for `L1/` and its subfolders. Nothing was changed.
 `highlight` only in the theme file; `rule` only in the structural file. Worth a
 tidy pass, separately from item I. `@@*`
 
+## The 70 untitled callouts are not miscellaneous
+
+**64 of the 70 are in `L1/action/` - 91%.** The author's hypothesis, tested
+2026-08-24 and confirmed: these are a distinct category the taxonomy is missing,
+where mechanics are detailed *after* the relevant story text in the *In Action*
+vignettes.
+
+They are not asides. On an *In Action* page they are roughly half the content and
+the entire pedagogical point: narrative beat, then the numbers that produced it.
+Calling them `.box` files them alongside decorative sidebars, which is why they
+have no name, no styling of their own, and no way to be treated as a group.
+
+Sampling `athlete`, `sneak` and `spellweaver` shows the category is itself not
+monolithic. At least four things wear the same markup: `@@*`
+
+| Kind | Example, abbreviated |
+| --- | --- |
+| **Character stat block** - opens the vignette | *"Level 3, SpellWeaver 3, Fax Iacta 1, Stone Shape 1, Mage Light 1"* |
+| **Opposition stat block** - the obstacle's sheet | *"The Thornwall crossing is a Level 3 difficulty challenge. The mountain's 'Roles' are Hostile Terrain 3 and Winter Conditions 2..."* |
+| **Resolution commentary** - the dice math, inline | *"With Level 3 + Athlete 3 + Competition Strategy 3 = EL9 she wagers 3 and rolls EL6 for a 1..."* |
+| **Editorial aside** - the author to the reader | *"This is a Sneak example, not Healer, so we summarize..."* |
+
+The last of those is not mechanics at all. It is a note about the *example's*
+scope, and it probably belongs to a different tier entirely.
+
+Distribution is uneven and may itself be worth a look: `athlete.html` carries 15
+boxes, `warrior` and `healer` 9 each, while `conjuror.html` has none at all.
+
+**The remaining 6 untitled callouts**, all outside `action/`, are genuinely
+miscellaneous: two in `nonhuman-as-a-hook` giving GM advice on bloodline
+bonuses, and four in `quick-reference` restating core rules and key definitions.
+Small enough to rule on individually.
+
+---
+
 ## The shape of the problem, in one observation
 
-**Of 96 callouts, only 13 are titled. None of the 13 has an `id`.**
+**Of 83 callouts, only 13 are titled. None of the 13 has an `id`.**
 
 `.box-title` is a `<span>`, styled at `0.72rem`, uppercase, letter-spaced - a
 *label*, deliberately smaller than body text. It is not a heading and does not
@@ -92,8 +134,24 @@ captioning a thing. These want no anchor and no TOC presence.
 
 Not a decision - the author's. Laying out what the data implies. `@@*`
 
-1. **Three tiers, not two.** Plain aside, worked example, named concept. The
-   existing markup collapses all three into `.box` plus an optional label.
+1. **At least four tiers, not two.** Plain aside, worked example, named concept,
+   and - by far the largest - **mechanical annotation** on the *In Action* pages.
+   The existing markup collapses all of them into `.box` plus an optional label.
+   The mechanical tier is 64 of 83 callouts and has no name at all.
+
+   A consequence worth stating plainly: the mechanical tier should almost
+   certainly **not** get TOC entries. Sixty-four would drown the table of
+   contents, and nobody wants to navigate to "the fourth dice roll in the
+   Athlete vignette." It wants a *name and a class*, so it can be styled and
+   handled as a group. That is a different requirement from the named-concept
+   tier, which wants exactly the opposite. `@@*`
+
+   One idea, flagged as entirely Claude's and unratified: because the mechanical
+   tier is separable from the narrative around it, it could be **toggleable** -
+   a reader following the story reads the story, a reader studying the system
+   turns the numbers on. `L1Prefs` and `settings.html` already exist to carry
+   exactly that kind of preference. Cheap to build once the class exists,
+   impossible before. Raise it or discard it as you see fit. `@@*`
 2. **The named tier needs a real heading**, not a `<span>`. That is what makes it
    visible to `anchor_sections.py`, to the TOC generator, and to a screen reader
    moving by heading. It is also the honest markup: a named callout *is* a
