@@ -8,6 +8,8 @@ across sessions and nobody has to remember any of it.
 Claude inferred, proposed, or reformulated carries `@@*` and stays noncanon until
 the author formally clears it.
 
+Companion document: `docs/link-audit-2026-08-24.md`, the pre-refactor baseline.
+
 ---
 
 ## How to read this
@@ -24,35 +26,24 @@ Items are lettered so they can be referred to in chat without retyping them.
 
 ---
 
-## Open decisions (nothing downstream moves until these land)
+## Open decisions
 
-1. **Exact filename for the renamed Kessa page.** Title is settled as *Starting
-   Out*. Proposal: `starting-out.html` / `starting-out.md`, matching the
-   hyphenated-lowercase convention used everywhere else in `L1/`. `@@*`
-2. **Redirect stub at the old `quickstart.html` path?** The new quick start takes
-   over that URL, so any existing bookmark or outbound link lands on a different
-   page than it did. Options: (a) accept it, site is young; (b) leave a one-line
-   meta-refresh stub - but the freed name is immediately reoccupied, so a stub
-   would have to live at the *new* name instead, which defeats the purpose.
-   Realistically this is a yes/no on (a). `@@*`
-3. **Where the Recovery Trope lives.** Is it a titled section inside the new
-   quick start, a callout box within it, or its own short page? It is an
-   in-fiction justification device rather than a procedure, which argues for a
-   box or a section rather than a page of its own - but it is also a *named*
-   trope players will want to link to and cite, which argues the other way. `@@*`
-4. **What happens to `safety.html`.** Absorbed into Session Zero and deleted
-   (its prev/next chain between `magick/beyond` and `glossary` then needs
-   mending), or kept as a short appendix entry that points forward to Session
-   Zero? `@@*`
-5. **Nav placement of Session Zero.** End of Getting Started, or somewhere more
-   prominent still? "More prominent" was the stated goal for the safety material;
-   naming the slot pins it. `@@*`
+1. **Does the new quick start keep the name `quickstart.html`?** It now lives in
+   the Characters section as an alternate build method, not in Getting Started,
+   so the name is descriptive of what it does for the *player* rather than where
+   it sits. Keeping it means old bookmarks to `quickstart.html` land on a
+   different page in a different section. The site is young; accepting that is a
+   legitimate answer, and it costs nothing to decide later. `@@*`
+2. **The named-callout standard** - see item I. Blocks C, and probably wants
+   settling before any new page is written, since new pages will use it.
+
+Resolved decisions have moved to the Decisions Log at the foot of this file.
 
 ---
 
 ## A. Rename the Kessa walkthrough to *Starting Out*
 
-**Status:** `READY` (pending decision 1)
+**Status:** `READY`
 
 **What:** `L1/quickstart.html` + `.md` become `L1/starting-out.html` + `.md`.
 Page `<title>`, `<h1>`, breadcrumb, and every inbound reference update to
@@ -61,15 +52,20 @@ Page `<title>`, `<h1>`, breadcrumb, and every inbound reference update to
 **Why:** The page is a worked example of the standard build, offered up front for
 readers who learn from a finished specimen and then run with it. `chargen.html`
 is the same ground laid out in ink for readers who want the methodology. Both are
-deliberate. Only the label was wrong, and it was squatting on the name the real
-quick start needs.
+deliberate and neither is redundant. Only the label was wrong, and it was
+squatting on the name the real quick start wanted.
+
+**Position is unchanged.** *Starting Out* stays exactly where the Kessa page
+already sits, third in Getting Started:
+
+    This is a Game?  ->  The Core Loop  ->  Starting Out  ->  Core Mechanics
 
 **Blast radius** - 12 files, all mechanical, no prose changes:
 
 | File | Change |
 | --- | --- |
-| `L1/quickstart.html` | rename; title, h1, breadcrumb, next-link |
-| `L1/quickstart.md` | rename; heading, breadcrumb, next-link |
+| `L1/quickstart.html` | rename; title, h1, breadcrumb |
+| `L1/quickstart.md` | rename; heading, breadcrumb |
 | `L1/nav.html` | `Quick Start` item retargeted and relabelled |
 | `L1/nav.md` | mirror |
 | `L1/toc.html` | entry plus five anchor children |
@@ -85,99 +81,118 @@ Also `Settings/Vigil/SESSION-BOOT.md` line 127 names `quickstart.md` in its
 orientation table. Repo-internal, not a site link, but it goes stale if missed.
 
 The five anchors in `toc.html` (`#character-concept`, `#roles-and-maneuvers`,
-`#negotiating-details`, `#character-drives`, `#putting-it-together`) survive the
-rename unchanged; only the file part of each href moves.
+`#negotiating-details`, `#character-drives`, `#putting-it-together`) survive
+unchanged; only the file part of each href moves.
 
-**Depends on:** nothing. This can go first.
+**Depends on:** nothing. This goes first.
 
 **Note:** `nav.html` and `toc.html` are both listed in `CLAUDE.md` as
 do-not-modify-without-explicit-instruction. This item is the explicit
-instruction; recording that here so the exception is on the record rather than
-assumed.
+instruction; recorded here so the exception is on the record rather than assumed.
 
 ---
 
-## B. The real Quick Start
+## B. The real Quick Start - an alternate build method
 
 **Status:** `BLOCKED` - author prose required
 
-**What:** A new `L1/quickstart.html` occupying the freed name. The procedure, as
-the author described it: sit down and start playing. Declare name, Hook, Roles
-and Maneuvers as they come up, until the starting Karma is spent. No build step
-before play.
+**What it is:** a new page in the **Characters** section, beside `chargen`, not
+in Getting Started. It is an alternate character-creation method, aimed at an
+**experienced GM** running players of any experience level.
 
-**Why:** There was no quick start. There was an example of the standard setup
-wearing the name.
+The procedure, as the author described it: sit down and start playing. Declare
+name, Hook, Roles and Maneuvers as the fiction calls for them, until the starting
+Karma is spent. No build step before play.
+
+**Who it is for**, in the author's framing:
+
+- new players, who get to ease in instead of facing a build sheet cold
+- experienced players who would rather defer deciding what they want to play
+- one-shots, where a build session is most of the budget
+- the old hand who lets the new folk take whatever they like, then fills the
+  gaps in the party with his own PC as play reveals what is missing
+
+**Default timing:** the spend completes over session 1. A group that dislikes the
+end-of-session limitation may simply discard it. Author-stated in conversation
+2026-08-24, not yet written into the rules, therefore not ratified. `@@*`
+
+**Cross-link required:** the page must point at *Starting Out* early, since the
+two now sit in different sections and a reader arriving at the quick start may
+never have seen the worked example.
 
 **Division of labor:** This is new design, not a PDF transcription. **The author
 writes every word of the prose.** Claude scaffolds the HTML shell to site
 convention - CSS and script load order, breadcrumb, section ids, prev/next
 wiring, nav and TOC entries - with `@@` placeholders where the text goes.
 
-**Proposed reading chain** `@@*`:
+**Open questions inherited from the `CLAUDE.md` backlog**, which belong to this
+item rather than to C:
 
-    This is a Game?  ->  The Core Loop  ->  Quick Start  ->  Starting Out  ->  Core Mechanics
+- What is the deadline or cap on the retroactive spend? All of it by end of
+  session one, or a set number of declarations?
+- May a player flashback-justify something already *attempted* - "I always had
+  lockpicks," declared after trying the door - or only declare forward?
 
-Rationale: a reader cannot "just start playing" without the Core Loop, so the
-quick start sits after it. *Starting Out* then follows as the worked example, and
-`core-mechanics` picks up its prev-link from *Starting Out* instead of from
-`quickstart`. This ordering costs exactly two link edits beyond item A.
-
-**Depends on:** A (frees the name), and decision 3 (whether the Recovery Trope
-lands inside this page).
+**Depends on:** A (frees the name, if decision 1 keeps it), I (callout standard).
 
 ---
 
 ## C. The Recovery Trope
 
-**Status:** `BLOCKED` - author prose required; placement is decision 3
+**Status:** `BLOCKED` - author prose required; needs item I
 
-**What it is,** restated from the author's description so the earlier
-misunderstanding in `CLAUDE.md` does not propagate: it is the *in-fiction
-explanation* for why a competent, established character is only now buying the
-first rank of a Role they supposedly always had. They were injured, they are
-recovering, and they cannot yet manage the full use of their own skills. That
-lets a player declare a Level 1 character who is a known badass and then make
-good on the claim as play proceeds, instead of being a newcomer to the world by
-mechanical default. `@@*`
+**What it is,** restated from the author's description so the conflation in
+`CLAUDE.md` does not propagate: the *in-fiction explanation* for why a competent,
+established character is only now buying the first rank of a Role they supposedly
+always had. They were injured, they are recovering, and they cannot yet manage
+the full use of their own skills. That lets a player declare a Level 1 character
+who is a known badass and then make good on the claim as play proceeds, instead
+of being a newcomer to the world by mechanical default. `@@*`
 
 **What it is not:** the quick start itself. The retroactive-allocation procedure
-is the quick start (item B); the Recovery Trope is the story that makes it feel
-earned rather than arbitrary.
+is the quick start (item B). The Recovery Trope is *one example* of a story that
+makes it feel earned rather than arbitrary - the author was explicit that it is
+an example and not a requirement. Other justifications are equally valid and the
+text should not imply otherwise.
 
-**Correction owed to `CLAUDE.md`:** the existing backlog entry conflates the two,
-describing the Recovery Trope as the quick-start section. That entry needs
-rewriting once B and C settle, and the two open questions logged under it there
-(deadline on the retroactive spend; whether you may flashback-justify something
-already attempted) belong to **B**, not to C. The parked "reincarnates make
-viable PCs" cross-reference belongs to **C**, since remembering a prior life's
-skill is the same device with different fiction.
+**Form:** a callout box within the quick-start page, carrying its own heading and
+its own TOC entry. That combination is exactly what item I has to make possible.
 
-**Depends on:** B.
+**Correction owed to `CLAUDE.md`:** the existing backlog entry describes the
+Recovery Trope as the quick-start section itself. That entry wants rewriting once
+B and C settle. Its two open questions have been reassigned to B above. The
+parked "reincarnates make viable PCs" cross-reference belongs here, since
+remembering a prior life's skill is the same device wearing different fiction.
+
+**Depends on:** B, I.
 
 ---
 
-## D. Session Zero page, and promoting the safety material
+## D. Session Zero
 
-**Status:** `BLOCKED` - author prose required; decisions 4 and 5
+**Status:** `BLOCKED` - author prose required
 
 **What:** A new Session Zero page covering table setup before play - C.A.T.S.
 (Concept, Aim, Tone, Subject matter), lines and veils, the open-door policy, and
-content warnings. Largely a rewrite and expansion of the current `safety.html`,
-which already carries all four in about twenty lines and is buried as the first
-entry under Appendices, sitting between *The Beyond* and *Glossary*.
+content warnings.
+
+**Placement:** in the Characters section, near `chargen` and the new quick start.
+The three belong together: all are things to settle before diving into a
+campaign, or even a one-shot - compressed hard if three hours is all you have.
+
+**Relationship to `safety.html`:** unresolved on purpose. Safety will most likely
+stay a page of its own, but that cannot be known until Session Zero is actually
+written and we see what it absorbs. Not to be pre-decided. If safety does end up
+folded in, its prev/next chain between *The Beyond* and *Glossary* needs mending
+at that time.
 
 **Inbound links wanted:**
 
 - a closing note at the foot of *Starting Out* (item A)
 - from `chargen.html`
-- wherever else safety currently gets a passing mention (audit during item F)
+- wherever else safety currently gets a passing mention
 
-**Why the promotion:** safety tooling is a before-you-play concern reachable only
-by scrolling past the entire rulebook. Moving it forward makes it findable at the
-moment it is useful.
-
-**Depends on:** A (for the closing note), decisions 4 and 5.
+**Depends on:** A (for the closing note).
 
 ---
 
@@ -200,9 +215,15 @@ Kessa dialogue, as proof:
 Nobody has been tracking which side is newer. Until that is established, editing
 either copy risks overwriting good work with older work.
 
+**Provenance, from the link audit:** all 324 internal links in the digest point at
+`.md` targets. It was assembled from Markdown - the mirrors or a source document
+- and never had its hrefs converted. So the digest is downstream of a Markdown
+snapshot, and the divergences are most likely author edits made in the digest
+after that snapshot. Worth confirming before ruling on canon. `@@*`
+
 **Method:** a section-by-section diff, digest against site, with an author ruling
-on each divergence as to which side is canon. Then back-port in the ruled
-direction. Small batches, verified, as with everything else here.
+on each divergence. Then back-port in the ruled direction. Small batches,
+verified, as with everything else.
 
 **Blocker on method:** `WIP/core-rules-digest.md` is useless as a diff target.
 `html2md.py` flattened the whole file into an unbroken wall of prose with **zero
@@ -215,44 +236,92 @@ HTML, or write a proper extractor first. See item G.
 
 ## F. Link and anchor audit
 
-**Status:** `READY` - read-only, changes nothing, produces a report
+**Status:** `DONE` 2026-08-24 - see `docs/link-audit-2026-08-24.md`
 
-**What:** Sweep every internal `href` in `L1/` and its subfolders; resolve every
-`#anchor` against the ids that actually exist on the target page; check the `.md`
-mirrors separately, since they drift on their own schedule and have drifted
-before. Output is a findings report, not edits.
+**Result in one line:** the live `L1/` site is clean. Zero broken nav targets,
+zero broken anchors in any `.html`. All 28 defects found are in the `.md`
+mirrors, invisible to site readers, and all of them are generator bugs rather
+than content bugs. `TS/` is in materially worse repair and is out of scope.
 
-**Why now:** it tells us what is already broken *before* we add pages, so new
-breakage is distinguishable from old.
-
-**Depends on:** nothing. Best run before A, so the rename's damage is visible
-against a known-clean baseline.
+Re-run after each batch of edits. The script currently lives outside the repo; it
+belongs in `tools/` if it earns a permanent home.
 
 ---
 
 ## G. Tooling repairs
 
-**Status:** `READY` for G1; G2 and G3 already logged in `CLAUDE.md`
+**Status:** `READY`
 
-- **G1. `html2md.py` drops headings inside `<section>`.** New finding, 2026-08-24.
-  `WIP/core-rules-digest.md` contains not a single `#`, despite its HTML carrying
-  eighty-odd `<h1>`/`<h2>` elements. This is the same class of bug as the two
-  already logged, and it is what blocks item E's diff.
-- **G2. `html2md.py` flattens `<table>`.** Already logged. Affects
-  `assist-rule.html`, where the reference table's cells fuse into one line.
+Four generator defects, three of which now block or complicate other items.
+
+- **G1. `html2md.py` drops headings inside `<section>`.** New, 2026-08-24.
+  `WIP/core-rules-digest.md` contains not a single `#` despite eighty-odd
+  headings in its HTML. Blocks item E's diff.
+- **G2. `html2md.py` flattens `<table>`.** Already logged in `CLAUDE.md`. Affects
+  `assist-rule.html`, whose reference table fuses into one line.
 - **G3. `anchor_sections.py` writes CRLF on Windows.** Already logged. Matters
-  more than the other two because this tool writes `toc.html` and `nav.html`,
-  both of which item A touches.
+  most of the four, because this tool writes `toc.html` and `nav.html`, both of
+  which item A touches. **Fix before A runs**, or A's output fights
+  `.gitattributes eol=lf`. `@@*`
+- **G4. `html2md.py` mangles links and images.** New, from the audit. Three
+  faces, one pass to fix: fragments are not re-slugged for Markdown headings;
+  anchors on `<dt>` and `<sup>` are dropped entirely, killing all 51 glossary
+  anchors in the mirror; and image sources are reduced to bare filenames instead
+  of keeping the absolute R2 URL. Detail and proposed fixes in the audit
+  document.
 
-**Recommendation:** fix G3 before item A runs, or item A's `toc.html` edit may
-come back with the wrong line endings and fight `.gitattributes`. `@@*`
+**Note on sequencing:** hand-editing the mirrors to fix G4's symptoms would be
+undone by the next regeneration. Fix the generator, then regenerate wholesale.
 
 ---
 
 ## H. Side quests
 
-Bucket for whatever surfaces. Nothing is here yet. Items get promoted out of this
-list into a lettered item of their own once they are more than a note.
+Bucket for whatever surfaces. Items get promoted out of here into a lettered item
+once they are more than a note.
+
+- `TS/` link rot: 54 broken nav targets, 43 broken anchors, 55 missing images,
+  the latter being the entire card deck. Out of scope, recorded so it is not
+  forgotten.
+- `git gc` wanted on the author's side; the sandbox leaves stray unlinkable temp
+  objects in `.git/objects` when it commits through the mount.
+
+---
+
+## I. A standard for named callouts
+
+**Status:** `BLOCKED` - author decision; blocks B and C
+
+**The problem, as surfaced by the Recovery Trope:** some callouts are decorative
+asides, and some are *named things* readers will want to cite, link to, and find
+in the table of contents. The Recovery Trope is the second kind. So are several
+existing blocks that the book would otherwise have called sidebars - for example
+*The Power of Good Representation* in `chargen.html`.
+
+Right now there is no convention distinguishing them, which means each one gets
+handled ad hoc and none of them are addressable.
+
+**What a standard has to settle:**
+
+- a CSS class, or a class pair, marking the named kind distinctly from a plain
+  aside
+- what heading level a named callout carries, and whether it interrupts the
+  page's outline or sits outside it
+- that it takes an `id`, so it can be linked to directly
+- whether and how it appears in `toc.html` - as a nested child of its section, or
+  visually distinguished as a callout rather than a heading
+- what `anchor_sections.py` and the TOC generator must do with it automatically,
+  so the convention survives regeneration
+- how it prints in the half-letter digest, which already styles `blockquote` for
+  this role but has no named variant
+
+**Why it comes first:** every new page in items B, C and D will want at least one
+of these. Settling it now means they are built to convention instead of being
+retrofitted. `@@*`
+
+**A survey of existing callouts is wanted before deciding** - how many there are,
+how they are currently marked up, and which are named. Cheap, read-only, and I
+can run it on request.
 
 ---
 
@@ -260,5 +329,9 @@ list into a lettered item of their own once they are more than a note.
 
 | Date | Decision |
 | --- | --- |
-| 2026-08-24 | The Kessa walkthrough is renamed *Starting Out*. Its redundancy with `chargen` is intentional: example-first readers and methodology-first readers are separate audiences. |
-| 2026-08-24 | The Recovery Trope is the in-fiction justification for retroactive skill purchase, not the quick-start procedure itself. Supersedes the conflated description in `CLAUDE.md`. |
+| 2026-08-24 | The Kessa walkthrough is renamed *Starting Out*, filename `starting-out.html`. Its overlap with `chargen` is intentional: example-first readers and methodology-first readers are separate audiences. |
+| 2026-08-24 | The Recovery Trope is an in-fiction justification for retroactive skill purchase, and only one possible example of such. It is not the quick-start procedure. Supersedes the conflated description in `CLAUDE.md`. |
+| 2026-08-24 | The new quick start is an alternate build method living in the Characters section beside `chargen`, not a front-door page in Getting Started. Getting Started keeps its existing three-page shape. |
+| 2026-08-24 | The Recovery Trope takes the form of a callout box with its own heading and its own TOC entry, pending the standard in item I. |
+| 2026-08-24 | Session Zero lands in the Characters section near `chargen` and the quick start. |
+| 2026-08-24 | `safety.html` most likely remains its own page, but the question stays open until Session Zero is written. Deliberately not pre-decided. |
