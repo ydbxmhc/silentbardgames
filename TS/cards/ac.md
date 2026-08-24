@@ -4,7 +4,7 @@ The Deck
 
 # Ace of Clubs
 
-![Ace of Clubs](cards/ac.png)
+![Ace of Clubs](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/ac.png)
 
 ## Berserker's Rampage
 
@@ -42,8 +42,13 @@ friendships, and his name in this town, all in the space of one broken chair.
 Bryn's blind fury, ruinous to everything else, wrecks their ambush too. When
 it passes, the man who paid them is standing alone in the doorway.
 
-NotationAC DirectionNo - Black SuitClubs - Conflict (No, and) Rank & RoleAce -
-Warrior
+Notation AC
+
+Direction No - Black
+
+Suit Clubs - Conflict (No, and)
+
+Rank & Role Ace - Warrior
 
 ---
 

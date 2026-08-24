@@ -245,6 +245,25 @@ It also means the *Starting Out* rename and anything else we change may send
 already-finished pages back for another look. Worth batching site-side changes
 that touch the first pages rather than dribbling them out.
 
+**Existing documentation - read these before re-deriving anything.** Three docs
+already cover much of this ground and the manifest should point at them rather
+than duplicate them: `docs/print-production-guide.md` (the build process, trim,
+Paged.js workflow), `docs/print-production-notes.md` (booklet plan, measured page
+counts, digest inflation, the web deltas list), and `docs/print-booklet-plan.md`.
+
+**Trim is 5.5 x 8.5 in** - letter folded once, saddle-stitched - stated
+consistently in the digest CSS, the production guide, and the notes.
+
+**Page-length principle, author-stated 2026-08-24:** avoid long pages entirely,
+because the digest page is small. Balanced against the opposite failure - the
+notes already warn off sub-16pp pamphlets, and splitting too far produces pages
+"short to the point of silly." So every split-or-consolidate call gets evaluated
+individually rather than by rule. `@@*`
+
+A free consequence: short pages settle the parked link-verbosity question in
+item H. With no long pages, **first-mention-per-page** is sufficient and
+per-section granularity is moot.
+
 **Method:** a section-by-section diff, digest against site, with an author ruling
 on each divergence. Then back-port in the ruled direction. Small batches,
 verified, as with everything else.
@@ -274,28 +293,44 @@ belongs in `tools/` if it earns a permanent home.
 
 ## G. Tooling repairs
 
-**Status:** `READY`
+**Status:** `DONE` 2026-08-24 - full write-up under "Resolution" in
+`docs/link-audit-2026-08-24.md`
 
-Four generator defects, three of which now block or complicate other items.
+All four defects fixed, plus two more found while working. `L1/` and `TS/` both
+audit completely clean afterwards: zero broken nav targets, zero broken anchors,
+zero missing images. 80 `.md` mirrors regenerated from unchanged HTML; no page
+content was touched, and pages with no table, footnote, image or fragment came
+out byte-identical.
 
-- **G1. `html2md.py` drops headings inside `<section>`.** New, 2026-08-24.
-  `WIP/core-rules-digest.md` contains not a single `#` despite eighty-odd
-  headings in its HTML. Blocks item E's diff.
-- **G2. `html2md.py` flattens `<table>`.** Already logged in `CLAUDE.md`. Affects
-  `assist-rule.html`, whose reference table fuses into one line.
-- **G3. `anchor_sections.py` writes CRLF on Windows.** Already logged. Matters
-  most of the four, because this tool writes `toc.html` and `nav.html`, both of
-  which item A touches. **Fix before A runs**, or A's output fights
-  `.gitattributes eol=lf`. `@@*`
-- **G4. `html2md.py` mangles links and images.** New, from the audit. Three
-  faces, one pass to fix: fragments are not re-slugged for Markdown headings;
-  anchors on `<dt>` and `<sup>` are dropped entirely, killing all 51 glossary
-  anchors in the mirror; and image sources are reduced to bare filenames instead
-  of keeping the absolute R2 URL. Detail and proposed fixes in the audit
-  document.
+- **G1.** Was misdiagnosed as a `<section>` problem. The real cause: `html` and
+  `body` were missing from `BLOCK_TAGS`, so any file lacking a `<main>` was
+  rendered as one inline run. Recovered 73 headings in the digest and repaired
+  `Settings/Averond/levelone_averond_setting.md`, a second victim nobody had
+  noticed. **Unblocks item E.**
+- **G2.** `render_table` added; GFM pipe tables.
+- **G3.** Fixed earlier the same day, along with a fourth instance of the same
+  CRLF bug found in `relink_md.py`.
+- **G4.** All three faces fixed: CDN base now read from the nearest `config.js`;
+  fragments re-slugged per target page; `<dt>` with an id rendered as a heading
+  so GitHub auto-anchors it.
+- **New: footnotes now use native GFM syntax**, `[^1]` and `[^1]: ...`, so
+  GitHub supplies marker, collected section and backlink.
+- **New: image constructs protected from hard-wrapping**, which had been
+  splitting alt text across lines and defeating line-oriented tooling.
 
-**Note on sequencing:** hand-editing the mirrors to fix G4's symptoms would be
-undone by the next regeneration. Fix the generator, then regenerate wholesale.
+**Two items want an author ruling**, both minor and both in the audit doc:
+glossary terms render as `## **Adept**`, keeping source emphasis inside a heading
+that is already bold; and the `<h4>Notes</h4>` inside a footnotes section is
+dropped because GFM supplies its own.
+
+**Still outstanding, deliberately:** the digest's 324 `.md` link targets that do
+not resolve from `WIP/`. Harmless in a print artifact whose links are styled
+invisible.
+
+**A regenerate-and-diff CI gate is now worth building** - see the note in
+`CLAUDE.md`. It would not have caught any of this, since the mirrors regenerated
+to exactly the wrong output they already held, but it would stop the *next*
+drift.
 
 ---
 

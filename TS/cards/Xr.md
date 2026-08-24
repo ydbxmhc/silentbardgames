@@ -4,7 +4,7 @@ The Deck
 
 # Joker (Red)
 
-![Joker (Red)](cards/Xr.png)
+![Joker (Red)](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/Xr.png)
 
 ## Chaos with potential
 
@@ -25,7 +25,7 @@ here, that it is large, and that it might be wonderful. Walk toward it.
 The Jokers do not reverse; the two are each other's mirror. Drawing both in
 one pull is rare enough to feel like the deck itself speaking.
 
-NotationXr
+Notation Xr
 
 ---
 

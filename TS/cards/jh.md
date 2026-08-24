@@ -4,7 +4,7 @@ The Deck
 
 # Jack of Hearts
 
-![Jack of Hearts](cards/jh.png)
+![Jack of Hearts](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/jh.png)
 
 ## Bard's Ode
 
@@ -39,8 +39,13 @@ widow's face eases for the first time since the burial.
 *Inverted.* The verse is truer than Renn knows - and the widow's brother,
 hearing his own secret inside it, decides the singer knows far too much.
 
-NotationJH DirectionYes - Red SuitHearts - Social (Yes, and) Rank & RoleJack -
-Adept
+Notation JH
+
+Direction Yes - Red
+
+Suit Hearts - Social (Yes, and)
+
+Rank & Role Jack - Adept
 
 ---
 

@@ -4,7 +4,7 @@ The Deck
 
 # Queen of Hearts
 
-![Queen of Hearts](cards/qh.png)
+![Queen of Hearts](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/qh.png)
 
 ## Enchantress' Boon
 
@@ -40,8 +40,13 @@ her steward - no terms, no paper, done.
 *Inverted.* A season later the steward calls again: her ladyship is assembling
 witnesses for a delicate matter, and remembers Vell fondly.
 
-NotationQH DirectionYes - Red SuitHearts - Social (Yes, and) Rank &
-RoleQueen - Conjuror
+Notation QH
+
+Direction Yes - Red
+
+Suit Hearts - Social (Yes, and)
+
+Rank & Role Queen - Conjuror
 
 ---
 

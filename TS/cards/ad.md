@@ -4,7 +4,7 @@ The Deck
 
 # Ace of Diamonds
 
-![Ace of Diamonds](cards/ad.png)
+![Ace of Diamonds](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/ad.png)
 
 ## Mercenary's Wage
 
@@ -42,8 +42,13 @@ fee, clause by clause.
 which banner the company marched under at Wefford - and names a winter rate
 for their continued service that is barely half the summer one.
 
-NotationAD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank &
-RoleAce - Warrior
+Notation AD
+
+Direction Yes - Red
+
+Suit Diamonds - Commercial (Yes, but)
+
+Rank & Role Ace - Warrior
 
 ---
 

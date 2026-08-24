@@ -4,7 +4,7 @@ The Deck
 
 # King of Clubs
 
-![King of Clubs](cards/kc.png)
+![King of Clubs](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/kc.png)
 
 ## Inquisitor's Writ
 
@@ -42,8 +42,13 @@ room's business continues around them in a wide, careful circle.
 but not her person, and this county but not the next - and the border coach
 leaves within the hour.
 
-NotationKC DirectionNo - Black SuitClubs - Conflict (No, and) Rank &
-RoleKing - Spellweaver
+Notation KC
+
+Direction No - Black
+
+Suit Clubs - Conflict (No, and)
+
+Rank & Role King - Spellweaver
 
 ---
 

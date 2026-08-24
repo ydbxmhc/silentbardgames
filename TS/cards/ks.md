@@ -4,7 +4,7 @@ The Deck
 
 # King of Spades
 
-![King of Spades](cards/ks.png)
+![King of Spades](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/ks.png)
 
 ## Artificer's Workaround
 
@@ -43,8 +43,13 @@ work.
 *Inverted.* Each dusk the re-laid section dims a half-breath before the rest -
 and tonight, in that half-breath, the hinge is only iron.
 
-NotationKS DirectionNo - Black SuitSpades - Labor (No, but) Rank & RoleKing -
-Spellweaver
+Notation KS
+
+Direction No - Black
+
+Suit Spades - Labor (No, but)
+
+Rank & Role King - Spellweaver
 
 ---
 

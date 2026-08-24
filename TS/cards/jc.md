@@ -4,7 +4,7 @@ The Deck
 
 # Jack of Clubs
 
-![Jack of Clubs](cards/jc.png)
+![Jack of Clubs](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/jc.png)
 
 ## Soothsayer's Hex
 
@@ -42,8 +42,13 @@ said aloud.
 *Inverted.* Almost heard - but it is the steward, not the father, who knocks
 over his cup standing up, and every guest at the high table marks it.
 
-NotationJC DirectionNo - Black SuitClubs - Conflict (No, and) Rank &
-RoleJack - Adept
+Notation JC
+
+Direction No - Black
+
+Suit Clubs - Conflict (No, and)
+
+Rank & Role Jack - Adept
 
 ---
 

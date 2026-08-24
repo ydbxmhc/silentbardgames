@@ -4,7 +4,7 @@ The Deck
 
 # Joker (Black & White)
 
-![Joker (Black & White)](cards/Xb.png)
+![Joker (Black & White)](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/Xb.png)
 
 ## Chaos with teeth
 
@@ -26,7 +26,7 @@ Carefully.
 The Jokers do not reverse; the two are each other's mirror. Drawing both in
 one pull is rare enough to feel like the deck itself speaking.
 
-NotationXb
+Notation Xb
 
 ---
 

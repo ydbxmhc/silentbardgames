@@ -11,34 +11,36 @@
 [Design Principles](start.md) [The Cards](the-cards.md)
 [Notation](the-cards.md#notation) [Color:
 Direction](the-cards.md#color-direction) [Suit: Texture &
-Domain](the-cards.md#suit-texture) [Rank: The Roles](the-cards.md#rank-roles)
-[The Jokers](the-cards.md#jokers)
+Domain](the-cards.md#suit-narrative-texture-thematic-domain) [Rank: The
+Roles](the-cards.md#rank-the-roles) [The
+Jokers](the-cards.md#the-jokers-chaos-permission)
 
 **Play**
 
 [The Draw](the-draw.md) [The Rules](the-draw.md#the-rules) [Asking the
 Oracle](the-draw.md#asking-the-oracle) [The Aperture
-Principle](the-draw.md#aperture-principle) [The Drawing of the
-Three](the-draw.md#drawing-of-the-three) [The
+Principle](the-draw.md#the-aperture-principle) [The Drawing of the
+Three](the-draw.md#the-drawing-of-the-three) [The
 Shuffle](the-draw.md#the-shuffle) [Positional
 Reading](the-draw.md#positional-reading) [Consecutive Card
 Rule](the-draw.md#consecutive-card-rule) [The Hail
-Mary](the-draw.md#hail-mary) [Resolution Mechanics](resolution.md) [When to
-Invoke Resolution](resolution.md#when-to-invoke) [Hooks in
+Mary](the-draw.md#the-hail-mary) [Resolution Mechanics](resolution.md) [When
+to Invoke Resolution](resolution.md#when-to-invoke-resolution) [Hooks in
 Resolution](resolution.md#hooks-in-resolution) [Luck Tokens in Oracle
-Play](resolution.md#luck-tokens) [Diceless
+Play](resolution.md#luck-tokens-in-oracle-play) [Diceless
 Resolution](resolution.md#diceless-resolution) [Setting Opposition from the
-Draw](resolution.md#setting-opposition) [All Face Cards: The
-Vote](resolution.md#the-vote) [The Resolution
-Roll](resolution.md#resolution-roll) [Oracle & Resolution
-Together](resolution.md#oracle-and-resolution) [Token
-Resolution](resolution.md#token-resolution) [Running Out of
-Numbers](resolution.md#running-out-of-numbers) [Card Spreads](spreads.md)
-[Question Framing for Spreads](spreads.md#question-framing) [The Quaerant's
-Mirror](spreads.md#quaerants-mirror) [The Three Card
-Spreads](spreads.md#three-card-spreads) [The Relationship
-Spread](spreads.md#relationship-spread) [The Quaerant's
-Tower](spreads.md#quaerants-tower)
+Draw](resolution.md#setting-opposition-from-the-draw) [All Face Cards: The
+Vote](resolution.md#all-face-cards-the-vote) [The Resolution
+Roll](resolution.md#the-resolution-roll) [Oracle & Resolution
+Together](resolution.md#oracle-and-resolution-working-together) [Token
+Resolution](resolution.md#token-resolution-pure-oracle-combat-conflict)
+[Running Out of Numbers](resolution.md#running-out-of-numbers) [Card
+Spreads](spreads.md) [Question Framing for
+Spreads](spreads.md#question-framing-for-spreads) [The Quaerant's
+Mirror](spreads.md#the-quaerants-mirror) [The Three Card
+Spreads](spreads.md#the-three-card-spreads) [The Relationship
+Spread](spreads.md#the-relationship-spread) [The Quaerant's
+Tower](spreads.md#the-quaerants-tower)
 
 **Reference**
 
@@ -46,9 +48,11 @@ Tower](spreads.md#quaerants-tower)
 
 **Examples**
 
-[Play Examples](examples.md) [Session One: Ashfen](examples.md#session-one)
-[Session Two: The Road from Ashfen](examples.md#session-two) [Calder - Sample
-Character](examples.md#calder-sample-character)
+[Play Examples](examples.md) [Session One:
+Ashfen](examples.md#play-example-session-one-ashfen) [Session Two: The Road
+from Ashfen](examples.md#play-example-session-two-the-road-from-ashfen)
+[Calder - Sample
+Character](examples.md#calder-sample-character-end-of-session-two)
 
 Tesserae Sortis © The Silent Bard  
 [silentbardgames.com](https://silentbardgames.com)

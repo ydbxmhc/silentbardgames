@@ -13,7 +13,7 @@ one. Is the character hurt? Blindfolded? Holding their breath against poison?
 Some modifiers *reduce* EL. Below 1, the task is impossible. Negotiate
 disagreements.
 
-![Vintage dice](odd_dice-vintage.jpg)
+![Vintage dice](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/odd_dice-vintage.jpg)
 
 The EL for a task is your target number, and will differ task to task.
 [Boosts](actions-and-timing.md#boost-actions) improve it, Harm drags it down,

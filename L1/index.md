@@ -1,4 +1,4 @@
-![Level One RPG cover](cover-fullBox.png)
+![Level One RPG cover](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cover-fullBox.png)
 
 # Level One
 

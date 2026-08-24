@@ -120,12 +120,13 @@ If it aims itself, fights on its own, navigates, diagnoses, opens doors to
 give you cover, or does anything that requires judgment, however simple - it
 gets a sheet, and the Assist Rule applies.
 
-ItemTreatment A mundane sworddoesn’t need anything A Masterwork
-sword[Traits](gear-traits.md) only An enchanted sword that glows near
-enemies[Traits](gear-traits.md) plus a [Conceit](glossary.md#conceit) An
-enchanted sword that parries on its ownSheet - that’s the Assist Rule An
-enchanted sword with its own agendaFull character sheet, [Hooks](hooks.md) and
-all
+| Item | Treatment |
+| --- | --- |
+| A mundane sword | doesn’t need anything |
+| A Masterwork sword | [Traits](gear-traits.md) only |
+| An enchanted sword that glows near enemies | [Traits](gear-traits.md) plus a [Conceit](glossary.md#conceit) |
+| An enchanted sword that parries on its own | Sheet - that’s the Assist Rule |
+| An enchanted sword with its own agenda | Full character sheet, [Hooks](hooks.md) and all |
 
 ---
 

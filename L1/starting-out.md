@@ -1,4 +1,4 @@
-![](the tale.jpg)
+![](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/the%20tale.jpg)
 
 [Home](index.md) › Starting Out
 
@@ -151,7 +151,7 @@ At only Level 2 she's pretty green and weak, but has more spine than some. She
 can take a small hit or setback and press on, but the trick is not to get hit,
 and she starts each session with two *Luck Tokens* - we'll see those later.
 
-![Lilli](lilli.png)
+![Lilli](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/lilli.png)
 
 ---
 

@@ -30,12 +30,10 @@ In a rooftop chase where you must leap an alley, a single roll trivializes a
 jump that could potentially kill you. Treat it like a fight! If it wins a roll
 you hit the far wall, knock the wind out of yourself (a
 *[Complication](types-of-harm.md)*), and scramble to hold on, but pull
-yourself up and continue the chase. A worthwhile^[1](#fn1) obstacle is a
-challenge in its own right, rolling against you with purpose and potential.
+yourself up and continue the chase. A worthwhile[^1] obstacle is a challenge
+in its own right, rolling against you with purpose and potential.
 
-#### Notes
-
-1. ***Worthwhile* Obstacles…** It's also nice to have a few easy tasks now and then. Sometimes an otherwise trivial roll can surprise you and start a whole new adventure! Usually, though, the easy stuff can just be skipped. DON'T drag the game down by making an entire battle scene out of each and every time the dwarf orders another beer. [↩](#ref1)
+[^1]: ***Worthwhile* Obstacles…** It's also nice to have a few easy tasks now and then. Sometimes an otherwise trivial roll can surprise you and start a whole new adventure! Usually, though, the easy stuff can just be skipped. DON'T drag the game down by making an entire battle scene out of each and every time the dwarf orders another beer.
 
 ---
 

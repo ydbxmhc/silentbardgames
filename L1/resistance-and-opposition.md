@@ -14,7 +14,7 @@ same fighting a goblin, picking a lock, or sweet-talking a guard, with one
 very important difference: some things just resist, but others hit back. (You
 *can* roll over EL and fail outright; we'll explain soon.)
 
-![Resistance](Resist-cropped.jpg)
+![Resistance](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Resist-cropped.jpg)
 
 Resistance is passive. It never uses your turn, but also doesn't generate
 effect. If a locked door isn't trapped it's not likely to hurt you, though it

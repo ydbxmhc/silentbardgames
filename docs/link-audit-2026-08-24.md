@@ -1,5 +1,12 @@
 # Link and anchor audit - 2026-08-24
 
+> **RESOLVED the same day.** Every defect below was a generator bug, and all of
+> them are fixed. Post-fix audit: `L1/` **0 broken nav targets, 0 broken anchors,
+> 0 missing images**, and `TS/` came clean too as a side effect - its 54 broken
+> targets, 43 broken anchors and 55 missing card images all resolved without
+> touching the game. See "Resolution" at the foot of this file. The baseline
+> below is kept as the record of what was wrong.
+
 Read-only baseline taken before the refactor begins, so that new breakage stays
 distinguishable from old. Nothing was changed. Repeat the run after each batch of
 edits to see what moved.
@@ -164,6 +171,100 @@ published. Cosmetic.
    output they already contain. The gate stops *drift*; it does not stop
    *systematic* generator error. Both are worth having, and they are separate
    jobs. `@@*`
+
+---
+
+## Resolution - 2026-08-24
+
+Six fixes, all in `tools/`. No page content was touched; 80 `.md` mirrors were
+regenerated from unchanged HTML.
+
+### 1. Headings vanishing in files with no `<main>` (was G1)
+
+**Cause, and it was not `<section>`.** `html` and `body` were missing from
+`BLOCK_TAGS`. Any file without a `<main>` of its own therefore had its entire
+document tree rendered as a single *inline* run, swallowing every heading.
+
+**Two files were affected, not one.** `WIP/core-rules-digest.md` recovered **73
+headings from zero**, unblocking the digest diff (manifest item E). And
+`Settings/Averond/levelone_averond_setting.md` had the same injury - the whole
+setting document was one wall of prose, and now carries its real structure.
+
+### 2. Tables (was G2)
+
+Added `render_table`, emitting GFM pipe tables. `assist-rule.md`'s reference
+table, previously fused into `ItemTreatment A mundane sworddoesn't need
+anything...`, now renders as a real table. Rowspan and colspan have no Markdown
+equivalent; a merged cell occupies one column and no text is dropped.
+
+### 3. Images (was G4, first face)
+
+`html2md.py` now reads `CDN_BASE` from the **nearest `config.js` above the
+page**, so `data-src="lilli.png"` becomes the full R2 URL. Reading it rather than
+hard-coding it keeps the author's stated intent - change `CDN_BASE` once and
+every reference follows, mirrors included. It also works per-game without
+special-casing, which `TS/` immediately benefited from.
+
+Spaces are percent-encoded, so `the tale.jpg` resolves.
+
+### 4. Cross-page fragments (was G4, second face)
+
+The site sets short, deliberate ids that GitHub cannot reproduce, because GitHub
+slugs the heading *text*. The converter now builds an id-to-slug map per target
+page and rewrites fragments accordingly:
+
+    actions-and-timing.md#free-action-boosts
+      -> actions-and-timing.md#free-action-access-to-pre-existing-boosts
+
+It also reads the `<span class="section-anchor">` markers that
+`anchor_sections.py` inserts, resolving them to the heading that follows. A
+fragment that genuinely cannot exist in Markdown is **dropped**, so the link
+still lands on the correct page instead of dying in place.
+
+### 5. Glossary anchors (was G4, third face)
+
+A `<dt>` carrying an id now becomes a heading rather than a bold paragraph, so
+GitHub auto-anchors it.
+
+**Verified before implementing:** all 51 glossary ids already equal the GitHub
+slug of their own term text, exactly, with zero mismatches. So the nine
+`glossary.md#conceit` links resolve with **no link rewriting at all** - the
+anchors simply exist now.
+
+*Open cosmetic question for the author:* terms render as `## **Adept**`, keeping
+the `<strong>` from the source inside a heading that is already bold. Faithful,
+slightly redundant. Say the word and the emphasis is stripped inside headings.
+
+### 6. Footnotes - now native GFM
+
+The site's hand-built footnotes translate to real Markdown footnote syntax:
+`<sup><a href="#fn1" id="ref1">1</a></sup>` becomes `[^1]`, and the definition
+list becomes `[^1]: ...`. GitHub then supplies the numbered marker, the collected
+notes section, and the return link by itself.
+
+**One deliberate omission, flagged for the record:** the `<h4>Notes</h4>` heading
+inside `<section class="footnotes">` is dropped, because GFM emits its own
+heading and relocates every definition to the foot of the document - keeping it
+would strand a heading over nothing. This is the only place the converter drops a
+heading, and it does so because the target format supplies the equivalent.
+
+### Also fixed in passing
+
+Image constructs are no longer split by the hard-wrapper. `![A sketchy little\nfigure](...)`
+still rendered, but the broken alt text defeated line-oriented tooling - including
+this audit's own script. Ordinary links are still allowed to wrap, because the
+hand-wrapped pages break inside link text and that is the house style.
+
+### What remains, and why
+
+`WIP/core-rules-digest.html` still shows **324 broken targets and 12 broken
+anchors**, and they are now the only findings left in the repo apart from three
+stale references in `Settings/Averond/work_remaining.md`.
+
+These are the digest's `.md` link targets - `roles.md`, `karma.md` - which do not
+exist beside it in `WIP/`. Harmless: it is a print artifact whose stylesheet sets
+`a{color:inherit;text-decoration:none}`, and nobody clicks a printed page. Left
+alone deliberately rather than missed. `@@*`
 
 ---
 

@@ -4,7 +4,7 @@ The Deck
 
 # Jack of Spades
 
-![Jack of Spades](cards/js.png)
+![Jack of Spades](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/js.png)
 
 ## Friar's Indulgence
 
@@ -42,8 +42,13 @@ the ledger until spring, and spring is a long way off.
 burned the archive's clutter, Renn's page among it, and no one living can name
 the sum.
 
-NotationJS DirectionNo - Black SuitSpades - Labor (No, but) Rank & RoleJack -
-Adept
+Notation JS
+
+Direction No - Black
+
+Suit Spades - Labor (No, but)
+
+Rank & Role Jack - Adept
 
 ---
 

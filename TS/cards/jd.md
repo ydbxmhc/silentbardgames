@@ -4,7 +4,7 @@ The Deck
 
 # Jack of Diamonds
 
-![Jack of Diamonds](cards/jd.png)
+![Jack of Diamonds](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/jd.png)
 
 ## Prophet's Levy
 
@@ -41,8 +41,13 @@ certain instead of easy.
 caravan entirely. Renn's contract, his purse, and his gut now disagree - and
 the draw decides which he honors.
 
-NotationJD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank &
-RoleJack - Adept
+Notation JD
+
+Direction Yes - Red
+
+Suit Diamonds - Commercial (Yes, but)
+
+Rank & Role Jack - Adept
 
 ---
 

@@ -4,7 +4,7 @@ The Deck
 
 # Queen of Diamonds
 
-![Queen of Diamonds](cards/qd.png)
+![Queen of Diamonds](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/qd.png)
 
 ## Sibyl's Price
 
@@ -41,8 +41,13 @@ Vell's purse and, as an afterthought, the naming of Vell's next daughter.
 is a season of Vell's service - beginning with an errand she will not
 describe.
 
-NotationQD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank &
-RoleQueen - Conjuror
+Notation QD
+
+Direction Yes - Red
+
+Suit Diamonds - Commercial (Yes, but)
+
+Rank & Role Queen - Conjuror
 
 ---
 

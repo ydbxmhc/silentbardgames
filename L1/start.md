@@ -35,9 +35,9 @@ How do I build a barbarian? A wizard?
 What if I want to play a werewolf?  
 Well, that's in the character book, but...
 
-![A figure reading](reader.png)
+![A figure reading](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/reader.png)
 
-![A sketchy little figure](Sketchy-lil.png)
+![A sketchy little figure](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/Sketchy-lil.png)
 
 *"The devil's in the details."*
 

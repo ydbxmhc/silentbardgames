@@ -4,7 +4,7 @@ The Deck
 
 # King of Diamonds
 
-![King of Diamonds](cards/kd.png)
+![King of Diamonds](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/kd.png)
 
 ## Magister's Fee
 
@@ -42,8 +42,13 @@ the project's margin; with the seal, the council's objection collapses.
 explains - and he observes that uncertified surveys are, of course,
 inadmissible.
 
-NotationKD DirectionYes - Red SuitDiamonds - Commercial (Yes, but) Rank &
-RoleKing - Spellweaver
+Notation KD
+
+Direction Yes - Red
+
+Suit Diamonds - Commercial (Yes, but)
+
+Rank & Role King - Spellweaver
 
 ---
 

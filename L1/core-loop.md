@@ -12,14 +12,14 @@ A locally renowned bard, you want into a restricted area at the Duke's ball.
 You pose as Lord Kelton's paramour - mustn't keep him waiting! The guard's job
 is literally to resist.
 
-![An imp girl](waywright_imp_girl_300_DPI_-_no_Background.png)
+![An imp girl](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/waywright_imp_girl_300_DPI_-_no_Background.png)
 
 ## Step 2: Add Up Whatever Will Help
 
 You're Level 3, Performer 2 with Acting 1, in tastefully tantalizing clothes
 (+1). Your Effective Level (**EL**) is 7.
 
-![Dice sketch](corner-dice.jpg)
+![Dice sketch](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/corner-dice.jpg)
 
 ## Step 3: Everyone Rolls
 

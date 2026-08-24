@@ -4,7 +4,7 @@ The Deck
 
 # King of Hearts
 
-![King of Hearts](cards/kh.png)
+![King of Hearts](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/kh.png)
 
 ## Guildmaster's Favor
 
@@ -42,8 +42,13 @@ space.
 seats, apprentices assigned, and a polite note about the private commissions
 fellows do not take.
 
-NotationKH DirectionYes - Red SuitHearts - Social (Yes, and) Rank & RoleKing -
-Spellweaver
+Notation KH
+
+Direction Yes - Red
+
+Suit Hearts - Social (Yes, and)
+
+Rank & Role King - Spellweaver
 
 ---
 

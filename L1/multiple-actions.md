@@ -37,7 +37,7 @@ do them, but to assign points of split.
 Calculate the EL for each role. Start with the *lowest* EL and assign points
 to it, then reduce ALL your ELs by that amount. Move to the next lowest
 remaining EL and repeat until you've assigned points to everything you want to
-attempt.^[1](#fn1)
+attempt.[^1]
 
 **Split Action Example**  
 A PC has Performer EL10 and Warrior EL20. She assigns 8 points to rally her
@@ -46,9 +46,7 @@ assigns 6 points from Warrior to attack, reducing both by 6; Performer is
 eliminated, Warrior becomes 6. She puts her remaining 6 Warrior points into
 active defense for the turn.
 
-#### Notes
-
-1. **Barrage Effect?** Generally, splitting is most helpful when targeting different opponents or using different abilities. Multiple attacks on the same target with the same ability gain very little numeric benefit - the advantage is tactical flexibility, not raw numbers. It can mitigate possible failure by offering several rolls, but you can get more value at less risk from combining them and manipulating the dice pool. Describe it however you like - one roll might have been the accumulated effect of four smaller hits, if you prefer. [↩](#ref1)
+[^1]: **Barrage Effect?** Generally, splitting is most helpful when targeting different opponents or using different abilities. Multiple attacks on the same target with the same ability gain very little numeric benefit - the advantage is tactical flexibility, not raw numbers. It can mitigate possible failure by offering several rolls, but you can get more value at less risk from combining them and manipulating the dice pool. Describe it however you like - one roll might have been the accumulated effect of four smaller hits, if you prefer.
 
 ---
 

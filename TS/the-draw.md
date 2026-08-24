@@ -70,7 +70,8 @@ draw. Drawing three cards raises the chance of hitting at least one Joker to
 ~10-11%.
 
 Want positional meaning assigned to each of the three cards instead of reading
-them as a group? See [The Three Card Spreads](spreads.md#three-card-spreads).
+them as a group? See [The Three Card
+Spreads](spreads.md#the-three-card-spreads).
 
 ---
 

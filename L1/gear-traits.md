@@ -26,9 +26,10 @@ can leverage. A *Sharp* sword, a *Sturdy* staff, a *Balanced* crossbow. The
 quality is real, but taking advantage of it requires skill and a roll.
 
 When you use gear with an unrated [Trait](traits.md), you may attempt a
-**[free-action Boost](actions-and-timing.md#free-action-boosts)** to leverage
-that quality on a relevant roll. This doesn’t use your turn - it’s the natural
-advantage of superior equipment in capable hands. Roll for the
+**[free-action
+Boost](actions-and-timing.md#free-action-access-to-pre-existing-boosts)** to
+leverage that quality on a relevant roll. This doesn’t use your turn - it’s
+the natural advantage of superior equipment in capable hands. Roll for the
 [Boost](actions-and-timing.md#boost-actions) as usual; success adds to your
 action, failure means you couldn’t capitalize on it this time.
 

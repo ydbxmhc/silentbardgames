@@ -4,7 +4,7 @@ The Deck
 
 # Ace of Spades
 
-![Ace of Spades](cards/as.png)
+![Ace of Spades](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/as.png)
 
 ## Duellist's Evasion
 
@@ -41,8 +41,13 @@ goes, how the man's guard drops whenever he counters high.
 *Inverted.* The dropped-guard tell holds; the next exchange is Aldric's to
 take, if he takes it before the man's second shouts a warning.
 
-NotationAS DirectionNo - Black SuitSpades - Labor (No, but) Rank & RoleAce -
-Warrior
+Notation AS
+
+Direction No - Black
+
+Suit Spades - Labor (No, but)
+
+Rank & Role Ace - Warrior
 
 ---
 

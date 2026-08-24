@@ -119,8 +119,11 @@ questions.*
 
 **Level 3** | **2 Karma** (1 session start + 1 triggered Hook this session)
 
-Ability Rank Maneuvers Warrior 2 Swordplay 2 Loremaster 2 Local Histories 2
-Sneak 1 Shadowing 1
+| Ability | Rank | Maneuvers |
+| --- | --- | --- |
+| Warrior | 2 | Swordplay 2 |
+| Loremaster | 2 | Local Histories 2 |
+| Sneak | 1 | Shadowing 1 |
 
 **Combat EL**: 3+2+2 = **7** **Investigation EL**: 3+2+2 = **7** **Stealth
 EL**: 3+1+1 = **5**

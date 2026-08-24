@@ -4,7 +4,7 @@ The Deck
 
 # Ace of Hearts
 
-![Ace of Hearts](cards/ah.png)
+![Ace of Hearts](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/ah.png)
 
 ## Champion's Glory
 
@@ -40,8 +40,13 @@ who watched the final bout offers him a paid place on the spot.
 *Inverted.* Aldric wins the sword-ring - and the man he beat is the sheriff's
 son, who has all winter and his father's writ to make the town small for him.
 
-NotationAH DirectionYes - Red SuitHearts - Social (Yes, and) Rank & RoleAce -
-Warrior
+Notation AH
+
+Direction Yes - Red
+
+Suit Hearts - Social (Yes, and)
+
+Rank & Role Ace - Warrior
 
 ---
 

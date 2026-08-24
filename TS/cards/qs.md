@@ -4,7 +4,7 @@ The Deck
 
 # Queen of Spades
 
-![Queen of Spades](cards/qs.png)
+![Queen of Spades](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/qs.png)
 
 ## Harpy's Bargain
 
@@ -43,8 +43,13 @@ step of guidance more.
 pursuers, wading in behind her under that indifferent gaze, discover the marsh
 does not consider them covered.
 
-NotationQS DirectionNo - Black SuitSpades - Labor (No, but) Rank & RoleQueen -
-Conjuror
+Notation QS
+
+Direction No - Black
+
+Suit Spades - Labor (No, but)
+
+Rank & Role Queen - Conjuror
 
 ---
 

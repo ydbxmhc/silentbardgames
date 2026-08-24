@@ -4,7 +4,7 @@ The Deck
 
 # Queen of Clubs
 
-![Queen of Clubs](cards/qc.png)
+![Queen of Clubs](https://pub-e0f96c01318c4755b491bf481c530eb1.r2.dev/cards/qc.png)
 
 ## Witch's Curse
 
@@ -43,8 +43,13 @@ door in the river trade closing in the same week, with the same words.
 harbormasters by name and fears Vell on the water specifically. That is a
 short list, and half of it dined at her table last spring.
 
-NotationQC DirectionNo - Black SuitClubs - Conflict (No, and) Rank &
-RoleQueen - Conjuror
+Notation QC
+
+Direction No - Black
+
+Suit Clubs - Conflict (No, and)
+
+Rank & Role Queen - Conjuror
 
 ---
 

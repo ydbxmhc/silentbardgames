@@ -19,78 +19,76 @@ inverted readings, with examples.
 > inversion flips the outcome outright or it simply presses harder on the
 > *but*; read whichever the moment wants.
 
-CardNameTextureReading Aces - Warrior AH[Champion's Glory](cards/ah.md)Yes,
-andThe fighter's triumph spills over into celebration. AD[Mercenary's
-Wage](cards/ad.md)Yes, butThe sword arm won the day. AS[Duellist's
-Evasion](cards/as.md)No, butThe blade arm failed but the footwork saved you.
-AC[Berserker's Rampage](cards/ac.md)No, andSomething let loose and made
-everything worse. Twos - Sniper 2H[Scout's Report](cards/2h.md)Yes,
-andIntelligence delivered cleanly, and more than was asked for.
-2D[Marksman's Reload](cards/2d.md)Yes, butThe shot landed. 2S[Catapult's
-Misfire](cards/2s.md)No, butThe mechanism failed but something useful landed
-in the chaos anyway. 2C[Arbalest's Volley](cards/2c.md)No, andHeavy,
-mechanical, and it's still coming. Threes - Performer 3H[Actor's
-Roses](cards/3h.md)Yes, andThe crowd threw flowers. 3D[Mentor's
-Critique](cards/3d.md)Yes, butThe performance worked. 3S[Reviewer's
-Nostalgia](cards/3s.md)No, butThe review wasn't favorable, but something in
-the performance triggered a memory in someone who matters. 3C[Heckler's
-Victory](cards/3c.md)No, andThe performance failed and the room turned.
-Fours - Sneak 4H[Spy's Package](cards/4h.md)Yes, andThe intelligence arrived
-and something extra was tucked inside that nobody expected. 4D[Assassin's
-Compulsion](cards/4d.md)Yes, butThe job is done. 4S[Prisoner's
-Map](cards/4s.md)No, butFailed, confined, seemingly stuck. 4C[Burglar's
-Ligature](cards/4c.md)No, andCaught and bound, and things are actively
-getting worse. Fives - Naturalist 5H[Forager's Bounty](cards/5h.md)Yes,
-andNature provided more than asked. 5D[Wayfarer's Pack](cards/5d.md)Yes,
-butYou have what you need. 5S[Herbalist's Antidote](cards/5s.md)No, butThe
-situation is bad but here is something specific that addresses the harm.
-5C[Mountaineer's Avalanche](cards/5c.md)No, andUnstoppable, impersonal, and
-it absolutely made everything worse. Sixs - Beast Handler 6H[Ox Team's
-Calf](cards/6h.md)Yes, andThe labor partnership produced something new and
-valuable beyond the work itself. 6D[Courser's Re-shoeing](cards/6d.md)Yes,
-butYou got where you needed to go. 6S[Hounds' Fault](cards/6s.md)No, butThe
-hunting term for losing the scent. 6C[Grizzly's Pursuit](cards/6c.md)No,
-andYou are the prey. Sevens - Athlete 7H[Victor's Laurels](cards/7h.md)Yes,
-andClassical and generous. 7D[Competitor's Fee](cards/7d.md)Yes, butYou
-placed, you earned. 7S[Runner's Consolation](cards/7s.md)No, butDidn't win,
-didn't place, but finished. 7C[Dropout's Disgrace](cards/7c.md)No, andNot
-just losing but the public consequence of failing to finish. Eights - Healer
-8H[Nurse's Handfasting](cards/8h.md)Yes, andThe healer and patient bound
-together through the act of care. 8D[Remedy's Addiction](cards/8d.md)Yes,
-butThe remedy worked. 8S[Hollow Leg](cards/8s.md)No, butThe medicine went in
-and nothing changed. 8C[Apothecary's Grief](cards/8c.md)No, andThe treatment
-failed and the condition worsened. Nines - Loremaster 9H[Librarian's
-Recommendation](cards/9h.md)Yes, andThe research succeeded and the librarian
-liked you enough to send you somewhere better. 9D[Investigator's
-Attention](cards/9d.md)Yes, butYou found what you were looking for.
-9S[Sage's Rescheduling](cards/9s.md)No, butThe Sage couldn't see you today.
-9C[Censor's Torch](cards/9c.md)No, andThe knowledge existed, you found it,
-and now it's ash and you're known for having looked. Tens - Tinker
-10H[Alchemist's Discovery](cards/10h.md)Yes, andThe experiment worked and
-produced something nobody expected. 10D[Razor's Nick](cards/10d.md)Yes,
-butThe tool is sharp, the work is done, and there's a small precise cost
-attached. 10S[Engineer's Salvage](cards/10s.md)No, butThe mechanism failed
-but the parts are recoverable. 10C[Miller's Fire](cards/10c.md)No, andThe
-mill burned. Jacks - Adept JH[Bard's Ode](cards/jh.md)Yes, andA gift freely
-given, a story that opens doors. JD[Prophet's Levy](cards/jd.md)Yes, butThe
-vision was accurate, the path is clear - but the Prophet collects his due
-and you didn't get a say. JS[Friar's Indulgence](cards/js.md)No, butYou
-didn't earn this. JC[Soothsayer's Hex](cards/jc.md)No, andThe truth was
-spoken and it cut deep. Queens - Conjuror QH[Enchantress'
-Boon](cards/qh.md)Yes, andA gift from someone who didn't have to give it.
-QD[Sibyl's Price](cards/qd.md)Yes, butThe Sibyl's prophecies were always
-accurate and always costly. QS[Harpy's Bargain](cards/qs.md)No,
-butUnpleasant terms, uncomfortable company, a deal struck in circumstances
-nobody would have chosen. QC[Witch's Curse](cards/qc.md)No, andNot merely
-opposition - deliberate, targeted, personal. Kings - Spellweaver
-KH[Guildmaster's Favor](cards/kh.md)Yes, andInstitutional approval, freely
-and publicly given. KD[Magister's Fee](cards/kd.md)Yes, butThe knowledge was
-accurate. KS[Artificer's Workaround](cards/ks.md)No, butSomething bound and
-purposeful is working against you, methodically and without malice.
-KC[Inquisitor's Writ](cards/kc.md)No, andThe full weight of organized
-authority, properly documented, coming down. Jokers Xr[Joker
-(Red)](cards/Xr.md)-Chaos with potential. Xb[Joker (Black &
-White)](cards/Xb.md)-Chaos with teeth.
+| Card | Name | Texture | Reading |
+| --- | --- | --- | --- |
+| Aces - Warrior |  |  |  |
+| AH | [Champion's Glory](cards/ah.md) | Yes, and | The fighter's triumph spills over into celebration. |
+| AD | [Mercenary's Wage](cards/ad.md) | Yes, but | The sword arm won the day. |
+| AS | [Duellist's Evasion](cards/as.md) | No, but | The blade arm failed but the footwork saved you. |
+| AC | [Berserker's Rampage](cards/ac.md) | No, and | Something let loose and made everything worse. |
+| Twos - Sniper |  |  |  |
+| 2H | [Scout's Report](cards/2h.md) | Yes, and | Intelligence delivered cleanly, and more than was asked for. |
+| 2D | [Marksman's Reload](cards/2d.md) | Yes, but | The shot landed. |
+| 2S | [Catapult's Misfire](cards/2s.md) | No, but | The mechanism failed but something useful landed in the chaos anyway. |
+| 2C | [Arbalest's Volley](cards/2c.md) | No, and | Heavy, mechanical, and it's still coming. |
+| Threes - Performer |  |  |  |
+| 3H | [Actor's Roses](cards/3h.md) | Yes, and | The crowd threw flowers. |
+| 3D | [Mentor's Critique](cards/3d.md) | Yes, but | The performance worked. |
+| 3S | [Reviewer's Nostalgia](cards/3s.md) | No, but | The review wasn't favorable, but something in the performance triggered a memory in someone who matters. |
+| 3C | [Heckler's Victory](cards/3c.md) | No, and | The performance failed and the room turned. |
+| Fours - Sneak |  |  |  |
+| 4H | [Spy's Package](cards/4h.md) | Yes, and | The intelligence arrived and something extra was tucked inside that nobody expected. |
+| 4D | [Assassin's Compulsion](cards/4d.md) | Yes, but | The job is done. |
+| 4S | [Prisoner's Map](cards/4s.md) | No, but | Failed, confined, seemingly stuck. |
+| 4C | [Burglar's Ligature](cards/4c.md) | No, and | Caught and bound, and things are actively getting worse. |
+| Fives - Naturalist |  |  |  |
+| 5H | [Forager's Bounty](cards/5h.md) | Yes, and | Nature provided more than asked. |
+| 5D | [Wayfarer's Pack](cards/5d.md) | Yes, but | You have what you need. |
+| 5S | [Herbalist's Antidote](cards/5s.md) | No, but | The situation is bad but here is something specific that addresses the harm. |
+| 5C | [Mountaineer's Avalanche](cards/5c.md) | No, and | Unstoppable, impersonal, and it absolutely made everything worse. |
+| Sixs - Beast Handler |  |  |  |
+| 6H | [Ox Team's Calf](cards/6h.md) | Yes, and | The labor partnership produced something new and valuable beyond the work itself. |
+| 6D | [Courser's Re-shoeing](cards/6d.md) | Yes, but | You got where you needed to go. |
+| 6S | [Hounds' Fault](cards/6s.md) | No, but | The hunting term for losing the scent. |
+| 6C | [Grizzly's Pursuit](cards/6c.md) | No, and | You are the prey. |
+| Sevens - Athlete |  |  |  |
+| 7H | [Victor's Laurels](cards/7h.md) | Yes, and | Classical and generous. |
+| 7D | [Competitor's Fee](cards/7d.md) | Yes, but | You placed, you earned. |
+| 7S | [Runner's Consolation](cards/7s.md) | No, but | Didn't win, didn't place, but finished. |
+| 7C | [Dropout's Disgrace](cards/7c.md) | No, and | Not just losing but the public consequence of failing to finish. |
+| Eights - Healer |  |  |  |
+| 8H | [Nurse's Handfasting](cards/8h.md) | Yes, and | The healer and patient bound together through the act of care. |
+| 8D | [Remedy's Addiction](cards/8d.md) | Yes, but | The remedy worked. |
+| 8S | [Hollow Leg](cards/8s.md) | No, but | The medicine went in and nothing changed. |
+| 8C | [Apothecary's Grief](cards/8c.md) | No, and | The treatment failed and the condition worsened. |
+| Nines - Loremaster |  |  |  |
+| 9H | [Librarian's Recommendation](cards/9h.md) | Yes, and | The research succeeded and the librarian liked you enough to send you somewhere better. |
+| 9D | [Investigator's Attention](cards/9d.md) | Yes, but | You found what you were looking for. |
+| 9S | [Sage's Rescheduling](cards/9s.md) | No, but | The Sage couldn't see you today. |
+| 9C | [Censor's Torch](cards/9c.md) | No, and | The knowledge existed, you found it, and now it's ash and you're known for having looked. |
+| Tens - Tinker |  |  |  |
+| 10H | [Alchemist's Discovery](cards/10h.md) | Yes, and | The experiment worked and produced something nobody expected. |
+| 10D | [Razor's Nick](cards/10d.md) | Yes, but | The tool is sharp, the work is done, and there's a small precise cost attached. |
+| 10S | [Engineer's Salvage](cards/10s.md) | No, but | The mechanism failed but the parts are recoverable. |
+| 10C | [Miller's Fire](cards/10c.md) | No, and | The mill burned. |
+| Jacks - Adept |  |  |  |
+| JH | [Bard's Ode](cards/jh.md) | Yes, and | A gift freely given, a story that opens doors. |
+| JD | [Prophet's Levy](cards/jd.md) | Yes, but | The vision was accurate, the path is clear - but the Prophet collects his due and you didn't get a say. |
+| JS | [Friar's Indulgence](cards/js.md) | No, but | You didn't earn this. |
+| JC | [Soothsayer's Hex](cards/jc.md) | No, and | The truth was spoken and it cut deep. |
+| Queens - Conjuror |  |  |  |
+| QH | [Enchantress' Boon](cards/qh.md) | Yes, and | A gift from someone who didn't have to give it. |
+| QD | [Sibyl's Price](cards/qd.md) | Yes, but | The Sibyl's prophecies were always accurate and always costly. |
+| QS | [Harpy's Bargain](cards/qs.md) | No, but | Unpleasant terms, uncomfortable company, a deal struck in circumstances nobody would have chosen. |
+| QC | [Witch's Curse](cards/qc.md) | No, and | Not merely opposition - deliberate, targeted, personal. |
+| Kings - Spellweaver |  |  |  |
+| KH | [Guildmaster's Favor](cards/kh.md) | Yes, and | Institutional approval, freely and publicly given. |
+| KD | [Magister's Fee](cards/kd.md) | Yes, but | The knowledge was accurate. |
+| KS | [Artificer's Workaround](cards/ks.md) | No, but | Something bound and purposeful is working against you, methodically and without malice. |
+| KC | [Inquisitor's Writ](cards/kc.md) | No, and | The full weight of organized authority, properly documented, coming down. |
+| Jokers |  |  |  |
+| Xr | [Joker (Red)](cards/Xr.md) | - | Chaos with potential. |
+| Xb | [Joker (Black & White)](cards/Xb.md) | - | Chaos with teeth. |
 
 ---
 

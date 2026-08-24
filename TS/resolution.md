@@ -171,9 +171,12 @@ capability. Higher rating means more buffer, not guaranteed victory.
 Each round, one or both sides draw a card. Apply the suit result before
 continuing:
 
-Suit Effect **Hearts** You +1 token, opponent -1 token **Diamonds** You +1
-token, opponent +1 token **Spades** You -1 token, opponent -1 token **Clubs**
-You -1 token, opponent +1 token
+| Suit | Effect |
+| --- | --- |
+| **Hearts** | You +1 token, opponent -1 token |
+| **Diamonds** | You +1 token, opponent +1 token |
+| **Spades** | You -1 token, opponent -1 token |
+| **Clubs** | You -1 token, opponent +1 token |
 
 When both sides draw simultaneously, apply both results before checking
 status. A Hearts draw against a Clubs draw produces a net swing of 4 - every

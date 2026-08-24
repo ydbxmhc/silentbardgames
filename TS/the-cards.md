@@ -18,8 +18,12 @@ rest of the site reads at a glance.
 
 ♠ Spades S
 
-Element Written as Ranks A · 2-9 · 0 · J · Q · K Suits ♥ H ♦ D ♣ C ♠ S Color
-only *r* (red) · *b* (black) Jokers Xr (colored / red) · Xb (black & white)
+| Element | Written as |
+| --- | --- |
+| Ranks | A · 2-9 · 0 · J · Q · K |
+| Suits | ♥ H ♦ D ♣ C ♠ S |
+| Color only | *r* (red) · *b* (black) |
+| Jokers | Xr (colored / red) · Xb (black & white) |
 
 Tens are written as **0** - a single character that removes the only two-digit
 label and lets zero stand as a value. Aces are **low** (value = 1) throughout.
@@ -39,7 +43,10 @@ label and lets zero stand as a value. Aces are **low** (value = 1) throughout.
 
 ### Color: Direction
 
-Color Meaning Red Yes Black No
+| Color | Meaning |
+| --- | --- |
+| Red | Yes |
+| Black | No |
 
 *Design note on color: Red=Yes, Black=No follows the existing coloring of a
 standard deck and traditional interpretation. This is worth naming plainly
@@ -50,14 +57,12 @@ keep the suit domains and descriptions neutral and free of value judgment.*
 
 ### Suit: Narrative Texture & Thematic Domain
 
-Suit Texture Domain ♥ **H**earts Yes, *and* - an additional beneficial result
-or lead Social - romance, reputation, contacts, art, gifts, influence ♦
-**D**iamonds Yes, *but* - an unwanted side effect accompanies success
-Commercial - trade, cost, worth, value, municipal action ♣ **C**lubs No,
-*and* - failure triggers an unwanted side effect Conflict - fighting,
-soldiers, guards, raiders, coercion ♠ **S**pades No, *but* - failure yields
-progress toward the goal Labor - tradesfolk, tools, mechanisms, guilds,
-farming, mines, caravans
+| Suit | Texture | Domain |
+| --- | --- | --- |
+| ♥ **H**earts | Yes, *and* - an additional beneficial result or lead | Social - romance, reputation, contacts, art, gifts, influence |
+| ♦ **D**iamonds | Yes, *but* - an unwanted side effect accompanies success | Commercial - trade, cost, worth, value, municipal action |
+| ♣ **C**lubs | No, *and* - failure triggers an unwanted side effect | Conflict - fighting, soldiers, guards, raiders, coercion |
+| ♠ **S**pades | No, *but* - failure yields progress toward the goal | Labor - tradesfolk, tools, mechanisms, guilds, farming, mines, caravans |
 
 *Design note: We chose visually intuitive suit associations (a club is a
 weapon, a spade is a digging tool) over traditional cartomancy mappings.
@@ -70,17 +75,21 @@ division maps cleanly here.*
 
 ### Rank: The Roles
 
-Rank Role Domain A Warrior violence, brutality, physical confrontation 2
-Sniper Ranged precision, tactical positioning, action at distance 3 Performer
-Emotional manipulation, social influence, entertainment 4 Sneak Concealment,
-stealth, acting undetected 5 Naturalist Wilderness, survival, tracking,
-environmental knowledge 6 Beast Handler Animals, training, compromise,
-partnership 7 Athlete Physical excellence, endurance, athletic feats 8 Healer
-Medical matters, assistance, any care 9 Loremaster Knowledge, reasoning,
-seeking or finding wisdom 0 Tinker Craft, process, problem-solving, goods and
-services J Adept Intuition, talent, spontaneity Q Conjuror Spiritual matters,
-negotiation, making deals, matters unseen K Spellweaver Formulaic wonders,
-rules that break rules, supremacy of wit
+| Rank | Role | Domain |
+| --- | --- | --- |
+| A | Warrior | violence, brutality, physical confrontation |
+| 2 | Sniper | Ranged precision, tactical positioning, action at distance |
+| 3 | Performer | Emotional manipulation, social influence, entertainment |
+| 4 | Sneak | Concealment, stealth, acting undetected |
+| 5 | Naturalist | Wilderness, survival, tracking, environmental knowledge |
+| 6 | Beast Handler | Animals, training, compromise, partnership |
+| 7 | Athlete | Physical excellence, endurance, athletic feats |
+| 8 | Healer | Medical matters, assistance, any care |
+| 9 | Loremaster | Knowledge, reasoning, seeking or finding wisdom |
+| 0 | Tinker | Craft, process, problem-solving, goods and services |
+| J | Adept | Intuition, talent, spontaneity |
+| Q | Conjuror | Spiritual matters, negotiation, making deals, matters unseen |
+| K | Spellweaver | Formulaic wonders, rules that break rules, supremacy of wit |
 
 Pip cards (A-0) represent mundane matters. Face cards (J, Q, K) represent
 wondrous or (at least seemingly) arcane moments.
@@ -91,9 +100,10 @@ When it doesn't, simply read color and suit and move on.
 
 ### The Jokers: Chaos & Permission
 
-Card Meaning **Xr** Chaos with potential - weird, wonderful, disruptive;
-possibly a gift. **Xb** Chaos with teeth - extraordinary and probably
-dangerous; your gut says to be wary.
+| Card | Meaning |
+| --- | --- |
+| **Xr** | Chaos with potential - weird, wonderful, disruptive; possibly a gift. |
+| **Xb** | Chaos with teeth - extraordinary and probably dangerous; your gut says to be wary. |
 
 Either Joker suspends the normal interpretive range. Go bigger. Go stranger.
 Go unexpected. The non-Joker cards in the same draw offer thematic guidance
