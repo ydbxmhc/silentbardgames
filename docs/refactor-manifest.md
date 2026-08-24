@@ -292,6 +292,13 @@ once they are more than a note.
 
 **Status:** `BLOCKED` - author decision; blocks B and C
 
+**Draft taxonomy ready for review:** `docs/callout-taxonomy-draft.md`, 2026-08-24.
+Proposes seven types on one axis (footnote, aside, sidebar, callout, worked
+example, in-play dialogue, mechanical annotation) and a second, independent axis
+of **role** - load-bearing versus enrichment - which is what the reading toggle
+should key off rather than type. Six open questions at its foot, the first being
+whether seven types should collapse to five. `@@*`
+
 **The problem, as surfaced by the Recovery Trope:** some callouts are decorative
 asides, and some are *named things* readers will want to cite, link to, and find
 in the table of contents. The Recovery Trope is the second kind. So are several
@@ -327,6 +334,42 @@ kinds rather than two: six named concepts (the Recovery Trope's species,
 including *Hodges' Rule of Thumb*, a named rule that is currently unlinkable),
 three worked examples, and four narrative captions that want no anchor at all.
 Retrofit cost once the standard lands is small - nine callouts.
+
+---
+
+## J. Rewrite the *In Action* vignettes
+
+**Status:** `PARKED` - late-stage, author prose, deliberately after everything else
+
+**What:** The thirteen *In Action* pages need extensive rewriting. Author's
+assessment, 2026-08-24: one or two of the stories are fun, but their real purpose
+is exposition, and most of them do not carry it well. The pages exist largely to
+host their callouts - 64 of the book's 83, the entire mechanical-annotation tier.
+
+**Why it is parked and not dropped:** rewriting narrative prose is authorship,
+and it should happen after the callout taxonomy (item I) exists, so the rewrites
+are written *into* the new structure rather than retrofitted twice.
+
+**Carries the reading-toggle idea.** Because the mechanical tier is separable
+from the narrative around it, a reader could hide the numbers and read the story,
+or hide the story and study the numbers. `L1Prefs` and `settings.html` already
+exist to hold that preference.
+
+The author's caution is recorded and agreed: a toggle only pays off where **both
+layers stand alone**, and on most *In Action* pages today neither does. Hiding
+the math leaves a thin story; hiding the story leaves orphaned arithmetic. So:
+
+- **build the class now** as part of item I, because it costs nothing extra
+- **build the toggle after this rewrite**, when the pages can carry it
+
+Full reasoning in `docs/callout-taxonomy-draft.md`. `@@*`
+
+**Also noted:** `action/conjuror.html` has no callouts at all, where
+`action/athlete.html` has 15 and `warrior` and `healer` have 9 each. Possibly the
+nature of that vignette, possibly a page that never got the treatment. Worth a
+look during the rewrite.
+
+**Depends on:** I.
 
 ---
 
