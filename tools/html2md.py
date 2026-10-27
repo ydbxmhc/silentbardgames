@@ -536,7 +536,7 @@ def definition_pairs(node):
                 blocks.append(term)
             if ch.attrs.get("id"):
                 # Level 2: the only <dl> in the book sits under a lone <h1>.
-                blocks.append(f"## {inline}")
+                blocks.append(f"## {strip_redundant_bold(inline)}")
                 term = None
             else:
                 term = inline
@@ -607,6 +607,30 @@ def render_table(node):
     return out
 
 
+WHOLLY_BOLD_RE = re.compile(r'^\*\*(.+)\*\*$', re.S)
+
+
+def strip_redundant_bold(text):
+    """Drop bold that wraps an entire heading, because headings are already bold.
+
+    The glossary marks every term <strong> inside its <dt>, which is right in
+    HTML -- a definition term is not bold by default. Once that term becomes a
+    Markdown heading the emphasis is pure noise: "## **Adept**".
+
+    Italic is deliberately left alone. A heading is bold by default but never
+    italic, so <em> around a whole heading is a real stylistic choice, not
+    redundancy -- "Can I Try Again?" and "Where Are My Hit Points???" are voiced
+    that way on purpose.
+
+    Only an unambiguous wrap is stripped: if the inner text carries its own **
+    the markers may not pair the way they appear to, so it is left untouched.
+    """
+    m = WHOLLY_BOLD_RE.match(text.strip())
+    if not m or "**" in m.group(1):
+        return text
+    return m.group(1)
+
+
 def render_block(node):
     t = node.tag
     c = node.cls()
@@ -624,7 +648,7 @@ def render_block(node):
 
     if t in ("h1", "h2", "h3", "h4", "h5", "h6"):
         level = int(t[1])
-        return [f"{'#' * level} {finalize(render_inline(node))}".rstrip()]
+        return [f"{'#' * level} {strip_redundant_bold(finalize(render_inline(node)))}".rstrip()]
 
     if t == "p":
         text = finalize(render_inline(node))

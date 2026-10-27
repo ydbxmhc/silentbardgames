@@ -231,9 +231,25 @@ slug of their own term text, exactly, with zero mismatches. So the nine
 `glossary.md#conceit` links resolve with **no link rewriting at all** - the
 anchors simply exist now.
 
-*Open cosmetic question for the author:* terms render as `## **Adept**`, keeping
-the `<strong>` from the source inside a heading that is already bold. Faithful,
-slightly redundant. Say the word and the emphasis is stripped inside headings.
+*Resolved 2026-08-24:* terms initially rendered as `## **Adept**`, keeping the
+source `<strong>` inside a heading that is already bold. Author's ruling - cruft,
+clean it up. Headings wrapped **entirely** in bold now have it stripped.
+
+**Italic is deliberately left alone.** A heading is bold by default but never
+italic, so `<em>` around a whole heading is a real stylistic choice rather than
+redundancy. Three headings depend on it and keep their voice:
+
+    # *"Can I Try Again?"*
+    ## *Where Are My Hit Points???*
+    ### *I'd Really Rather Not Deal With All This...*
+
+Bold is also left alone where the inner text carries its own `**`, since the
+markers may not pair the way they appear to.
+
+Anchors are unaffected: GitHub slugs rendered text, so `## **Adept**` and
+`## Adept` both yield `#adept`. Terms that are themselves links keep them -
+`## [Boost](actions-and-timing.md#boost-actions)` still slugs to `#boost`.
+Verified by a clean audit after the change.
 
 ### 6. Footnotes - now native GFM
 

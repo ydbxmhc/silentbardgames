@@ -454,6 +454,49 @@ look during the rewrite.
 
 ---
 
+## K. Volume structure
+
+**Status:** `BLOCKED` - one question, noted below
+
+**Author-stated 2026-08-24, at the end of the day:** the line wants a volume for
+**Mechanics**, a volume for **Roles and Maneuvers**, and a volume for **Setting
+and GM notes**. With that skeleton in place, further volumes can be added -
+bestiaries were the named example.
+
+**This is three volumes. `docs/print-booklet-plan.md` describes four**, dated
+2026-07-12, page-accurate against the print source:
+
+| Booklet plan (four) | Author's volumes (three) |
+| --- | --- |
+| Core - intro, mechanics, gear, karma, chargen | **Mechanics** |
+| Roles & Maneuvers - mundane roles only | **Roles and Maneuvers** |
+| Magick - system + Adept, Spellweaver, Conjuror | **?** |
+| Running the Game - GM material + appendices | **Setting and GM notes** |
+
+**The open question is Magick.** It has no obvious home in the three. Either the
+three practitioners rejoin **Roles and Maneuvers** - they are Roles, and the
+older plan split them out only because they sat conveniently at the tail - or
+the grimoire goes to **Setting and GM notes**, or Magick remains a fourth volume
+and "three" was shorthand for the shape rather than the count. `@@*`
+
+**A second, quieter difference:** the older plan called the last booklet *Running
+the Game*. The author called it *Setting and GM notes*. Adding **Setting** to the
+title may mean the `Settings/` material - Accord, Averond, Vigil - is intended to
+join the printed line, which the booklet plan does not currently contemplate.
+Worth confirming rather than assuming. `@@*`
+
+Everything else in the booklet plan still applies and should not be re-derived:
+the saddle-stitch ruler (multiples of 4, ~64pp ceiling, no sub-16pp pamphlets),
+movable full-page art as shims, the condensed mechanics primer opening every
+volume except the first, and the list of web-canon deltas that must land in the
+right volume.
+
+**Depends on:** nothing structural, but it sets the target for item E. Reconcile
+the count before the reconciliation work goes much further, or pages get fitted
+to a volume that changes shape underneath them.
+
+---
+
 ## Decisions Log
 
 | Date | Decision |
