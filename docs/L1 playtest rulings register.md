@@ -18,7 +18,7 @@ Each entry: **[STATUS] Short title.** The ruling or question. *(Where it came fr
 
 Updated 2026-10-22: the four conflicts in section 23 resolved.
 Updated 2026-10-30: the late S14 rulings (Days 15-18) folded in.
-Updated 2026-11-06: healing by petition (sec 9); improvised cast EL and recast EL (sec 11); attendance Karma timing (sec 7) -- from the S17 talk.
+Updated 2026-11-06: healing by petition (sec 9); improvised cast EL and recast EL (sec 11); losing the spell ends its Persistent instances (sec 12); attendance Karma timing (sec 7) -- from the S17 talk.
 Updated 2026-11-04: the S15 rulings folded in (tagged S15).
 Updated 2026-11-06: the S16 rulings and Lee's S16 opposition guidance folded in (tagged S16); new section 25, the GM crib.
 
@@ -246,7 +246,7 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 ## 11. Spellcraft: casting, improvisation, release
 
 - **[RULED] Improvised casting is TWO rolls, always.** (1) HOLD: a free-action resistance roll against the spell destabilizing, vs DL = 1 per added useful Trait (limiting Traits subtract); pass/fail; fail = the spell is lost until rebound. Hold EL = the spell's EL + Spell Improvisation. (2) CAST at full power; the hold doesn't reduce its effect. "I don't want to make it more effective by making it less effective." *(S04, S06 Pt2, S10, S11; notes)* -> shaping-effects.md: "then roll the cast normally."
-- **[RULED] The improvised CAST is at the plain recast EL; Spell Improvisation raises only the HOLD.** A Persistent Fax at recast 11 casts at 11, "NOT 13." The hold is a separate roll, only to add the modification and keep it stable; fail = the bound spell is lost (full ritual only until re-bound). Attempting the modification SNUFFS the caster's outstanding non-Persistent castings of that spell; Persistent ones survive. *(S17 talk, Lee; corrects the S15 Persistent recipe, which cast at the improvising EL)* -> shaping-effects.md.
+- **[RULED] The improvised CAST is at the plain recast EL; Spell Improvisation raises only the HOLD.** A Persistent Fax at recast 11 casts at 11, "NOT 13"; its hold is 11 + 3 = 14. Improvisation dice never go on the cast. The hold is a separate roll, only to add the modification and keep it stable; fail = the bound spell is lost (full ritual only until re-bound). Attempting the modification SNUFFS the caster's outstanding non-Persistent castings of that spell; Persistent ones survive. *(S17 talk, Lee; corrects the S15 Persistent recipe, which cast at the improvising EL)* -> shaping-effects.md.
 - **[IN BOOK] Recast EL = Level + ALL unbound Role ranks + ranks bound in the spell + all its Maneuver ranks** (spellcraft.md, Recasting). Cari's sheet had dropped the bound rank since about S14 (one die short). *(S17)*
 - **[RULED] Required Traits count toward Difficulty.** Scry as written is DL5; playtest: Guidable optional (+1), so DL4 base. *(S11; notes)* -> the Difficult-spell text.
 - **[RULED] Holding is not casting.** When the hold succeeds, the "casting" roll is the work itself (Scry: the seeking, at a GM-set DL). Scrying your own location is Astral Projection. *(S11)*
@@ -276,6 +276,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] "The world tends to put things back."** When a spell ends, the world restores what it changed. *(S05)* [PROPOSAL @@*] corollaries: matter that can't resume its shape where it sits crumbles; only the spell's change reverts; permanence is bought; a place's genius that ACCEPTS the new shape may let it stay.
 - **[RULED] DAWN: an Extreme FAILURE on the AGE dice** works like an Extreme success on the casting's own roll -- the casting's age resets to 1. *(S14, Lee: "maybe the functional result is the same?")* -> spellcraft.md, the Dawn rule.
 - **[RULED] Spent castings go when their purpose does.** A Persistent wager made for one casting fades with its scene; lights and eyes set for a job are dismissed when the job is done -- "one less thing to keep track of." *(S14, Lee)*
+
+- **[RULED] Losing the spell puts out every Persistent instance of it, anywhere,** unless that instance was explicitly built with the Gear system. Persistent only means the caster can "look away" (cast another spell); a light that never goes out unless put out is Gear work. Applies whenever the binding is lost: a failed improvisation hold, a destabilized recast, a Release. *(S17 talk, Lee)* -> traits.md (Persistent) and spellcraft.md.
 
 ## 13. Spellcraft: individual spells and Traits
 
