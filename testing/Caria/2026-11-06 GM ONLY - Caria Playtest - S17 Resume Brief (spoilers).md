@@ -51,3 +51,6 @@ Lee asked that S17 put the dice procedure under the microscope, even at some cos
 ## Open threads (UNDECIDED unless noted)
 - Karma spend (S17 start). The broken third-bend shrine. The other given children (graves, names). The other novice grave that week. The lost initials / incomplete restitution. Wenna's telling (Ilse will send). Olef's "pay it on." Pryce's answer unread. The Crossroads circuit priest. Godric and Calder in Ganth; the Council. Tessa's nights at Aldy's. Teague's staff (return). The steaming garth flags and stream. The Cold's taste of her.
 - Owed paperwork: summary pages S06 Pt2 - S16; master character file through S16; CAST/Gazetteer for Crossroads and the Monastery (the testing/Caria index is a start); the Project's register copy is STALE (repo branch is canonical).
+
+## ADDENDUM -- S17 OPENED (2026-11-06, end of the S16 chat)
+S17 is open; continue it, don't restart it. The S17 ledger has the opening state, the GM TRUTH for the third bend (set before play: the frightened bend spirit is clutching COLM's hand in the niche and has let go of the crack; force makes it hold harder; it trusts the Bend #2 light; about an hour of daylight), and the last beat (three short blasts; Ruddock at the study door). Karma 5 unspent.
