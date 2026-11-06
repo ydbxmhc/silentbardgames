@@ -61,11 +61,11 @@ This is the one living sheet, holding current numbers only. Update it in place w
 
 ## Spells
 - **Known, free with Spellweaver ranks:** Phantasmal Veil; Fume (Poison Cloud); Tanglebones; Stone Shape. **Known as Maneuvers:** Fax Iacta (Spellweaver); Scry and Light (Loremaster).
-- **Bound** (2 ranks; **2 unbound**) -- unchanged in S15:
-  - **Fax Iacta** (Role 1 + Maneuver 3): recast **EL10**; **13** improvising (hold at the same EL).
-  - **Phantasmal Veil** (Role 1): recast **EL7**; **10** improvising. A willing target needs no roll to be affected.
+- **Bound** (2 ranks; **2 unbound**). Recast EL [spellcraft.md, Recasting]: Level + ALL unbound Role ranks + ranks bound in the spell + all its Maneuver ranks. (Corrected S17: the sheet had dropped the bound rank since ~S14, one die short.)
+  - **Fax Iacta** (Role 1 + Maneuver 3): recast **EL11** (Lv5 + 2 unbound + 1 bound + 3). Improvising: HOLD at recast + Spell Improvisation = **14** @@ (Lee said 13 -- confirm); the CAST stays at **11** [Lee, S17].
+  - **Phantasmal Veil** (Role 1): recast **EL8** (Lv5 + 2 unbound + 1 bound). Improvising: HOLD **11**; the CAST stays at **8**. A willing target needs no roll to be affected.
 - **Unbound, full ritual at EL7:** Stone Shape, Fume, Tanglebones, Scry, Light.
-- **Persistent Fax recipe (S15):** HOLD at the improvising EL (now **13**) vs DL1; the CAST at that EL = its STRENGTH.
+- **Persistent Fax recipe [Lee, S17 -- corrects S15]:** a SEPARATE HOLD roll (recast + Spell Improvisation) vs DL = 1 per useful Trait, only to add the modification and keep it stable; failing LOSES the bound spell (full ritual only, until re-bound). Then the CAST at the plain recast EL (**11**) = its STRENGTH. Attempting the modification SNUFFS her outstanding non-Persistent castings of that spell (Persistent ones survive -- that's what Persistent is for).
 - **Stone Shape [S15 rulings]:** Constrained can cost; release reverts if it can; a new permanent shape is an enchantment (item creation).
 - **Gathering mana:** a Spellweaver Boost on free ranks (EL7), opposed by the place; a Persistent Boost is wagered BEFORE the roll.
 - **CHANNELLED [Lee, S13]:** casting or Sight THROUGH Asher at any distance; +1 DL.
