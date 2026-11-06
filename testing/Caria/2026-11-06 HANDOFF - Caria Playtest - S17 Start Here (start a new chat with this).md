@@ -13,19 +13,20 @@ S17 was opened at the end of the S16 chat, which then compacted, so play continu
 
 ## Where the files are now
 - **Everything** is in the repo: `ydbxmhc/silentbardgames`, branch **`testing`**, folder **`testing/Caria/`**, with a generated index, `00 INDEX - Caria Playtest.md` (rebuild: `python testing/Caria/_index/build_index.py`; add names to `_index/names.tsv`). Also in `C:\Users\pavel\Lili's Bottle\Averond\Caria Playtest` and (most of it) the Averond Project.
-- **The rulings register** is canonical in the repo: branch **`claude/playtest-rulings-register`**, `docs/L1 playtest rulings register.md`, S01-S16, with **section 25, the GM crib**. The Project's copy stops at S15 -- don't trust it over the repo.
-- The S16 ledger is long; the Project copy stops at Day 28 Vespers. Use the repo or the PC folder copy.
+- **The rulings register** is canonical in the repo: branch **`claude/playtest-rulings-register`**, `docs/L1 playtest rulings register.md`, S01-S17, with **section 25, the GM crib**. The PROJECT now has it CURRENT in two parts (too big for one): `L1 playtest rulings register` (sections 1-9) and `L1 playtest rulings register (part 2 of 2, secs 10-25)` (incl. sec 25).
+- **The S16 ledger** in the PROJECT is in three parts: the original doc (to Day 28 Vespers), `... S16 Ledger (spoilers) - part 2, Day 28 Vespers to night`, and `... part 3, Day 29 dawn to WRAP`. The repo and PC folder have it whole.
+- If this chat has only the Project (no repo), everything needed to play is there.
 
 ## Attach or read, in this order
 1. This file.
 1a. `GM ONLY - S17 Ledger (spoilers)` -- short so far; the session is open. Lee: attach, don't read.
 2. `GM ONLY - S17 Resume Brief (spoilers)` -- a DELTA brief with the S16 Who Knows What changes. Lee: attach, don't read.
-3. The register's **section 25 (GM crib)** and section 1 (S16 entries); `action/athlete.md` and `action/warrior.md` in /L1.
+3. The register's **section 25 (GM crib)** (Project: part 2) and section 1 (S16 entries; Project: part 1); `action/athlete.md` and `action/warrior.md` in /L1.
 4. The S09 Resume Brief (main GM brief), then the S10-S16 deltas; the S09 WKW plus the WKW sections of the S11-S17 briefs.
 5. `GM ONLY - LORE - Founder's Letters, the Cold and the Sleeper` (Lee's background canon).
 6. `CHARACTER - Caria Playtest - Caria Greenhaven - Current Sheet (basics).md` (updated to S17 START: Karma spent).
 7. `PLAYTEST - S16 Gap Log` and the register.
-8. `GM ONLY - S16 Ledger` -- read the WRAP and last 150 lines; search it before voicing any S16 NPC.
+8. `GM ONLY - S16 Ledger` -- read the WRAP and last 150 lines (Project: part 3); search it before voicing any S16 NPC.
 9. The L1 rules in the repo (`/L1/*.md`; toc.md is the index). **Read the rule before ruling -- in S16 the GM didn't.**
 
 ## S17 is the microscope session [Lee]
@@ -52,4 +53,3 @@ Format [Lee, S16]: end beats on pressure, not atmosphere. Don't prompt. When soa
 - Summary pages (HTML) for S06 Part 2 through S16.
 - Master character file through S16.
 - CAST and Gazetteer for Crossroads and the Monastery (the index is a start).
-- Bring the Project's register copy up to the repo's.
