@@ -80,7 +80,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
   - **ENDED S16:** the GRAVE light on Piran's blank stone (Persistent 4, Day 28 night; dismissed Day 29).
   - **ENDED S15:** Kade's staff (dismissed, Day 18); Lavabo #3 (dismissed, Day 24); the Fenn hearth (out at the Day 25 dawn); the Calder-hearth (dismissed, Day 26); the Scry eye on Pellam's key (@@ not carried in S15's running lists -- treated as ended).
   - **AT RISK:** the three above all hang on the bound Fax -- lose it and they all go out.
-  - **Permanent:** Cobb's hearth (Fax 3, anchor line); the Weeping Court hearth. @@ Were these built as Gear? If not, they hang on the binding too.
+  - **Permanent -- ANCHORS, bought with Karma [Lee, S17]:** Cobb's hearth (Fax 3, anchor line); the Weeping Court hearth. Not built as Gear and not hanging on the binding: BOUGHT, so they are Anchors -- traceable back to her, and easy for Asher to run down the line and land in. For at least the value of a 1-Karma Hearth, the House at Weeping Court is HER House [Lee]. (On her long list of things to go and address.)
 
 ## Tricks
 - **Salt in the Hem:** a free-action Conjuror Ward Boost when invoked.
@@ -97,7 +97,7 @@ The old `CHARACTER - Caria Greenhaven - Current Sheet (basics).md` (S11 END) was
 - **Spellcraft:** binding costs the rank everywhere in the Role, Artifice and counterspelling included. Moving a running Fax light is free; attacking with it costs an action [Lee, S11]. A recast total over EL is a zero and destabilizes the binding [Lee, S09].
 - **Tricks, fuller text:** *Salt in the Hem* = a ring of salt, cold iron, silver and herbs sewn into her skirt hem. *Nothing to See, Sister* fires when the Hook draws eyes. *Query the Candle* = before a ritual or a question about fire, spirits or the manascape (S11 put the favor on the debt ledger; see the later Accords note under Asher).
 - **Gear @@ (status since S11 unchecked):** IVRO's sealed DISAVOWAL, one copy ("Don't post it. Not yet."); TOBIN's GATE SLIP; MERRIT's father's three-cornered SAIL-NEEDLE (lent "as long as you need it"; worn as a brooch-pin); Merrit's sketch-map; satchel Artifice stock (leather offcuts, rawhide lace, soft kid, brass wire, a flat dark glassy stone, linen thread, Cobb's beeswax, oak-gall ink, fine brush, a broken bone folder, paper ends, waxed paper, blotting sand, whetstone and oil). The CHARTER-PRESS KEY: HOLM had it by S15. Given away S11: the WORRY STONE -> Olwin; OLWIN's CUDGEL left with Olwin.
-- **Asher:** Hook *Smitten with the Child of the Contract* (rank @@ assume 1; still showing in S14 -- jealous of an admirer). Reaches through a flame or metal that is HERS; a FOREIGN flame or metal takes fire EL7 vs opposition. Nervous beside running water. No Overchannelling ("he *is* fire").
+- **Asher:** Hook *Smitten with the Child of the Contract* (rank @@ assume 1; still showing in S14 -- jealous of an admirer). Nervous beside running water. No Overchannelling ("he *is* fire"). The old "reach" rules (only through flame or metal that is hers; a foreign one at EL7 vs opposition) were GM INVENTION and wrong [Lee, S17] -- kept as colour: Cari is teaching him, a little at a time, that he can just DO things and BE places that have no fire in them. What IS real: his Accord manners -- *not hers* has teeth as courtesy, not as a limit on his ability.
 - **Jem:** her apprentice by spit-handshake ("Deal," renewed S10). No points invested, so he is the GM's character.
 
 ## Gear
