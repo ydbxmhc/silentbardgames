@@ -62,10 +62,11 @@ This is the one living sheet, holding current numbers only. Update it in place w
 ## Spells
 - **Known, free with Spellweaver ranks:** Phantasmal Veil; Fume (Poison Cloud); Tanglebones; Stone Shape. **Known as Maneuvers:** Fax Iacta (Spellweaver); Scry and Light (Loremaster).
 - **Bound** (2 ranks; **2 unbound**). Recast EL [spellcraft.md, Recasting]: Level + ALL unbound Role ranks + ranks bound in the spell + all its Maneuver ranks. (Corrected S17: the sheet had dropped the bound rank since ~S14, one die short.)
-  - **Fax Iacta** (Role 1 + Maneuver 3): recast **EL11** (Lv5 + 2 unbound + 1 bound + 3). Improvising: HOLD at recast + Spell Improvisation = **14** @@ (Lee said 13 -- confirm); the CAST stays at **11** [Lee, S17].
+  - **Fax Iacta** (Role 1 + Maneuver 3): recast **EL11** (Lv5 + 2 unbound + 1 bound + 3). Improvising: HOLD at recast + Spell Improvisation = **14**; the CAST stays at **11** -- Improvisation dice never go on the cast [Lee, S17].
   - **Phantasmal Veil** (Role 1): recast **EL8** (Lv5 + 2 unbound + 1 bound). Improvising: HOLD **11**; the CAST stays at **8**. A willing target needs no roll to be affected.
 - **Unbound, full ritual at EL7:** Stone Shape, Fume, Tanglebones, Scry, Light.
 - **Persistent Fax recipe [Lee, S17 -- corrects S15]:** a SEPARATE HOLD roll (recast + Spell Improvisation) vs DL = 1 per useful Trait, only to add the modification and keep it stable; failing LOSES the bound spell (full ritual only, until re-bound). Then the CAST at the plain recast EL (**11**) = its STRENGTH. Attempting the modification SNUFFS her outstanding non-Persistent castings of that spell (Persistent ones survive -- that's what Persistent is for).
+- **Losing the spell [Lee, S17]:** if the bound spell is ever LOST (a failed hold, a destabilized recast, a Release), EVERY Persistent instance of it ANYWHERE winks out too, unless it was explicitly built with the Gear system. Persistent only means she can "look away" (cast something else); a light that never goes out unless put out is Gear work.
 - **Stone Shape [S15 rulings]:** Constrained can cost; release reverts if it can; a new permanent shape is an enchantment (item creation).
 - **Gathering mana:** a Spellweaver Boost on free ranks (EL7), opposed by the place; a Persistent Boost is wagered BEFORE the roll.
 - **CHANNELLED [Lee, S13]:** casting or Sight THROUGH Asher at any distance; +1 DL.
@@ -78,7 +79,8 @@ This is the one living sheet, holding current numbers only. Update it in place w
   - **The CROSSROADS SHRINE light** (Fax 8, age 3) -- free-standing over the bowls, set Day 27 dusk; Asher witnessed her vow in it.
   - **ENDED S16:** the GRAVE light on Piran's blank stone (Persistent 4, Day 28 night; dismissed Day 29).
   - **ENDED S15:** Kade's staff (dismissed, Day 18); Lavabo #3 (dismissed, Day 24); the Fenn hearth (out at the Day 25 dawn); the Calder-hearth (dismissed, Day 26); the Scry eye on Pellam's key (@@ not carried in S15's running lists -- treated as ended).
-  - **Permanent:** Cobb's hearth (Fax 3, anchor line); the Weeping Court hearth.
+  - **AT RISK:** the three above all hang on the bound Fax -- lose it and they all go out.
+  - **Permanent:** Cobb's hearth (Fax 3, anchor line); the Weeping Court hearth. @@ Were these built as Gear? If not, they hang on the binding too.
 
 ## Tricks
 - **Salt in the Hem:** a free-action Conjuror Ward Boost when invoked.
@@ -87,6 +89,16 @@ This is the one living sheet, holding current numbers only. Update it in place w
 - **See the Root:** Second Sight Boosts a diagnosis, treatment, cut or rebuke.
 - **The Hurting Potato (S14):** a Veil glamour that sends a patient's pain "down the scarf into the potato" -- its effect counts as a BOOST to the surgery.
 - **Invested Prayer** (working name [Lee]) -- healing by petition [Lee, S17 talk; an option, not the only way]: a ceremony, never mid-fight. Conjuror at EL minus a WAGER (max = Conjuror rank, 4) petitions the gods' servants for someone else; the Wager IS the spirit that answers, a residual roller at EL W making a recovery roll against the wound's DL. What it removes passes to CARI as-is, same type; no armor or Plot Armor (a Token to absorb a point is fine). She recovers normally after. Hooks and Tokens apply to both rolls. Full text: register sec 9.
+
+## Carried forward from the S11 sheet (cleanup 2026-11-06)
+The old `CHARACTER - Caria Greenhaven - Current Sheet (basics).md` (S11 END) was deleted as cruft; these details were on it and not here. Status after S11 is UNCHECKED unless noted.
+- **Hook detail:** the budget may go all on one roll or be parceled across several (each point once per scene); the GM's pro bono dice are free and don't touch her budget. Trigger = unwanted attention, not necessarily negative: someone smitten, suspicious, fawning, afraid, hostile or crudely forward when she wants to be inconspicuous; admirers and curious spirits at the worst moments.
+- **Armor 1:** once per scene +1 to a roll it helps; Plot Armor with a Token; a second post-fight recovery. S11: the leather GIRDLE was cut away (Plot Armor), LOST; the left bracer gouged deep (serviceable).
+- **Spellcraft:** binding costs the rank everywhere in the Role, Artifice and counterspelling included. Moving a running Fax light is free; attacking with it costs an action [Lee, S11]. A recast total over EL is a zero and destabilizes the binding [Lee, S09].
+- **Tricks, fuller text:** *Salt in the Hem* = a ring of salt, cold iron, silver and herbs sewn into her skirt hem. *Nothing to See, Sister* fires when the Hook draws eyes. *Query the Candle* = before a ritual or a question about fire, spirits or the manascape (S11 put the favor on the debt ledger; see the later Accords note under Asher).
+- **Gear @@ (status since S11 unchecked):** IVRO's sealed DISAVOWAL, one copy ("Don't post it. Not yet."); TOBIN's GATE SLIP; MERRIT's father's three-cornered SAIL-NEEDLE (lent "as long as you need it"; worn as a brooch-pin); Merrit's sketch-map; satchel Artifice stock (leather offcuts, rawhide lace, soft kid, brass wire, a flat dark glassy stone, linen thread, Cobb's beeswax, oak-gall ink, fine brush, a broken bone folder, paper ends, waxed paper, blotting sand, whetstone and oil). The CHARTER-PRESS KEY: HOLM had it by S15. Given away S11: the WORRY STONE -> Olwin; OLWIN's CUDGEL left with Olwin.
+- **Asher:** Hook *Smitten with the Child of the Contract* (rank @@ assume 1; still showing in S14 -- jealous of an admirer). Reaches through a flame or metal that is HERS; a FOREIGN flame or metal takes fire EL7 vs opposition. Nervous beside running water. No Overchannelling ("he *is* fire").
+- **Jem:** her apprentice by spit-handshake ("Deal," renewed S10). No points invested, so he is the GM's character.
 
 ## Gear
 - **S16 changes:** the COUNCIL OF CROSSROADS' ANSWER -> the PRIOR's desk (Day 28, unopened). In the LIBRARY: the YELLOW (worn Day 29), WHITE, RED, ORANGE as before; the silver hairpin. The rest as listed.
