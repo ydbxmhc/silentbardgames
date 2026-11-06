@@ -85,6 +85,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
 - **Query the Candle:** ask Asher; his answer is a Boost.
 - **See the Root:** Second Sight Boosts a diagnosis, treatment, cut or rebuke.
 - **The Hurting Potato (S14):** a Veil glamour that sends a patient's pain "down the scarf into the potato" -- its effect counts as a BOOST to the surgery.
+- **@@ (unnamed) -- healing by petition [Lee, S17 talk; an option, not the only way]:** a ceremony, never mid-fight. Conjuror at EL minus a WAGER (max = Conjuror rank, 4) petitions the gods' servants for someone else; the Wager IS the spirit that answers, a residual roller at EL W making a recovery roll against the wound's DL. What it removes passes to CARI as-is, same type; no armor or Plot Armor (a Token to absorb a point is fine). She recovers normally after. Hooks and Tokens apply to both rolls. Full text: register sec 9.
 
 ## Gear
 - **S16 changes:** the COUNCIL OF CROSSROADS' ANSWER -> the PRIOR's desk (Day 28, unopened). In the LIBRARY: the YELLOW (worn Day 29), WHITE, RED, ORANGE as before; the silver hairpin. The rest as listed.

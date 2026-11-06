@@ -17,6 +17,10 @@ Rules read before play (S17, this chat): mechanics, dice, resistance-and-opposit
 - What would fix it (not told to anyone): the spirit has to be calmed enough to let go AND go back to its work. Force on the spirit makes it hold harder. The light behind the slab (Bend #2, 12) is the one thing it trusts.
 - Pressure clock @@*: the light goes off the switchbacks in about an hour. The bend has not given yet.
 
+## OOC, between beats (2026-11-06)
+- [Lee] RULED as an OPTION ("one way to keep magical healing interesting"): HEALING BY PETITION, a new Trick for Cari. Ceremony; Conjuror at EL minus a Wager; the Wager IS the answering spirit (residual roller, cap = Conjuror rank) making a recovery roll vs the wound's DL; what it removes passes to Cari as-is; no armor or Plot Armor, a Token to absorb a point is fine. Full text: register sec 9. Later: Maneuvers that raise the petition's EL but not the cap. To true up with the options in recovery.md.
+- Karma 5 still unspent (Lee was given the skill table to choose from).
+
 ## DAY 29 -- late afternoon: THE STUDY
 - Present: Cari (asleep); IVRO (in his chair). Asher in his lantern on the table.
 - @@* (situation): THREE SHORT BLASTS on a horn, far below -- the bend's horn. Ruddock's standing order is one long blast for a friend on the road; three short is not an order anyone has heard used. Ivro's hand tightens on her hair. Feet in the cloister; RUDDOCK at the study door, cap in his fist, out of breath from the stair.
