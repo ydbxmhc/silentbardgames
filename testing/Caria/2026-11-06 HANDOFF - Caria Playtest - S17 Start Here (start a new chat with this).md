@@ -23,7 +23,7 @@ S17 was opened at the end of the S16 chat, which then compacted, so play continu
 3. The register's **section 25 (GM crib)** and section 1 (S16 entries); `action/athlete.md` and `action/warrior.md` in /L1.
 4. The S09 Resume Brief (main GM brief), then the S10-S16 deltas; the S09 WKW plus the WKW sections of the S11-S17 briefs.
 5. `GM ONLY - LORE - Founder's Letters, the Cold and the Sleeper` (Lee's background canon).
-6. `CHARACTER - Caria Playtest - Caria Greenhaven - Current Sheet (basics).md` (updated to S16 END).
+6. `CHARACTER - Caria Playtest - Caria Greenhaven - Current Sheet (basics).md` (updated to S17 START: Karma spent).
 7. `PLAYTEST - S16 Gap Log` and the register.
 8. `GM ONLY - S16 Ledger` -- read the WRAP and last 150 lines; search it before voicing any S16 NPC.
 9. The L1 rules in the repo (`/L1/*.md`; toc.md is the index). **Read the rule before ruling -- in S16 the GM didn't.**
