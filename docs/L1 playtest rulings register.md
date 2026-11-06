@@ -1,8 +1,8 @@
 # L1 Playtest Rulings Register
 
-The one place for rules rulings, clarifications and open design questions that came out of the Caria solo playtest (S01-S14, 2026-09-26 to 2026-10-30). Organized by TOPIC, not by session. Per-session gap logs now keep brief notes and point here.
+The one place for rules rulings, clarifications and open design questions that came out of the Caria solo playtest (S01-S16, 2026-09-26 to 2026-11-06). Organized by TOPIC, not by session. Per-session gap logs now keep brief notes and point here.
 
-Compiled 2026-10-22 by Lilita from: the S08 cumulative gap log (S1-S8), the pre-S09 Addendum (crafting, downtime, wands, familiars, followers), the S09-S14 gap logs, and Lee's standing rulings notes. Unlinked on purpose: nothing in the site points here yet.
+Compiled 2026-10-22 by Lilita from: the S08 cumulative gap log (S1-S8), the pre-S09 Addendum (crafting, downtime, wands, familiars, followers), the S09-S16 gap logs, and Lee's standing rulings notes. Unlinked on purpose: nothing in the site points here yet.
 
 ## How to read an entry
 
@@ -18,8 +18,10 @@ Each entry: **[STATUS] Short title.** The ruling or question. *(Where it came fr
 
 Updated 2026-10-22: the four conflicts in section 23 resolved.
 Updated 2026-10-30: the late S14 rulings (Days 15-18) folded in.
+Updated 2026-11-04: the S15 rulings folded in (tagged S15).
+Updated 2026-11-06: the S16 rulings and Lee's S16 opposition guidance folded in (tagged S16); new section 25, the GM crib.
 
-Sources: S01-S14 = session; "Add." = the pre-S09 Addendum (2026-10-11 design talk); "notes" = Lee's standing rulings notes.
+Sources: S01-S16 = session; "Add." = the pre-S09 Addendum (2026-10-11 design talk); "notes" = Lee's standing rulings notes.
 
 Maintenance: add new rulings under their topic, newest last, with the session tag. When Lee ratifies a proposal, change its tag. When text lands in the repo, change the target to "-> DONE: page.md".
 
@@ -76,6 +78,14 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[OPEN] Opposition vs resistance in a spiritual clash.** When an NPC is "a working," whose EL opposes? *(S11)* -> conjuror.md.
 - **[RULED] Scene-factor and gear Boosts.** A factor already present in the scene can be rolled as a free action if the GM agrees; its value adds to the action (as dice). Once the character spends time building it, it's a Boost action at her skill. *(S11, S12)* See 5.
 - **[RULED] Searches are ATTRITION.** Hunting one thing through a crowd (a spirit seeking one man in a city) accumulates progress against the haystack's Level; a lost exchange Harms the searcher by the margin (a Complication, -1 EL) and he can keep searching. Same model as reading a damaged text (S12). "A search is a fight with the haystack." *(S14, Lee)* -> GM guide; actions-and-timing.md example.
+- **[CLARIFIED] No fixed targets, ever -- and ties favour the defender.** The GM slipped on S15 Day 27, setting exams against a number ("EL9 vs 3") with no opposition roll, and reading "roll equals the number" as "effect equals Level." The rule above stands: roll the opposition; effect = roll minus its roll; a tie is effect 0 (mechanics.md); then compare effect to its Level. Results of the slipped rolls stood as played. *(S15)* -> GM crib beside "Everything rolls."
+- **[RULED] Opposition comes from the Venn diagram of CONTEXT and DRAMA** -- "almost always." Size it around the PC's EL MINUS 2 for the scene; sometimes less, sometimes more. When it's more, it should usually be a more important scene with some tension, or the PC leaning on less-trained abilities. *(S16, Lee)* Odds (even-odds dice, computed S16): EL vs EL-2 wins about 60%, ties 15%, loses 25% -- at EVERY scale (EL7 or EL14 alike), so a contest feels the same at Level 1 and Level 10. Against a fixed small pool (4d) a big EL wins 90-98% and the 4d goes Extreme 1 time in 8 -- the S16 GM's habit, retired. -> GM guide; gm-rules.md "setting opposition."
+- **[IN BOOK] Progress wears the opposition down.** Accumulated effect is SUBTRACTED from the opposition's EL on later rolls ("EL12 - her Progress 1 = EL11"), as the PC's own Harm subtracts from hers -- both sides tire. Staggered when Progress reaches its Level; overcome when Progress EXCEEDS it. (action/athlete.md, Thornwall.) The S11-S16 GM ran accumulated progress as a finish line only and missed the subtraction. *(S16)* -> accumulated-progress.md: say it outright beside the example.
+- **[IN BOOK] The opposition ACTS.** It is not only a wall: it strikes first and makes its own trouble (Thornwall's avalanche, landslide and sustained wind). This is the GM's main answer to a scene that ends with nothing for the player to do. *(S16, action/athlete.md)* -> GM guide.
+- **[IN BOOK] Mismatches are FAST.** "Difference in EL matters more than difference in Level" (action/warrior.md). Brigands at EL3-6 against a Warrior at EL10-13: a handful of rolls, bold results, and an exchange given by fiat when neither side thinks the dice are needed. The fault is rolling MANY lopsided checks as if they carried suspense. *(S16)* -> GM guide.
+- **[IN BOOK] The unaware resist passively, with base Level only** (the brigand who "doesn't realize"; action/warrior.md). That is how a deception sets up a Boost for the next action. *(S16)*
+- **[RULED] Any dice mechanism the character calls for.** The Simple Pool is cleanest, usually with the best odds and the best bell curve, but a GM may throw any combination of dice. A Forest Ogre CONSTRAINED to a single d12: as he is worn down his EL drops but he keeps the d12, so his fatigue, rage and desperation show as fumbled rolls -- and he never crits. Thornwall's late "1d[0-7]" in athlete.md is this kind of choice, deliberately swingy. *(S16, Lee)* -> a variant sidebar beside the Simple Pool.
+- **[PROPOSAL @@*] The approach can change the opposition.** When the player finds a way around what was resisting, re-set the opposition BEFORE rolling (S16: a concealment built for the public books had no purchase on a clerk's private tally, so the contest became deciphering his shorthand). *(S16)* -> GM guide.
 
 ## 2. Extremes
 
@@ -97,6 +107,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[OPEN] Extremes by impersonal opposition** (the Dawn, an Injury). Played as margin only, no Token. *(S13)* -> extreme-results.md, one line.
 - **[RULED] Standard side effect: the CONFIDENCE BOOST.** A good roll's Extreme (or an opposition's Extreme failure) can count for its usual purpose AND as a Boost on the NEXT roll, dice scaled to the roll (3 dice -> Boost 3). It helps or it doesn't; it raises the odds of the next roll and, with a bigger pool, lowers the odds of another crit. Prefer it to "time for another roll," which is no boon when the dice go badly. *(S14, Lee)* -> extreme-results.md: list as a standard example.
 - **[PROPOSAL @@*] Know the rate.** A 3-die opposition rolls all-blank 1 time in 8 and all-ones 1 time in 8 -- an Extreme of some kind a quarter of the time. GMs choosing a rating should know a 3 is lively. *(S14)* -> GM crib.
+- **[RULED] Extremes by impersonal opposition carry a significant side effect** (answers the OPEN above). The main contest resolves on its margin; the Extreme lands a side effect beside it, scaled to the dice (Ivro's sickness rolled all ones: a tie still held, but a coughing fit strained a muscle -- a Hindrance 3). "An Extreme should have a significant side effect." An opposition's Extreme success hurts the PC's side the same way (a book's binding burned through as its seed died). *(S15)* -> extreme-results.md, one line; harm.md Hindrance example.
+- **[CLARIFIED] Side effects stay in the realm of the roll -- and the GM's leeway is wide.** S16's three opposition Extremes (a tally's sewing gave and a margin crumbled; a frost-split lintel fell across a road shrine; a necromantic leash gained a Confidence Boost and "looked back") were each tied to the contest that rolled them, and Lee liked all of them. Compare action/warrior.md: a three-die Extreme that still LOSES the contest earns a modest benefit of its own (no Harm from the fall). *(S16, Lee)*
 
 ## 3. Extra Effort
 
@@ -109,6 +121,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 
 - **[RULED] Refresh.** One Token at the start of every scene if there's room (cap = Level). Tokens fully reset each session. Same for the GM. *(S06 Pt2, S11; notes)* -> bold it in luck.md and the GM guide. The GM missed it for ten sessions.
 - **[RULED] GM starting Tokens** = max(number of players, highest PC Level) + a flat 1, plus 1 per scene if room. *(S01; notes)* -> luck.md needs the flat +1; fix the Operating Guide's "per additional player."
+- **[IN BOOK] Calling a scene is GM judgment, not a clock.** "The weather is bad enough that he's not going to call it a scene, so no Token" (action/athlete.md). A move to another room is not automatically a new scene; a real break is. The S16 GM called scenes too freely, softening the Token economy. *(S16)* -> luck.md, beside the per-scene refresh.
+- **[IN BOOK] GM Tokens keep the opposition in play** -- a best-possible defence, Plot Armor onto gear (the axe handle and the helm, action/warrior.md) -- not to cancel a success the player paid for. Confirms the S11 proposal below. *(S16)*
 - **[RULED] Anyone can spend a Token on ANY roll** -- another PC's, a companion's, a spirit's, even the GM's roll against them. Player-facing luck, narrated as will, luck or divine intervention. A Conjuror may Token her spirit's roll ("He needs the confidence"). The GM may spend GM Tokens on a player's roll when deserved. *(S04, S08, S11, S14)* -> luck.md, say "any roll" outright.
 - **[IN BOOK] A Token sets the result to any value up to EL** (player's choice; may set it lower). *(S08)*
 - **[RULED] Tokens can exceed the cap** when gained from Extremes or GM kudos; over-cap Tokens persist without refresh until spent below the cap. *(S11, S12)*
@@ -135,6 +149,11 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[IN BOOK] A Persistent Boost is wagered BEFORE the roll** (wagered-actions.md, Residual Effects): set the points aside, succeed with what's left, and they become a named bonus for the scene. A Boost rolled unwagered is one-shot. *(S14)*
 - **[RULED] Boost, then wager -- separate rolls.** With time, a gathered Boost can feed a separate wager roll that locks a Persistent bonus into an item; that bonus can then feed further Boosts on the same work. "Time and patience allows a lot of double-dipping." *(S14, Lee)* [OPEN] Boost chains: the optional "a Boost adds no more dice than the EL it boosts" is the natural brake if one is wanted.
 - **[RULED] A casting's effect can be a BOOST to mundane work.** A Veil glamour that hid a child's pain ("all the pain goes down the scarf into the potato") was rolled as its own casting, and its effect counted as a Boost to the surgery -- the patient doesn't scream or pull away. *(S14, Lee: the session's standout creative moment)* -> spellcraft.md or healer.md example.
+- **[RULED] A Persistent (residual) Boost keeps ONLY the wagered value.** "Wagers only ever actually retain the wagered value. No matter how well she succeeds, it's pass/fail unless she gets a crit." The Role-rank cap applies to wagered points; Extra Effort on a wagered roll is measured against the EL left after the wager; the GM may let written notes outlast the scene. *(S15)* -> wagered-actions.md, Residual Effects.
+- **[RULED] Named (Persistent) Boosts stack, swap or sit idle like Roles.** "They stack when they sensibly each apply. They swap when one makes more sense than another. They sit idle when none are relevant." A Persistent Boost's wager is rolled when the state it names is MADE (dressing at dawn), not hours before. *(S15)* -> actions-and-timing.md, Boosts With Duration.
+- **[RULED] Maneuver synergy is earned, not automatic.** Two Maneuvers both add to one act when each plausibly contributes (Wards with True Name of Asher, when he can reasonably add value); the GM judges per situation. *(S15)* -> maneuvers.md, one line.
+- **[GM RULING -- Lee to true] Coaching a base-level act.** One character coaches another as a Boost action. If the helped act needs a Role, the Assist cap applies (the receiver's rank; no rank, no Boost). If it needs no Role (looking through a hag-stone), the receiver can use a Boost up to their BASE LEVEL -- parallel to "applying medicine works at base Level" (sec 9). *(S15)* -> assist-rule.md or actions-and-timing.md, if it holds.
+- **[GM RULING @@*] A bystander's base-level Boost.** Ilse calling her dead son by name at the consecration was rolled as a Boost at her BASE LEVEL (2d vs DL1), its effect added as dice to the Initiate's rite and capped at that base Level. Same shape as the coaching ruling above, from the other side: anyone can lend a base-level act. *(S16)*
 
 ## 6. Hooks
 
@@ -171,6 +190,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[OPEN] Karma supply.** About 3.6 per session played (S1-S7). "Working well -- maybe too well?" The GM may pay Tokens instead of Karma as a dial. *(S04, S07)*
 - **[OPEN] Advancement timing in continuous play.** Rules key to the session; fiction may run on without downtime. *(Add.)*
 - **[RULED] Recovery Trope** can be pure framing: early purchases explained as skills she always had. *(S01)* The planned page's open questions (deadline; flashback vs forward) stand.
+- **[RULED] "Use it to grow it," reaffirmed and sharpened** (S15 wrap). A "New" purchase is a Role or Maneuver NOT justified by the session's rolls or at least by relevant story events: Reputation after a public triumph is justified; Athlete for Riding after riding is justified; a sudden rank of Warrior is New. Advancing base Level is ALWAYS the New one. *(S15)* -> spending-karma.md sidebar, with the default "one score per session" beside it.
+- **[RULED] Good Fun, the solo reading** (answers the UNCLEAR above). Good Fun is the GM's discretionary pat on the back for good, vicarious, MEMORABLE roleplaying; it needn't be handed out every session. Its purposes: to reward and encourage uninhibited play, and as a GM BALANCE THROTTLE -- gently loading slower earners with a little extra Karma when others at the table are getting ahead. With one player it matters less and should go only to moments that stand out; two in most sessions is fine. *(S16, Lee)* -> karma.md, beside Good Fun.
 
 ## 8. Harm, Down, recovery, death
 
@@ -187,6 +208,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] Disrupted manifestations are banished.** A manifest spirit whose form is violently disrupted is Down or Staggered and ejected to the far Dreamlands until summoned back by ritual or anchor, once recovered. *(S03)*
 - **[IN BOOK] A Down spirit recovers like anyone** (recovery.md): it rolls its Level against its CURRENT Harm, as dice. One hit hard may need an Extreme to recover at all; it creeps back sooner or later, not always 1 a day. (The GM's first "1 per dawn" was retired.) *(S14, Lee)* -> conjuror.md, at "merely incapacitated until they can recover": point to recovery.md. Answers the "spirit recovery rate" question.
 - **[IN BOOK] Care clears a Complication on any success** (recovery.md) -- a cough caught early, cleared in one treatment. *(S14)*
+- **[RULED] Recovery when Harm far exceeds Level** (answers the UNCLEAR above). Unaided recovery is the slow road: a win cuts Harm only by its effect, and Down lasts until Harm drops below Level. A PC can lie in a coma a long time; a spirit can be effectively banished for years, even centuries. The levers are aid: a Healer's Boosts and Tokens for a PC; for a spirit, a Conjuror summoning it back, or a GM Token. (4d beats 9d about 1 time in 22.) *(S15)* -> recovery.md.
+- **[RULED -- Lee "I like that"] Extreme failure on a recovery roll: +1 Harm and a side effect** (answers the sec 2 OPEN). Used twice (S13 Merrit; S15 the Down Cold, 4 for 4 blank: Harm 9 -> 10 and a frostless dawn). Compare the harm reference's Critical Complications. *(S13, S15)* -> recovery.md: say what an Extreme failure on recovery does.
 
 ## 9. Healing, medicine, privation, fatigue
 
@@ -197,10 +220,12 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] A spiritual residue in a wound can be contested by mundane care** (warmth and honest tending, as attrition against the residue's rating). *(S12)*
 - **[RULED] Privation works like fatigue.** It accumulates; its real bite is that it PREVENTS recovery. Proper food or a tonic mainly ALLOWS the blocked recovery roll ("cough syrup for the scurvy -- and go eat some greens"). No rule split; GM methodology. *(S07)*
 - **[RULED] Fatigue is overloading.** No dedicated rule: the GM warns, then raises Difficulty as the character keeps pushing; failures spiral into Harm. "The GM's opinion is the rule." Applies to the improvisation HOLD roll when a casting has two. *(S06 Pt2, S08; notes)* -> gm-rules.md; say which roll fatigue applies to.
+- **[GM APPLICATION @@*] Fatigue as an opposition die.** After a day's ride and a night's vigil without sleep, the GM warned at dawn, then added +1 die to the opposition of the next demanding roll (a Sight assessment). Real sleep, even a short one with nothing opposing it, cleared the warning; no Harm had been taken. One way to "raise Difficulty"; Lee to say whether it's the house way. *(S16)*
 - **[RULED] Sleep debt.** No flat paydown. Real sleep allows a standard recovery roll against the debt with situational modifiers; nightmares and hauntings OPPOSE the sleep itself; the GM may keep some debt in the narrative. "When unsure, allow the roll and modify it." *(S08)*
 - **[RULED] A healer's honest prognosis can split one case into layers** with different mechanics (bone knit short = done; contracture = accumulated progress, no rolls; learned fear = tonight's contest). *(S13)*
 - **[RULED] Cooking** is base Level until a Naturalist rank; an expert's guidance is a passed, rolled Boost. *(S06 Pt2)*
 - **[RULED] See the Root (Trick).** Where a problem has a living or spiritual trace, Second Sight Boosts the analysis or diagnosis; against the mundane, psychometry at best. Diagnosis and treatment are separate rolls. *(S05, S12, S13)* Good model of a Trick naming its mechanism (tricks.md).
+- **[RULED] Applying medicine is not making it.** Making a medicine from what's at hand needs the Role (Apothecary). Applying it (rubbing in a balm or liniment) is something ANYONE can do: base Level, as a simple Boost, not the Assist Rule. The Boost's dice may allow an Extreme, "as likely bad as good." A balm made by someone with no Apothecary rank is mundane gear (+1). *(S15)* -> healer.md beside the dose cap.
 
 ## 10. Spellcraft: known, bound, unbound
 
@@ -233,6 +258,7 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] Reactive cuts both ways** -- an enhancement on a Ward (+1 Difficulty), a limitation on an attack or creature (-1). The useful-vs-limiting rule handles it by context. *(S01)* -> one example line.
 - **[UNCOMMITTED] CHANNELLED** (Lee, S13: "good, I like that"). Casting THROUGH a bound spirit at any distance: the bond is the anchor, the spirit is the place; +1 DL like a Trait. Extended to perception in S14: channelling her own Sight down the bond. *(S13, S14)* -> traits.md candidate; conjuring.md.
 - **[UNCOMMITTED] SUSPENDABLE and VARIABLE** (proposed for study). Suspendable: duration runs on, but the effect can be switched off and on. Variable: the effect can be turned down. [PROPOSAL @@*] watch Suspendable against Persistent's "cannot hold an effect against someone else's roll." *(S13)*
+- **[RULED] Dismissing at range, unseen.** A caster can let go of her own distant Persistent casting. If she can't see it, the GM may call for a roll: a fail puts out the WRONG one; an Extreme failure might cost the BINDING. "If it's fun, roll it; if it's boring, don't bother." *(S15)* -> spellcraft.md beside Dismissing.
 
 ## 12. Spellcraft: Persistent, duration, the Dawn
 
@@ -255,6 +281,9 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] Fax Iacta as a raking light** is a Spellweaving Boost to reading a damaged text. *(S12)*
 - **[RULED] The Scry mirror can be TURNED** to look in other directions from the Eye; the image may be reversed. *(S14, Lee)* -> beyond.md (Scry).
 - **[RULED] Veil on the senses.** A glamour can hide a sensation as well as add one (pain masked for surgery); a willing target needs no roll to be affected, but the cast's effect must beat the sensation's intensity. *(S14)* -> spells.md (Phantasmal Veil) example.
+- **[RULED] A Trait's cost depends on whether it burdens or relieves the working.** Constrained used as PRECISION that demands more effort (only a column drum's own stone, touching none of the house) is +1, not the -1 spells.md lists. Guidable is inherent in shaping spells (directing IS the shaping). *(S15)* -> traits.md / spells.md example.
+- **[RULED] Stone Shape release REVERTS if it can.** The bridge example "crumbles to dust" because it CAN'T go back -- a limit on the spell's power. *(S15)* -> spells.md, Stone Shape.
+- **[RULED] A new PERMANENT shape is an enchantment.** Holding stone in a new form after the spell lapses needs an item-creation roll with a Persistent Trait at least. *(S15)* -> spells.md and item-creation.md, a line each.
 
 ## 14. Conjuring: the Sight, Wards, Rebukes
 
@@ -296,6 +325,9 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[UNCLEAR] adepts.md: Adept EL "as much of their base Level."** Only the Marcus example shows it means Level capped at rank. One clause would fix it. *(Add.)*
 - **[RULED] What a demon is** (Averond): almost any fire spirit is commonly called one; true Demons are spirits of pure emotion (even "true, pure love"); any "angel" of Rikitak; Rikitak is final authority. *(S01)* -> setting overview.
 - **[RULED] Offerings vs debts.** An easy, sincere gift (bread from her hand) is an OFFERING -- it builds the bond -- but pays no Accords debt; that wants a real sacrifice. "A gift of love, not blood... more bonding than bondage." *(S14, Lee)* -> conjuring.md, the Accords.
+- **[RULED] A True Name read unknowingly only PINGS the spirit.** Only someone who KNOWS it is a True Name, or is trained to use one, can USE it. Read aloud without that knowledge -- and pronounced properly -- the spirit notices, may flare, and can hear what follows; invisible to all but open Second Sight, which may miss it unless the name is invoked intentionally. A strong standing Contract (a founding charter) PROTECTS the named spirit while it is in force. *(S15)* -> roles/conjuror.md (True Names); sidebar candidate.
+- **[SETTING CANON + OPEN] A spirit as witness to a vow.** The great Temples keep attendant spirits, usually wind, who carry prayers to the greater agents of the gods; in principle, spirits are agents of the gods, so a spirit witness is a messenger, not a clerk. Mechanics (weight, debt if broken, attestation as evidence): OPEN; played fiction-first (the witness can attest word for word). *(S15)* -> Averond LORE; a Conjuror/priest sidebar.
+- **[SETTING @@* -- GM, S16] The dead answer to their names.** Necromancy holds the dead BY NAME: a child given to the Cold was buried under a false name in religion, and the false name was the grip -- a "lid" with three fastenings (the name cut in the stone, written in the burial roll, spoken at the rite). Burning the stone and truly correcting the roll undid two; a consecration naming him truly, in his mother's presence, undid the last, and the leash SLIPPED OFF uncut (so the Cold felt no blade to remember). Run as attrition against the false naming's Level. Lee to true or rewrite. *(S16)* -> Averond LORE; conjuror.md (the dead and names) if it holds.
 
 ## 16. Folk charms and materials
 
@@ -324,6 +356,7 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[OPEN] Whether Conjuror, Tinker and Spellweaver crafting pay in their own currencies** (Soulburn, fatigue, control). *(item-creation.md draft)*
 - **[PROPOSAL @@*] Odds check (simulated, mutual attrition; Down at Harm > 5).** Artifice 8: rating 4 near-certain in ~3 evenings; 7 ~72%; 11 ~6%. Artifice 9: 7 ~87%; 11 ~16%. *(S14)*
 - **[ADOPTED, wording open] The hag-stone ("little door").** Anyone looking through gets a narrow Second Sight glimpse at base Level; for the Sighted, a small Boost that pierces glamour or disguise. *(S06 Pt2)*
+- **[RULED] Ordinary trade tools need no Token.** A Role's everyday kit -- what anyone of that trade carries as a matter of course (a healer's ear-scoop and needle, a scribe's penknife) -- is assumed present: gear is narrative permission. Uncommon or heavy specialist kit (a surgeon's full roll on the road) needs a Token ("propose a story element") or a source in the fiction. *(S15)* -> what-gear-does.md.
 
 ## 18. Companions, followers, apprentices
 
@@ -339,7 +372,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] NPC frames: budgets, quick-start style.** A recurring NPC gets a frame when their numbers first matter: Level, defining Roles and Maneuvers, Hooks, companions and a Karma BUDGET. Unspent budget can be declared retroactively when the fiction calls for it, within the usual limits, never contradicting play; log every declaration. Size by place in the world and story, not by the PC. *(S09 frames file)*
 - **[RULED] An NPC takes undifferentiated Harm** unless the GM designates the type as a plot device; a later recovery roll decides Complication vs Injury. The GM may Token NPC rolls. *(notes)*
 - **[RULED] No invented backlash.** A fumble needs a roll that could legally have been made. *(S11)*
-- **[MISSING] Rating opposition on the fly.** No guidance for a ghola, a fey house, a clerk's denial. [PROPOSAL @@*] a "typical opposition by threat" sidebar; and a short table of Difficulties for magic (Ward size, fuel, hostile ground). *(S01-S04 GM notes)*
+- **[ANSWERED S16 -- see the frames entry below] Rating opposition on the fly.** No guidance for a ghola, a fey house, a clerk's denial. [PROPOSAL @@*] a "typical opposition by threat" sidebar; and a short table of Difficulties for magic (Ward size, fuel, hostile ground). *(S01-S04 GM notes)*
+- **[RULED] Frame what resists.** If someone is the foil in a scene, write them up as at least a nominal character: base Level is central; then Roles (an NPC's may be fabricated -- Necromancer, "Puppet of the Cold" -- or legit: Adept [Fire], Loremaster); then a few general Maneuvers for their primary competencies. Fill in the conditional ELs and you quickly get a feel for roll oppositions and probable strategies and behaviours. A typical nameless professional is Level 1 with one Role and a Maneuver; more Roles add depth HORIZONTALLY without more Level (Garrow Hask: Tinker 3, Smith 3 makes him crazy competent; he may not need a high Level). THINGS get frames the same way (Thornwall: Level 3; Hostile Terrain 3, Winter Conditions 2; Steep Cliffs 3, Bitter Cold 2, Exhausting Altitude 2), and only the parts that apply roll. The POOL (Level + what applies) sets the odds; the LEVEL is the threshold for complete effect. If she steps into the smithy to chat, nobody rolls; if they haggle, the frame says whether he haggles. "The scene writes itself." *(S16, Lee)* -> gm-rules.md / a GM-guide page; answers this entry and the DL-anchors entry below.
 - **[MISSING] DL anchors** for common tasks (0 trivial, 1-2 routine, 3-4 hard, 5+ heroic) @@*. *(S01)*
 
 ## 20. Scenes, time and downtime
@@ -368,6 +402,7 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] "Any time you find yourself fabricating a rule, it's probably already there somewhere and just not very clearly applied."** Before inventing a mechanic, find the general rule it's a case of; if the search fails, that's a gap-log entry, not a new rule. *(S14, Lee)* -> GM guide, top of the procedure list.
 - **[RULED] The GM's recovery trope.** Found material can be read in fiction but left UNWRITTEN, to be filled later when a scene needs it -- never contradicting what was said. *(S14, Lee: "The recovery trope works for GMs too.")* -> GM guide beside the player's Recovery Trope.
 - **[RULED] Show both sets of faces.** Dawn summaries and recovery rolls show the roll AND the opposition's dice ("3 against its 9" read as a flat number). *(S14)*
+- **[RULED] End a beat on PRESSURE, not atmosphere; offer cut points OOC.** Lee: the one recurring struggle is "descriptions that end with nothing much for me to do." Don't prompt (that becomes the GM telling a cool story and the player nodding); end on a person, problem or clock that plainly leans on the PC. When soap starts to stall the adventure, offer one OOC line with a proposed cut point ("<cut to the Prior's study at Compline?>") -- a yes/no with a default, not a menu. *(S16, Lee)* -> GM guide.
 
 ## 22. Setting rulings with mechanical weight
 
@@ -379,6 +414,9 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] The Greater Pantheon behaves like Moorcock's Lords of Law and Chaos** -- occasional appearances, otherwise acting through agents. "Rikitak's house" doesn't mean Rikitak is there. *(notes)*
 - **[RULED] CELESTIAL** is the liturgical language of all spirits and of the gods' priesthoods (anything else is an obscure cult's) and the lingua franca of the educated; common folk ask a priest to "speak for me." Other languages are local variants, used or hand-waved by table taste, like coinage; "Common" is common worldwide. *(S14, Lee)* -> setting overview.
 - **[RULED] Years are NAMED and NUMBERED** ("the Year of the Shadowed Smith, 4287"). Saints and gods have pictographic RUNES. The Monastery's mountain is MOUNT CUNAE, "the cradle." *(S14, Lee)* -> setting overview; Book of Days.
+- **[RULED] The black art (Rule, leaf 11).** "That art is black which binds a free will outside the Accords: to wear another, or to Accept being worn." Killing is not the concern (knife or spell, a crime is a crime; the spell draws more scrutiny); "ORDERED is probably the root of it." Penalties at the Visitor's judgment, up to being put out of the Order. *(S15, Lee)* -> Tenets/LORE; conjuror.md sidebar on the Accords.
+- **[RULED] Robe Colours are always capitalised; GREEN is rare** (the alchemist Initiates); lowercase green means young and new. *(S15, Lee)*
+- **[RULED] A FREE CITY has no god-king.** Ganth answers to no Saint; a mercantile council runs it and may grant land and titles under fealty. *(S15, Lee)* -> setting overview.
 
 ---
 
@@ -396,18 +434,33 @@ All four were settled by Lee on 2026-10-22. Kept here as a record; the rulings l
 Quick list of everything still [OPEN] or [UNCLEAR] above, by section.
 
 - 1: excess effect through a destroyed barrier; whose EL opposes when the NPC is "a working."
-- 2: Extreme mark per skill or per roll; Token-bought top result as Extreme; Karma for a Token spent against an Extreme; a companion's Extreme; Extreme failure on recovery; impersonal opposition rolling an Extreme.
+- 2: Extreme mark per skill or per roll; Token-bought top result as Extreme; Karma for a Token spent against an Extreme; a companion's Extreme. (Extreme failure on recovery and impersonal Extremes: RULED S15; side effects in the realm of the roll: S16.)
 - 4: when a social roll's resolution is "final" for a Token; solo Token economy.
-- 5: retro-wager; a brake on Boost chains.
+- 5: retro-wager; a brake on Boost chains; the coaching cap (S15, GM ruling to true); the bystander's base-level Boost (S16 @@*).
 - 6: Hook budget spent on presence as a general option; Karma-up-to-rank income.
-- 7: Good Fun in solo play; Karma supply; advancement timing in continuous play.
-- 8: the Harm split procedure; death threshold for PCs; recovery when Harm exceeds Level.
+- 7: Karma supply; (Good Fun in solo play: RULED S16); advancement timing in continuous play.
+- 8: the Harm split procedure; death threshold for PCs. (Recovery when Harm exceeds Level: RULED S15.)
+- 9: fatigue as an opposition die (S16 @@*).
 - 11: Selective +1 or -1; Suspendable/Variable.
 - 13: Stone Shape range.
 - 14: the Third Eye DL0 roll; psychometry; stacking Wards; a True Name given in play.
-- 15: adepts.md EL wording; Beast Handler vs True Name payout; desired favours; Query the Candle's rating; guest-gift generality; spoken thanks.
+- 15: a spirit witness's mechanical weight (S15); the dead held by a false name (S16 setting @@*); adepts.md EL wording; Beast Handler vs True Name payout; desired favours; Query the Candle's rating; guest-gift generality; spoken thanks.
 - 17: **what an item's "Level" is for Down** when adding Traits (Lee's 10-19 note: "worn below the item's previous rank" -- confirm); releasing a spell from a durable item; Pinned Work vs Boost-as-Gear; crafting currencies.
 - 18: Companion Training timing.
-- 19: opposition and DL anchors.
+- 19: (opposition and DL anchors: answered S16 by frames and the EL-2 cluster -- see sec 1 and 19.)
 - 21: Bare Oracle weighting; clocks.
 - 23: none open.
+
+
+## 25. GM crib: opposition procedure (S16)
+
+From Lee's S16 guidance and the two worked examples it points at -- action/athlete.md (Thornwall, an obstacle framed as a character) and action/warrior.md (Brother Thomas against three brigands). One screen, for the GM's elbow.
+
+1. **Frame whatever resists.** Level; the Roles and Maneuvers that matter, real or thematic; a dice mechanism if character calls for it (the d12 ogre). Things get frames too.
+2. **Size it to the scene.** About the PC's EL minus 2 for a real challenge; higher for tension or when she's out of her depth; mooks low, and the scene FAST. Nothing resists, nothing rolls.
+3. **Each roll uses only what applies.** Harm and Progress come OFF the EL, on both sides. Staggered at Progress = Level; overcome when Progress exceeds it.
+4. **The opposition takes its own turns** and makes its own trouble. End beats on pressure.
+5. **Tokens keep things in play,** on either side. Scenes are called on purpose, not by the room.
+6. **Extremes stay in the realm of the roll that made them** -- the GM's leeway there is wide.
+
+Before any roll that matters, show: the question; who or what resists, and by which rule; its Level and pool; the PC's EL with every part justified; the outcome as under / equal / over Level only (no ladders); then one Token/Hook offer.
