@@ -1,0 +1,110 @@
+# Caria playtest name list -- the seed for 00 INDEX.md. Edit freely and rerun build_index.py.
+# Columns (TAB-separated): name | other spellings (comma-separated, may be empty) | kind | region | note
+# kind: person, spirit, place, thing. region: Monastery, Crossroads, Ganth, Saltwind, Road, Elsewhere.
+# Notes are a finding aid, not canon: player-safe, short, from the record. Check the source before using.
+# Names that two different people share are flagged AMBIGUOUS in the note; the search counts both.
+#
+# --- The Monastery of Strife (Mount Cunae) ---
+Caria Greenhaven	Cari	person	Monastery	The PC. Initiate of Rikitak, nineteen; the white lock; Reader of the Charter (S15)
+Ivro		person	Monastery	The Precentor; keeps the library; bought Cari at nine and calls her "daughter"
+Aldric Feyne	the Prior	person	Monastery	The Prior of the house; the frost-mark on his forearm
+Hannet	Hannet Mawr	person	Monastery	Infirmarer; Cari trained under her
+Holm		person	Monastery	Sacrist; keeps the keys, the church and the burying-roll
+Odo		person	Monastery	The Prior's clerk (not Almoner Odo Brask -- AMBIGUOUS first name)
+Mags		person	Monastery	Runs the kitchen; the ladle; never asks how you are
+Tilda		person	Monastery	Kitchen girl
+Agna		person	Monastery	Kitchen girl; gossip
+Nell		person	Monastery	AMBIGUOUS: a girl in the Monastery kitchen (Mags's), and Karinna's guide at Saltwind
+Old Soot		spirit	Monastery	The kitchen hearth's spirit; hears all the house's gossip
+Merrit		person	Monastery	The Precentor's copyist
+Lanfric		person	Monastery	Lector; restored as a Reader of the Charter (S15)
+Abelard		person	Monastery	Restored as a Reader of the Charter (S15); "honest -- that's his whole trouble"
+Hemmet		person	Monastery	Circuit brother; "I'll stop twice" at Crossroads
+Edwy		person	Monastery	Brother; "So will I"
+Lisle		person	Monastery	Keeps the guest range ("Mouse")
+Teague		person	Monastery	Young brother; Cari has his staff to return
+Ruddock		person	Monastery	The house's strong arm
+Wystan		person	Monastery	Old brother; sweeps the guest chapel
+Olwin		person	Monastery	The stables
+Osric		person	Monastery	Porter at the lower gate
+Dace		person	Monastery	Runs the crew outside the gate and on the road
+Piers		person	Monastery	Dace's man at the third bend; the horn
+Tobin	Tobin Marle	person	Monastery	The Almoner's clerk; his private tally
+Odo Brask	Brask	person	Monastery	The Almoner; put out of the house (S15)
+Voss Calder	Calder	person	Monastery	The Hierarch; put out of the Order (S15), taken to Ganth
+Aubric		person	Monastery	The Hospitaller, dead; the orange ribbon
+Godric		person	Monastery	The Visitor; judged Calder (S15)
+Kade	Anselm Kade	person	Monastery	The Almoner's Finder
+Hollis		spirit	Monastery	Kade's great pale hound
+Brother Superior		person	Monastery	Eldest of the grey brothers (S15)
+Cuthred		person	Monastery	A Prior of some two hundred years ago
+Wulfram		person	Monastery	The Sacrist before Holm (S16)
+Mount Cunae	the cradle	place	Monastery	The Monastery's mountain
+the undercroft		place	Monastery	Under the west range
+the west wing	west range	place	Monastery	Where the sureties were kept
+the burying-ground	burying ground	place	Monastery	Behind the church, north side; the yew
+third bend		place	Monastery	The road shrine below the gate; the pewter holder
+the garth		place	Monastery	The cloister garden; the old fountain's flags
+#
+# --- Crossroads ---
+Jem		person	Crossroads	Fourteen; Cari's apprentice; Mira's hag-stone
+Berra		person	Crossroads	Keeps the inn
+Dunny		person	Crossroads	Jem's friend; town crier
+Alby		person	Crossroads	Berra's ostler
+Rook		person	Crossroads	Keeps the shrine bowls by the well
+Garrow Hask	Garrow	person	Crossroads	The smith
+Old Bellows	Bellows	spirit	Crossroads	The forge spirit (the jet coal)
+Pryce	Mer Pryce	person	Crossroads	On the town council
+Goda Pryce	Goda	person	Crossroads	Pryce's wife; Wat's mother
+Bram		person	Crossroads	On the council; the mill
+Tessa		person	Crossroads	Young mother; Corin on the drove
+Robbie	Robin	person	Crossroads	Tessa's boy; the potato
+Aldy	Mother Aldy	person	Crossroads	Old midwife
+Wynn		person	Crossroads	Mother of the twins (S15)
+Bertil		person	Crossroads	Wynn's man; the tan-pits
+Benno		person	Crossroads	At the mill; the leg
+Ebba		person	Crossroads	At the mill (the Oxleys)
+Oxley		place	Crossroads	The mill family / the mill
+Liss Fenn	Liss	person	Crossroads	The Fenn hearth
+Harrow		person	Crossroads	The Fenns'; the eel-pot
+Oswin Tanne	Oswin	person	Crossroads	Retired cooper
+Elspet		person	Crossroads	Dyer's wife; Hob's mother
+Hob		person	Crossroads	The pea in the ear (S15)
+Old Tansy	Tansy	person	Crossroads	Witness to the empty-bowl oath (S02)
+Wat		person	Crossroads	AMBIGUOUS: Wat Pryce at Crossroads, and Wat Fallow at Saltwind
+#
+# --- Ganth and the merchants ---
+Ganth		place	Ganth	The Free City; a mercantile council
+Olef Tarro	Olef	person	Ganth	Grain-factor; Wenna's father
+Ilse Tarro	Ilse	person	Ganth	Wenna's mother (S15-S16)
+Wenna Tarro	Wenna	person	Ganth	Twelve; the surety Cari brought out
+Piran Tarro	Piran	person	Ganth	Wenna's brother, dead six years (S15-S16)
+Hamm		person	Ganth	The Tarros' carter
+Korrin	Dasha Korrin	person	Ganth	Runs the caravan; Jem's guardian
+Ondry Corvane	Corvane	person	Ganth	Salt-merchant
+Bryony Corvane	Bryony	person	Ganth	Ondry's daughter
+Fennick		person	Ganth	A clerk who keeps copies of the truth
+#
+# --- Saltwind (see the Saltwind Gazetteer for the full roll) ---
+Saltwind		place	Saltwind	The fishing village and port
+Mira	Mira Thousand-Voices	person	Saltwind	Hedge shrine-keeper (not Mirna)
+Min		person	Saltwind	Young goblin under an Accords agreement with Mira
+Shimmer		spirit	Saltwind	Undine in Mira's rain-barrel
+Karinna		person	Saltwind	Blind keeper of Susheil's well-house
+Mirna	Mirna Hale	person	Saltwind	Keeps the lodge cookfire (not Mira)
+Harl	Harl Pennock	person	Saltwind	The old watchman (not Hal)
+Hal Pellow	Hal	person	Saltwind	(not Harl)
+Jory	Jory Pellow	person	Saltwind	Sixteen; the collarbone
+Annet Fallow	Annet	person	Saltwind	Gutting tables
+Cobb		person	Saltwind	The beekeeper; the permanent hearth
+Thimble		spirit	Saltwind	Brownie keeping Cobb's skeps
+Gallows Teeth	the Teeth	place	Saltwind	The boulder field west of the village
+#
+# --- The road and elsewhere ---
+Asher		spirit	Elsewhere	Cari's ember sprite, called by True Name
+Weeping Court		place	Road	The fey house in the woods on the road north
+Tam		person	Road	Caravan hand; goat jokes
+Green Haven	Greenhaven	place	Elsewhere	Cari's home village
+Tanner's Fords	Tanner's Ford	place	Road	On the road north
+Eidolon	the Founder	person	Elsewhere	The Founder of the Order
+Rikitak		spirit	Elsewhere	God of Strife and Healing

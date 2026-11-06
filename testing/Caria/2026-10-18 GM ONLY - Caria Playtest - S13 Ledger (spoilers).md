@@ -1,0 +1,1427 @@
+# GM ONLY - S13 working ledger (spoilers) - Caria Greenhaven
+New chat, 2026-10-18 (Sun). Continues the S12 Ledger (not joined to it). Lee: don't read. ASCII only. Every beat gets a Present line.
+
+## Table notes (OOC)
+- Lee on his ALTERNATE LAPTOP; Project attached; device folders to be added later ("when I go upstairs").
+- Read at start: S13 handoff; S13, S12, S11, S10, S09 Resume Briefs; S09 WKW; current sheet (S12 END); S12 gap log; S12 ledger (whole); Tenets lore (Charter Clause); S12 handoff.
+- Cloud workspace: roll.sh recreated (./roll.sh N "label"; Extremes on 3+ dice only); L1 repo cloned (public). Ledger lives here; sync to Project at every pause.
+- NOT yet read: S11 gap log, S11 ledger tail (search before voicing S11-only NPCs).
+
+## S13 OPEN - night of Day 8, just out of the Prior's study
+- Tokens 5 (over cap; whatever Lee does first is a new shot, no refresh). Karma 1 spendable (+1 pinned L5, +1 pinned Loremaster). No Harm. Armor 1. Hook budget 4 (new scene). GM Tokens: refresh.
+- SAVE pending at open: Lee may spend the 1K or carry it.
+- Present: Cari; ODO (showing her out of the Prior's lodging).
+- LEE (OOC): BANK the 1 Karma (carry it). Karma: 1 spendable carried; pinned 1 -> L5, 1 -> Loremaster. No purchase.
+- Cari goes to the KITCHENS: see if they need anything; maybe eat and gossip.
+- NEW SCENE: the KITCHENS, night of Day 8, after vespers, before compline. Tokens 5 (over cap; no refresh). Hook budget 4. Armor fresh. No Hook trigger (she isn't hiding).
+- Present: Cari; MAGS; TILDA; @@* two scullions at the trough (unnamed). The great hearth banked for the night.
+- @@* (situation, no roll): Mags kept a pot back (Odo said so). The kitchen hears the house through rumour: the public chapter story (Tobin/Merrit, Brask locked up, the burned men, the steward's knife) and the Prior's vespers intention. Tilda carried the library supper and Hollis's bone.
+- @@* MAGS'S NEED (from situation): trays still to go out tonight -- Brask's cell (Cellarer has it), the ward (Sever, steward; Ruddock's men), and the HIERARCH. Nobody wants to carry Calder's: his hands are bound and cold, he can't hold a spoon, Hannet won't touch them bare, and the novices are frightened of that room. He hasn't eaten since the hearing. Mags says so plainly; she does NOT ask Cari to do it.
+- The hearth leans toward Cari as she comes in (debt still OWED: applewood/cedar + Saltwind wax). Mags doesn't remark on it.
+- Present: Cari (stool, stew), Mags (across the table), Tilda (crate), two scullions (trough).
+- Cari (mouth full): "I'll take it. He may not take it from me, but I'll not leave him hungry." -> she will carry CALDER'S TRAY after eating.
+- @@* MAGS (from character, no roll): not surprised. "Finish yours first." Swaps the Hierarch's bowl for broth, strained, in an INVALID'S FEEDING CUP (spouted; the infirmary kind) -- "he'll not manage a spoon, and you'll not be putting one in his mouth"; adds a heel of bread soaked soft.
+- @@* KITCHEN GOSSIP (rumour; what reached Mags via the vespers servers, the slype lads and Tilda): (1) the Almoner is locked "in the cell where they kept that poor girl" -- the kitchen relishes it; (2) "the fire-witch set two men alight and then wouldn't LET them burn" -- mercy is the word; (3) Tobin struck "the Precentor's boy" and the kitchen boys want five minutes with him; (4) garbled: that the Hierarch went down "on his knees" before her (he didn't -- he yielded to the Prior); (5) the Prior's vespers words, word for word, from Tilda. Mags asks nothing Cari hasn't said; she waits.
+- WKW: MAGS/TILDA now know Cari will feed Calder tonight.
+- Cari, sneering: "Brask. I suppose he'll be needing a bowl as well." To Tilda: the Hierarch is wounded and weak, never made it out of his bed. Pointed glance: "Still drove the calamity that *almost* happened..." Rest "mostly true, more or less. I'm surprised it hasn't been twisted more."
+- WKW: MAGS/TILDA/scullions now have from Cari: Calder never left his bed (no kneeling); he drove a near-calamity (unspecified). Confirms the rest of the rumour in general terms.
+- @@* MAGS (from character, no roll): Brask's bowl is already on the cell tray -- barley, no meat, "and he can count the grains"; the Cellarer fetches it. Reads the glance; doesn't ask what the calamity was ("Kitchen doesn't need the shape of it"). On the twisting: "Give it time. Half the circuit brothers go home after midwinter, and every one of them carries it down a different road." (Rumour will spread at the Convocation dispersal -- colour only; Purification List NOT advanced.)
+- @@* TILDA: deflated about the kneeling; rallies -- "Still. In his BED." Scullions snort.
+- Cari: "Shall I come back for the Precentor and our guest-dog something?" Takes Calder's tray (feeding cup of strained broth, soft bread, clean cloth, folded kitchen towel); goes to the infirmary.
+- @@* MAGS (situation): no need -- Tilda took the Precentor's supper up at vespers, and the dog's bone ("bigger than his head"). "Go on."
+- NEW SCENE: the INFIRMARY RANGE, CALDER'S DOOR, night of Day 8. Tokens 5 (over cap; no refresh). Hook budget 4. Armor fresh. No Hook trigger.
+- Present: Cari (tray); HANNET (night round, lamp, passing); two of RUDDOCK'S MEN at the ward door further down (Sever, steward inside); CALDER (in bed, on his side, facing the hearth); ASHER (Fax light, 3, in the hearth).
+- @@* (situation, no roll): no guard on Calder's own door (he's EL0 and yielded; the Prior's men are on the ward). Door unlatched. Room cold for a room with a fire in it.
+- @@* HANNET (from character): sees the tray and the cup; one look; "Not bare." Nothing else. (WKW: Hannet knows Cari is feeding Calder.)
+- @@* ASHER (mindspeech, on her arrival): "You're here. He hasn't stopped watching me." 
+- @@* CALDER: awake; when the door opens his eyes leave the light for the first time and go to her, then to the cup. Says nothing yet.
+- Cari (low, not entirely unkind): "It seems I am the one here who doesn't feel you should starve." Mags's sipping crock; "Can you manage it, or shall I assist?" No sarcasm, no rancor.
+- Mindspeech: "Asher -- try to get the room to warm up."
+- RULING @@*: who resists? The cold in the room comes off CALDER'S PALMS (residue of borrowed cold; far stronger than Teague's or the Prior's). Rating @@* 5. Asher's fire EL7 vs the chill 5d. Warming the AIR only -- this is not care and does not contest the residue in his hands (that would be mundane tending, per S12).
+- ROLL: Asher EL7: 0 0 1 0 0 1 1 = 3 vs chill 5d: 1 1 0 0 0 = 2 -> EFFECT 1: the edge comes off -- the hearth end of the room is warm; the bed end stays cold. Token offered once (-> 7 vs 2 = 5).
+- @@* CALDER (from character, no roll -- nothing contested yet): knows Mags ("She always kept a pot back"). Tries to manage alone: gets up on one elbow, takes the cup between both wrapped hands -- FROST blooms on the clay where the linen touches, and the broth skins over cold in a breath. He sets it down on the blanket, carefully, and looks at it. Then at her hands: "Yours are bare."
+- LEE: TOKEN on Asher's warming. TOKENS 5 -> 4. Asher set to 7 vs 2 -> EFFECT 5: the whole room warms, the bed end too; the chill shrinks back to his hands and the blankets over them. (Cari "conducts" the crescendo -- colour on the Token.)
+- Cari sets the tray down. "I am not here to hold your hand, Voss Calder." Wraps the (now cold, skinned) cup in the towel, sets it near him. Offers three things plainly: help to drink; care for "the hands you have cursed"; or leave him in what peace he can find. "I am not here to mock you."
+- @@* CALDER (from character, no roll -- an offer, not a persuasion): (1) the warmth reaches him -- he shuts his eyes for a breath (first time warm in a long while; GM colour, not stated by him). (2) Drinking: YES, on his terms -- "Hold it. Don't pour." (3) The hands: NO -- "Not cursed. Lent." and "Leave them. They're mine." (He won't let her take the last of what he held.) (4) Dry: the broth is cold -- "Cold. Of course it is."
+- WKW: CALDER has from Cari: she'll feed him, offered care for his hands, and isn't there to mock. CARI has from Calder: he calls the cold LENT, not a curse, and refuses to have it taken.
+- Cari carries the cup to the hearth: to Asher, "If you would be so kind. Not a boil; just to steaming." Ears on Calder.
+- (situation, no roll): Asher warms it -- her own flame, her own sprite, nothing resists away from his hands. Steam in a few breaths; the skin melts back in.
+- @@* CALDER (from character; within his knowledge -- he has watched the light since noon and knows a working when he sees one): behind her, the linen creaks as he flexes a hand; a faint crackle of frost. Then: "What is it? In the flame." A pause. "It's been looking at me all day." Asks, doesn't accuse.
+- @@* ASHER (mindspeech): a hot little flicker of indignation -- "Looking at HIM. He's been looking at ME."
+- Cari: "He is my friend, and says you have been looking at *him*. I suppose both are true." Brings the cup back. (Lee interior, not narrated: if he does something stupid, the hot cup goes in his face.)
+- @@* CALDER (from character, no roll -- EL0, nothing to contest; he is not stupid): drinks from the spout while she holds it; slow, disciplined, ravenous underneath. Of Asher: "A friend." Considers the flame. "It never looked away. Neither did I. I wanted to see which of us would." Then, between sips, within his knowledge (he wrote the deposition packet; knows only that his line to the Prior was cut): "The packet. Did Feyne read it?"
+- WKW check: Calder does NOT know the packet went into the lavabo unopened, nor the Prior's frost-mark (now healed of the residue).
+- Cari looks him in the eye, sets the cup down, and LEAVES. No answer.
+- GEAR: the feeding cup (half full, towel-wrapped) left by Calder's bed; the tray left in his room.
+- @@* CALDER (from character): does not call after her. What he makes of the silence: UNDECIDED (GM only).
+- @@* ASHER (mindspeech, as she reaches the passage): "He's not looking at me now. He's looking at the door."
+- (situation): the COMPLINE BELL begins as she steps out. Ruddock's men on their bench by the ward; Hannet's lamp at the far end of the range.
+- WKW: CALDER still does NOT know the packet's fate.
+- Cari (mindspeech to Asher): "*Good.*"
+- LEE (OOC): what happened to the packet? Is it still in the lavabo?
+- GM ANSWER (from the record): at the hearing (S11) the Prior dropped it into the chapter-house LAVABO under the water, plunged his own forearm in after it, and said "Holm. Nobody touches that basin." Narrated then: a thumbnail-sized hole eaten through the paper FROM THE INSIDE; the splinter still in the wax, inert. Contents unread. Nothing in play since has moved it. CARI knows only what she saw at the hearing; she has not been back to the basin.
+- GM DECISION @@* (situation, night of Day 8): still IN THE BASIN. Holm can't stand all night; the Sacrist has set a lay brother on a stool by the lavabo with a lamp, and the chapter house is locked for the night. (Who and how it will be dealt with: UNDECIDED; the Prior said nothing of it to Cari.)
+- Cari goes to the chapter house to confirm the packet is locked, guarded, and untouched.
+- NEW SCENE: the CLOISTER WALK by the CHAPTER HOUSE DOOR, night of Day 8, compline ringing. Tokens 4 (at cap; no refresh). Hook budget 4. Armor fresh.
+- @@* SETTING: the LAVABO is a long stone trough in the east cloister walk beside the chapter-house door (S11: "by the chapter house door"). The chapter house door behind it is LOCKED (Holm's keys).
+- Present: Cari; @@* an OLD LAY BROTHER (unnamed; the Sacrist's man) on a stool with a lamp and a blanket over his knees. Most of the house is in church for compline.
+- (situation, no roll): Holm has laid a plank across the basin over the packet's end of the trough, weighted with a stone. Under it, in lamplight: the packet, a pale oblong on the bottom; the water dark; ordinary frost on the rim like everywhere tonight. Nothing unusual is visible to plain eyes. (No Second Sight requested.)
+- @@* LAY BROTHER (from character): Sacrist's orders; nobody touches it; he's missing compline for it and minds. "Two novices came by after vespers daring each other to lift the board. I sent them off with a flea in their ear." Hasn't touched it himself: "My mother was fells-born. I know better."
+- WKW: lay brother knows Cari came to check the basin.
+- Cari to the lay brother: "Good eve, Brother. Please do not be alarmed - I am going to set a guard to help you - I touch nothing, and no one else should either. Alright?"
+- @@* LAY BROTHER (from character; he's heard the day's rumours -- "fire-witch", "held the fire off them"): wary, not hostile; shifts his stool back a foot; "What sort of guard, Sister?" Eyes on her hands. (Awaiting what Cari sets.)
+- Cari: FAX IACTA improvised -- PERSISTENT (stays till tomorrow) + GUIDABLE (so she can USE it) -- set free in the air an inch or two above the plank, over the drenched packet. Better light; harder to reach through without burning.
+- RULES READ: spells.md Fax Iacta (palm flame, light and heat; flames it starts on other things burn); spells.md Difficulty (untargeted spells DL0; each useful Trait +1; free-action hold vs modified DL; lose it = destabilized, binding lost); shaping-effects.md (same); traits.md Persistent (Trivial Effect; no concentration; CANNOT hold an effect against someone else's roll; may keep the spell active for new rolls) and Guidable (direct it while in line of sight).
+- DL: 0 + Persistent 1 + Guidable 1 = DL2.
+- ROLL HOLD: Fax improvising EL11: 1 1 0 0 1 0 0 1 0 0 0 = 4 vs DL2: 1 0 = 1 -> HOLDS (binding safe).
+- @@* STRENGTH (GM proposal, per the S12 framework ruling: no other roll produces this effect, so a framework roll at the casting EL sets what the Dawn tests): EL11 unopposed: 1 0 1 0 1 0 1 0 0 0 0 = 4 -> STRENGTH 4. Pending Lee's word.
+- NOTE (Persistent per traits.md): the flame is light and plain heat -- a deterrent; on its own it does NOT contest a determined hand. Guidable lets Cari strike with it as an action while she has line of sight [Lee S11: attacking costs an action].
+- RUNNING: Fax light over the LAVABO (Persistent, Guidable; strength 4 @@*). Dawn tests from Day 9 (age 1 -> 1d).
+- LEE: "Exactly" -> LAVABO FAX STRENGTH 4 ratified. LEE RULING: if anything makes her think it's being tampered with, she can SEND ASHER and try an improvised REMOTE OPPOSITION roll. Agrees it's *mostly* deterrent.
+- Cari to the lay brother: "Likely not. Hopefully it will keep you warm." Bobs; considers compline, doesn't want to interrupt. "Good night, Brother."
+- Considers sleeping on Merrit's floor (he's well cared for); goes instead to the LIBRARY STUDY to sleep by Ivro's day-bed with Hollis.
+- NEW SCENE: the PRECENTOR'S STUDY (library), late night Day 8. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; IVRO (day-bed); HOLLIS (threshold). Asher in Calder's hearth (not here).
+- @@* (situation, no roll): one low lamp. Supper tray on the side table, mostly eaten (Tilda's). Hollis's bone, gnawed clean, on the passage flags. The CHARTER BOX on the floor beside the day-bed, within Ivro's reach, his hand trailing on its lid. Ivro half asleep. Hollis's tail thumps once; he shifts to make room.
+- @@* IVRO (from character): opens one eye. "Did you eat?" Then: "Good." Asleep again before she answers, or nearly.
+- Lee: "Sleep." Cari sleeps on the floor by Ivro's day-bed, Hollis alongside.
+
+## NIGHT Day 8 -> DAWN Day 9
+- NIGHT (situation, no roll): quiet. House guarded; Asher sentinel in Calder's hearth reports nothing. Taint dreams NOT rolled (not forced; Lee leads). Anchor-line toucher: still undecided, quiet.
+- RULES READ: recovery.md (Injury rolled daily vs current Injury; success reduces by effect; Complications clear on any successful recovery; GM may refuse bonuses); types-of-harm.md; extreme-results.md (opposition can roll Extreme success against you; consequence scales with dice).
+- Ages at Day 9 dawn: lantern 6d (Day 5 = 2d), larder Veil 3d (age 1 at Day 7), Scry/Calder hearth/lavabo 1d each.
+- DAWN 9 Korrin's lantern (Fax 6) 1 1 1 1 1 1 = 6 EXTREME SUCCESS (6 dice) vs 6d 0 0 0 1 0 1 = 2 -> HOLDS at 6. @@* side effect (GM proposal, scaled to 6 dice; mirror of the snuff rule): the Dawn's count RESETS -- the lantern counts as age 1 again. Colour: it flares clear and bright at sunrise on the Ganth road; Cari feels it down the line as a warm tug. PENDING LEE. GAP: Extreme success on a Dawn roll.
+- DAWN 9 larder Veil (2) 1 1 = 2 vs 3d 1 0 0 = 1 -> HOLDS at 2.
+- DAWN 9 Scry eye (4) 1 0 0 1 = 2 vs 1d 1 -> HOLDS at 4.
+- DAWN 9 Calder-hearth Fax (3) 1 1 0 = 2 vs 1d 1 -> HOLDS at 3.
+- DAWN 9 Lavabo Fax (4) 1 0 1 1 = 3 vs 1d 1 -> HOLDS at 4.
+- IVRO: EL6 (Lv4 + rest 1 + Hannet 1; no Cari care tonight) 1 0 0 1 1 1 = 4 vs sickness 3d 1 0 1 = 2 -> WINS by 2. Injury 0 (nothing to heal). Remission holds.
+- CALDER daily Injury: Lv5 (no bonuses) 0 1 0 0 1 = 2 vs Injury 5d 1 0 1 0 0 = 2 -> TIE: no healing. Injury 5. EL0.
+- MERRIT: Lv2 + care 3 = EL5 0 0 0 0 1 = 1 vs Injury 3d 1 1 1 = 3 (opposition EXTREME SUCCESS, 3 dice) -> no healing. @@* consequence (mild, 3 dice): a bad night -- sick headache and dizziness on waking, +1 COMPLICATION. Merrit 3 Injury + 1 Complication; still abed (Down).
+- TEAGUE split roll (S11 split ruling: unopposed recovery result = the Complication share): Lv4 + care 4 = EL8 0 0 1 0 0 0 1 1 = 3 -> 3 of his 4 were Complication (cleared); 1 INJURY remains (blisters).
+- STEWARD split roll: Lv3 + Hannet 1 = EL4 1 0 0 1 = 2 -> 2 of 3 fire were Complication (cleared); 1 INJURY remains. Success also clears his 3 Veil Complications. STEWARD: 1 Injury; NOT Down. Bound.
+- SEVER split roll: Lv5 + Hannet 1 = EL6 0 1 0 1 1 1 = 4 -> by the S11 ruling ALL 4 fire Harm were Complication (cleared); success clears his 4 Veil Complications -> SEVER would wake FIT (bound, two guards). CONFLICT: Hannet said the burns are real and will scar. FLAGGED to Lee -- the open gap "splitting Harm at recovery".
+- PRIOR: frost-burn, no Harm number recorded -> heals in course (no roll).
+- LEE RULING: DAWN RESET is a good rule -> an Extreme success on a casting's own Dawn roll resets its age (counts as age 1 again). Korrin's lantern: strength 6, age 1 at Day 9 (2d at Day 10).
+- LEE on SEVER: the split STANDS -- maybe it was mostly his hair burning off; Hannet could have been wrong (not infallible); or a lot of blistering he can function around that may still scar. -> SEVER: 0 Harm, FIT, bound, two guards. Blistered, singed, may scar.
+- Day 9 morning: Cari rises quietly, collects her things (wants a quick bath; breakfast first) -> the KITCHEN.
+- NEW SCENE: the KITCHEN, after prime, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh. GM +1.
+- Present: Cari; MAGS; TILDA; scullions; @@* Hannet's NOVICE (fetching the infirmary trays).
+- @@* (situation, from the dice): the novice reports for the ward trays -- "the big one" (Sever) sat up at prime, asked for meat, and the guards have doubled their grip on their staves; the steward is sore and quiet; "the Hierarch" ate nothing yet. Kitchen gossip picks it up at once.
+- @@* MAGS: porridge with a crust of honey, small beer; "Chapter after terce, is it. Eat. You'll want your strength for sitting still." Asks about the Hierarch's cup: did he drink it.
+- Cari eats with gratitude. To Mags: "Half. I left him the rest when he asked what he should not." He needs more, and water. Anyone else brave or kind enough to carry it yet?
+- @@* MAGS (from character): doesn't ask what he asked. One volunteer: WYSTAN came to the hatch after prime asking what the Hierarch could keep down -- "said somebody ought, and he'd sooner it was somebody who's swept that chapel." Mags is setting broth and a cup of water (second spouted cup) for Wystan to carry at the next bell. Her verdict on Wystan: "Daft old saint."
+- WKW: MAGS knows Calder asked Cari something he shouldn't have (not what).
+- Cari: "I do not doubt it." (Lee: she appreciates the reminder.) "Thank you again." BOWS TO THE HEARTH before leaving for a bath.
+- @@* THE GREAT HEARTH (situation; debt still OWED: applewood/cedar + Saltwind wax): the coals brighten under the ash as if breathed on; a log settles and throws a short skein of sparks that drifts WEST, toward the door to the woodshed side, before going out. No words (Asher not here).
+- @@* MAGS: sees the bow; a grunt that is plainly approval. "Mind she doesn't get above herself."
+- Cari, grinning: "I wonder which of us she is talking to." Follows the sparks west.
+- @@* MAGS: a bark of a laugh; "Both."
+- NEW SCENE: the WOODSHED (west, past the kitchen yard and the infirmary garden), morning Day 9. Tokens 4 (cap). Hook budget 4.
+- Present: Cari alone.
+- @@* (situation, no roll): long open-fronted shed against the orchard wall; split oak and beech stacked to the rafters; at the far end, bundled faggots of APPLE PRUNINGS from the orchard, bark still on, sweet-smelling. Near the door: where MERRIT lay (S11) -- cut cord-ends kicked into the sawdust, a dark dried patch on the boards. Nobody has cleaned it.
+- NOTE: Cari already carries Saltwind wax -- COBB'S BEESWAX is in her Artifice stock (satchel). The offering is in reach: applewood + a thumb of Cobb's wax.
+- Cari gathers good applewood cuttings. "Enough?"
+- GM (situation, no roll; what a Rikitak-raised priestess would know of hearth offerings): an offering is a gift, not fuel -- a small bundle of the best, sound, dry sticks is right; more would be stoking. She picks a forearm's-thickness bundle of the straightest, driest prunings, ties it with a withy from the pile. GEAR: applewood bundle (for Mags's hearth).
+- Cari will prepare the applewood later; goes to bathe.
+- NEW SCENE: the BATH-HOUSE (below the guest range), morning Day 9, between prime and terce. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; BROTHER FULKE (boiler-brother, elderly, deaf in one ear, soot-faced; S11).
+- (situation, no roll; nothing resists): Fulke bars the outer door for the Sister as before and sits outside on his stool. Hot water from the copper. No Hollis this time (with Ivro).
+- @@* FULKE (within his knowledge -- Merrit came for the hot bath Cari ordered, Day 8 morning): "Your lad came yesterday. Hot as you said. Sang, near enough." A pause. "Went off for a brush after. Heard what came of it." Says no more.
+- Applewood bundle set by the door, dry.
+- BATH (no roll): soak; combs out her hair (her own comb -- the hairbrush is on loan to Merrit); gets the battle off her. Robe and clothes steamed on a line over the copper and brushed; clean underthings (standing kit). Washes the sore forearm: a little sore, fine. Rinses the YELLOW (record: the yellow SHAWL; Lee called it "sash" -- flagged OOC, no correction to the character), wrings it, wears it under the robe with the RED. Wrings her hair.
+- GEAR: yellow shawl now worn under the robe, with the red sash (no longer round the forearm).
+- Thanks to Fulke; to the INFIRMARY.
+- NEW SCENE: the INFIRMARY front room, mid-morning Day 9, before terce. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; HANNET; MERRIT (abed: 3 Injury + 1 Complication from the bad night -- sick headache, dizzy; a basin by the cot); the NOVICE; beyond the inner door the ward (SEVER sitting up, fit, bound; the STEWARD sore; two of Ruddock's men). WYSTAN gone up the range with the Hierarch's cups. TEAGUE: on a stool by the window, hands in lighter linen, flexing them.
+- @@* (situation): Merrit greenish, eyes shut against the light, the hairbrush on his chest. Hannet: "Bad night. Head. He kept his porridge down at the second try."
+- LEE (OOC): the yellow is the same item (shawl); she just draped/used it as a sash. Noted.
+- Present: Cari (stool by Merrit), Merrit, Hannet (table), novice, Teague (window).
+- Cari to Merrit: "Hello, you. I just came for my brush" (teasing); takes the brush, brushes her hair out. "How are you?"
+- @@* MERRIT (from character; Level 2, 3 Injury + 1 Complication -- sick headache, dizzy): opens one eye, winces at the light; "Like a cart went over my head. Then backed up to look." Watches her brush her hair with the brush he guarded. Then, within his knowledge (she said "I am on trial today" on Day 8; he was out cold through the hearing): "Did they finish it? Your trial?"
+- Cari (smirk): "Called on account of rain -- or rather, insidious plot and various other crimes. We'll finish it after terce. Care to go dancing after?"
+- WKW: MERRIT now knows the hearing resumes after terce today.
+- @@* MERRIT (from character): tries to laugh, regrets it (hand to his head); red to the ears; "If the floor holds still. I'll -- I'd step on your feet." / "Win first."
+- @@* HANNET (not looking up): "He's not dancing for a week. Nor sitting up without a basin."
+- @@* TEAGUE (window, dry fells): "Fells dance at buryings, Sister. I'd not ask for one today."
+- Cari to Teague: do fells folk do anything besides funerals? "...one might surmise you store up your dearly departed for your festival days."
+- @@* TEAGUE (fells-plain, dry; GM invention on fells custom): "Shearing. Lambing. A wedding if the snow's off the pass." Beat. "But a burying's the one day every house on the fell comes down. Can't plan a wedding for that." "We don't store them, Sister. We just don't waste them."
+- Cari gives the HAIRBRUSH back to Merrit (loan resumes). "You get better. I find I'm having to do all my tedious chores myself." Smooths his hair; checks stitches (Healer's look, no roll): clean, dry, no heat, swelling no worse. The bad night is in his head, not the wound.
+- GEAR: hairbrush -> MERRIT (loan, again).
+- @@* MERRIT: closes his hand round the brush; "Yes, Sister." Half asleep again under her hand.
+- LEE (OOC): what happened to the girdle and the two halves of the BLUE sash? She doesn't want them in the way or the sash disrespected.
+- RECORD: left on the flags by the chapter house EAST WALL, Day 8 morning (S11); picked up by whom: UNDECIDED. Cari has not been back.
+- GM DECISION @@* (situation): SABETH (vestiary/laundry; already keeps Cari's robes) sent a girl for them on Day 8 afternoon once the yard was cleared -- an Order colour is not left on the ground. The two halves of the blue sash are FOLDED TOGETHER in the vestiary with Cari's other robes; the cut girdle with them. HANNET knows (Sabeth's girl came through the infirmary with them on the way). Cari learns it only if she asks.
+- Cari (doesn't know whom to ask) goes to SABETH anyway to collect her other things.
+- CHECKED (S11 ledger): OLD SABETH -- laundress/vestiary; civil, generous, UNEASY with Cari (her girl NELL answered the clerks; Nell now silent in Mags's kitchen; Sabeth and Mags related by marriage [Lee/@@*]). Sabeth hid the BLUE robe from the clerks [Lee]. NOTE: S11 ledger l.467 DECIDED the anchor-line toucher @@* = CALDER via the RED ROBE as sympathetic link (later briefs still say undecided -- GM-only; reconcile at the save).
+- NEW SCENE: the LAUNDRY / VESTIARY, morning Day 9, before terce. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; OLD SABETH; three or four laundresses at the tubs.
+- @@* (situation): steam, lye, wet wool. Cari's things in a press: BLUE silk robe (pressed), YELLOW and ORANGE robes, ORANGE and WHITE scarves. On top, apart: the cut leather GIRDLE, and the two halves of the BLUE SASH folded together, ends squared.
+- @@* SABETH (from character; the house's mood has turned -- "held the fire off them"): less braced than Day 7; still won't hold Cari's eyes long. Unprompted: "Pip fetched these off the flags. Weren't right, an Order colour lying in the yard." Then, practical and generous: she can seam the blue -- "a seam'll show, mind" -- or leave it as it is. Cari's choice.
+- Cari: "Thank you so much. Mes Sabeth, a seam by your hand would be an honor I would be proud to show." Touches the girdle: "I wonder if anything can be done for this poor girdle. It served me well."
+- @@* SABETH (from character, no roll): the "honor" lands -- she meets Cari's eyes for the first time, holds it, looks away pink. Takes the two halves of the blue: "By noon, then. Before, if the light holds." On the girdle: leather's not her trade; "Harness room mends straps for the mules" (the stables, i.e. OLWIN's range -- she doesn't say his name); and, looking at Cari's hands, "Or you'd do it yourself, I'd think. You've the hands." 
+- GEAR: blue sash halves -> SABETH (seaming; by noon). Girdle still in the press, Cari's to take.
+- Cari: keeps the girdle "to remind me of the grace the gods have shown." Collects her things. "There's no great hurry, Mes Sabeth. Thank you."
+- GEAR: from the vestiary -> Cari: BLUE silk robe (pressed), YELLOW and ORANGE robes, ORANGE and WHITE scarves, the cut GIRDLE. (Blue SASH halves stay with Sabeth for seaming.)
+- NEW SCENE: the PRECENTOR'S STUDY, mid-morning Day 9, before terce. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; IVRO (up, dressed, in his chair by the window, tea, the charter box at his feet); HOLLIS (sprawled in the sun patch).
+- HEALER'S LOOK (no roll; nothing resists): colour better than yesterday; breathing easy at rest, the old faint rattle at the bottom of the breath, no worse; no fever. (He won his dawn by 2.) Camphor not needed -- Cari's call.
+- @@* IVRO (from character): "I woke and the floor was empty. The dog said you'd gone for porridge." Eyes the bundle of applewood: "Kindling? Or are you courting someone's hearth?" (Doesn't know the debt.)
+- Cari begins preparing the applewood (clean and WAX with Cobb's beeswax, ceremonially). No roll: careful offering work, no opposition.
+- Cari kisses Ivro's head, checks his temperature (cool; no fever), smooths his hair. Warms the wax; starts on the sticks.
+- Cari: "Mags' hearthkeeper warned us more than once, and was in fact critical in keeping the whole monastery from going to hell in a handbasket yesterday. I am going to pay that debt."
+- WKW: IVRO now knows Mags's hearth has a keeper Cari owes a debt to.
+- @@* IVRO (from character): approves; a debt to a hearth is paid before chapter, not after -- "you don't want it sitting on your shoulder in that chair."
+- Cari tells Ivro the whole of her counsel to the Prior after vespers (summary of Lee's S12 words: true text before the Convocation; reinstate the charter as written and meant; an OFFICE to keep the Founder's truth, intent and practice, held by the house not the Prior's administration; an "Inspector General" against heresies like Calder's that must not become an Inquisition -- "who watches the watchers?"; modelled on Rana's Wardens). The Prior: "Bring me the recommendation. Written." / "If you can build it so it doesn't become Voss in a new coat, I'll put my seal to it."
+- WKW: IVRO now knows Cari's counsel and the Prior's two lines.
+- @@* IVRO'S INPUT (from character -- the teacher: questions and principles, NOT the text; Lee writes the recommendation): (1) "Who puts him in the chair, and who can take him out of it?" -- if the Prior appoints, it's the Prior's; (2) eyes and a voice, NO HANDS -- an office that can read, ask and report to the chapter in open session, but cannot bind, punish or burn, can't become an Inquisition; (3) its own book OPEN -- anyone of the house may read it; set against Cuthred's "kept shut and not read"; (4) what does she actually KNOW of Rana's Wardens, beyond liking the shape? (5) warning: the Convocation's purifiers will hear "rekindle Hell" in the Founder's hand before they hear anything else -- decide which comes first, the Office or the leaf.
+- LEE CANON (Cari's knowledge, in-world rumour): RANA'S WARDENS -- reputation as lone defenders of the byways; rumoured to have been founded by Eidolon too, "much like the Bard's College at the Druid's Grove."
+- WKW: IVRO now has that rumour from Cari.
+- Cari: settle it over the next few days. Takes in: appointment and removal; minimal authority, limited scope; open books. Nods, squinting.
+- @@* IVRO (from character): one more question to carry -- "Lone, you say. Then who do they answer to, when there's no one on the road to answer to?" Then lets it go; she has the bones. Sticks done: the applewood bundle waxed, retied.
+- Cari takes the waxed applewood bundle to the KITCHEN: thanks the Hearth, sets ONE stick in the fire, the rest just to the side ("doggie treats for the fire").
+- NEW SCENE: the KITCHEN, before terce, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; MAGS; TILDA; scullions; @@* NELL (silent kitchen girl; met Asher S11) at the bread trough.
+- (situation, no roll -- nothing resists; this is exactly the price Asher named, applewood + a thumb of Saltwind wax): the stick catches at once, clean and bright, sweet smoke straight up the flue; the flames lean toward the set-aside sticks "like a dog eyeing the treat jar."
+- DEBT PAID: MAGS'S HEARTH offering (applewood + Saltwind wax). Remaining owed: Cari's oath to hold Asher in her hand; the S08 Query favour; standing "many offerings".
+- @@* MAGS: stops stirring; says nothing; a slow nod to the hearth, then to Cari. The kitchen goes quiet for a breath.
+- @@* NELL: watches the fire, then Cari, with something less heavy in her face.
+- @@* ASHER (mindspeech, from Calder's hearth -- the house's fires talk): "The kitchen just said thank you. Every fire in the house heard it."
+- Cari to NELL: "Give it one whenever you aren't busy. Try to make them last at least the day." Winks; bobs to the room; goes out to enjoy a few minutes of late-autumn sun before terce.
+- @@* NELL (from character; silent): a solemn nod, flour to the wrists; sets the remaining sticks in a neat row on the hearthstone where she can reach them. Says nothing -- but she looks Cari in the eye to do it.
+- WKW: NELL now tends the hearth's offering sticks today, at Cari's word.
+- The GARTH, late morning before terce (continuous; no new scene): cold bright sun on the south walk, frost gone from the flags there; Cari alone.
+- (Session context re-read at 19:44 CT; cloud workspace intact -- ledger and roll.sh present.)
+- Cari attends TERCE before the hearing.
+- NEW SCENE: TERCE, the main church, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh. No Hook trigger offered (she isn't trying to hide; Lee leads).
+- Present (situation): the PRIOR in his chair (forearm still bound); ALMONER'S and HIERARCH'S stalls empty; LANFRIC at the lectern; WYSTAN; ODO; HOLM; RUDDOCK by the west door; circuit brothers at the back incl. the WATCHER (hood up). Not present: Hannet (patients), the Cellarer (Brask's cell), Teague (infirmary).
+- @@* The Initiates' bench: both ends make room at once today; of yesterday's far-end three, two now sit beside her without comment, one still keeps his distance.
+- @@* (no roll) A short office -- psalms, a short reading. At the close the Prior, from his chair: "Chapter sits after terce." His eyes rest on Cari for one breath; nothing more.
+- Cari takes a moment to scan the room with SECOND SIGHT (as the house rises after terce).
+- RULING (who resists?): plain auras in an open room are not hidden -> read from the situation, NO ROLL. Only something concealed would resist (and get a roll).
+- GM DECISION @@* (settled now, before it mattered -- "who else is in the cabal"): NO ONE in the church at terce carries the Cold's cold-sweet taste (the leash's make). The marked ones (Calder, Sever, Tobin, Brask) are all held elsewhere. The far-end Initiate who keeps his distance: fear and stubbornness, a sincere purifier's grey -- no taint.
+- READ (situation): the PRIOR -- tired grey-gold, steady, the frost-mark clean; the house in patches -- curiosity, wariness, and here and there a warm lean toward her; Wystan bright as a candle; Ruddock banked, watchful, no hostility; Lanfric a cool clear blue.
+- THE WATCHER: identity deliberately UNDECIDED, "do not harden without Lee" (S12/S13 briefs). A Sight look at him would force it. -> PAUSED: asked Lee OOC how to handle before any roll on him.
+- LEE (OOC): doesn't recall asking for the watcher not to harden. Notes a readable-but-DIFFICULT result (like reading a self-image) implies something worth seeing.
+- GM CORRECTION: checked the record -- "Do NOT harden without Lee" was the S12 GM's own caution in the ledger and brief, NOT Lee's request. Misattributed to Lee at the table; owned. (Lesson again: don't attribute GM notes to Lee.)
+- Recorded candidates (GM-only until now; shared with Lee OOC at his question): an honest fells elder, or something older wearing one.
+- LEE (OOC, GM craft): rolling means there IS something interesting to see; the roll tests how much she detects. The GM needn't know the answer -- let the dice tell, or merely hint ("let the game write itself", like Eidolon's prophecies; open-ended play, no time pressure). -> GM procedure / gap log.
+- ROLL SECOND SIGHT on the WATCHER: Conjuror EL8 1 1 1 0 1 1 1 1 = 7 vs his concealment 4d 1 0 1 1 = 3 -> EFFECT 4. (He IS hiding something -- his 3 was a real effort.)
+- READ AT EFFECT 4 @@* (dice-written): TWO LAYERS. The outer aura is a genuine old fells man -- weathered brown and grey, salt-and-sheep plain, honest, true. Under/behind it, a second presence the shape of which she cannot make out: OLD, patient, cool as turned earth -- NOT the Cold's cold-sweet taste (none in the room). It sits in him the way a man sits in a familiar chair. Its edges have the Borderlands hush of the Dead's side. And he FELT her look: the hooded head turns toward her, slowly.
+- Offered once: HOOK budget (tapping the Borderlands; up to +4 -> effect 8) or a TOKEN (-> 8 vs 3 = 5). Awaiting Lee.
+- LEE (OOC, reading the roll in L1 terms): the watcher rolled 4d -> his base Level is probably 4 or less (a trained concealment would add dice on top). EFFECT 4 at least MATCHES his Level -> she reads damned near everything he's hiding; one more point and his resistance would be DOWN, even on a quiet passive roll. (That's why a separate oracle is rarely needed.) Self-image in the aura is visible even in the dark under the hood ("that's how Halflings see in the dark"). Can still be benign (e.g. a willing symbiosis with a friendly Fey spirit). Enough without Hook or Token -- but don't hand her the whole plot in a bow. -> Hook/Token offer withdrawn; not spent. GAP LOG / GM crib: effect vs Level as the measure of how much a read reveals.
+- GM DECISION @@* (dice-written, near-full read; effect = his Level, not over): THE WATCHER is an honest old fells singer AND the willing host of a BARROW-SPIRIT of the fells graves -- an old Dead's-side spirit that rides, by long agreement, in the eldest singer of the answering side, so the dead get their answer sung. Benign. Forty years settled together.
+  - His self-image: an old man as a GATE-POST between two fields, one green, one grey; worn smooth where hands have leaned.
+  - Its self-image: a long low turf BARROW with a stone door, standing open a crack; cool earth; patient.
+  - What stays hidden (effect = Level, not over): its NAME, and WHY it came up the Mountain now.
+- @@* He felt the look; does not fight it further -- lifts his chin a fraction and lets her see. Across the church, under the hood, a slow nod.
+- WKW: the WATCHER knows Cari has the Sight and has looked into him. CARI knows what he is (as above), not its name or purpose.
+- LEE (OOC, precise): 4d means his LEVEL is 4 only if UNTRAINED; any relevant Role/Maneuver/bonus means his Level is LESS than 4 (EL = base Level + Roles + Maneuvers + bonuses). Understood.
+- GM DECISION @@*: the resistance was the barrow-spirit's natural hush, not a trained skill -> untrained, Level 4 -> effect 4 = Level exactly; NOT Down; the read stands as narrated (name and purpose kept back). Had he been trained, effect 4 would have exceeded his Level and put his resistance Down.
+- GM CRIB: when an opposition's dice include skill, its Level is lower than its pool; effect measured against LEVEL, not against the pool.
+- LEE: entirely happy with it ("fascinating"). The read stands.
+- Cari nods to the MAN, and again to the RIDER -- a welcome to each. Then back to terce (OOC note: terce has just closed -> read as a moment's private prayer in the emptying choir before chapter).
+- @@* (no roll): the man returns the nod; in the Sight, the barrow's stone door eases open another finger's width, then settles -- an answer. He goes out with the brothers toward chapter.
+- WKW: the WATCHER and his RIDER know Cari has welcomed them both.
+- LEE: thought we were already on the way to chapter. Cari takes a deep breath and goes.
+- CHECKED (S11 ledger): the CHARGE (Brask): maleficium on Olwin in the stable yard, Day 5, "breaking him with a wave of his own cudgel," and "not the first such working." Prior (night Day 7, after Open Hands effect 9 / Token): "A curse of sympathy. Eidolon would have liked that." She was to bring the cudgel and say exactly what she told him -- "not a word more, and not one less." Penance: "If the chapter asks one, I'll set it myself. You'll find it light." Tobin bribed the two older grooms ("one for the boy"); Ruddock sat with them and took the coin to the Prior. Olwin swore in her absence Day 8.
+- GM DECISION @@* (Olwin's oath, settled now -- needed): Olwin swore the whole of it, plain: he drove the black coach for the Almoner -- the Corvane girl, and the Tarro girl crying inside; he hurt the Saltwind boy (Jory); the Sister asked him for penance and he CHOSE it, on his knees; he felt the boy's pain in his own bones until he turned, and she lifted it; he went to Hannet and set down the bottle. The chapter heard all of it (cf. "the Tarro girl", "the same hand").
+- NEW SCENE: the CHAPTER HOUSE, Day 9 after terce. Tokens 4 (cap). Hook budget 4. Armor fresh. No Hook trigger (she is the accused, not hiding).
+- Present: the PRIOR (his own chair; the Almoner's seat beside it EMPTY); ODO (clerk's desk); HOLM; LANFRIC; RUDDOCK; WYSTAN; HANNET; OLWIN (standing apart by the west bench, the towel-wrapped CUDGEL in his hands); the WATCHER among the circuit brothers; ~40 brothers. Not present: Brask (cell), Calder, Sever, the steward, Tobin (held), Teague (infirmary).
+- @@* On the way in: her FAX light still burning over the lavabo by the door, the old lay brother on his stool beside it; every brother entering passes it. Nobody touches the basin.
+- @@* PRIOR opens (from character, no roll): the chapter resumes the matter raised by the Almoner touching the Initiate; the accuser now sits in a cell, "but a charge spoken in this house is answered, not dropped because the man who spoke it has fallen"; "The stable-master swore before you yesterday. You heard him." Then: "Initiate. Say to the chapter what you said to me. Not a word more, and not one less."
+- DEVICE: folder connected on "desktop-bfil13e" (Lee's main machine path, C:\Users\pavel\Lili's Bottle\Averond\Caria Playtest). No device shell. S13 ledger COMMITTED to the PC folder (new file) at 20:35 CT.
+- Cari bows slightly: "Yes, Father Prior." Looks him in the eye; will recite, word by word, what she told him (night of Day 7).
+- LEE (OOC): asked for the exact words. RETRIEVED verbatim from the "Cari S11" chat (past-chat search) and given to Lee: the "I am a Priestess Initiate, Prior. It is my Office to *teach*..." speech through "...so be it." (The Prior's instruction referred to THAT speech.)
+- Cari frames it "I said to the Father: ..." and recites the S11 speech verbatim. At the shawl: draws the YELLOW out of her robe, regards it a moment (the colour plain in her hand), tucks it away -- demonstrative only as the touch was in his study. Close: "So said I then, while he was still in our Infirmarer's care. I stand by it now."
+- RULING: being believed by the chapter -> OPEN HANDS EL10 vs the chapter's doubt 3d (lowered by Olwin's sworn account and the Prior's public signal at vespers).
+- ROLL: 1 0 1 0 1 0 1 0 1 0 = 5 vs 3d 1 1 1 = 3 (opposition EXTREME SUCCESS, 3 dice) -> EFFECT 2: the facts are believed (they match Olwin's oath), but the room is weighing the RIGHT of it.
+- Opposition Extreme (3 dice, mild): an NPC Extreme pays the GM a Token [S11 rule] -> GM +1. Side effect: a sharp, fair objection put from the benches @@* -- an old CIRCUIT BROTHER (unnamed; a sincere purifier's grey): "Teach, Initiate. Aye. Since when does teaching need a man in pain?" The room turns to her.
+- Offered once: HOOK budget (social; she wants to be heard -- up to +4 -> effect 6) or TOKEN (-> 10 vs 3 = 7). Awaiting Lee.
+- LEE: holds the Hook for now. Frames it as SOCIAL COMBAT with the room's doubt of her motives: progress by increments; the 2 counts against their remaining doubts. -> RULING @@*: the CHAPTER'S DOUBT = attrition track, rating 4 (@@* GM-set); Cari's effect accumulates; the room is won when her total > 4. Running: 2 of >4. The old circuit brother's question is the opposition's next exchange.
+- LEE (OOC): asked for a separate document of the Charter, Tenets, Toll etc. to quote. WRITTEN: "2026-10-18 LORE - Rikitak - Scripture and Sayings (quote sheet).md" (clean texts; GM-drafted pieces tagged @@*; build notes stay in the Tenets lore doc). Saved to the Project.
+- Cari, taken aback, bites back a harsh answer (a visible breath); meets the old man's eye and SINGS the final CALL of the fells graveside verse: "tend thou the hearth, and slumber..." Waits for the response.
+- RULES READ: assist-rule.md (a helper's Boost is capped by the helped character's rank in the relevant Role).
+- @@* THE WATCHER answers (from character -- "Call, and I'll answer," S12). RULING: his answering half is a BOOST created by him, with his skill: Lv4 + fells singing 2 @@* = EL6 vs the room's guard 2d: 1 0 1 1 0 1 = 4 vs 0 1 = 1 -> 3; capped at Cari's Performer 3 -> BOOST +3.
+- ROLL (social attrition, the chapter's doubt): Cari PERFORMER EL7 + 3 = EL10: 0 0 1 0 1 1 0 0 1 0 = 4 vs doubt 3d 0 1 0 = 1 -> EFFECT 3. Running total 2 + 3 = 5 > 4 -> THE ROOM'S DOUBT IS BROKEN (Down). Hook still unspent.
+- @@* (from the effect): the watcher's answer from the circuit benches -- "and the least of the house take up the brand, / and kindle me home from under." Two or three fells-born brothers hum the drone without meaning to. The old white-bearded purifier hears it through; his hands come down; he sits slowly. The room has its answer: tending is the teaching; the Toll's "Wounds to give Healing Work."
+- WKW: the WHOLE CHAPTER has heard the fells graveside call-and-answer (not the charter's original text).
+- Cari to the room: "Fire is a teacher" -- quoted every day; the child who won't heed a mother's warning learns when the fire teaches. Takes the towel-wrapped CUDGEL from Olwin: she brought it yesterday and placed it back in Mer Olwin's care when events called her away (nod: entrusted, because she knew she could). "You've seen him holding it, cradled like a sick child, laden with fear and portent." Unwraps it (towel over her shoulder, scullion's habit); holds it up: the rod that broke a young man's shoulder, a young man offering no threat; the collarbone mended badly, never right again; he may haul nets again, never with strength. Hands it back to Olwin HANDLE FIRST; lets the room see how he takes it. "Some lessons you can only learn by feeling the fire."
+- (No roll: the room's doubt is already broken; nothing resists.)
+- @@* OLWIN (from character): takes it in both hands as if it were hot; holds it a breath; then walks to the head of the room, kneels, and lays it on the flags before the Prior's chair; rises and steps back to his place, hands empty. Says nothing.
+- GM DECISION @@* (the Prior's verdict, from character + the broken doubt): "The charge is answered." No maleficium found -- penance asked, given by consent, lifted by her own hand. The chapter asks no penance (no one rises); he sets none: "You'll find it light. I find it nothing." The cudgel: "Brother Holm. Hang it in the chapter house, by the door, where the stable-master can see it when he comes in. Not as a shame. As a lesson." Olwin's own case (the coach) is a separate matter, to come.
+- Cari goes back to OLWIN; low, not for the room (doesn't care if heard): "I will do penance nonetheless if *you* feel I owe it."
+- @@* OLWIN (from character -- remorseful, plain, not a talker): stunned; shakes his head hard, once. "You owe me nothing, Sister." Swallows. "If there's owing, it's mine. To the boy." Then, lower: "You taught me. That's all. It's enough." Nearby benches hear some of it (Ruddock; two brothers on the west bench).
+- WKW: OLWIN and those nearest heard Cari offer penance to him.
+- Cari to Olwin: "Come speak with me when you have time to sit over a tea." Touches his arm; returns to stand before the Prior.
+- @@* OLWIN: a short nod; "I'll come." (Second time he's said it; this time it's a promise kept already once.)
+- @@* PRIOR (from character, no roll): closes her matter: "The Initiate's vestments and papers, taken for the Hierarch's examination, are to be RETURNED to her this day. Brother Holm will see to it." (GM-only: the RED ROBE -- S11 decision: Calder's sympathetic link for plucking her anchor lines -- comes back into her hands; still in Calder's rooms/office until fetched.) Then: she may stay -- "you are a member of this chapter" -- for the house's other business, or go. Privately, as she stands before him: "My study, after sext. Bring what you have." (The Office recommendation -- he'll take a start.)
+- WKW: the WHOLE CHAPTER heard the verdict and the order to return her things.
+- LEE (OOC): "Bring what you have" -- is that "come as you are"? GM: near enough -- whatever she has of the written recommendation for the Office, however rough (notes, a start); he asked for it written last night and knows it's barely a day.
+- Cari STAYS for the chapter's business.
+- GM DECISIONS @@* (the house's business, from the Prior's character -- careful, practical, wants the house to stand; nothing contested, no roll):
+  1. ALMONER'S OFFICE: keys and books into the joint keeping of HOLM and the CELLARER; Odo to inventory; nothing opened without two witnesses. TOBIN'S DRAWER to be opened at NONE today, in daylight, Tobin present, with witnesses.
+  2. PRISONERS (Brask, Tobin, Sever, the steward): held. The Prior writes TODAY to the Order's VISITOR: the Hierarch holds his title from the Order, and his case is beyond one Prior's judgment. Until the Visitor comes, CALDER stays in the infirmary under Hannet; "no man touches his hands."
+  3. OLWIN: his sworn confession (the coach) is a matter for after the Almoner's; meanwhile he keeps the stables under Ruddock's eye.
+  4. THE PACKET: stays in the basin under "the Initiate's light" and a guard until the Prior decides. "No man is to touch that basin."
+  5. THE CONVOCATION: stands, at midwinter. "I will speak to this chapter of it before then." Nothing said of the roll of names.
+  Then: "Has any brother a word for this chapter?"
+- Cari waits to see if any brother has a word (she certainly does).
+- @@* (situation/character, no roll): WYSTAN rises, one short word: that Brother AUBRIC's name be read among the house's dead "honestly, as he died, and where he lies -- at Saltwind, laid there by the Initiate's hand" (Wystan knows this from S10). Prior: "So noted. Odo, write it." Wystan sits.
+- No one else rises.
+- Cari: "How about a Sister?"
+- @@* PRIOR: the faintest movement at the corner of his mouth. "Speak, Sister."
+- WKW: the WHOLE CHAPTER now knows Aubric lies buried at Saltwind and that Cari laid him there.
+- CARI'S WORD TO THE CHAPTER (Lee's words, testimony, no demand): the Almoner's Office exists to DISTRIBUTE alms; under Brask and Calder's influence its carts combed the countryside TAKING (taxes, tithes), terrorizing the people; under that aegis Olwin succumbed to the Hierarch's mania; under that "miasma of egotism" a Brother of this Order demanded silver BEFORE he would treat the broken leg of the Crossroads miller's son -- the leg will never be right; the miller's wife's finger shows the pale band where her wedding ring was. She doesn't know how it will be corrected; volunteers for whatever the Prior deems right; expects no shortage of volunteers once the scope is clear. Sits.
+- CHECKED: consistent with S10 record (the miller's boy's leg; Bram's wife heard "pay"; "the miller's ring" in Ivro's account).
+- (No roll: testimony, nothing asked, nothing contested; the room's doubt of her is already broken.)
+- @@* (situation): the heavier tithe carts are known to every brother who's walked a circuit -- murmurs of recognition, not disbelief; two circuit brothers exchange a look. Which brother demanded the silver: UNDECIDED (not named; not in evidence in the room).
+- @@* RUDDOCK (from character -- honest, was wrong about the rot): first voice: "Aye. I'll go." A few more "aye"s along the benches (Wystan; a young lay brother; one circuit man).
+- @@* PRIOR: "The Almoner's office was made to give. It will give again." Notes her volunteering; ties it to the afternoon: "Put it in what you bring me after sext."
+- WKW: the WHOLE CHAPTER heard Cari's testimony on the carts, the miller's son, the ring.
+- Cari nods.
+- @@* (situation): the Prior closes the chapter (a short closing prayer). Brothers file out. Holm hangs the cudgel on a peg inside the chapter-house door. Passing her: the white-bearded circuit brother stops, says nothing, gives one stiff nod; the watcher passes with the faintest smile. Time: late morning, Day 9; SEXT (midday) is the appointment. OWED by sext: whatever she has of the written recommendation (the Office; the Almoner's carts / restitution; Ivro's questions).
+- (Session context re-read at 21:58 CT.)
+- Cari goes to the LIBRARY, to Ivro. "He's well?"
+- NEW SCENE: the PRECENTOR'S STUDY, late morning Day 9, before sext. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; IVRO (at the copying desk, robe over nightshirt, stockings, a pen); HOLLIS (threshold).
+- HEALER'S LOOK (no roll; nothing resists): as at dawn -- colour holding, breathing easy at rest, the faint old rattle no worse, no fever. He's well. A little tired from sitting up.
+- @@* IVRO (from character; knows nothing of the hearing yet): has been writing -- Ivro's own list of questions for the Office, in his wavering hand, laid ready for her. Looks up at once: "Well?"
+- Cari laughs ("as if I were late bringing you supper"): he taught her to present a case on its merits with an open heart; if it doesn't stand, the case or the judge is flawed. The tampered judge was handled yesterday; she's still an Initiate; her Reds are to be returned forthwith. "Now let's get on with the important bits." Grins at his paper.
+- WKW: IVRO now knows the charge is answered, no penance, her vestments and papers to be returned.
+- @@* IVRO (from character): lets out a breath he's been holding since terce; one dry line -- "Still an Initiate. Pity. I'd hoped they'd make you something I could complain about." Then the teacher: gets up out of Merrit's chair and points her into it; pushes the half-sheet and a fresh sheet across; "You write. I'll ask. Sext is in a bell, and Aldric's never late."
+- CARI'S DRAFT (Lee's words, spoken while pacing; Lee's design -- the GM does not write it): CLERKS, not templars defending the one "proper" interpretation -- clerks who catalogue, question and report; "Librarians." NOT appointed: NOMINATED from each chapter and circuit, ORDAINED to the office by a vote of their peers, revocable by the same. Each chapter and circuit selects at least one, preferably THREE (to regulate each other). Only powers: free access to any property of the Order (library, treasury, larder) and the ability to CALL A HEARING before the congregation. "What's missing?"
+- @@* IVRO'S QUESTIONS (from character; questions, not text): (1) ACCESS: "free access to the treasury" -- alone? Never alone; two at least, and every look written in their open book. (2) PROTECTION: what stops a Prior, or a chapter, punishing a clerk for what he reports? Who may remove him, and for what -- and may the house he reports on judge him? (3) TERM: how long does a clerk hold it? Cuthred wrote "never let it go." "Whatever you write, write that they let it go." (4) THE VOTE: whose peers? Do Initiates vote? Novices? Lay brothers? (5) AFTER the hearing: the clerk calls it -- who judges it? (He approves that they don't.)
+- CARI'S ANSWERS (Lee's design, in her words): ACCESS is not control, and the office never guarantees privacy for its duties -- "the sergeant at arms cannot bar the door, but he can stand and watch them count." RETRIBUTION: if a Prior retaliates, they call a hearing on it; he cannot preside over a hearing on his own misuse of power ("the usual pedantic Chaos of the Order prevails"). A whole chapter fallen to heresy -> take it to the CONVOCATION. REMOVAL: the house that elected him removes him if he loses their confidence and elects another -- no system is without flaws; don't chase perfection. TERM: elected each winter? perhaps no consecutive terms -- "much to consider", need not finish tonight. WHO VOTES: the INITIATES -- those who have taken the vows AND proven their competence (smaller, hopefully wiser set); failing that, anyone who can vote in any convocation.
+- @@* IVRO (from character): pleased, and says so in his way -- "That's the first sensible thing anyone has said about governing this house in thirty years." One push only: if the Prior can't preside over a hearing on himself, write down WHO does (another house's Prior? the eldest clerk? the Convocation?). Then: "Write the bones. Aldric needs bones, not the whole beast."
+- Cari sits and writes the BONES quickly (the points above, in her hand). "Isn't there *already* a standard for that?" -- resolves to begin by finding what rules there ARE, and keep the pedants from making rules where none are needed. (Lee: Ivro is right, as usual.)
+- @@* IVRO (from character, house lore): yes -- a case touching a Prior belongs to the Order's VISITOR; between visits, to the Convocation. "It's in the Customary. Nobody's read the Customary since Cuthred, I expect." (GM: the house CUSTOMARY -- its book of rules and usages -- exists, in the library; unread for a long while @@*.)
+- GEAR: Cari's notes for the Office ("the bones"), one sheet, plus Ivro's half-sheet of questions.
+- SEXT bell. Appointment: the Prior's study.
+- Cari gathers the notes, kisses Ivro and Hollis both, and RUNS across the garth (not too vain for it).
+- NEW SCENE: the GARTH -> the PRIOR'S LODGING, sext, Day 9. Tokens 4 (cap). Hook budget 4.
+- (situation, no roll): the house is filing into church for SEXT; the Prior with them (his office, as at vespers yesterday). A few heads turn at a running Initiate -- two novices grin; Lanfric raises an eyebrow. ODO at the lodging door, as before: "At sext, Initiate. He said after." (Her choice: wait, or go to sext.)
+- Cari laughs ("Overzealous") and sits on the step-bench to recover. Waits.
+- @@* ODO (from character, no roll): brings her a cup of water without being asked; one remark: "He slept last night. First time in a week." Nothing more.
+- (time passes; sext ends) The PRIOR returns with the brothers dispersing; sees her on the bench, notes in hand. Takes her in.
+- NEW SCENE: the PRIOR'S STUDY, after sext, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh. Present: Prior; Odo (outer room).
+- @@* PRIOR (from character): reads the bones twice, then Ivro's half-sheet underneath; at "Librarians" a breath of a laugh; at "Customary first" he nods slowly ("I haven't opened it since my election"). Then the one thing he finds missing: "And the carts? You stood up in my chapter and volunteered. It isn't here."
+- (Session resumed Mon 2026-10-19 08:57 CT.)
+- CARI ON THE CARTS (Lee's words): apologizes -- hadn't understood he meant that too. Can't imagine what's been done with all those resources; return what we can, but can never pay back so much. Begin by CONFISCATING opulences such as BRASK'S RINGS and selling them -- authority is the Prior's; a small step in the right direction. CRIERS to announce the arrests -- telling people "we will stop kicking you now" is worthwhile. Tangent: COLLECTIVE PENANCE may be needed; she'd fast through the Convocation.
+- (No roll: he asked for her counsel; nothing resists.)
+- @@* PRIOR (from character): (1) Criers: yes -- "The house will say it plainly, in every market the carts went to. Not as an excuse. As a fact." (2) The rings and the Almoner's goods: the ornaments of office are the house's, not Brask's; selling them needs the chapter's assent -- he'll put it to chapter. (3) Restitution: "We'll begin with the names." TOBIN'S DRAWER at NONE today -- the B. book will say who was taken from, and how much; invites her to be among the witnesses. (4) Penance: "Not you alone. If the house fasts, it fasts together. I'll think on it." Folds her sheet into his breviary.
+- WKW: the PRIOR has the bones of the Office and her counsel on the carts.
+- Cari nods. "Let me see your arm."
+- @@* PRIOR: lays the bound forearm on the desk without argument (he asked her himself last night).
+- HEALER'S LOOK (no roll; nothing resists; residue removed last night): an ordinary frost-burn a day on -- the coin-sized patch has lost its waxy white; pink and tender at the edges, a small clear blister risen at the centre (unbroken), feeling back in the whole patch; no heat, no streaking, no cold. Healing clean. No trace of the Cold (Sight not used; nothing to see last night after the cure).
+- @@* PRIOR: "It itches. Hannet says that's good." Faintly sheepish. "I've not told her you saw it."
+- Cari rubs round the patch to ease the itch (avoids the blister); rewraps. "I will see you at none, Father."
+- @@* PRIOR (from character): eyes close a moment at the relief; "None." Back to his papers as she goes. Odo sees her out.
+- APPOINTMENT: NONE (mid-afternoon), TOBIN'S DRAWER opened in the library, daylight, Tobin present, witnesses (Holm's keys); Cari a witness at the Prior's invitation.
+- Time now: just after sext, Day 9 (midday). Dinner hour in the house.
+- Cari goes to the LAUNDRY to see if Sabeth could use an extra set of hands.
+- NEW SCENE: the LAUNDRY, after sext (dinner hour), Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; OLD SABETH; PIP (~13, Sabeth's girl); two laundresses (the others at dinner).
+- (situation, no roll -- honest work, nothing resists): Sabeth at the window seat with needle and the BLUE SASH, seam nearly done. Thrown by the offer (an Initiate, the morning after her hearing); then practical: the convocation linen -- sheets for the circuit brothers' guest beds -- wants folding off the lines in the drying yard before the weather turns; Pip to show her the fold.
+- @@* PIP (from character; ~13, chatty where Nell was silent): shows the fold, and talks -- the whole laundry heard about the chapter by dinner; "Mes Sabeth says you sang at it."
+- @@* SABETH: says nothing more for a while; then, not looking up from the seam: "Nell's with my cousin Mags now. You'll have seen her." (An opening, not a confession.)
+- Cari to Pip: remembers the fold -- helped Sabeth as a girl ("I think she tries to help me pretend I never did"). Sang a verse of a fells funeral chant; "I could teach you." To Sabeth: "Nell is a treasure. Why does she not speak?"
+- @@* PIP: delighted; wants the song ("a burying song? Truly?").
+- @@* SABETH at "pretend I never did": the needle stops; a short huff that might be a laugh.
+- CHECKED (S11 l.714/719): S01 -- Old Sabeth's girl NELL answered the Hierarch's clerks ("whose robes come down smelling of sulphur") and named Caria's; Cari did not begrudge the laundress (S01). Lee canon: same girl as the silent kitchen Nell. GM @@*: guilt.
+- GM DECISION @@* (why Nell is silent; Sabeth wants to tell -- no roll): Nell answered the clerks TRUE because she's a truthful child. Then the Sister was sent down the Mountain, and the clerks came back and took her robes and her papers, and Nell decided it was her doing. She hasn't spoken since -- not to Sabeth, not to anyone. Mags took her into the kitchen so she wouldn't have to face the tubs where it happened. Sabeth: "She'd not want you to know it was her." (WKW: CARI now knows it was Nell, and why she's silent.)
+- Cari goes slack. "I will teach you, Pip, but that child has to know she did right. Oh, gods." Turns and heads for the KITCHEN on the spot; will hear nothing about leaving it alone.
+- @@* SABETH: doesn't try to stop her; half rises, sits again; Pip left holding a sheet. (Sheets half folded -- owed: Pip's song.)
+- NEW SCENE: the KITCHEN, dinner hour after sext, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; MAGS (dishing for the refectory hatch); TILDA; scullions; NELL (at the hearth, setting the second applewood stick on the coals).
+- (situation): Mags sees Cari's face as she comes in and stops ladling.
+- Cari smiles at NELL (not at Mags) and fades back into the passage -- the walk has put her wits back; better planning to do (Nell later). Goes to GET THE RED.
+- WKW: MAGS saw Cari's face come in and go out; doesn't know why. NELL got a smile.
+- CHECKED (S11): the RED ROBE + her notebooks/letters went "for the Hierarch's examination" -- held at the HIERARCH'S LODGING (main house; its fires "not friendly", Asher wouldn't go in; the flue listener-thread ran toward it, S11). GM-only (S11 l.467): Calder used the Red as a sympathetic link to taste her anchor lines; Sabeth aired it twice, "smelling of scorch."
+- NEW SCENE: the HIERARCH'S LODGING door, dinner hour after sext, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- GM DECISIONS @@* (situation): since yesterday the lodging is LOCKED on the Prior's order; Calder's door-warden sent to the dormitory; HOLM holds the key. Holm, methodical, bolted his dinner because the Prior said "this day": he is at the door now with his ring of keys and a lay brother as second witness (the two-witness rule from chapter).
+- Present: Cari; HOLM; a LAY BROTHER witness (unnamed).
+- @@* HOLM (from character -- dry, exact, the Sacrist): "Initiate. Saves me the stair." Unlocks. Inside: a cold room, hearth dead and swept since yesterday (no fire lit); heavy wax-lights unlit; a table under the window with her things laid out and ticketed in a clerk's hand: notebooks, letters, and the RED ROBE folded on top. Plain senses: a faint smell of SCORCH in the wool (Sabeth's clue). Nothing else seen without the Sight.
+- LEE: is the scorch her own usual brimstone, or something else?
+- (plain senses, no roll -- she knows her own smell): BOTH, and distinct. Under everything, faint and familiar, her own brimstone (the laundry always smelled it). OVER it, the SCORCH -- NOT hers: flat, dry, singed fibre, like wool held to a flame or ironed too hot, again and again. Not sulphur at all. Plain senses can't say more (the Sight could).
+- Cari uses SECOND SIGHT on the Red: what have they done?
+- GM TRUTH (set before the roll; S11 decision + situation) @@*: Calder held the robe in his BURNING hands (S10-S11: his palms hot, weeping) and used it as a SYMPATHETIC LINK -- a scent-cloth -- to reach along her anchor lines from the north (the S08 plucks, the knock at the Weeping Court House); he never got through. The scorch = his palm-prints. The working is INERT now (lender let go; Calder EL0) but its trace remains, rating 3.
+- ROLL: Conjuror EL8 0 1 0 1 1 0 0 0 = 3 vs residue 3d 1 0 0 = 1 -> EFFECT 2 (< rating 3: partial).
+- READ AT EFFECT 2: two PALM-PRINTS scorched into the breast of the robe, plain to the Sight -- hot burn with the leash's cold-sweet taste folded inside; the robe has been HELD and PRESSED, again and again, the way a huntsman presses a scent-cloth to a hound's nose; something reached OUT through it. Not yet: toward what, how far, whether it got anywhere.
+- Offered once: TOKEN (-> 8 vs 1 = 7, full read) or HOOK budget (tapping the Borderlands; up to +4 -> 6). Or a further look later (accumulating).
+- LEE: TOKEN on the Sight. TOKENS 4 -> 3. Set to 8 vs 1 -> EFFECT 7 > rating 3: FULL READ (the residue's concealment is Down).
+- Cari MIMICS the action: lifts the robe, sets her own palms over the scorched prints; listens to the wool.
+- GM DECISION @@* (full read; settles the anchor-line toucher open since S08, consistent with S11's GM decision):
+  - It was CALDER. His burning hands, pressing her robe as a scent-cloth, night after night since the clerks brought it (after Nell's true answer about the brimstone).
+  - He hunted her BRIMSTONE, not her name -- the sulphur in the wool was the scent. He followed it SOUTH along her two anchor lines: the WEEPING COURT HOUSE (he knocked; it did not open -- Asher's report, S08/S09) and COBB'S HEARTH at Saltwind (too small and too well-loved; he slid off it like a hand off a wet stone). He never got through either.
+  - What he GOT: the TASTE. He knows what her brimstone is -- of Rikitak's own house (the old contract; GM-only detail stays unspoken: Cari learns he KNOWS, not that he has proof).
+  - The cold folded in the heat came from BELOW; the strength he reached with was lent.
+  - The prints are inert residue (rating 3; Down to her read, not cleansed). Per S12 ruling, mundane care (washing, warmth, tending) can contest it.
+- WKW: CARI knows Calder used her Red as a scent-cloth to hunt her along her anchor lines, knocked at the Court House, slid off Cobb's hearth, got nothing but the taste of her brimstone. HOLM and the lay brother see her hold the robe up with her palms pressed to it, eyes half shut; nothing more.
+- Cari grim. LEE (asking): she thinks she can wear it safely -- but will the smell interfere with healing Nell's spirit (a too-smart child)?
+- GM ANSWER (plain judgment, no roll): yes, likely -- the SCORCH is plain to any nose, and a laundry-raised child knows a scorched robe at once; Nell would smell it and read it as "they burned her robe because of what I said." Her own brimstone under it Nell already knows. A good washing would take the smell out; per S12, honest mundane care can also contest the residue in the prints (rating 3).
+- Cari thanks Holm and the lay brother. Carries everything herself (notebooks, letter-bundle, the Red -- one armful; no roll).
+- @@* HOLM (from character -- exact): has her sign the clerk's list as received ("C. Greenhaven"), the lay brother witnessing; locks the lodging behind them.
+- GEAR: RED ROBE (scorched prints, residue 3), her NOTEBOOKS and LETTERS -> CARI.
+- To the LIBRARY first (to vent and fume a moment), meaning to take the Red to the laundry before she sits.
+- NEW SCENE: the PRECENTOR'S STUDY, early afternoon Day 9. Tokens 3 -> 4/4 (new scene, room under cap). Hook budget 4. Armor fresh.
+- Present: Cari; IVRO (chair, dozing over a book); HOLLIS (threshold).
+- Cari: "No one new." Synopsis to Ivro: the Red's scorched palm-prints; Calder used it as a scent-cloth on her brimstone, followed her fire-lines south, knocked at the Court House, slid off Cobb's hearth, got nothing but the taste; and NELL -- answered the clerks true, has blamed herself since, silent. Cari will WASH the robe before Nell sees her in it, and make sure Nell understands she should NOT lie (it would only make things worse for everyone); she must know where the fault lies -- absolutely not with her.
+- WKW: IVRO now knows the robe-scent-cloth reading and Nell's story.
+- @@* IVRO (from character): (1) On Calder: no surprise in his face, only weariness -- "He knew what you were the day he stood up and walked out of your ordination. He was only making sure." (S08 canon: Calder protested her Red and stormed out.) (2) On Nell, the teacher, quietly: "They asked a child a true question and used her answer for a lie. The sin is theirs. Tell her that in those words, if you like -- children remember exact words." (3) Practical: "Wash it with your own hands. Then let her see you wear it."
+- Cari takes the Red back to the LAUNDRY to wash it WITH HER OWN HANDS.
+- NEW SCENE: the LAUNDRY, early afternoon Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh. Present: Cari; SABETH; PIP; two laundresses.
+- @@* SABETH: the BLUE SASH seamed and pressed, laid out for her; sees the Red, smells it, sets out a tub of warm water, soapwort and a little lye; does NOT offer to do it.
+- RULING (S12 precedent: honest mundane care contests a spiritual residue, as attrition): washing the Red by hand = HEALER EL8 (tending) vs the prints' residue, rating 3, 3d per exchange; cleansed when her total > 3.
+- ROLL (exchange 1): Healer EL8 0 1 1 1 0 0 0 1 = 4 vs 3d 1 1 0 = 2 -> EFFECT 2. Total 2 of >3. The scorch smell mostly out; the prints faded but holding (Sight would still find them). Offered once: TOKEN (-> 8 vs 2 = 6, total 8: cleansed). Or a second wash (next exchange).
+- GEAR: BLUE SASH (seamed by Sabeth) -> CARI.
+- Cari (Token declined): wrings it once through the press; asks for a FRESH POT. "His stink is still on it, and I'll not have it in her nose."
+- @@* SABETH: empties the grey water herself, fills the tub fresh from the copper without a word; Pip runs for more soapwort.
+- ROLL (exchange 2): Healer EL8 1 1 1 1 1 0 1 1 = 7 vs 3d 0 1 0 = 1 -> EFFECT 6. Total 2 + 6 = 8 > 3 -> the RESIDUE IS CLEANSED. The palm-prints gone to the Sight; scorch gone to the nose; only wet wool, soapwort, and her own faint brimstone.
+- GEAR: RED ROBE -- clean (drying). Calder's link through it is gone.
+- Cari thanks Sabeth, Pip and the laundresses. Deep breath; massages her arms (sore forearm).
+- Asks Pip: still want to learn the funeral verse? (OWED from earlier.)
+- @@* PIP: yes, at once. (No roll: teaching a willing girl, nothing resists.) Cari teaches the fells graveside verse, call and answer; Pip takes the CALL (the kin's side), Cari the ANSWER. Pip has a true small voice and learns it fast. On the third time through, one laundress at the far trough starts the low DRONE without looking up. Sabeth stops sewing (nothing to sew) and listens with her eyes shut.
+- WKW: PIP and the LAUNDRY now know the fells graveside verse.
+- Again, solemnly, respectfully. (No roll.) Pip carries the call alone, clean; the drone holds; the other laundress joins softly on the answer's last line. Afterward Pip whispers it to herself as she folds. Sabeth says only "That'll do," and wipes her eyes on her sleeve as if it were steam.
+- Time: early afternoon Day 9; NONE approaching (the drawer). The Red drying by the copper ("dry by none").
+- Cari tells the laundry WHY she sang at the hearing (summarized, not scripted): the old circuit brother's question ("Since when does teaching need a man in pain?"); she answered with the call -- "tend thou the hearth" -- and the fells brother answered for the dead's side; the tending was the teaching.
+- WKW: SABETH, PIP, the two laundresses now know the context of the singing.
+- @@* PIP: "So he lost the argument to a SONG." Delighted. @@* the drone-laundress (fells-born, from character): "That's what it's for. You don't argue at a graveside. You answer."
+- Cari: "It wasn't an argument. It was just the right answer to an honest but complicated question." Thanks them again; will be back for the Red after none. Takes the BLUE SASH with a real smile (wears it; seam at the back).
+- @@* PIP: repeats "the right answer to an honest question" under her breath, filing it away.
+- Leaves the laundry. Time: early afternoon Day 9, an hour or so before NONE (Tobin's drawer, library).
+- Back to the LIBRARY: Hollis-petting time, and teasing the old man.
+- NEW SCENE: the PRECENTOR'S STUDY, mid-afternoon Day 9, before none. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; IVRO (chair, awake, reading); HOLLIS (threshold, then all over her).
+- @@* IVRO (from character): sees the blue back at her waist; "Sabeth's seam. She'll have taken two hours over that and told you it was nothing." Spots her wet sleeves: "You washed it yourself." Satisfied.
+- (Tobin's desk outside the study door, still locked; the crockery tower gone -- cleared @@*.)
+- Cari (grinning): "Prior is coming, with witnesses. Is *that* worth some trousers?"
+- WKW: IVRO now knows the Prior opens Tobin's drawer here at none, with witnesses (he already knew of the drawer -- S12 inference).
+- @@* IVRO (from character): "For Aldric? No. For witnesses -- " looks at the desk outside his door -- "yes." Makes her turn her back; Hollis supervises. Emerges in his proper habit and the Precentor's cord, hair combed with his fingers, stockings still doubled. Insists on standing at his own door to receive the Prior; will sit the moment the Prior tells him to, "and not before."
+- Cari nods approval; fixes her own hair; puts on a pot of tea. To Hollis (nuzzling): "I trust you will behave better than this old bureaucrat." Then HUGS IVRO while he's standing (Lee: something she's hardly been able to do since she decided it was all right to).
+- @@* IVRO (from character): stiff for one breath; then both arms round her, careful and fierce, his chin on the top of her head; says nothing at all for a moment. Then, gruff: "Mind the cord. I've only just got it knotted."
+- @@* HOLLIS: leans against both of them.
+- Tea on the brazier. NONE bell close.
+- Cari (into his shoulder): "I still have to finish my little pilgrimage. I haven't been to Greenhaven yet."
+- WKW: IVRO knows she means to go home (Green Haven, her birthplace) to finish the circuit he set her.
+- @@* IVRO (from character): "No. You haven't." Then: he set GREEN HAVEN LAST on her circuit on purpose @@* -- "so you'd go home with something to show them, and not just a white lock and a reputation." "Go after the Convocation. Come back and tell me what you found." (No details of Green Haven invented.)
+- NONE bell begins; footsteps on the library stair (the Prior, Holm with keys, witnesses, Tobin under guard).
+- Cari walks to the door, pats Hollis on the way (trusts him to take his cues); opens the study door onto the STAIR-HEAD and sees them in.
+- (continuous; same scene) Present at the stair-head / Tobin's desk: the PRIOR; HOLM (keys); ODO (pen, the day-book); the CELLARER (joint keeper of the Almoner's office); RUDDOCK with TOBIN (unbound hands, Ruddock's hand on his shoulder); LANFRIC (third witness). IVRO at his own study door, standing. HOLLIS on the threshold. CARI.
+- TOBIN @@* (state): the 8 Complications cleared off-screen with a night's rest (recovery.md: any successful recovery clears Complications) -- fit, cowed, grey; Merrit's blood still a brown stain on his cuff (nobody has given him a clean habit). Avoids Hollis's eye and Cari's.
+- @@* PRIOR to Ivro: "Sit down, Ivro, before you fall down." Ivro sits -- in his chair, turned to face the open door.
+- @@* PRIOR to Tobin: "Brother Tobin. Your key, or Brother Holm's. Your choice. It opens either way."
+- LEE: "Make it so." (proceed)
+- @@* TOBIN (from character; nothing resists): draws a small key on a cord from inside his habit; holds it out -- not to the drawer, to the PRIOR. Won't open it himself.
+- The Prior hands it to Holm; Holm opens the bottom-left drawer; Odo writes each item as it comes out; witnesses: Holm, the Cellarer, Lanfric, Ruddock, Cari, Ivro (from his chair).
+- CONTENTS (S11 list: coin, the "B." book, ambergris):
+  - a heavy PURSE: silver pennies and a few gold pieces (to be counted by Holm and the Cellarer).
+  - a twist of oiled cloth with a curl of AMBERGRIS (the Almoner's rich-wax smell).
+  - the "B." TALLY-BOOK.
+- GM DECISION @@* (the B. book's contents, settled now): Tobin's PRIVATE TALLY of what he carried for Brask -- kept, in his own cramped hand, against the day Brask turned on him. Dated lines over about two years:
+  - the "SECOND MEASURE": tithe taken above the levy, village by village (Crossroads among them), most marked "to B.", a few "to the H." (the Hierarch);
+  - SURETIES: "Corvane, salt -- the girl -- closed" and "Tarro, grain -- the girl -- open";
+  - small sums marked "mine" (his cut);
+  - and one line Cari will know: "Crossroads -- Oxley, miller -- for the boy's leg -- a gold ring, the wife's, in lieu of silver -- to B."
+  The brother who demanded it is NOT named (UNDECIDED).
+- The ring is not in the drawer (with Brask's goods? UNDECIDED).
+- LEE (OOC): "Make it so" was meant for another window -- it worked out; keep it.
+- Cari stands still and very carefully does NOT walk over and slap Tobin.
+- @@* (visible only, no roll; her interior is Lee's): she goes very still; the stair-head lamp's flame leans toward her and brightens; a faint thread of sulphur in the air. HOLLIS presses against her leg. TOBIN feels it and flinches into Ruddock's hand. IVRO from his chair, quietly: "Daughter." The PRIOR closes the book on his finger.
+- WKW: all witnesses saw the Oxley line (the Prior turned it to Cari); they saw her stillness and the lamp lean.
+- Cari flares her nostrils, breathes, waits on the Prior. (The lamp settles back as she breathes.)
+- @@* PRIOR (from character; nothing resists -- Tobin kept the book to sell Brask, and Brask is caged): "Who took the ring at Crossroads, Brother Tobin?"
+- GM DECISION @@* (the unnamed brother, settled now; name grep-clean): BROTHER PELLAM, the TITHE CART-MASTER -- rides the Almoner's carts on the circuit; "takes physic money where there's no circuit priest." He's NOT in the house: the last cart of the season is still out on the roads, due in before the Convocation. (Ties to Berra's S09 "tithe-cart lay brother" -- Pellam is the brother over him.)
+- @@* TOBIN (low): "Pellam. The cart-master. Brask took the ring off him -- the Almoner liked rings." Doesn't look up.
+- @@* PRIOR: closes the book; to Odo -- a fair copy of the whole tally by vespers; to Holm and the Cellarer -- count the purse, seal it, and go through the Almoner's ORNAMENTS: "if there is a woman's plain gold band among his rings, I want it on this desk." To Ruddock: Pellam to be met at the gate when the cart comes in, and brought to the Prior "before he unloads a single sack." Tobin: back to his holding; "You kept a true book, Brother. It's the only true thing you kept. It will be remembered."
+- WKW: all witnesses know Pellam's name and the ring's path (Oxley's wife -> Pellam -> Brask).
+- Cari: "That it will, Father." Watches TOBIN, silently daring him to meet her eyes. (No roll -- a dare, not an attack.)
+- @@* TOBIN: tries once; gets as far as her chin; looks away. Ruddock walks him down the stair.
+- Cari: "My lord Prior, how may I assist in the days before the Convocation? I feel the time weighing upon us all -- *the fire in which we all burn.*"
+- @@* PRIOR (from character, no roll): three things, plainly:
+  1. THE CUSTOMARY: find it, read it, and bring him what it already says about Priors, Visitors and hearings -- "before anyone tells me what it says."
+  2. THE RING: when Holm finds it, "you'll carry it to Crossroads yourself. With the house's word, and mine, in writing." (When: after the ring is found; UNDECIDED before or after the Convocation.)
+  3. "And eat something." (callback)
+  Then, dry: "The fire in which we all burn. Is that the Saint, or you?" (He doesn't know.)
+- Cari grins at "before anyone else tells me" (the smoke blows away); softens at "on your way home"; frowns a little at "eat something" but assents. Then: "My home is *here*, Father." On the quote, blushing: the Precentor quoted it, laughing, many years ago -- heard it from a WANDERING BARD; it sang in her ears and she's quoted it since. [LEE CANON: "the fire in which we all burn" -- Ivro had it from a wandering bard.] (GM-only: e'Di/Eidolon is a wandering minstrel -- not revealed.)
+- WKW: the PRIOR knows the quote's origin (Ivro, from a wandering bard).
+- @@* PRIOR: "Home, then." A small nod; goes down the stair with Holm, Odo, the Cellarer, Lanfric.
+- Cari fetches out the CHARTER-PRESS KEY: "I'll fetch the Customary."
+- @@* IVRO (from his chair; he pointed at it this morning -- open shelves, not the press): "It's not in the press, daughter. Top shelf, left of the window. You'll want the steps." Then, unprompted, about the bard: "He was drunk. So was I. It was the best thing anyone said all that year."
+- Cari returns the CHARTER-PRESS KEY to Ivro. "That's what bards are for, isn't it? It was *worthy* of the founder." GEAR: charter-press key -> IVRO.
+- @@* IVRO: takes the key; turns it over; "Was it." A small smile he doesn't explain. (GM-only irony; nothing revealed.)
+- Cari fetches the step-stool, then the CUSTOMARY from the top shelf left of the window.
+- GM DECISION @@* (situation -- the purification at the Convocation needs a procedure; Calder/Brask would have looked it up): the CUSTOMARY -- a thick brown calf volume, brass-cornered, dust grey-thick along the shelf -- but NOT on the book: the shelf-dust shows a clean oblong where it was drawn out and put back RECENTLY, and a strip of paper (Almoner's clerk's paper, the good kind) marks a page. Chapter heading at the mark: "Of the Convocation, and of the Reading of Names." Who marked it: Brask's office by the paper; which hand: UNDECIDED.
+- Cari reads the marked chapter. (No roll: an intact book, nothing resists; the interpretation is Lee's.)
+- GM DECISION @@* (setting text, SUMMARY ONLY -- Lee may true or rewrite the wording): "OF THE CONVOCATION, AND OF THE READING OF NAMES" --
+  - At a Convocation, names of brothers "fallen from the Order's keeping" may be LAID before all the brothers present.
+  - Who may lay names: the Prior of the house; the Order's VISITOR; or "one holding the Order's commission" (-> Calder's title of Hierarch made him eligible).
+  - The named may answer for himself. If none speaks, he is "put out of the house" -- vows loosed, cast out of the Order's keeping.
+  - A name is STRUCK if THREE in vows of the house speak for the named, "each in his own voice, and none for another."
+  - No name may be laid that has not been "written in the house's book a full season before" -> why they wanted her name in the lesser chamber roll early.
+- The MARKER STRIP (Almoner's clerk's paper) has a note in a clerk's hand: "the Hierarch's commission suffices -- see iv." (They were confirming Calder's right to lay names.)
+- WKW: CARI now knows the Reading of Names procedure, the three-voices rule, the season rule, and that Brask's office checked Calder's right to lay names.
+- Cari: "Premeditated excommunication, is it?" Reads the chapter and the marker strip to IVRO. "How is it that I seem so important to this madman? I begin to think he is obsessed."
+- WKW: IVRO now knows the Reading of Names procedure and the marker note.
+- @@* IVRO (from character; within his knowledge -- S10 roll, the ordination walk-out, today's scent-cloth): (1) inference: "And I'd wager my name was to be read before yours. The old man who taught the fire-witch." (2) "Not obsessed. Afraid. A man with his hand on a chain hates anything that might pull on it." (3) the teacher's question, not an answer: "You wear the Red, you carry fire, and you're the least of us -- an Initiate. Did Voss ever read the end of that line on the leaf, do you think? Or did he only feel it?" (Whether Calder knew the original clause: UNDECIDED.) (4) "Three voices strike a name. Count yours, daughter. You have more than three now."
+- LEE (OOC): three enemies to remove her, or three to stand for her? GM (as drafted @@*): three to STAND FOR her -- three in vows of the house speaking for the named STRIKE the name (prevents being put out). Laying a name takes ONE person of standing (Prior, Visitor, or a commission-holder). One to lay, three to strike. Lee may true it.
+- LEE: the structure (one to lay, three to strike, a season's notice) is FINE -> ratified.
+- Cari takes the Customary to a desk, scratch paper for notes -- then frowns: other chores first. Closes the Customary. "Do you need anything, master?"
+- @@* IVRO (from character): points at the brazier -- the kettle she set on before none has been boiling hard all through the drawer and the reading. "Tea. You put it on an hour ago. It's very nearly soup." Then: "Nothing else. Go and do your chores. And eat something -- I heard him say it too."
+- GEAR: the CUSTOMARY left on Merrit's copying desk in the study, with her scratch-sheet.
+- Cari takes the kettle off (sheepish grin); sets a cup of the stewed bitter brew by Ivro's hand as a joke; goes to the LAUNDRY for the Red.
+- @@* IVRO: sniffs it, drinks it anyway, deadpan: "Character-building."
+- NEW SCENE: the LAUNDRY, after none, Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; SABETH; PIP; laundresses.
+- (situation, no roll): the RED dry by the copper as promised -- warm, clean, smelling of soapwort and faintly of her own brimstone; Sabeth has pressed it and folded it. Pip, folding sheets, is singing the call half under her breath.
+- Cari leaves the laundry with a grin, the RED folded over her arm (wearing grey). To the INFIRMARY to check on Merrit.
+- NEW SCENE: the INFIRMARY front room, late afternoon Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh.
+- Present: Cari; HANNET; the NOVICE; MERRIT (cot; 3 Injury + 1 Complication); TEAGUE (stool by the window again, hands in light wrappings).
+- (situation, no roll): Merrit slept through dinner; the sick headache has eased (still dizzy sitting up; Complication stands until his next recovery); eating broth; pupils even. Hairbrush still in reach.
+- @@* HANNET (from character): "Wystan took the Hierarch his cups at sext. He drank both. Didn't say a word to Wystan. Wystan said a great many to him." Eyes the red robe on Cari's arm; says nothing.
+- Cari nods thanks to Hannet; sits with MERRIT; tosses the RED onto his feet (the less important thing); takes the BRUSH to her hair. Tells him the shareable gossip (summary): the hearing (charge answered; no penance; "I find it nothing"), Olwin laying the cudgel at the Prior's feet and it hung by the chapter-house door; the singing (call and answer with the fells brother); the chapter's business (Almoner's office to Holm and the Cellarer; prisoners held; the Visitor written to; criers; the carts to give again); Tobin's drawer (purse, ambergris, the B. book; the Oxley ring; Pellam the cart-master); the Office of clerks ("Librarians"); Green Haven after the Convocation. Withheld: undercroft matters under the Prior's order.
+- WKW: MERRIT now knows all of the above.
+- @@* MERRIT (from character): grins at the cudgel; goes hard and quiet at Tobin; at the ring, "Gods." Then, the question he's carried since the woodshed: "The man in the door. Grey. He just watched." He looks at her. "Who was he?" (He hasn't been told it was SEVER.)
+- @@* TEAGUE (window) chuckles at "lost the argument to a song"; HANNET's pen pauses at "Pellam".
+- LEE (OOC): wasn't that Sever? GM (CHECKED S11 l.1182-1183): YES. Cari read it in Merrit's surface dream (S11, with Sight): a heavy man in road-grey in the woodshed doorway, watching while Tobin tied him, saying "Leave him breathing. She'll come for him -- that's the point." WKW (S11): CARI knows it was SEVER. MERRIT has never been told.
+- Cari TELLS MERRIT: the grey man was SEVER (the Hierarch's "hand"); he is held, bound and guarded, in the WARD beyond the inner door of this infirmary; "everyone knows" he watched Tobin kick him; he will be held accountable for that and worse.
+- FLAG (OOC, not a correction to Cari): the record has the WATCHING known to Cari (her Sight, S11) -- not public; the chapter knows Tobin struck Merrit and that Brask named Sever, not that Sever stood in the woodshed door. (Cari may be speaking broadly.)
+- WKW: MERRIT now knows the grey man was Sever, and that Sever is in the ward next door. HANNET and TEAGUE heard it too (now they know Sever watched the binding -- on Cari's word).
+- @@* MERRIT (from character): looks at the inner door; goes white; his hand closes on the hairbrush. Then, quietly stubborn: "Good. Then I'll know where he is." (A beat.) "Does he know I'm in here?"
+- @@* HANNET (not looking up): "He knows. He asked who was snoring." Dry, deliberate, to take the edge off.
+- Cari laughs ("As if Merrit snores"). Tells Merrit about NELL and the RED: the scorch-stink of Calder finally washed out; she'll wear it to tell Nell nothing was her fault. Puts her hair back up in the twist with the pin.
+- WKW: MERRIT now knows Nell's story and Cari's plan. (Hannet and Teague overhear.)
+- @@* MERRIT (from character): knows Nell by sight -- "The little one from the kitchen. She never says anything, she just leaves things." @@*: a honey-cake by his cot yesterday, while he slept; Hannet saw her run. "Tell her I said thank you for the cake." 
+- @@* HANNET: "She did. Didn't stop long enough to be thanked." (confirming)
+- Cari to Merrit: going to change now; Nell has carried it too long; wanted to see him first. Smooths his hair; "Be *good* for the nurses." Leaves him to his supper.
+- AUBRIC'S ROOM (the Hospitaller's room, guest range -- her lodging since S11): checks it's clear and her things untouched. (situation, no roll): undisturbed -- swept, the cot made up with fresh linen (Nell made it Day 7), her few things where she left them. @@* ONE thing new: on the pillow, a small honey-cake wrapped in a clean kitchen cloth. No note. (Nell "leaves things.")
+- Changes into the RED, kept simple: the BLUE SASH only (bell-rope belt and red sash set aside in the room; grey pilgrim's robe folded).
+- GEAR: wearing the RED robe + BLUE sash. In the room: grey robe, bell-rope belt, red sash. Honey-cake: (Cari's choice).
+- NEW SCENE: the KITCHEN, late afternoon Day 9, supper preparations. Tokens 4 (cap). Hook budget 4. Armor fresh. No Hook trigger (she wants to be seen by Nell).
+- Present: Cari; MAGS; TILDA; scullions; NELL (at the bread trough; three applewood sticks left in the row on the hearthstone).
+- Cari draws the HONEY-CAKE from a pocket, meets Nell's eyes with a grin, and takes a bite. Waits; gives her time.
+- @@* NELL (from character; no roll -- nothing to contest, a held moment): freezes, hands in the dough; her eyes go robe -> cake -> face -> robe. She knows the robe (it came through her tubs). She breathes in -- a laundry girl's nose -- and finds no scorch, only soapwort and the Sister. Her chin trembles. She does not run. She pulls her hands out of the dough, slowly, and stands with floury fists at her sides, staring.
+- MAGS: silent; a hand flat on the table; signals the scullions with her eyes to keep working (they don't).
+- Cari walks round the tables to Nell; sits on the edge of the great hearth; opens her arms in silent request for a hug.
+- @@* NELL (from character; no roll): a long moment; wipes her floury hands down her apron, twice; then comes -- all at once, into Cari's arms, face in the red wool. Silent sobbing, shoulders shaking; not a sound out of her. (She has not spoken yet.)
+- @@* THE GREAT HEARTH: the coals behind them brighten and the warmth rolls out over the two of them.
+- @@* MAGS: turns her back, takes up the cleaver and attacks the onions loudly ("onions"); waves Tilda and the scullions out to the yard for water they don't need.
+- Cari holds her a while; when Nell settles, turns her and sits her in her lap; rocks her, kisses the top of her head. Sits up; another bite; waits (nothing more important to do). Pinches off a bite, offers it; a "stern" look at the refusal, then the smile, offers again. They share the cake until it's mostly gone before she speaks.
+- @@* NELL (from character): refuses the first bite (shakes her head into the wool); at the stern look, a wet hiccup that is nearly a laugh; takes it on the second offer. Eats slowly, leaning back against Cari, watching the fire. Still silent.
+- @@* MAGS's onions have stopped; she is very slowly peeling one, back turned.
+- Cari (whisper): "Thank you for mine, but thank you more for the one you gave Merrit in the infirmary."
+- @@* NELL (from character): startled -- turns her face up (found out); then a small fierce nod; her floury hand closes on a fold of the red wool and holds on. Mouths a word without voice -- "Is he--?" (better). Still not speaking aloud.
+- WKW: NELL knows Merrit got her cake and that the Sister knows.
+- Cari: sat with Merrit a long while; his head very sore but he feels much better; "He's such a good person. It's horrible when people make a good person like Merrit suffer just so they can hurt somebody else, isn't it?"
+- @@* NELL (from character): nods slowly; then stops nodding; her eyes go down to the red wool in her fist, and stay there. The connection is half made (good person -- used -- to hurt someone else). Her grip tightens. Silent.
+- Cari: she felt very bad -- they hurt Merrit to hurt her; she thought it her fault. "But it's not, is it?" She only did what she thought right; someone else made it hateful; it DID hurt her, but she didn't do it; she shouldn't let what someone else did be her fault. Mouth twisted aside: "Sometimes I *do* some things that are my fault... but that wasn't one of them, was it?"
+- @@* NELL SPEAKS (first word since the clerks; from character, no roll): a whisper, rusty from disuse: "No." Then, after a long breath, smaller still, eyes on the robe: "...Mine?"
+- WKW: the kitchen (Mags, back turned) heard Nell speak.
+- Cari kisses Nell's head, smooths her hair: "You did nothing wrong at *all*, little love. You told the truth, as you were taught, and someone took your innocent truth and tried to use it to tell a lie. That's them trying to hurt me again." Her own eyes leak. "I'm so sorry, Nell." Hugs her; cries a little herself.
+- @@* NELL (from character): this time she cries OUT LOUD -- a real sound, a child's wail, weeks of it -- and clings. When it ebbs, a hoarse whisper into the wool: "Not your fault either." (She's been listening.)
+- @@* MAGS: turns round at last; wipes her eyes on her apron; to no one: "Onions." Puts the kettle on.
+- NELL's silence is BROKEN (she speaks again). WKW: Mags heard.
+- Cari whispers "Onions" into Nell's ear; a stifled laugh; wipes her face: "Too many damned *onions*, Mags!" Settles back; lets the laugh wash her clean.
+- @@* NELL (from character): a wet giggle -- her first laugh in weeks -- then whispers "Onions" back, testing the word.
+- @@* MAGS (deadpan): "Mind your language in my kitchen, Sister." Then sets three cups out, not two; pours. Tilda and the scullions creep back in from the yard with buckets they didn't need.
+- Cari sets the strayed applewood stick into the fire "with perpetual thanks." Stands Nell up, straightens her apron and cap. "Pip and Mes Sabeth need to hear that too... They shouldn't hold themselves at fault... Would you go tell them for me? I'll finish your bread."
+- @@* NELL (from character): hesitates, looks to Mags; Mags jerks her chin at the door; Nell goes -- walks, then RUNS, out across the yard toward the laundry. (Telling Sabeth herself: the words are Nell's, offstage.)
+- Cari kneads Nell's bread at the trough (no roll; kitchen-raised).
+- @@* MAGS (from character): watches the door a long moment; "She'll talk Sabeth's ear off now, you watch." Then, gruff, to the bread: "Heel of your hand, not your fingers. You've gone soft up there with your books."
+- WKW: SABETH and PIP will hear from Nell (offstage) that it wasn't her fault -- in Nell's words.
+- Cari wipes her face: "Gods bless that child." Rolls up the red sleeves; kneads. "I remember. Oddly enough, I *miss* this, and your *onions*!" Grins, works.
+- @@* MAGS (from character; memory @@*): "You stood on that crate to reach the trough. Nine years old, all elbows and that white lock, and you'd talk to the fire while you worked. Thought you were simple." Beat. "You weren't talking to yourself, were you." Not a question. Then: "Bread wants an hour to rise. Vespers is sooner."
+- Cari to the HEARTH: "She means well, and she loves you even if she doesn't know how much. Will you take the last sticks where they are as a hello?"
+- (no roll -- her own offering, nothing resists) @@* THE GREAT HEARTH: a tongue of flame leans out over the hearthstone and the last TWO waxed sticks catch where they lie, burning clean and bright on the stone itself without spreading; sweet apple-and-clover smoke rolls toward the big table, toward MAGS. Then the flames draw back to the coals.
+- @@* MAGS (from character): freezes, cleaver up; looks at the burning sticks on her hearthstone, at the fire, at Cari; slowly sets the cleaver down. To the hearth, gruff and a little hoarse: "...Hello yourself." Then, not looking at anyone: "Forty years I've fed that fire."
+- Offering complete: all applewood given. Debt to Mags's hearth long since paid; this is a gift.
+- Cari to Mags: "Forty years it has watched over you, and much longer, those before you." Touches her sleeve. Going to change out of the floury Red. To AUBRIC'S ROOM.
+- LEE (OOC): only the White and the pilgrim's grey there?
+- GM (CHECKED S11 l.818-829): the WHITE was collected hemmed from Sabeth on Day 7 evening and carried with her kit; where she set it down isn't recorded -- most likely here, her lodging (@@ assume yes). In Aubric's room now: the WHITE (assumed), the grey PILGRIM'S ROBE, the BELL-ROPE BELT, the RED SASH. The BLUE silk, YELLOW and ORANGE robes and the ORANGE/WHITE scarves (and the cut girdle) went to IVRO'S STUDY this morning (laid on the day-bed). Also: her notebooks and letters on the study desk.
+- LEE CANON (the Order's ROBE COLOURS, first formal listing, 2026-10-19):
+  - WHITE: Loremaster -- librarian's standard; a simpler version of what the Precentor (Ivro) wears.
+  - RED: Adept of the Flame -- "blessed of Rikitak"; worthy of Initiation if they abide by the Charter and Tenets and take the vows; test: summon the fire and move it without the aid of a spirit.
+  - ORANGE: Healer -- must prove Journeyman skill; approved by the Infirmarer and a board of competent peers.
+  - YELLOW: Spirit-Keeper -- must be able to call a spirit and dismiss it.
+  - GREEN (rarely taken): Alchemist mastering incendiaries -- typically a Tinker, specializing in explosives.
+  - BLUE: master of the Atlantean art of SPELLWEAVING -- very rare, still recognized.
+  - GREY and BROWN: typical for lay brothers.
+  - BLACK: special dispensation only -- the Prior, the Visitor, or those appointed on rare occasion to some special office of deep responsibility.
+- NOTE: consistent with S13 table -- Ivro's habit was NOT given a colour (the "black" was struck from the ledger earlier). The Prior and Visitor wear BLACK.
+- Cari dresses in the WHITE with the BLUE SASH: a Loremaster Initiate professing also a priest's rank for mastery of Spellweaving. Leaves the floury Red in Aubric's room (to Sabeth later). To VESPERS.
+- NEW SCENE: VESPERS, the main church, dusk Day 9. Tokens 4 (cap). Hook budget 4. Armor fresh. No Hook trigger offered (she isn't hiding).
+- Present: the PRIOR (black; his chair); LANFRIC (lectern); WYSTAN; HOLM; ODO; RUDDOCK (west door); HANNET; circuit brothers incl. the WATCHER and the white-bearded purifier; the Initiates' bench. Not present: Ivro (study), Merrit (infirmary).
+- @@* (situation): the White draws looks -- the house's own colour, the colour of the library. Lanfric (a Loremaster himself @@*) gives her a small grave nod from the lectern. The Initiates' bench makes room at both ends. The far-end third Initiate looks at the White, then away -- and does not move further off.
+- FILED [Lee: "Do add."]: the Order's Colours added to the Tenets lore doc (new section; Lee's aside: Calder as Hierarch may well have worn BLACK).
+- LEE CORRECTION (retcon in fiction): the RED is NOT left for the laundry. Cari HUNG it on the peg just as it is, unshaken -- flour smears and Nell's two small handprints clear on the breast -- where she'll see it every time she walks into Aubric's room. GEAR: RED robe hanging in Aubric's room (floury, handprinted -- keep it so).
+- Cari sits on the Initiates' bench with a nod; considers the colours there. (Lee, OOC: a god of Chaos's services SHOULD have occasional surprises.)
+- @@* THE INITIATES' BENCH (situation): two in ORANGE (healers), one YELLOW, one WHITE besides hers (an older Loremaster Initiate), and the far-end third: undyed grey -- an Initiate in vows who has not yet proven a colour @@*. Her Blue sash is the only blue in the church.
+- @@* SURPRISE (from character, no oracle): at the first psalm the PRECENTOR'S STALL, empty for days, fills -- IVRO, in his habit and doubled stockings, on Holm's arm, HOLLIS padding behind and lying down in the aisle. He takes up the chant in his thin true voice; the choir finds its pitch on him. GM note: strain on the Mountain -- no extra die at dawn unless poppy (S10 model); Hannet will have opinions.
+- Cari quietly STANDS for the Precentor, no fanfare; settles as he does; sings, suppressing her grin.
+- @@* (from character/situation, no roll): the Initiates' bench rises with her (the far-end grey Initiate last, but he rises); then Wystan; then a scatter through the choir, Ruddock at the west door. The PRIOR, in his chair, inclines his head to the Precentor's stall. Ivro's voice catches on one note -- then carries on, stronger. All settle.
+- Vespers sung through. Hollis asleep in the aisle. At the close, Holm comes for Ivro's arm.
+- Cari files out in her turn; follows Holm, Ivro and Hollis when free.
+- @@* (from character): at the cloister turning HOLM steers toward the Precentor's old lodging (his own cell on the east range @@*, unused since he fell ill); IVRO plants his feet: "The library." Holm: "Your bed's in your cell, Precentor." Ivro: "My charter box is in the library. And my daughter sleeps on its floor." Holm sighs and turns him toward the library stair.
+- WKW: HOLM heard "my daughter."
+- Cari (sliding it in): she's moved some things into Brother Aubric's old room for the nonce; "though I hear yours is vacant and perhaps more comfortable. Maybe I chose poorly."
+- @@* IVRO (from character): stops on the second step; knows he's been outflanked; "Hah." Then terms: the CHARTER BOX goes back in the PRESS, locked, and he keeps the key; he sleeps in his OWN CELL tonight; "And the dog comes." HOLM, relieved, turns them round. HOLLIS, halfway up the stair, turns too, deeply put upon.
+- DECISION (situation): Ivro moves back to his own cell on the east range from tonight; the charter box locked in the press (key: Ivro).
+- WKW: HOLM knows the charter box is going back in the press.
+- Cari scratches HOLLIS's head: "Thank you. I wasn't going to speak for you." To Ivro: "Pass me back the keys, I will lock up and return them to you in your room in a few minutes."
+- @@* IVRO: hands over the CHARTER-PRESS KEY without argument; "Mind the reef knot." Goes with Holm and Hollis to the east range.
+- Cari up to the library; the CHARTER BOX (by the day-bed) -- tapes tied in Ivro's REEF KNOT (checked, no roll) -> into the charter-press, bottom shelf beside the chained Founders' Book; LOCKED. (Situation: nothing disturbed.)
+- GEAR: charter-press key (Cari, to return to Ivro's cell).
+- Cari touches the FOUNDERS' BOOK reverently before locking the press. Looks round the oddly empty study. Aloud, to her gods: "It's just paper and ink. Without the people who breathe life into it, it's only stone and wood, paper and ink." Leaves it to steep.
+- (no roll; nothing answers -- the quiet is the answer)
+- To IVRO'S CELL (east range) with the key.
+- @@* IVRO'S CELL (situation; first seen @@*): small, warm; Holm has lit the hearth; books in drifts on every surface; a narrow bed under a patched blue coverlet; his mother's bronze mirror already set on the sill (he brought it). HOLLIS stretched across the foot of the bed as if he'd always slept there. Ivro in the one chair, stockings off at last, feet to the fire.
+- Cari: "Your keys, my lord." A deliberately bad courtier's bow; dangles the key on its cord from thumb and forefinger. GEAR: charter-press key -> IVRO.
+- @@* IVRO (from character): plays along -- a lordly two-fingered wave from the chair; "Lay them at my feet, girl." Then catches them out of the air instead and hangs them on the nail by the bed. Nods at the stool by the fire: "Sit. Ten minutes. Then go and sleep in a bed of your own for once."
+- Cari pats Hollis ("because she can, and won't always be able"). "You took my dog," she jokes; settles on the stool. "What can I do for you, master?"
+- @@* IVRO (from character): "Your dog? I was told he was Finder Kade's horse." (callback S12). Then, after a moment, the real answer: he heard about chapter -- "half the house is humming it" -- and asks her to sing the fells verse with him, here, by his own fire: "I'll take the call. You answer. I want to hear what Aldric heard."
+- Cari smiles and casts PHANTASMAL VEIL (bound, plain recast, no improvisation): just the DRONE -- the voices of the brothers in chapter who took it up under the verse; held for the song's length only.
+- RULES READ: spells.md Phantasmal Veil (influences the target's perceptions -- sound included; a Glamour; effect and resistance decide). spells.md Difficulty: an unresisted, untargeted-in-effect spell is generally DL0 and the GM may forgo the roll.
+- RULING: target IVRO, willing -> no resistance; GM forgoes the roll (spells.md). The drone is as she remembers it. Binding safe.
+- @@* (no roll): Ivro takes the CALL; Cari the ANSWER; under them, the low drone of the chapter -- the fells-born brothers -- fills the little cell. HOLLIS lifts his head at voices that aren't there, ears up, then lays it down again. Ivro sings it through; at "kindle me home from under" his voice gives out and he lets the drone finish it. Afterward, eyes shut: "So that's what he heard."
+- Veil ends with the song (dismissed; no binding cost).
+- Cari clarifies: in chapter she sang only the LAST CALL; one Brother answered almost at once; the fells folk began the drone before she'd finished her own short line. "It *was* rather glorious, though."
+- @@* IVRO (from character): opens his eyes; a dry chuckle -- "Then I've had the better of Aldric. I got the whole song." Then the dismissal: "Go to bed, daughter. A bed. With a blanket you didn't steal from the infirmary."
+- Cari: "I will sing for you whenever you wish it." Settles his covers in his lap, kisses his head: "Don't stay in the chair all night." Turns back his blankets, fluffs his pillow; rubs Hollis's length one last time. To the KITCHEN for something to take to the library -- she has work to do.
+- @@* IVRO: "Whenever I wish it. I'll hold you to that." (Promise logged: sing for Ivro on request.)
+- KITCHEN (after supper, night Day 9; continuous): @@* MAGS packs bread, cheese, a cold onion pasty, a jug of small beer. NELL asleep on a pallet by the great hearth, a crust in her fist. Mags, low: "Came back from Sabeth's an hour since. Talked the whole way across the yard. Sabeth's sat on her step in the dark ever since, Pip says." Then: "Go on. Don't wake her."
+- LIBRARY (night Day 9): lamp lit; supper on the desk; the CUSTOMARY open beside her scratch-sheet.
+- Cari: "No, old ser -- I read from the front tonight." Eats the pasty with the beer; bread set aside for a fresh pot of tea. Sharpens a nib; reads the CUSTOMARY from the inside cover.
+- RULES READ: accumulated-progress.md -- "If there's no time pressure, why roll?" -> NO ROLL: weeks to midwinter; an intact book; she reads it through over the night. Content is setting design -> GM SUMMARY ONLY @@*, Lee to true.
+- GM DECISIONS @@* (the Customary, as she reads):
+  - It is written in MANY HANDS over the centuries; the oldest leaves in a square early hand (the house's first usages: offices, hours, the hearths' tending).
+  - A FALLEN OFFICE: the oldest leaves provide for READERS OF THE CHARTER -- two or three of the house, chosen by the brothers, who read the Founder's leaves ALOUD, whole, to the assembled house once a year "that none may say he was not told." The custom stops abruptly -- a later hand notes it "laid aside, the leaves being spoilt" (Cuthred's era). -> a PRECEDENT for Cari's clerks: restore, not invent.
+  - PRIORS AND VISITORS: as Ivro said -- a matter touching a Prior goes to the Order's Visitor; between visits, to the Convocation (old hand).
+  - THE READING OF NAMES chapter is NOT in the old hand: it is in CUTHRED'S hand (she knows it now from the colophon and the Watch), inserted on leaves sewn in later; the "one holding the Order's commission" clause is his.
+- WKW: CARI now knows the Readers of the Charter precedent, and that Cuthred wrote the Reading of Names.
+- Late night Day 9; tea brewed; the lamp low.
+- Cari laughs aloud at "Readers of the Charter"; leans back; drinks the cold tea in a swallow; refills. Reviews her notes; folds them into her sash. Stretches; strips and remakes the day-bed; organizes, wipes, sharpens, sorts (busy hands, wandering mind -- her pondering is Lee's).
+- Collects her things (BLUE silk, YELLOW and ORANGE robes, ORANGE and WHITE scarves, the cut GIRDLE, her NOTEBOOKS and LETTERS); blows out the lamp; closes the library door; to AUBRIC'S ROOM.
+- GEAR: notes on the Customary -> folded in her BLUE SASH. Robes, scarves, girdle, notebooks, letters -> Aubric's room. The CUSTOMARY left on Merrit's copying desk.
+- AUBRIC'S ROOM, late night Day 9: the RED on its peg, floury, Nell's two small handprints on the breast.
+- Cari: smiles at the Red ("like walking into a hug by surprise"). Settles her things as a welcomed guest in Aubric's vacant house; finds an INCENSE stick in her satchel (offerings stock), stands it by the room's taper, lights it in his honour -- a small makeshift shrine. Undresses to her last linen shift; brushes everything to wear again ("let them smell of brimstone a bit"). Into Aubric's bed, fresh linens; wishes him rest; watches the stars; sleeps.
+- GEAR: one incense stick spent (offerings).
+
+## NIGHT Day 9 -> DAWN Day 10
+- NIGHT (situation, no roll): quiet. Taint dreams not forced (Lee leads).
+- DAWN 10 Korrin's lantern (Fax 6, age 2 after the reset) 1 0 0 1 0 1 = 3 vs 2d 0 1 = 1 -> HOLDS at 6.
+- DAWN 10 larder Veil (2, age 4) 0 1 = 1 vs 4d 0 0 0 1 = 1 -> TIE, HOLDS at 2.
+- DAWN 10 Scry eye (4, age 2) 0 1 0 0 = 1 vs 2d 0 1 = 1 -> TIE, HOLDS at 4.
+- DAWN 10 Calder-hearth Fax (3, age 2) 1 1 1 = 3 EXTREME SUCCESS vs 2d 0 1 = 1 -> HOLDS at 3; DAWN RESET (age 1 again) [Lee's S13 rule].
+- DAWN 10 Lavabo Fax (4, age 2) 1 1 0 0 = 2 vs 2d 0 1 = 1 -> HOLDS at 4.
+- IVRO: EL5 (Lv4 + own-bed rest 1; no Hannet tonight) 0 1 0 1 0 = 2 vs sickness 3d 1 0 1 = 2 -> TIE, no new harm. Remission holds.
+- CALDER: Lv5 1 1 1 1 1 = 5 EXTREME SUCCESS vs Injury 5d 1 1 1 0 0 = 3 -> EFFECT 2: Injury 5 -> 3 (EL 2). NPC Extreme -> GM +1 Token. @@* side effect (5 dice, his good): he slept deep and woke CLEAR-HEADED; at Wystan's dawn round he asked for PAPER AND INK. (What he means to write: UNDECIDED.)
+- MERRIT: Lv2 + care 3 = EL5 0 1 1 1 0 = 3 vs Injury 3d 0 1 1 = 2 -> EFFECT 1: Injury 3 -> 2; success clears the 1 Complication. 2 not > 2 -> NO LONGER DOWN (up, carefully, a stick).
+- TEAGUE: EL8 1 0 1 1 0 0 1 1 = 5 vs 1d 0 -> Injury 1 -> 0. HEALED.
+- STEWARD: EL4 1 0 1 1 = 3 vs 1d 0 -> Injury 0. HEALED (bound).
+- SEVER: fit (bound). PRIOR: frost-burn healing.
+
+## DAY 10 -- MORNING
+- PRIME BELL wakes her. Grey light; the incense burned to a curl of ash on the sill.
+- Cari CLEANS THE ROOM (no roll -- nothing resists): bed stripped and made square, ash swept off the sill, the taper trimmed, her things packed neat -- nothing left for little Nell to do if she peeks in. The RED stays on its peg AS IT IS (Lee's S13 instruction stands).
+- DRESS (Lee's choice): the WHITE robe; the BLUE SASH (Sabeth's seam); the ORANGE SCARF around her shoulders as a shawl, pinned with her HAIRPIN; HAIR LOOSE (the white lock shows). Boots buffed; clean stockings. Notes on the Customary still folded in the sash.
+- GEAR: hairpin -> holding the shawl, not the twist. Three colours worn at once -- White, Blue, Orange (colour only; nobody sees her yet).
+- LEE (OOC Q): did the Prior mean her to stay until the last cart comes in? GM CHECK (ledger l.442-445, l.435): NO such order. Pellam's cart is due before the Convocation, but nobody told her to wait on it. What she OWES: (1) the Prior -- what the CUSTOMARY says of Priors, Visitors and hearings (not yet delivered); (2) the written OFFICE recommendation (bones delivered Day 9); (3) the RING to Crossroads when Holm finds it (before/after Convocation UNDECIDED). By her own word: "my home is here," fast through the Convocation; Green Haven after it (Ivro). Net: she's staying to midwinter by her own duties, not by the cart.
+- NEW SCENE: the GUEST CHAPEL (Aubric's; next to his cell). Tokens 4 (cap) -- no change. Hook budget refreshed.
+- @@* GUEST CHAPEL (situation, no roll): empty -- prime said and the circuit brothers gone to their bread. Wystan's broom by the door, the floor already swept; one lamp left burning on the altar; benches pushed back crooked where the brothers stood. Cold stone, morning light through the east slit. Her devotion is Lee's.
+- LEE (canon, OOC): the PRIOR has said that if there is fasting, the whole house does it -- not Cari alone. She'll likely do a little anyway. [Lee]
+- Cari STRAIGHTENS THE BENCHES (no roll). Short, sincere prayer (content Lee's; not narrated).
+- To the KITCHEN for something to carry to the library and eat while she works.
+- @@* KITCHEN (situation, no roll): breakfast cleared, bread for the noon going in. MAGS at the ovens; NELL at the board shelling (dried peas), the day's applewood stick laid ready on the hearth-stone by her elbow (she's rationing it, as told). Mags looks Cari over -- White, Blue, Orange, hair down: "Dressed for three trades and fed for none." Packs a cloth bundle: half a loaf, a wedge of hard cheese, two boiled eggs, a winter apple; a small stoppered crock of small beer. "Don't let it go stale under a book."
+- @@* NELL (from character, no roll): looks up at the loose hair; small smile, no words; goes back to the peas.
+- Cari to Mags, sincere, not hyperbole: "I have a truth for you, Mes Mags -- my mother never took such good care of me." Bobs; to the LIBRARY.
+- @@* MAGS (from character, no roll): the peel stops halfway into the oven; a beat. "Then she missed the best of you." Shoves the loaf home. "Go on. Out of my heat." (Nell heard it.)
+- @@* LIBRARY (situation, no roll): empty -- Ivro not yet down (old, ill, his own bed last night; Hollis with him). Cold grate. The CUSTOMARY on Merrit's copying desk where she left it; her notes in her sash.
+- Cari: kettle on the brazier; EATS alone, unhurried. SAVES the small beer for later. GEAR: small beer crock (full) held.
+- Cari: a FRESH SHEET; reads the CUSTOMARY again from the beginning, verifying it against her memory (her night notes stay in the sash).
+- RULING (accumulated-progress.md, as last night): NO ROLL -- intact book, nothing resists, weeks to midwinter. She gets what is there.
+- RESULT: her memory holds -- the fresh sheet matches the night's notes on every point (Readers of the Charter; Priors -> Visitor -> Convocation; the Reading of Names; one to lay, three to strike, a season's notice).
+- @@* DAYLIGHT DETAIL (situation, follows from established hands): the margin note at the Readers of the Charter -- "laid aside, the leaves being spoilt" -- is in CUTHRED'S hand, the same as the colophon and the Reading of Names. (Inference left to Lee.)
+- @@* HEARINGS (setting text, SUMMARY ONLY, Lee to true): the old hand gives the PRIOR the chair at every hearing of the chapter, and never imagines a Prior as the party -- a Prior's matter simply goes to the Visitor. Below the Visitor, NOTHING says who sits when the Prior is accused or interested. -> a real GAP; Ivro's question stands unanswered by the book; Lee's recommendation may fill it.
+- WKW: CARI knows the Customary is silent on who presides when the Prior is a party; and that Cuthred's hand laid the Readers aside.
+- Cari: pours tea; walks circuits of the stacks blowing and slurping (her thinking is Lee's); drinks most of it; sits to a fresh sheet. NO ROLL (her own document; nothing resists).
+- DRAFT FOR THE PRIOR (Lee's design; summary):
+  1. Leads with the READERS OF THE CHARTER -- her "new" office is what it always was: their historical role per the Customary; CUTHRED'S note ending the practice; the ADDED (sewn-in) leaves in his hand; the "spoilt" leaves of the Charter (the Prior has seen the copy).
+  2. Compares the old office to her proposal; offers a MERGED version.
+  3. Succession of the chair, from the Customary WITH HER INITIALED ADDITIONS: when the Prior is not available "or appropriate" (initialed), the duty passes to the VISITOR; if the Visitor is not available "or appropriate" (initialed), to a VOTE OF THE CONVOCATION.
+  4. Recommends the CONVOCATION may be invoked DIRECTLY on questions of probity or propriety.
+- Cari pours a second tea; reads it over.
+- LILITA (OOC editorial flags, offered not imposed): (a) who decides a Prior or Visitor is not "appropriate"? -- the man in question will say he is; (b) "invoke the Convocation directly" -- it sits at midwinter; between sittings, who may summon it, and how many voices does it take? (Lee's to answer or leave.)
+- LEE ANSWERS THE FLAGS (design, Lee's; added to the draft):
+  - POWERS OF THE READERS (two, and only two): (1) FREE ACCESS; (2) the right to CALL A VOTE on propriety directly -- if the body approves, the chair passes on WITH THEIR APPROVAL.
+  - The Readers DO NOT JUDGE; they call for judgment by the rightful hearing of the collected faithful: the local CHAPTER assembly for most things; the CONVOCATION entire when the chapter is not enough.
+  - "Appropriate" is thus decided by the body, not the man in the chair.
+  - Demonstration ipso facto: she proposes, and her proposal goes only to the Prior -- the Readers' own posture, practised before it exists.
+- LEE (OOC): "ipse" was his own slip, not a typo; correction accepted.
+- TERCE BELL. Cari: neatens the library (no roll); squares the draft, rolls it into a spare SCROLL CASE (library stock); throws back one more tea; tucks the case; to the PRIOR'S LODGING for ODO and an appointment. (Misses terce -- as she said she would.)
+- GEAR: draft recommendation -> in a scroll case, tucked (sash/arm). Customary -> left on Merrit's desk. Small beer crock -> left on the library desk, stoppered.
+- NEW SCENE: the PRIOR'S LODGING, outer room, terce, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): the PRIOR is at terce (his office). ODO at his desk in the outer room, the day-book open and the fair copy of Tobin's tally half done beside it.
+- @@* ODO (from character, no roll): looks at the case, then at the three colours and the loose hair, and lets neither show on his face. Opens the day-book: "After sext. He keeps the hour between for the Almoner's business." Writes her in. Then, dry: "Brother Holm is still among the ornaments." (No word on the ring either way.)
+- LEE (OOC): "ipse" was a genuine mistake, not a fumble-finger. Noted.
+- Cari: "Ornaments?"
+- @@* ODO (from character; he was at the drawer, Day 9 -- l.437): "The Almoner's. His rings, his chains, the silver-gilt cup he took his wine in. The Prior's order yesterday -- Brother Holm and the Cellarer, every piece counted and sealed, and any plain gold band among the rings brought to his desk." A beat: "There are a great many rings." (Ring: NOT yet found; search ongoing; result UNDECIDED.)
+- Cari: "Do you think they might appreciate something from the kitchens, then? And while I'm about it, might you?"
+- @@* ODO (from character, no roll): a pause, as if no one has asked him in years. "Brother Holm would take ale and not admit he wanted it. The Cellarer brought his own -- he is the Cellarer." The Almoner's rooms: up the stair where the drawer was opened. For himself, after a moment, a hand flat on the tally: "Something that won't drip on vellum."
+- Cari LAUGHS at Odo's vellum line. "Noted." To fetch food.
+- LEE (OOC Q): kitchen or cellar for ale? @@* GM (house practice): the casks are the CELLARER'S, in the cellar under his key -- and he's up the Almoner's stair with it. The day's ale is drawn to the KITCHEN each morning; Mags has a jug. -> KITCHEN.
+- KITCHEN (continuous scene, terce; Tokens 4 cap):
+- @@* MAGS (from character, no roll): "Feeding the lodging now, are we." Packs without being told twice: for Odo -- oatcakes and a heel of hard cheese, dry as a sermon, wrapped in a cloth; for the Almoner's rooms -- a stoppered jug of the day's ale, a loaf, and a crock of dripping. "Two cups. The Cellarer will want to taste it to see what I've done to his ale."
+- @@* NELL: at the hearth, feeding the day's applewood stick in now -- the fire takes it with a crackle and a lick of green at the edge. She watches it, not Cari.
+- Cari musses NELL'S cap in passing. Takes ODO his cloth first.
+- @@* ODO (from character, no roll): unknots it, sees oatcakes and cheese, nothing that drips. "Mags." Not a question. Sets it at the far corner of the desk, well clear of the tally; "Thank you, Sister." Eats one oatcake standing before he sits again.
+- To the ALMONER'S ROOMS with the jug, loaf, dripping, two cups.
+- NEW SCENE: the ALMONER'S ROOMS, up the stair, late terce, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): door open, by order (two witnesses at all times). A long table under the window covered in a dark cloth; Brask's ornaments laid out in rows and ticketed -- chains, a pectoral cross, the silver-gilt cup, a pair of jewelled gloves; and the RINGS, sorted onto a separate cloth by kind: signets, stones, plain bands. HOLM (Sacrist) with the list and pen, ticking; the CELLARER (stout, aproned, unnamed) weighing on a little brass balance and calling the weights. A small bronze-bound casket on the floor, half empty -- still to go.
+- RING STATE @@*: the plain bands counted so far are men's -- heavy, worn, two with inscriptions; NO woman's plain gold band yet. Remaining: the bottom half of the casket. (Found or not: UNDECIDED.)
+- Cari: "Gods." Hands in the bundle (jug, loaf, dripping, two cups).
+- Cari: SECOND SIGHT over the ornaments.
+- GM DECISION @@* (before the roll -- a fact, not an oracle): the RING IS in the casket, in the unsorted bottom half (Tobin: Brask took it off Pellam; Brask liked rings; his hoard was seized in his rooms).
+- WHO RESISTS: nobody -- but the hoard's CLUTTER buries faint imprints (3d; Level 3).
+- ROLL: Conjuror EL8 0 1 0 1 1 0 0 1 = 4 vs clutter 3d 1 0 0 = 1 -> EFFECT 3 = Level 3: a good read; the finest detail held back.
+- READ @@*: the hoard is mostly dead metal under a greasy film of Brask's handling -- the warm, smug weight of OWNING. A few pieces carry a thin chill of FEAR (given to buy something, not given freely): the jewelled gloves, two of the stone rings. In the CASKET, under the jumble: one small WARM thread -- a band worn a lifetime against one woman's skin, the warmth of the wearing still in it, and a cold notch where it was taken off unwilling. She can point to where it lies.
+- HELD BACK (effect = Level): WHOSE it is -- she reads a woman, long married, grieved; not a name.
+- No Token spent. Tokens 4.
+- Cari: stumbles over, bracing on the table and on HOLM'S arm; pushes back her sleeves; kneels at the casket; one finger up at their protests; hands kept in plain view, sleeves held clear; digs through for the one at the bottom.
+- NO ROLL: nobody stops her (two witnesses present, hands visible -- the rule is kept, not broken); the Sight already found it.
+- @@* HOLM (from character -- exact): starts "Initiate, the order is two witnesses and the list --", sees the hands, stops; steps to where he can see into the casket; pen ready. The CELLARER: sets down his cup and watches her hands, not her face.
+- FOUND @@*: under a tangle of chain, bottom left -- a woman's PLAIN GOLD BAND, small, worn thin on one side from a lifetime on the same finger; FLOUR ground fine into the hairline scratches (a miller's wife). No inscription. To the Sight in her hand: the same warmth, the same cold notch.
+- @@* CELLARER: weighs it, calls it ("Two scruple and a half. Thin."). HOLM writes: "one band, plain gold, a woman's, found by the Initiate in the casket; witnessed H., Cellarer." Then: "The Prior's order is his desk. By my hand, or by yours with your name to it."
+- WKW: HOLM and the CELLARER saw Cari go straight to it (they may wonder how).
+- Cari closes the Sight; takes the quill; signs under Holm's line: "Provenanced for delivery to the Prior -- C. Greenhaven".
+- @@* HOLM (from character): reads the word, approves it with the smallest nod ("Provenanced. Good."). Folds the ring into a twist of clean paper, closes it with a thumb of wax from the light, presses his Sacrist's seal on it; hands it to her. The list stays with him.
+- GEAR: the OXLEY RING (presumed; sealed paper twist, Holm's seal) -> CARI, for the Prior's desk. Draft recommendation (scroll case) -> still with her.
+- @@* CELLARER (from character): pours the second cup, holds it out to her, not Holm. "You'll not tell me how you knew where it lay, I expect." (Not a demand; he doesn't wait for one.)
+- Cari toasts the Cellarer, drinks it off: "Perqs of being a fire-witch," smirking. To the PRIOR'S LODGING with the ring, at once (her reading: he meant it ASAP).
+- NEW SCENE: the PRIOR'S LODGING, between terce and sext, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* ODO (from character): sees the Sacrist's seal on the twist in her hand; puts down his pen, rises, and opens the inner door himself without a word. (Appointment after sext stands; this isn't it.)
+- @@* PRIOR (from character, no roll): back from terce, at his desk, forearm bound. Breaks Holm's seal, unfolds the paper; looks a long moment; turns the band to the light; sees the flour in the scratches. Quietly: "The miller's wife." Then: "Where?" (He'll want the plain answer.) He folds it back into the paper. "I said you'd carry it yourself. I meant it. How soon can you be on the road?" (Timing now Cari's to answer; Crossroads distance UNDECIDED.)
+- Cari: "The gate is just across the garth, Father. I'd arrive faster with Olwin's carriage." (Doesn't answer "where?")
+- CHECK: "Olwin's carriage" = the Almoner's BLACK COACH, which OLWIN drove (S13 oath, l.228: the Corvane girl, the Tarro girl). Olwin keeps the stables under RUDDOCK'S EYE pending his own matter (l.265).
+- @@* PRIOR (from character, no roll -- plain, sees the meaning): "So I see." Then still a moment. "The black coach. On the Crossroads road. They'll bar their doors when they see it." A beat. "Good. Let them watch who gets down from it." Conditions: (1) OLWIN goes on HER word, not Ruddock's -- "If he runs, it's yours to answer." (2) The LETTER -- the house's word and his -- "by sext. You're on Odo's book for then anyway." (He knows.) Takes up a fresh sheet; dips his pen, writing awkwardly around the binding.
+- WKW: the PRIOR approves Olwin and the coach for the ring's return, Cari answering for Olwin.
+- LEE (OOC): confirmed -- back after SEXT for the letter (and her booked hour; the draft).
+- Cari: "Before I leave, would you like me to leave you my first draft proposal? Or keep it till sext?"
+- @@* PRIOR (from character): holds out his good hand for the case without looking up from the letter. "Leave it. I'd sooner read it before you're standing over me." Sets the case beside the ring, squared. "Go find your driver."
+- GEAR: draft recommendation (scroll case) -> PRIOR'S DESK. Ring -> PRIOR'S DESK (until the letter is done).
+- To the STABLES.
+- NEW SCENE: the STABLE YARD, between terce and sext, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): mule-smell, wet straw, a cold wind across the cobbles. The COACH-HOUSE doors open: the BLACK COACH inside, wheels chocked, shafts down; a length of sacking nailed over the Almoner's arms on the door (whose hand: UNDECIDED). A lay boy mucking out at the far end. RUDDOCK not here (with the prisoners); his "eye" is the boy and the open yard.
+- @@* OLWIN (from character): in the harness-room doorway on an upturned bucket, a mule collar across his knees, awl and waxed thread, re-stitching a split seam. Sees her; stands, collar in hand; waits. Doesn't speak first.
+- Cari walks over (proud of him -- Lee's note). "You never came to see me," smiling. Checks his PUPILS, PULSE; has him FOLLOW HER FINGER.
+- HEALER'S LOOK (no roll; nothing resists; he submits like a mule to the farrier): pupils even and quick; follows the finger clean both ways; pulse strong, a touch fast (nerves, not fever). Eyes red-rimmed and shadowed -- short on sleep. No residue of the sympathy (lifted by her hand, S13 hearing). Sound.
+- @@* OLWIN (from character): stands stiff for it, eyes following the finger with great seriousness. On the reproach: "Didn't know if I was let." Then: "Under Ruddock's eye, they said. I didn't know if that went past the gate of the yard."
+- Cari nods ("I thought that might be the case."): needs the carriage TONIGHT, the Prior has approved; ready in an hour or so? Will he DRIVE her to CROSSROADS? (Purpose not yet told him.)
+- CHECK (S09 prep doc, S2): the Monastery is ONE DAY north of Crossroads (Monastery -> Crossroads by nightfall). Bram OXLEY the miller; wife unnamed; boy BENNO.
+- @@* OLWIN (from character, no roll): looks past her at the coach a long moment. "Aye." Then the teamster: "Hour's enough -- the pair's in, not out to grass. Off at sext, we're off the switchbacks by dusk, and at Crossroads late. I'll want both lamps lit." Then, low, the question he actually has: "The sacking. Stays on?" (@@* HE nailed it there -- the too-many nails are his.) Does NOT ask why she's going; waits to be told.
+- WKW: OLWIN knows the Prior approved the coach, and he drives Cari to Crossroads tonight.
+- Cari: "Stays. Splash it with a bit of orange if you have it, else it's fine. I'll see you after sext. Where is Brother Ruddock?"
+- @@* OLWIN (from character): on the orange -- "Raddle's red. Ochre's yellow. Between the two of 'em." (Sheep-marking pots in the harness room; he'll mix it.) On Ruddock: "Gatehouse, this hour. He's to meet Pellam's cart when it comes, the Prior said -- so he's up there most of the day, watching the road. Cells after dark." (Olwin knows the gate order: the yard hears what the gate does.)
+- WKW: OLWIN knows the sacking stays and gets orange (the healer's colour, whether he knows that or not: UNDECIDED).
+- (Cari does not go to Ruddock now.) To AUBRIC'S ROOM to change: the ORANGE robe, the BLUE SASH, the YELLOW SHAWL. (White folded away with her things; the Red stays on its peg.)
+- STAFF: short brass-bound staff -- CHECK (current sheet): in the PRECENTOR'S STUDY (library). She collects it there.
+- @@* LIBRARY (situation): IVRO down at last, in his chair by the cold grate with a rug, HOLLIS across his feet; he has found the Customary on Merrit's desk and her beer crock beside it. One dry line at the Orange: "Healer today. Somebody's bleeding, or about to." (No more unless she stops.)
+- KITCHEN: asks MAGS for ROAD SUPPER FOR TWO; sits a minute.
+- @@* MAGS (from character, no roll): "Two." Doesn't ask who; the yard boy has already said the coach is being got ready (kitchen hears everything). Packs into a rush basket: four cold pasties, a loaf, a wedge of cheese, a twist of salt, four winter apples, a leather bottle of ale; a cloth over it. "The coachman eats like a horse. Always has." (Olwin known to her; no judgment in it -- "a man eats.")
+- @@* NELL (from character): while Cari sits, comes and sets a cup of small beer by her hand without a word, and stays standing at her elbow, near, not touching.
+- (Library, before leaving) Cari to Ivro: "Bleeding? There's been too much of that." Pockets the forgotten beer crock. GEAR: small beer crock -> her pocket/satchel.
+- @@* IVRO (from character): "Then mind you're not the one doing it." Back to the Customary. (She hasn't told him she's leaving; he hasn't asked.)
+- KITCHEN: Cari thanks NELL, drinks the cup down to the last drop, hugs her. Glances to the fire: "Taking care of our friend in there?"
+- @@* NELL (from character): hugs back hard and quick, then lets go. At the question: nods, serious; points at the hearth-stone where the bundle lies -- fewer sticks than this morning by one; holds up fingers for how many are left (FIVE @@*). The fire answers on its own: a log shifts, and a little fountain of sparks goes up green-edged. Nell watches it, and almost smiles.
+- GEAR: road-supper BASKET (4 pasties, loaf, cheese, salt, 4 apples, ale bottle) -> Cari. Staff in hand.
+- To the GATE for RUDDOCK.
+- NEW SCENE: the GATEHOUSE, shortly before sext, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): the gate open on the road side, a porter lay brother at the wicket. RUDDOCK on the wall-walk over the arch, cloak pulled close against the wind, looking down the switchbacks: road empty to the first bend -- no cart. A brazier on the walk.
+- @@* RUDDOCK (from character -- honest, banked, watchful): sees her come across the court, takes in the Orange, the staff, the basket; comes down the stair to her rather than make her climb. "Sister." Waits.
+- Cari tells RUDDOCK the plan (summary): the RING found in Brask's casket; the Prior approves; after sext OLWIN drives her to CROSSROADS in the black coach to return it with the Prior's letter; Olwin goes on HER word, not Ruddock's. Hands him an APPLE. GEAR: apples 4 -> 3.
+- WKW: RUDDOCK knows the ring is found and the coach goes to Crossroads with Olwin on Cari's word.
+- @@* RUDDOCK (from character, no roll): takes the apple; turns it over; one nod -- "Prior's word and yours. That'll do me." No objection to losing his charge; something like relief that Olwin's off his conscience for a night. Then the watchman: "One road down. If Pellam's cart is on it, you'll meet him on the switchbacks before I see him from here." A beat. "If you do -- don't let him turn round. Send him up." Bites the apple. "And mind the third bend after dark. Edge has gone."
+- Cari nods to Ruddock; to the COACH HOUSE again (continuous; same scene family -- no new Token; Tokens 4 cap anyway).
+- @@* COACH HOUSE (situation, no roll): the PAIR (two dark geldings @@*) in the traces, blanketed against the wind; both lamps trimmed and filled, unlit. On the door: the sacking still nailed, now daubed with a wet ORANGE splash, raddle and ochre mixed -- rough, wide, still glistening. The coach door stands open: the Almoner's plum velvet CUSHIONS are out, stacked on the cobbles; the benches bare boards, laid with clean folded horse-blankets instead.
+- @@* OLWIN (from character): on the box, checking the reins through his hands, inch by inch. Sees her; climbs down. Nods at the cushions: "Couldn't sit on them. Didn't think you'd want to." Hands stained orange to the wrist.
+- Cari: "You are correct." Asks Olwin to carry the CUSHIONS up to the Almoner's office and leave them. Sets the SUPPER BASKET on the running board: Mags's supper; she means to save her share for the Crossroads SHRINE for someone hungrier; he's to do as his conscience says, no judgment. She's to the Prior after sext and back with his orders.
+- @@* OLWIN (from character, honest): "Aye." Gathers the cushions in his orange arms. On the food, after thinking it through properly: "I'll eat mine. It's a long road and I'm no use to you hungry." A beat. "The apples can go to the shrine. Both of mine." (GEAR: basket -> on the coach's running board, Olwin minding it.)
+- (Cushions -> to the Almoner's rooms; Holm will ticket them @@*.)
+- SEXT: Cari attends. @@* (situation, no roll): an ordinary office; the PRIOR in his stall, arm bound; Ivro absent (library); no cart news. Nothing forced. After the dismissal the Prior goes out toward the lodging; Odo follows.
+- Cari approves Olwin's choice (nod). After sext, round the usual way to the PRIOR'S LODGING (her booked hour).
+- NEW SCENE: the PRIOR'S STUDY, after sext, Day 10. Tokens 4 (cap). Hook budget refreshed. Present: Prior; Odo (outer room).
+- @@* (situation): the draft unrolled on the desk under two weights, read -- a thumbnail crease beside the initialed "or appropriate"; the LETTER folded and sealed beside the ring's paper twist.
+- RULING: NO ROLL on the draft -- he asked for it, he's already leaning her way, and Lee's design answers the risk he named ("Voss in a new coat"); rolling would overrule the design work with dice.
+- @@* PRIOR (from character, plain): (1) "It isn't Voss in a new coat. It hasn't got hands." (2) The initials: "You marked your own words. Cuthred didn't." (3) His one worry: the Readers' call goes to a Convocation where Calder's purifiers sit -- "you've built them a road into the one room that wants the Founder's leaf burned." Not a refusal; a thing to weigh. (4) He will NOT seal it alone: "If I seal it, it's mine. It has to be the house's. I'll read it to chapter -- your name on it, and mine under, saying I asked for it." (When: UNDECIDED; before the Convocation.)
+- @@* THE LETTER (summary, the Prior's text): to Bram Oxley, miller of Crossroads, and to the council -- the ring returned that was taken in the house's name, wrongly; the house's word that the carts will come to give, not take; signed and sealed by the Prior, "witnessed by the bearer."
+- @@* ORDERS FOR THE ROAD: give the ring into the miller's wife's own hand, not Bram's or the council's; say it in the square, as she said in chapter -- "we will stop kicking you"; send Pellam up if met; back in two days, "three if the weather turns."
+- Cari: "I'll think on it. We have time yet, yes?"
+- @@* PRIOR: "Till midwinter. Less than it sounds." Back to his papers.
+- LEE (OOC): ruling on the draft (no roll) accepted. When she speaks in the CROSSROADS SQUARE, Lee will ask for her chapter words read back -> SOURCES: this ledger l.275 (Cari's word to the chapter: the Almoner's Office exists to DISTRIBUTE alms...) and l.310 (the carts; rings; criers -- "we will stop kicking you now"; collective penance).
+- GEAR: the PRIOR'S LETTER (sealed) and the RING (paper twist) -> CARI.
+- Cari takes the letter and ring, bobs, goes. To the COACH HOUSE: departure.
+- NEW SCENE: the STABLE YARD -> the GATE, early afternoon, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): OLWIN back from the Almoner's rooms (cushions delivered); has washed his hands -- still orange in the creases. The pair put to, the basket stowed under the box. The lay boy and two novices find reasons to be in the yard; a face at the kitchen passage (Mags's girl Tilda @@). OLWIN holds the coach door open the way a coachman does. The box seat beside him is wide and empty. (Where she rides: Lee's.)
+- PELLAM'S CART today: GM decision @@* -- NOT on the road today (default; no coincidence forced). Road down is empty as far as Ruddock can see.
+- Cari grins; climbs up onto the COACHMAN'S BENCH: "It's really hard to have a conversation through the wall of the coach."
+- @@* OLWIN (from character): blinks; shuts the empty coach door with care; climbs up beside her; takes the reins. Doesn't answer the joke except with his ears.
+- ROAD (situation, no roll -- a known road, a good driver, daylight): out under the arch; RUDDOCK on the wall-walk lifts the apple core in salute. The switchbacks: steep, rutted, the pair careful. The THIRD BEND in daylight: the outer edge slumped away, a raw scar of earth and stones down the slope; Olwin walks the pair past it with the near wheel hugging the cliff side. Below, the forest; far off, the plain going blue.
+- Olwin silent; waits for her to speak.
+- Cari sits QUIETLY (doesn't push him).
+- ROAD (situation, no roll): off the switchbacks by dusk; the forest road, level and soft. At the FORD Olwin stops, lights both lamps from a tinder-box (flint and firestone). While he does it, one hand goes into his coat and comes out with the WORRY STONE (Cari's, given via Merrit, S11) -- he thumbs it a moment, puts it back. Doesn't know if she saw.
+- @@* OLWIN (from character): after the ford, eyes on the road, the first thing he says all afternoon -- practical: "Where in Crossroads, Sister? So I know where to bring her up." (He still hasn't asked WHY.)
+- Cari: "First to the Miller's. That's on the near side, yes?"
+- GM DECISION @@* (Crossroads layout, not in the setting doc; Lee to true): YES -- coming in by the north road, the river and the MILL LANE come before the square; the mill (the one stone building on the river, by the little dock) is down that lane.
+- @@* OLWIN (from character): "Aye. Mill lane's the first turn, before the square." Then he puts it together (he was at chapter, Day 9, when she spoke of the wife's ring): a long quiet. "The ring." Not a question. Another stretch of road. "That's a good errand, Sister." The reins ease a little in his hands.
+- WKW: OLWIN knows the errand is the miller's wife's ring.
+- Cari: "Where do you usually sleep when a trip is overnight?"
+- @@* OLWIN (from character): "With the horses." The Crossroads INN'S STABLE -- straw loft over the stalls; the ostler knows him (and the coach). "The Almoner took the best room. I took the loft." A beat. "Warmer, the loft. Horses breathe." (Whether the ostler will welcome the black coach tonight: UNDECIDED.)
+- Cari: Kade's dog (HOLLIS) is good company, "smarter than some." Then: "Let me guess -- we don't usually pay stable fees?"
+- @@* OLWIN (from character): on the dog, a grunt that might be a laugh -- "Most dogs are." On the fees: shakes his head, slow. "No. 'The house's blessing,' he'd say. Ostler'd stand there with his hand out and get a blessing put in it." Ears red in the lamplight. Then: "I've a few coppers of my own. Not much. They can go to it." (He's offering.)
+- Cari fishes out her own meager PURSE of coppers; counts through them; sighs; hands Olwin THE WHOLE BAG: "It's what I have." (Count: NOT ON RECORD @@ -- Lee's "meager"; a small handful.)
+- GEAR: Cari's purse (all her coppers) -> OLWIN, for the stable fee. Cari now carries NO COIN.
+- @@* OLWIN (from character): takes it in his palm and holds it there, not closing his hand, as if it might be hot. Then puts it in the pocket with his own coppers. "Then we pay him proper." A while later, low: "Both of us."
+- Cari: "The best we can." Deep breath. LEE (stated intent): she needs to find a way to MAKE SOME MONEY. (Thread opened.)
+- ROAD -> CROSSROADS (situation, no roll): late night. Out of the trees onto cleared farmland; the river smell; Crossroads ahead -- a handful of lights; the inn's lamp brightest. A farm dog takes up the coach's coming and passes it along. On the edge of the town a shutter that was open goes shut.
+- OLWIN turns down the MILL LANE before the square (as ruled).
+- NEW SCENE: the MILL, late night, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): the mill wheel still (night); the river loud over the sluice. The mill-house dark but for a low red glow behind one shutter (a banked hearth). A chained dog in the yard barking itself hoarse at the lamps. Olwin draws up short of the gate and sets the brake; doesn't get down; looks at her.
+- Cari climbs down on her own; goes to the door. Q: a bell?
+- @@* (situation): NO bell -- a mill-house, not a manor. A BRONZE RING on the oak door for knocking, worn bright on the strike-plate. The dog's chain stops it a yard short of the path. The household is already stirring from the dog alone: the red glow behind the shutter brightens (someone uncovering the hearth); a man's voice inside, low; feet on boards.
+- LEE (OOC): "Not iron." CHECKED (S01-S02 background, Material culture): steel is rare; IRON is sacred to Grolikarnigan and Carterion; all steel belongs to Carterion's temple; bronze/brass in common use. CORRECTED: the mill knocker -> BRONZE ring; Brask's casket -> BRONZE-bound (l.680); Olwin's tinder-box -> flint and FIRESTONE, not steel (l.771). GM note to self: no casual iron.
+- Cari stands at the door; calls, just loud enough to be heard: "Bram Oxley -- please open the door, and bring your wife."
+- RULING: NO ROLL to get the door opened -- Bram knows her (S10: she knelt to him at the race; "if you do not see me again, you will know why"); she asks, she doesn't force. His fear of the coach is played, not rolled.
+- @@* BRAM OXLEY (from character -- heavy, slow, measured; afraid, not hostile): the bar scrapes; the door opens a hand, then a foot. Lamp high in one fist, a short ash-wood cudgel low in the other. Sees the Orange and her face -- "Sister." Then past her to the black coach and its lamps, and his whole body goes hard: "What's that doing at my gate?"
+- @@* THE MILLER'S WIFE (unnamed): behind him in a shawl over her nightdress, grey plait over one shoulder; she has heard her name asked for. A hand on Bram's arm: "Bram. It's her." (She heard Cari through the door at the race, S10.)
+- @@* OLWIN on the box: hasn't moved; hat off in his hands.
+- Cari: "Mes Oxley. I was instructed to lay this directly in *your* hand, if you will allow it." Hands her STAFF up to OLWIN. Turns back; takes out the paper twist; UNFOLDS it for her (Holm's broken seal).
+- GEAR: staff -> OLWIN (on the box), for now.
+- NO ROLL (nothing resists; the Prior's order kept: into HER hand).
+- @@* THE MILLER'S WIFE (from character): sees it in the lamplight; her hand goes to her mouth; a long moment. Then holds out her hand, palm up, shaking. When it's laid there she closes her fingers on it hard. Puts it on: it slides home into the pale dented groove still on her finger, as if it had only been off for the washing. Says nothing she can finish -- "Where did--". Leans her forehead against the door frame.
+- @@* BRAM (from character): the cudgel goes down against the jamb; the lamp shakes, and he steadies it with both hands. Low, to no one: "They said it was the price." Then, to Cari, not quite looking at her: "You said you'd go up there and say it." A beat. "You did, then."
+- WKW: the OXLEYS have the ring back, from Cari's hand, by the Prior's order (the letter not yet given).
+- Cari opens the PRIOR'S LETTER and reads it ENTIRE, aloud.
+- @@* THE LETTER, FULL TEXT (GM-drafted in the Prior's voice; Lee may true it):
+  "From Aldric, Prior of the house of Rikitak upon the Mountain, to Bram Oxley, miller of Crossroads, and to the council of that town: greeting.
+   This ring was taken from your house in the name of ours, as the price of a healer's work. It was never the price. No healer of this Order sells his craft, and no officer of this house had any right to ask it. It was carried up the Mountain and kept among another man's ornaments. That man is held, and will answer.
+   We return it into the hand it was taken from. We cannot return the fear, nor the season you went without it. We say only this, and set our seal to it: the carts of this house will come to your town to give, and not to take. If any man comes to you in this house's name and asks otherwise, send word to me by any hand, and I will hear it.
+   Aldric, Prior. Witnessed by the bearer."
+- Cari folds it into her SASH. "I will read it again tomorrow in the square. Bring witnesses." GEAR: Prior's letter -> SASH.
+- Cari KNEELS before Bram again (echo of S10): no healer of her order will ask a PRICE, though they may take one if asked improperly; that practice has a purpose, but this was not it. Bows: "You have been wronged, and the Order begs that you give us the opportunity to right what can be."
+- @@* BRAM (from character): this time he does not stop a pace short. Sets the lamp on the step, comes down, takes her by both arms and lifts her up -- the first time he has dared touch a Sister of the Mountain. "Not on my step. Not again." Holds on a breath longer than he needs to. Then lets go, awkward.
+- @@* THE MILLER'S WIFE: wipes her face with the shawl; "Come in out of the cold, Sister." A glance past her at the box and the man with his hat in his hands; unsure what to say about him; says nothing yet.
+- @@* (situation): on the stair inside, behind them, a boy of ten or so in a nightshirt, gripping the rail, one leg held stiff -- BENNO, woken by the dog. He's been there through the letter.
+- Cari declines: "Not tonight. Not after surprising you from your beds. If you will have us, say so tomorrow." They must let the INN and the STABLE know the monastery will no longer use their resources without pay.
+- @@* MILLER'S WIFE: nods; holds the ringed hand in the other against her chest. "Tomorrow, then."
+- @@* BRAM (from character; muster-captain by custom, S10): "Witnesses, you said." A beat. "I'll bring the council. And the muster, if they'll turn out for it." (Callback: "spears against fire" -- he means it as honour now, not threat @@*.)
+- @@* BENNO: on the stair, watches her go; says nothing.
+- Cari takes her STAFF back from Olwin @@ (assumed); up on the box; to the INN.
+- NEW SCENE: the CROSSROADS INN YARD, near midnight, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): the inn's lamp over the yard gate; the house mostly dark; a light in the kitchen (Berra's) and the loft gable above it dark. The OSTLER (unnamed @@*) comes out of the stable with a horn lantern at the sound of wheels -- sees the black coach and stops dead in the yard, the lantern held low.
+- Cari (to Olwin): "Ask if it is enough. If not, we will ride back to the ford, and make camp."
+- NO ROLL (nobody resists being paid; the ostler's wariness is played).
+- @@* OLWIN climbs down, walks to the ostler with the coppers held out on his open palm (both purses, mixed).
+- @@* OSTLER (from character -- lean, wary; knows Olwin and the coach): doesn't take them at first; looks from the coins to Olwin's face to the Sister on the box. "From *that* coach?" Then counts with one finger, slowly, in the lantern light. Takes what's fair for stall, hay and water for the pair; pushes the rest back into Olwin's palm. "Loft's never been charged. Not changing that for you." A beat, to Olwin, not unkind: "Never thought I'd see coin come off that box."
+- GEAR: coppers -- the ostler's fee taken; the CHANGE (a few coppers @@) stays with OLWIN (mixed; his and hers).
+- Cari climbs down: "I'll go speak to Berra. I'll be back." To the inn's BACK (kitchen) DOOR.
+- NEW SCENE: BERRA'S KITCHEN, near midnight, Day 10. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): the back door on the latch (it feeds whoever comes hungry -- Aubric's price). Inside: the bake-oven banked; BERRA alone at the board in her sleeves, setting the morning's dough to rise under cloths; a single rush-light. She heard the wheels and saw the coach through the yard window.
+- @@* BERRA (from character -- sharp, deeds over speeches): doesn't stop kneading. Looks Cari up and down: the Orange, the staff, the hour. "You came back down, then." A thump of dough. "In *that*." Then, before Cari can answer, a nod at the bench by the oven: "Sit. You look like the road." (Whether she's heard about the ring yet: NO -- ten minutes old, the mill's at the other end of town.)
+- Cari sits. "I brought Bram Oxley's wife her ring back, with an apology from the Prior."
+- WKW: BERRA knows the ring is returned with the Prior's apology.
+- @@* BERRA (from character): hands stop in the dough. A long look. Then she wipes her hands on her apron, all the way to the elbows, slowly. "Into her hand?" (She wants that detail; it's the one that matters.) On the answer or without it: turns to the oven, pulls the banked door, takes out a covered crock of something kept warm (pottage) and a heel of yesterday's bread; sets them in front of Cari. "That's not a speech, that. That's a deed." Then, flatly practical: "And the big lump in my yard with his hat off -- he eating, or just standing there feeling sorry?"
+- Cari: the Mountain's kitchen sent road-food; she hoped to give it to the SHRINE, or to Berra to feed hungry travellers with no coin -- "like me" (smile). Mostly wanted Berra to know nobody will come in that carriage expecting a free room any more; and to see her again. "How's Dunny?"
+- @@* BERRA (from character): on the food -- "Shrine bowls. Rook'll see it goes to them as need it, and he'll see it's seen." Taps the crock: "You eat what I put in front of you. You've no coin and I've no bill." On the free room: one short hard laugh. "Best room, every circuit. Never so much as a blessing he meant." Then: "Good." On DUNNY: "Asleep in the loft, snoring like a sawyer. Took it over when your Jem went north -- swears he can see the Mountain from the gable." A sniff. "He can't. Grown an inch." (Dunny in the loft @@*.) For Olwin: ladles a second bowl, sets it by the door with a heel of bread. "Take him that when you go. I'll not have him eat in my yard like a dog."
+- Cari: she'll READ THE PRIOR'S LETTER in the SQUARE tomorrow -- "Let people know." Expects DUNNY to come see her. Takes the bowls: "Hopefully we'll get some time to catch up." Bows thanks; back to Olwin.
+- @@* BERRA: "It'll be round the square before first bread's out. Kitchen door's the town crier." On Dunny: "He'll come whether you expect him or not." A grunt at the bow.
+- WKW: BERRA knows of the reading in the square tomorrow; the town will by morning.
+- STABLE (situation, no roll): OLWIN has the pair unharnessed, rubbed down, blanketed, in two stalls side by side; the coach backed under the cart-shed. He's forking hay. The ostler gone back to his own corner. The loft ladder at the end.
+- Cari gives Olwin Berra's bowl and bread. @@* OLWIN: stares at it; "From the inn?" Sits on an upturned manger-tub and eats like a horse, as Mags said.
+- Cari eats (enough); hands Olwin the rest of her bowl. Takes HER SHARE of Mags's basket to the SHRINES: 2 pasties, half the loaf, half the cheese, her apple; and OLWIN'S 2 APPLES (he hands them over without being asked @@*). Olwin keeps his 2 pasties, his half loaf and cheese, the salt, the ale. GEAR: basket share -> shrine.
+- SHRINE CLUSTER, the square, midnight (situation, no roll): the well; the five shrines (Grolikarnigan, Susheil, Rana, Carterion, Rikitak); the prayer board, a little barley still under it; Rook's bowls set out and mostly empty -- a crust in one, a twist of salt in another. Rikitak's niche: the horns still scratched (S2), the bowl clean. The square empty; the inn's lamp across it. One shutter on the far side of the square is open a crack, with no light behind it.
+- Cari checks the BOWLS: Rook keeping them well (clean, set straight, offerings turned over daily).
+- Leaves everything UNDER THE PRAYER BOARD (2 pasties, half loaf, half cheese, 3 apples).
+- @@* PRAYERS ON THE BOARD (situation, no roll; GM-drafted, plain folk): (1) a clay tag scratched with a cow and a sun -- a safe calving (Grolikarnigan); (2) a strip of birch bark, a boat drawn in charcoal -- safe on the river (Susheil); (3) a twist of cloth knotted round a feather, no words -- (Rana); (4) on a split shingle, in charcoal, in a careful unpractised hand: "for my boy's leg" (unsigned); (5) on a second shingle, in ROOK'S square letters: "Let the circuit priest come."
+- Cari reads them and recites each over the bowls in CELESTIAL (no roll).
+- Takes the empty BASKET back to the carriage. Climbs INTO THE COACH; shuts the door; curls up on the bench under the horse-blankets.
+- (Olwin to the loft over the stalls @@*.) The open shutter across the square: no follow-up (left).
+
+## NIGHT Day 10 -> DAWN Day 11 (Crossroads; rolled in the open)
+- Cari sleeps in the COACH on the bare bench under horse-blankets ("she's slept worse"). No sleep debt ruled (a night's real sleep, rough but dry).
+- RULES READ: recovery.md -- Injury recovered once a day vs current total; success reduces it by effect; a plain failure does nothing (the "Making It Dark" option is NOT in use). Dawn rule (current sheet): strength vs Nd, N = age; a loss DIMS by the margin; tie HOLDS; Extreme failure on the casting's own roll SNUFFS; Extreme success RESETS age to 1 [Lee S13].
+- DAWN 11 Korrin's lantern (Fax 6, age 3) 0 1 0 1 0 0 = 2 vs 3d 0 0 1 = 1 -> HOLDS at 6.
+- DAWN 11 Larder Veil (2, age 5) 0 1 = 1 vs 5d 0 0 0 1 1 = 2 -> LOSS by 1 -> DIMS 2 -> 1.
+- DAWN 11 Scry eye (4, age 3) 1 0 1 0 = 2 vs 3d 1 1 1 = 3 (the DAWN'S own EXTREME) -> LOSS by 1 -> DIMS 4 -> 3. GAP @@: the Dawn rule says nothing of the Dawn rolling an Extreme (it isn't an NPC; no Token). Played: margin only.
+- DAWN 11 Calder-hearth Fax (3, age 2) 1 0 1 = 2 vs 2d 1 1 = 2 -> TIE, HOLDS at 3. Asher still on it.
+- DAWN 11 Lavabo Fax (4, age 3) 0 1 0 1 = 2 vs 3d 0 0 1 = 1 -> HOLDS at 4.
+- IVRO: EL5 0 0 1 0 1 = 2 vs sickness 3d 1 0 1 = 2 -> TIE, no new harm.
+- CALDER: Lv5 0 0 0 0 1 = 1 vs Injury 3d 1 1 1 = 3 (the Injury's EXTREME; not an NPC roll -- no Token) -> FAILS: no healing; Injury stays 3 (EL 2). @@* colour only: a bad night; the clear head of yesterday gone thick.
+- MERRIT: EL5 1 0 0 0 0 = 1 vs Injury 2d 1 0 = 1 -> TIE, no change: Injury 2 (up, with a stick).
+- (Teague, steward healed; Sever fit; Prior healing -- no rolls.)
+
+## DAY 11 -- CROSSROADS, DAWN
+- NEW SCENE: the INN YARD, dawn, Day 11. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): frost on the lacquer; bread smell from Berra's oven; the yard pump going. OLWIN already down from the loft, watering the pair. A KNOCK on the coach door, small and insistent: DUNNY (Berra: "he'll come whether you expect him or not"), an inch taller, a warm roll in each hand.
+- Cari climbs out and MAULS Dunny -- enormous playful hug; snatches a roll: "This is for me, right?"
+- @@* DUNNY (from character -- a talker, Berra keeps a lid on him): squawks, squirms, laughs, nearly drops the other roll. "Mes Berra said one for you and one for HIM" (Olwin). Then it all comes out at once: Berra's had it round the square since first bread; Old Tansy's telling it wrong already ("she says you burned the Almoner up"); Mes Oxley's been at the pump showing her hand to anybody; Mester Oxley's gone round the council doors. And: "Is Jem with you?" (Hopeful.)
+- WKW: CROSSROADS knows (rumour): the ring is back; a reading in the square today.
+- Cari laughs, stuffs half the roll in. "Olwin! Hot roll!" Did NOT burn up the Almoner ("I might have threatened him a little"). JEM is on a mission for her to GANTH, doing heroic things [Lee framing; Jem rides with Korrin's train]. A letter to read to the town -- when? Noon?
+- @@* OLWIN catches the roll one-handed without looking up from the bucket. "Thank you, Sister." Eats it in three bites.
+- @@* DUNNY (from character): mouth open at "heroic." "In GANTH?" Visible envy, swallowed. On the time: "Noon. Everybody's in from the fields for their dinner at noon, and Mester Oxley's telling the council 'by the noon bell' -- I heard him at Pryce's door." (Pryce keeps the muster roll, S10.) Then, fast: "Can I tell 'em noon? Can I?"
+- Cari: "Tell them." She'll be here or at the SHRINES today if anyone needs a HEALER -- "Just tell folk: tell me what's wrong. No need to ask, or pay."
+- WKW: CROSSROADS (via Dunny) -- reading at NOON; a free healer at the inn or the shrines today.
+- @@* DUNNY: off like a shot through the yard gate, roll in his fist, shouting "NOON!" before he's even reached the lane, and something about "and she heals you for NOTHING" that carries the length of the square.
+- Cari shrugs: "I should have brought more herbs...." To the SHRINES. (Satchel with her @@ assumed -- herbs, salt, chalk, offerings; she carries it as standing kit.)
+- NEW SCENE: the SHRINE CLUSTER, early morning, Day 11. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): the food under the prayer board GONE by first light. ROOK at the bowls with a rag and a jug, turning the night's offerings. Sees the Orange coming across the square and straightens slowly, rag in hand.
+- @@* ROOK (from character -- stubborn, square-lettered, keeps the bowls): "Gone by first light, what you left. The Fenn children and old Harrow off the Ganth road." (who took it @@*). Then, flat, a look at his own shingle on the board: "Prayed for a circuit priest. Didn't think I'd get you back, and in orange." (He knew her in Yellow, S10.)
+- @@* FIRST ARRIVALS (Dunny's shouting; situation): an old man with a wet cough, cap in hand, hanging back by the well; a young mother with a toddler whose hand is wrapped in a rag (a burn, by how he holds it). Down the mill lane, not yet arrived: the MILLER'S WIFE, walking slow, with BENNO beside her on his stiff leg.
+- LEE (OOC): ROOK IS MALE. CORRECTED in the ledger (Berra's line l.834; l.877). GM note: Rook = he.
+- Cari to Rook: "I passed those prayers on again, with a few of my own."
+- To the CHILD first ("a *very* busy day").
+- @@* THE BURN (situation): the toddler (a boy, two-ish) grabbed the kettle handle at supper last night; a scald across the palm and fingers -- blisters, two broken, angry red, the rag stuck to it. Mother young, frightened, half-expecting to be scolded. @@* Harm: Injury 2 + a Complication (pain and a dirty dressing).
+- RULING: HEALER EL8 vs the burn 2d (a child's fresh scald fights back; she's working it now, not waiting).
+- ROLL: 0 0 0 1 0 0 1 1 = 3 vs 1 0 = 1 -> EFFECT 2 = the burn's Level 2: a full, clean treatment. The rag soaked off in cool water, not torn; the broken blisters cleaned; a cooling salve from her herbs; a light clean linen wrap. COMPLICATION CLEARED (pain down, wound clean). Injury 2 stays to heal by days; her care stands as a recovery BOOST for his nightly rolls @@* (as with Merrit).
+- GEAR: herbs (burn salve) -- some used @@ (stock not tracked by count).
+- Cari tends the MOTHER too (no roll -- no scolding; reassurance): "Fire is a teacher" -- a lot of pain, gone in a few days, leaving a permanent lesson.
+- @@* MOTHER (from character): the fear she came with goes out of her in one breath; she laughs, wet, then cries a little into the boy's hair. "He'll not touch a kettle again." Gives her name unasked: TESSA @@* (Fenn -- one of "the Fenn children" is hers? UNDECIDED).
+- Cari to the OLD MAN: how can she help?
+- HEALER'S LOOK (no roll; nothing resists a look -- precedent): @@* it's OLD HARROW off the Ganth road (who took the bread). Thin, seventies, an old carter's shoulders; sleeps rough -- the lee of the shrine wall and the dock sheds. A CHEST COLD settling low: wet cough, rattle at the bottom of the right lung, a low fever, cold hands. Not yet lung fever. @@* Harm: sickness 2 (Injury) + a Complication (the cough). RISK: sleeping rough, the cold opposes harder each night (GM may add dice).
+- WHAT WOULD HELP (GM, plain): treatment now can ease the cough (a Healer roll clears the Complication); but the real cure is WARMTH, a DRY BED and FOOD for most of a week. Steam, honey, a hot drink help; his nightly recovery rolls go far better under a roof.
+- Cari kisses TESSA'S brow with a murmured blessing in Celestial; instructions: don't let the wrap stay on and get dirty -- a clean one tomorrow, not too tight. Tessa goes.
+- Cari walks HARROW to the inn's back door: "Berra -- nothing more for me today. Please give Mer Harrow a bowl, and a warm, dry place by the fire to sit for the day. I need to treat him a bit before dark. Alright?"
+- NO ROLL (Berra's door feeds whoever comes hungry; nobody resists).
+- @@* BERRA (from character): looks at Harrow, then at Cari. "'Nothing more for you.'" A snort. "You'll eat what I put down, and so will he." To Harrow, already pulling the settle round to the oven wall: "Sit. You've sat there before. Usually I have to drag you." HARROW protests once ("I've no--"); Berra: "And I've no bill. Sit." He sits. A bowl and a cup of something hot with honey in it.
+- WKW: BERRA has Harrow by the fire for the day; Cari to treat him before dark.
+- (Cari's hope to help Harrow and BENNO: Lee's; not narrated.)
+- Back at the square: the MILLER'S WIFE and BENNO waiting by the well.
+- Cari to ROOK: "Please remind me to add prayers for Berra. Gods bless her."
+- @@* ROOK (from character): "I'll remind you." Dry: "Don't let her hear you. She'd swat the both of us."
+- Cari to the MILLER'S WIFE: "Mes Oxley, I never got your name. Benno I remember." Smiles at the boy.
+- GM DECISION @@* (name, needed now): EBBA OXLEY (grep-clean).
+- @@* EBBA (from character): "Ebba." A small embarrassed laugh -- nobody's asked in a long while; she's "the miller's wife." Hand on the boy's shoulder: "He'd not come. I made him."
+- @@* BENNO (from character -- ten or so; decided not to hope): startled she knows his name ("Dunny," he works out, scowling). Says nothing; won't look at her face; looks at her staff instead.
+- Cari: "I have a friend in Saltwind." Tells Benno of JORY (Lee's words, summary): his bone already set badly; sat whittling because he couldn't haul on the nets; now manages the community pot, gathers against the winter sickness, turns offal into extra coin for the village. (Olwin's part NOT mentioned.)
+- While she tells it: SEE THE ROOT -- Second Sight Boosts the diagnosis (current sheet trick).
+- RULINGS: the story lowers the boy's guard (opposition 2d -> 1d) -- he's listening despite himself. Sight is a BOOST action (actions-and-timing.md: success gives a bonus to the following action; Boosts add dice [S08]). Then the diagnosis by eye: Healer + Boost vs the old injury's hiding (3d).
+- ROLL BOOST: Conjuror EL8 0 1 0 1 1 1 1 1 = 6 vs guard 1d 1 = 1 -> EFFECT 5 -> +5 dice.
+- ROLL DIAGNOSIS: Healer EL8 + 5 = 13d: 1 1 0 0 1 1 0 1 0 0 1 0 1 = 7 vs 3d 0 0 0 = 0 (opposition EXTREME FAILURE; not an NPC -- no Token) -> EFFECT 7 > Level 3: the WHOLE picture, root and all.
+- GM DECISION @@* (Benno's leg -- needed now; Lee may true): LAST SPRING (S09, Dunny) he went into the wheel-pit off the wet sluice walk; broke the left SHIN below the knee. The circuit Brother would not set it until silver was paid FIRST (S09; Cari's own chapter words, l.275) -- the ring paid; the setting came LATE, then splinted straight and long. Now:
+  1. BONE: knit sound but a finger's width SHORT and with a slight turn -- permanent by mundane means. (A built-up heel would even him.)
+  2. KNEE: stiff from the long straight splint -- scar and shortened sinew, NOT bone. Treatable: warmth, oil, daily bending work, months.
+  3. THE ROOT (Sight): he holds it rigid more than he must -- braced against a pain that is mostly gone. And under that, SHAME: in his aura the leg and his mother's bare finger are knotted together. He believes HIS LEG COST HER THE RING. The ring came back last night; the knot is loosened, not untied.
+- @@* BENNO (from character): listened to all of Jory despite himself. One question, gruff, to the staff: "Does he still limp?"
+- Cari to Benno: Jory's was his COLLARBONE (taps Benno's) -- his arm will never work quite the same; can't stir the pot with it yet, though it'll get better.
+- Cari to EBBA: see the cobbler -- a HIGHER HEEL will ease him. Longer term: the bone is set, but the knee is stiff from remembered pain; keep it WARM; she'll MASSAGE it TONIGHT to show how -- can Ebba do it every day?
+- Cari to Benno: healing is slow, takes effort and patience, never quite where you wish -- "but we can make it better. Much better. Ok?"
+- @@* EBBA (from character): no cobbler in Crossroads -- "Garrow does our boots, same as the harness" (Garrow the smith/craftsman, keeps the bronze spearheads, S10). "Every day. Every day, Sister." Fierce.
+- @@* BENNO (from character): looks up from the staff to her face for the first time. A long look. "...Ok." Then, scowling to cover it: "Does it hurt? The rubbing."
+- PLAN: MASSAGE LESSON tonight at the MILL (Benno, Ebba). Also owed today: NOON reading; treat HARROW before dark.
+- Cari (serious): it might hurt, especially at first; past that it can feel pretty good for most people; "We'll just have to see. I promise to be careful."
+- @@* BENNO: a short nod, as between equals. @@* EBBA: "Tonight, then. After the reading." Takes him home down the mill lane -- he walks it a little less stiffly, or tries to.
+- @@* MORE ARRIVALS (Dunny's shouting; situation, mid-morning): a carter with a mashed thumb (a wheel); a girl of fifteen holding her jaw (a bad tooth); an elderly woman on a stick who wants nothing healed -- she wants a PRAYER for her husband, a year dead. Others hovering at the well, watching to see if it's true she asks nothing.
+- Cari gives each full attention and sincerity; gives from her satchel what she can; where she can't, tells them what to bring and does what she can.
+- THE CARTER (unnamed @@*): thumb crushed under a wheel rim this morning; blood pooled black under the nail, throbbing. RULING: Healer EL8 vs the crush 2d.
+- ROLL: 1 1 0 1 1 0 0 0 = 4 vs 0 0 = 0 -> EFFECT 4: clean work. A length of BRASS WIRE from her Artifice stock, pointed on her whetstone and heated in a palm-flame; a quick hole through the nail -- the black blood out, the pressure gone at once; the bone felt whole (no break); splinted to a sliver of kindling with linen. Complication (throbbing) CLEARED. He swears in relief; insists he only came to water his horse.
+- THE GIRL WITH THE TOOTH (no roll -- what she has vs what's needed): a back tooth rotten to the root, gum swollen, no fever yet. Satchel: WILLOW BARK to chew for the pain (given, @@ stock assumed). The tooth must COME OUT: Cari tells her to bring GARROW'S smallest tongs and a jug of strong spirit, this afternoon, with her mother.
+- THE WIDOW (no roll): questions first -- @@* her husband CORRAN, a thatcher, fell from a roof last winter; buried in the burying ground behind the shrines, by the river; no priest came, the council's clerk said the words. Cari prays with her EARNESTLY, brow to brow, one hand on the shrine. Then: if she still wants, Cari will try to come to his graveside, or to her home.
+- @@* WIDOW (from character): holds Cari's hand in both of hers a long moment. "His grave. Before you go. He'd like a proper one said." Name given: MOTHER ALDY @@*.
+- OWED TODAY: noon reading; the TOOTH (afternoon); HARROW (before dark); CORRAN'S GRAVE (before she leaves); BENNO'S MASSAGE (tonight).
+- Towards noon: Cari sips the SMALL BEER from her pocket crock to wet her throat. GEAR: small beer crock -> drunk (empty crock kept).
+- In a slack minute: prays EARNESTLY for BERRA; a quiet blessing for ROOK. (Lee: not magic -- she believes the gods keep listeners who remember names repeated; consistent with setting canon: the spirits of the air carry prayers upward.)
+- @@* ROOK hears his name in it; doesn't turn round; the rag stops a moment, then goes on.
+- NEW SCENE: the SQUARE, NOON, Day 11. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): the NOON BELL (the council's handbell, rung from the inn step @@*). The square FILLS: field hands in for dinner, bread in their fists; Berra in the inn door, arms folded; Dunny on the well-curb; Tessa with the boy and his white mitten; the carter with his splint; Mother Aldy on her stick. BRAM OXLEY comes up from the mill lane with EBBA (the ring on her hand) and BENNO -- and with them the COUNCIL: PRYCE (the roll-keeper) and two more, and GARROW the smith with a bronze spearhead on an ash shaft, grounded, like a staff of office. Behind him, eight or ten MUSTER men with spears, uncertain why they're carrying them, standing in a rough line. OLWIN at the back by the inn yard gate, hat in hand.
+- The crowd leaves a space by the shrines for her. Quiet comes down slowly.
+- Cari grins at the spears (then sobers -- Lee: there's more purpose to them than she'd like). "Olwin, the carriage steps, please?" (Short; wants to be seen.)
+- @@* OLWIN (from character): goes to the cart-shed, unhooks the coach's wooden mounting STEP, carries it through the crowd. The crowd KNOWS him -- the coachman of the black coach: it parts for him the way it would for a cart with a bad wheel. A murmur follows him; somewhere a man says "that's HIM" and somebody spits on the cobbles. Olwin keeps his eyes down, sets the step square by the shrines, steadies it with a boot, holds a hand up to help her onto it -- and waits to see if she'll take it.
+- WKW: the CROWD recognizes Olwin as the black coach's driver.
+- Cari takes Olwin's hand: "Thank you." Steps up -- still small; her head only now at his level. (Publicly taking the coachman's hand -- the crowd sees it.)
+- Unfolds the PRIOR'S LETTER; looks over them; lets them settle; READS IT ENTIRE, no preamble, from the diaphragm, to the BACK of the square.
+- RULING: the reading itself needs no roll (her voice carries; nothing contests the words being heard). Whether the town BELIEVES it -- the Order, the carts, the "never the price" -- is the real contest: held until she's finished speaking (her address may follow), then ONE roll for the whole of it. (Precedent S10: Open Hands vs the crowd's fear.)
+- @@* REACTIONS DURING (situation): at "It was never the price" -- Ebba's hand goes to her mouth again; a woman near the pump says "never" aloud, bitter. At "That man is held, and will answer" -- a stir; Garrow's grip shifts on the spear-shaft. At "to give, and not to take" -- silence, the doubtful kind. At "Witnessed by the bearer" -- every eye on her, then past her to Olwin.
+- CORRECTION (GM, on checking S09 + Cari's chapter words verbatim): Benno's break was LAST SPRING, and the setting was LATE because the Brother demanded silver first -- not "two winters ago." Diagnosis line above amended. The late setting is WHY the bone knit short and turned. NAME CONFLICT @@: in S09 Dunny called the boy "PELL the miller's boy"; S10 named him BENNO @@*. Ask Lee which stands (Pell may be a nickname; note PELLAM the cart-master also exists).
+- RETCON (iron, found while checking): S13 turn at chapter close narrated the cudgel hung on an "iron peg" -> make it an OAK peg.
+- Cari hands the PRIOR'S LETTER to ROOK: "Pass this to the Council's hands, as their copy." GEAR: Prior's letter -> ROOK -> the COUNCIL (Pryce @@*).
+- @@* ROOK (from character): takes it as he'd take an offering -- both hands; walks it to PRYCE; Pryce reads the seal and holds it against his coat.
+- Cari: "He also told me to repeat this to you..." LEE asked for the chapter words read back (SOURCES, verbatim from this chat: turn 102, the chapter testimony; turn 120, the Prior's study after sext).
+- LEE: uses "BENNO" in her speech -> BENNO stands as the boy's name (S09 "Pell" read as a nickname @@* unless Lee says otherwise).
+- CARI'S ADDRESS TO CROSSROADS (Lee's words, summary): the chapter testimony re-said for the town (the Almoner's carts TAKING; Olwin under Calder's mania -- named beside her; a Brother demanded silver before treating BENNO'S leg and walked off with his mother's ring); she volunteered, and many will follow; it can never all be paid back, but Brask's things are being tallied -- that's where she found EBBA'S RING; even the coach CUSHIONS will be sold. BRASK sits in a barred cell; CALDER under guard in the infirmary -- "where I put him," with two accomplices. "We will stop kicking you now." To the SPEARS: she once recommended them for the next time that carriage came; she prays it's no longer needed -- "any man who takes away your dignity does NOT speak with the authority of the Order. Treat with them accordingly."
+- GM NOTE: public counsel to resist the Order's agents, from an Initiate, in the square -> a PURIFICATION LIST candidate. NOT advanced (Lee leads).
+- RULING: being BELIEVED -- Open Hands EL10 vs the town's doubt 2d (S10 was 3d; lowered by the ring on Ebba's hand, the council at her side, the morning's free healing; held up by Olwin beside her and years of carts).
+- ROLL: 0 0 0 0 0 1 0 0 0 1 = 2 vs 0 0 = 0 -> EFFECT 2 = Level 2: BELIEVED -- with the finest part held back.
+- RESULT @@*: they believe HER, and that the ring is real and the men are caged. Held back: the ORDER -- "we'll believe the carts when they come empty-handed." And OLWIN: named in front of them, he is not forgiven by the square; nobody spits again, but nobody looks at him kindly either.
+- @@* REACTIONS: GARROW lifts the bronze spear and brings the butt down on the cobbles -- one hard knock; the muster line copies him, ragged then together (a salute, not a threat). Berra in the doorway: one nod. A voice from the back: "Bless you, Sister!" Mother Aldy's lips moving. Ebba holds up her ringed hand to the square without a word. Olwin stands through his naming with his hat in his hands and his eyes on the cobbles.
+- Token NOT spent (effect = Level is a real win; Tokens 4).
+- LEE (OOC): Cari doesn't want a riot or rebellion -- she's speaking true doctrine; she wants them to HOLD THE ORDER ACCOUNTABLE to it, and to grow a faith in it that is DESERVED, not commanded. Q: if he Tokens the roll, can he devote it to REFINING THE INTERPRETATION over the afternoon?
+- RULES READ: luck.md (Token: change a roll to best possible -- usually EL -- any time before final resolution; OR propose a story element, negotiated, must fit the fiction); wagered-actions.md (Dedicated Effect / Residual Effects: wagered points are set aside BEFORE rolling -- no retro-wager).
+- GM ANSWER (pending Lee's choice): YES, two clean routes. (1) TOKEN ON THE ROLL -> EL10 vs 0 = EFFECT 10 vs Level 2: the held-back part comes through -- they believe the doctrine too, nuance and all; the GM narrates the big margin AS the afternoon's interpretive work (her clinic, the talk at the pump and the bowls). (2) TOKEN AS STORY ELEMENT: "over the afternoon, the town's reading settles on accountability, not revolt" -- negotiated, fits the fiction. Not RAW: carving the Token's effect into a separate named RESIDUAL for the afternoon (that needs a wager before the roll). GAP @@: can a Token-raised effect be dedicated after the fact? Currently no.
+- LEE: ROUTE 1. TOKEN on the roll -> EL10 vs 0 = EFFECT 10 vs Level 2. TOKENS 4 -> 3. Lee: so strong a roll implies fervor instilled, a faith restored -- "Trust, but verify." Nuanced delivery that says things the words don't; she hammers it in by example all afternoon; "story ammunition for the GM."
+- RESULT (effect 10; the margin narrated as the afternoon): the held-back part comes through -- they believe the DOCTRINE, not just her. The town's reading settles on ACCOUNTABILITY, not revolt.
+- @@* STORY AMMUNITION (GM, from the effect):
+  - THE MUSTER'S NEW CUSTOM: Garrow and Pryce decide, at the well, that when any cart of the Mountain comes, the muster will WALK IT IN -- spears grounded, an escort and a witness, "to see what it gives." (Verify, not fight.)
+  - PRYCE copies the Prior's letter onto a board and PEGS it up beside the prayer board.
+  - ROOK leaves his shingle up, and adds a second under it in his square letters: "AND LET HIM BE HELD TO IT."
+  - OLWIN: by afternoon the carter whose thumb she lanced brings him a cup of ale at the inn gate without a word. One man. A start.
+  - (Purification List candidate still NOT advanced; but Crossroads now carries forty witnesses to her meaning.)
+- AFTERNOON CLINIC:
+  - THE TOOTH (the girl, with her mother, Garrow's smallest tongs and a jug of spirit): RULING Healer EL8 vs the tooth 2d. ROLL 1 1 1 0 0 0 0 0 = 3 vs 0 0 = 0 -> EFFECT 3: out whole, root and all, first pull; packed with clean linen and a mouthful of spirit to bite on. Complication cleared. The girl @@* MARRA cries, then laughs, then sleeps on her mother's shoulder.
+  - HARROW (at Berra's settle): RULING Healer EL8 vs the chest cold 2d. ROLL 1 1 0 1 0 0 1 1 = 5 vs 1 1 = 2 -> EFFECT 3 > Level 2: the COUGH COMPLICATION CLEARED -- steam over a crock with herbs, a hot honeyed drink, a mustard poultice from Berra's larder @@*; he coughs up the worst, and breathes easier. Sickness 2 stays; recovery tonight under Berra's roof (no rough-sleeping penalty) with her care as a Boost.
+- LEE (addition to the afternoon): "no, nothing, put your purse away -- or give it to HARROW to pay Berra for a room and a meal."
+- @@* RESULT: through the afternoon a few coppers come in that way, pressed on Harrow by people who wouldn't be refused; Berra takes them with bad grace and gives him the little room off the kitchen "till that chest's clear, and not a night less." (HARROW housed for the week.)
+- DUSK: to the BURYING GROUND before the light fails (Lee: don't leave her waiting).
+- NEW SCENE: the BURYING GROUND, behind the shrines by the river, dusk, Day 11. Tokens 3. (New scene refresh: +1 -> 4, cap.) Hook budget refreshed.
+- TOKENS: 3 -> 4 (scene refresh).
+- @@* (situation, no roll): low mounds in rough grass running down to the river; wooden markers, a few stones. CORRAN'S grave near the bank: a plain board with his name burned in, and a bundle of reed tied to it with twine (a thatcher's mark @@*), the reed grey with a year's weather. MOTHER ALDY on a stool someone carried down for her, a horn lantern unlit at her feet. Not alone: two or three neighbours hanging back by the hedge, and Rook.
+- Cari opens the SIGHT at the graveside.
+- GM DECISION @@* (before the roll -- what's there): CORRAN is NOT a ghost. He sleeps LIGHTLY -- unsettled, a sleeper who keeps turning over: no proper words were ever said over him, and the widow's grief keeps a thread tied to the reed bundle (his craft-mark). Nothing hostile.
+- WHO RESISTS: nobody -- but a year's settling makes it faint (2d; Level 2).
+- ROLL: Conjuror EL8 0 0 1 1 1 0 0 0 = 3 vs 2d 1 1 = 2 -> EFFECT 1 < Level 2: a PARTIAL read.
+- READ (effect 1): the grave is not quite still -- like a sleeper turning over under a blanket; a faint warmth along the twine of the reed bundle. WHAT it is and WHY: not yet clear.
+- OFFERED once: TOKEN (-> 8 vs 2 = EFFECT 6 > Level: the full read). Tokens 4.
+- Lee: a hint of a spirit here, not gone on. TOKEN. TOKENS 4 -> 3. Set to 8 vs 2 -> EFFECT 6 > Level 2: the FULL READ.
+- READ @@* (effect 6): CORRAN is there, lightly -- not a ghost, not walking; a SLEEPER who never got the words that tell a man he may sleep. No priest; the clerk's words were honest but were for the living. He keeps half-waking to one thing: HER. The thread on the reed bundle is Aldy's -- she tied it, and she comes and talks to him, and every time, he turns toward the voice and tries to answer and can't. Worry, not grief: a thatcher's worry for a roof left open to the weather -- and the roof is her. Nothing hostile; nothing bound by any working; only love that hasn't been given leave.
+- WHAT WOULD SETTLE HIM (GM, plain): proper words over him (leave to sleep) -- and HER leave, as much as the god's: that she'll be all right.
+- Cari: "Oh," -- breath catching. "He loved you so much..." Kneels between the widow and the marker; holds Aldy's hand; touches the board; prays the LITANY FOR THE DEAD in Celestial (content Lee's).
+- NO ROLL: nothing resists -- the sleeper wants rest; the litany is the god's leave, given honestly.
+- RESULT (Sight still open) @@*: under the Celestial the restlessness in the mound EASES -- he stops turning; settles deeper, like a man who has heard the door barred for the night. But the warm thread on the reed bundle is still there, pulsing faintly with Aldy's breath: the god's leave is given; HERS is not yet.
+- @@* MOTHER ALDY (from character): at "He loved you so much" her hand clamps on Cari's; when the litany ends, very small: "Is he here?" Then, before any answer: "He'd always fret. Every storm. Up the ladder in the dark to look at the ridge."
+- NEIGHBOURS and ROOK: heads bowed; Rook's lips moving with the parts he knows.
+- Cari takes Aldy's hand in both of hers: "He heard you. He just wanted to be sure you were safe and dry. I've shown him the thatch is sound. He'll rest now."
+- NO ROLL (Aldy's leave is hers to give; the words invite it, from character).
+- @@* MOTHER ALDY: a long breath. Then, to the board, in the voice of forty years of shouting up ladders: "You hear that, you old fool? I'm DRY. Come down and go to sleep." A wet laugh, half a sob. She lets go of the twine she has been worrying with her free hand.
+- SIGHT @@*: the warm thread on the reed bundle LOOSENS -- not snapped; untied -- and fades like breath off a cold window. Under the mound, stillness: the deep kind. CORRAN SLEEPS. (Nothing remains to be seen.)
+- WKW: the neighbours and Rook saw it; the burying ground will have a story by morning.
+- Cari hugs MOTHER ALDY; thanks her for keeping him company until Cari could come to tuck him in; he rests well now; she can talk to him here, at the shrine, or at her own hearth -- he isn't holding on, worrying any more. "And you can always ask for me. If you need me, I will try to come when I can. The gods are listening, Mother Aldy, and so am I." Stands; excuses herself -- a boy needs care.
+- @@* ALDY: pats Cari's cheek, the way she would a grandchild's. "Go on, then. Mind the boy." Rook lights her lantern for her.
+- WALK TO THE MILL (no roll). Cari's ongoing talk with her gods (Lee's words, summary): she knows they listen -- she hears them in the breath of the fire, the sigh of wind, the whisper of leaves, the mumble of waves -- "It would just be nice if you had more specific advice about how to deal with *politics*." Stretches and twists her arms on the staff as she walks (a long first session ahead).
+- @@* (situation, ambiguous by design): a gust off the river catches the Yellow shawl and flips it clean over her head. Then still air. (Answer, or wind: Lee's to read.)
+- NEW SCENE: the MILL-HOUSE, night, Day 11. TOKENS 3 -> 4 (scene refresh, cap). Hook budget refreshed.
+- @@* (situation): the dog quiet this time -- one bark, then a tail. EBBA has the door open before she knocks. Inside: the hearth built up high, a settle pulled close; a pot of GOOSE FAT warming on the hearthstone ("for the rubbing" -- Ebba's own idea); BENNO on a stool by the fire in his nightshirt, the bad leg out on a cushion, arms folded tight. BRAM in the corner chair, carving nothing with a knife, pretending not to watch.
+- (The lane) Cari stops and LAUGHS at the shawl: "Yes, I *did* know you had a sense of humor. I love you too." Resettles it; lighter of heart.
+- At the door: settles at a safe range and lets the DOG sniff -- "Please don't bite me. I'm only here to help, much the same as you..." (no rush for him to decide).
+- @@* DOG (from character, no roll): a long careful sniff of her boots and the hem (brimstone and horse); a sneeze; one slow wag; goes back to the end of his chain and lies down facing her. Undecided, but not against.
+- Cari to EBBA: "That's *very* good. Not too hot." Asks: an aromatic herb to steep in the fat (ease the mind, ease the muscles); a tea with a dollop of honey if he likes it; a snack for halfway (the first times run long); a small MIRROR so he can see without twisting round.
+- @@* EBBA (from character): rosemary from the bunch drying in the rafters -- stripped into the fat; chamomile from the garden for tea, with honey; oatcakes on the board; for the mirror, BRAM'S SHAVING GLASS -- a palm-sized disc of polished bronze, propped on the settle-arm.
+- Cari parks by the pot; staff along the hearth edge; hair out for a good scratch, then up in a simple twist with the PIN; sleeves back and tied.
+- LEE CANON [Lee S13, proposed as likely]: the ORANGE (Healer's robe) has CORDS in the sleeves and LOOPS at the shoulders to tie the sleeves up out of the way -- to free a Healer's hands for bloody work. -> add to the Tenets lore, Colours section, at the wrap.
+- LEE Q: the room must be warm -- will she be too hot snugging the robe at the waist, or should she take it off?
+- GM ANSWER (situation): the hearth is built up HIGH -- in wool, kneeling at its face, she'll be sweating inside half an hour. Two honest fixes: (a) keep the robe, cinch it, and sit on the FAR side of the leg so the boy's leg takes the heat and her back doesn't; (b) the robe off leaves her in her linen shift in front of Bram -- proper enough to a healer, maybe less so to a miller's house (Ebba wouldn't blink; Bram would study his carving very hard). Lee's call.
+- LEE: ROBE OFF -- here to work, not pose. Matter-of-fact to all: she can't do it properly in the heat it needs in this robe; light banter so no one's self-conscious. To Benno: Mam has it nice and warm, the winter wool's meant for the wind -- he's in his comfies, so she will be too; "I'm pretty sure your mom has no worries that I'm going to steal your dad away to the monastery to live with me, hm?" Hangs it herself (makes herself at home).
+- GEAR: ORANGE robe -> on a peg by the door. Cari in her LINEN SHIFT; Blue sash and Yellow shawl laid with the robe @@ (assumed).
+- @@* REACTIONS (from character, no roll): EBBA laughs outright -- "He'd be no use to you, Sister, he snores." BRAM goes brick-red and studies his whittling as if it held scripture. BENNO snorts before he can stop it -- a real laugh, quickly scowled away. The arms stay folded, but looser.
+- PEG: wooden, by the door, among Bram's coat and the flour-sack aprons.
+- Cari: "Come on, lad. Sit here with me for a bit." Settles him on the cushions; sits on the hearth edge to talk to HIM (parents can hear; he's a participant, not "the boy"). Takes his tea and sets it beside her.
+- LEE Q: a light to pull close besides the hearth?
+- @@* ANSWER (situation): a TALLOW DIP in a clay holder on the shelf by the door, and a RUSHLIGHT in its clip on the board -- Ebba brings both. (Cari can always raise her own palm-flame.)
+- Cari gives BENNO her hands to look at: never judge by the details you can see, but sometimes it's worth looking; these hands and what's in her head are most of what she has; no drastic measures -- no straps, braces or cutting -- just these hands, and his mam's. "What do you see?"
+- @@* HER HANDS (established details only): ink in the creases of the right fingers (yesterday's draft); a staff-callus across the left palm; knuckles still lye-rough from washing the Red at the laundry (Day 9); a small fresh nick on one thumb from the brass wire (the carter, this morning).
+- @@* BENNO (from character -- ten, honest, a bit cheeky): takes them as if they might be hot; turns them over. "They're small." A look. "There's ink on 'em." A thumb over the rough knuckles: "Rough. Like Mam's, from the wash." Then, slower, the thing he was really looking for: "...They're not shaking." He unfolds his arms.
+- Cari: chuckles at "small" ("Yes, that's true"); ink -- a lot of library work; rough -- a turn at the washing yesterday ("that soap is *mean*"), the kitchen, other chores. Not shaking -- they do when she's tired enough (likely tonight), but she's ok and not nervous.
+- Takes his hand; MASSAGES HIS FOREARM, a little harder than needed, slowly, while explaining: that's what she'll do; rougher on the leg -- the cords are knotted up, afraid of hurting again; be patient; be strong -- and be WEAK for her: TELL her if it's too much and he needs a break; ask questions, that's good -- "It's your leg, not mine. You should know what we're doing. Ok?"
+- @@* BENNO (from character): "Ow--" at the first press, then a surprised half-laugh; then he watches her thumbs on his arm with real interest. "Ok." A beat, and then the question that matters to him: "Will I get up the ladder again? To the stones?" (The millstones' loft, by ladder -- he used to help his da up there. Bram's knife stops.)
+- Cari (hands in her lap, smiling): she believes he will -- maybe never as good as it was, but much is up to him; trust himself; he could get up that ladder now without the leg, but it's hard, scary, risky -- and getting OFF at the top; if his dad can spare time, go up FIRST with him behind; "There is always risk"; life is short -- decide what matters and what it's worth; talk to his dad; convince him -- "(He'll be scared too. You might have to convince him.)"
+- @@* BENNO: turns his head and looks straight at his father across the room. Doesn't ask. Just looks.
+- @@* BRAM (from character -- heavy, slow, measured; afraid): sets the knife down on his knee. A long silence; the fire cracks. "...Spring," he says at last. "When that leg's had a winter of your mam's rubbing. Me behind you on every rung." A beat. "And you'll not go up without me." It's a yes. Everybody in the room hears it as one.
+- @@* BENNO: turns back to Cari; something in his face has come unlocked. "Can we start, then?"
+- Cari stands: "Settle out on your belly, boy. Let's get a look at the back of that knee." Hands EBBA a light -- something to set it on so her hands are free.
+- @@* EBBA: sets the tallow dip on an upturned quern-stone by the cushions.
+- Cari's hands on the leg ("I hope you're not too ticklish" -- hands all business): from the HAMSTRINGS down; ligaments, tendons, his reactions; nods him to the MIRROR.
+- SEE THE ROOT (Boost for the treatment): Conjuror EL8 0 0 0 0 0 0 0 1 = 1 vs the leg's bracing 1d 1 = 1 -> TIE: no Boost (Lee expected little new; the diagnosis already stands at effect 7).
+- PALPATION (no roll -- what her hands find, consistent with the effect-7 diagnosis) @@*: both hamstring cords behind the left knee drawn tight as bowstrings; the calf hard and short; a ridge of old scar along the shin where it was set; the knee won't straighten the last finger's width nor bend past a right angle. The whole leg flinches BEFORE her hands arrive -- bracing against pain that mostly isn't there. Ticklish behind the knee (he kicks, swears, apologises to his mother).
+- @@* BENNO in the mirror: watching her hands, wide-eyed; the scar is the first time he's seen the back of his own leg.
+- Cari talks it through: warms ointment in her hands; takes EBBA'S hands and rubs it into them (calming contact, warm voice, to them both). The break hurt, and for a long time; the leg STILL THINKS it's going to, and stays tight, prepared for the worst -- but it doesn't really hurt now, does it? Now and then in the cold; mostly not the bone any more -- this knee. "I'm right, aren't I?" Sets Ebba's hands on the leg; shows where the cords are knotted -- "tight as a bowstring"; "He's a brave boy, but this leg is *terrified*" -- taught to be. "Ready?" Hand on his leg -- watches him tense: "See? He *expects* it to hurt." To Ebba: some of it will hurt; mostly he needs his mother's love in her hands, letting him know it's going to be ok, "because it is." Starts Ebba on the BIG HAMSTRING (the easy one): long strokes, like milking a goat; move the muscle, don't squeeze; keep it warm. A grin at Bram -- "you might learn a thing or two here too, ser."
+- @@* BENNO (to "I'm right, aren't I?"): into the cushion -- "...It's the knee. And when it's cold." Then: "Mam's hands are warm."
+- @@* BRAM: has stopped pretending; leaning forward in his chair, elbows on his knees, watching Ebba's hands.
+- RULINGS @@*: (1) the KNEE'S CONTRACTURE (scar, short sinew) is LONG WORK -- accumulated-progress.md, no time pressure: Ebba's daily sessions over the winter carry it; no nightly rolls (Bram's "spring" stands as the measure). (2) TONIGHT'S CONTEST is the LEG'S LEARNED FEAR -- the bracing -- as an attrition track, rating 3 (its Level); clear it when total > 3. Cari rolls (Ebba has no Healer Role; the Assist cap would give her nothing to add -- assist-rule.md).
+- ROLL (exchange 1): Healer EL8 0 0 1 1 1 0 0 0 = 3 vs 3d 0 1 1 = 2 -> EFFECT 1. Total 1 of >3. The big hamstring eases under Ebba's strokes; the knee still flinches ahead of every touch.
+- OFFERED once: TOKEN (-> 8 vs 2 = 6, total 7: the fear breaks tonight). Or a second exchange (the night is long). Tokens 4.
+- LEE: effect 1 vs 3 = easing the fear already (down toward 2). SPEND THE TOKEN. TOKENS 4 -> 3. Set to 8 vs 2 -> EFFECT 6; total 1 + 6 = 7 > 3 -> the LEG'S LEARNED FEAR BREAKS tonight.
+- Cari: does what needs doing (she promised it'd hurt): works the CALF loose; a pillow under the ankle where it won't straighten; squeezes the pain out of it. Hopes he'll fall asleep under the work by the end.
+- @@* (no roll; the Token's effect narrated): the calf fights, hard and hurting -- Benno yelps, grips the cushion, swears again (no apology this time), tears in the mirror; he does NOT ask her to stop. Then, partway through, the knot under her thumbs GIVES -- a long slow letting-go he feels as heat spreading down to his heel. After that the leg stops flinching ahead of her hands. It just lies there and lets itself be worked.
+- Cari: theatre and a distracting placebo -- "You know there's no magic in any of this, right? This is all just where knowledge and love meet, but we could pretend a bit, hm?" To BRAM: "That ok with you, papa? Even if it means a *little* real magic?"
+- @@* BRAM (from character -- a MILLER: flour dust and open flame are how mills burn): straightens in his chair, real alarm. "Fire?" A look at the flour-dusted rafters. "Not in my mill, Sister. Not near the flour." Then, slower, looking at his son's wet face in the shaving glass: "...By the hearth. Small." A beat. "Small."
+- Cari laughs: "Gods, no, not in a mill. I'm almost surprised you even *have* a hearth." To Benno: "Ben, that ok with you?" Sets the TAPER (tallow dip) on the hearth on her far side, near his head, where he can see it without turning. Pain is often the MEMORY of pain and the fear of it; the pain's mostly gone, but the tension hurts him fresh -- "So let's burn up that old fear, hm? I have a helper..." Rests her hands.
+- @@* BENNO: "...Ok." Eyes on the dip-flame.
+- Mindspeech to ASHER (a day's road away, in Calder's hearth): "Asher -- all quiet? He is not doing anything heinous? Would you like to help me heal a little boy?"
+- RULING @@* (range): her call reaches him along the bond (True Name) and her own castings -- precedent: Asher's road reports via Korrin's lantern (S12). No roll. @@ GAP: mindspeech range with a bound spirit is not stated anywhere.
+- @@* ASHER (mindspeech, from character -- indignant, playful, ledger-minded): "Quiet. He writes. All yesterday, slow -- his hands are bad -- and he coughed all night. Words only; I don't read. Nothing heinous unless words are." Then, delighted and alarmed at once: "A boy? In a MILL? Do you know how much there is to BURN in a mill?" A beat; then honest: "If I come, his hearth is only light till I go back. No eyes on him. Shall I?" (A favour asked: under the Accords it goes on the debt ledger unless she says otherwise.)
+- LEE CANON: DISTANCE IS IRRELEVANT IN THE BORDERLANDS -- spirits are creatures of thought and emotion, not space and time. (Closes the mindspeech-range gap: no range limit with a bound spirit.) -> add to setting notes at the wrap.
+- Cari (mindspeech): she DOES know how much there is to burn in a mill -- which is why she needs a "careful and responsible friend," not some "willy-nilly-giddy old spark who might kill us all... Know anyone like that?"
+- (Taken as YES -- he comes; Calder's hearth left as light only, no eyes.)
+- @@* ASHER (mindspeech): "OLD." Deeply offended. Then, very dignified: "I am the most careful spark in the whole of the Beyond." And he comes.
+- @@* (situation): the tallow dip's flame on the hearthstone draws itself up straight and still -- no gutter, no smoke -- and turns a clear warm gold, a little brighter than tallow has any right to burn. It leans, very slightly, toward the boy, like a cat deciding whether to sit on a lap. It does NOT grow. BRAM sees it and grips his chair arms; EBBA's hands stop on the leg for a breath, then go on.
+- DEBT LEDGER: Asher's help tonight -- a favour asked, not excluded -> OWED (Accords). Plus the standing debts (the oath to hold him in her hand; the S08 Query favour; "many offerings").
+- SENTINEL: Calder's hearth is LIGHT ONLY while Asher is away (Fax 3 holds; no watching).
+- Cari lifts ASHER gently out of the taper INTO HER HAND: "This is my very dear friend, whom I call Asher. He is the most well-behaved of sparks, and is well aware that he is in a mill, so worry not; you are safer with him here than without." Cradles the flame adoringly (means to do a great deal more of that soon). Sets him back in the taper.
+- NO ROLL (her own sprite; nothing resists; her hand is not burned).
+- OATH NOTE: Cari's standing OATH to HOLD ASHER IN HER HAND -- HONOURED IN PART tonight @@* (a first holding; Lee: more soon). Asher counts it: "That's ONE." Oath still open for the rest.
+- @@* ASHER (mindspeech): a glow that comes up through her palm like a purr; "...That's one." Very quiet, for him.
+- @@* WITNESSES: BENNO -- mouth open; reaches a finger toward it, stops himself. EBBA -- a hand to her mouth. BRAM -- half out of his chair, then sinks back as the flame goes politely home to the taper.
+- Cari: "Asher, we are going to play a little game. I am going to squeeze the memory of pain out of this boy's leg, and feed it to you to eat up so that he can let it go and relax. Alright?"
+- @@* ASHER (mindspeech): "Pain-memory. I've never eaten that." Thoughtful. "Is it spicy?"
+- Cari to Asher: "Pretend it is. If you actually get something out of it, so much the better!" "So, ready?" Stretches and re-oils her hands; eases in; does the HARD PART on the cords behind the knee, watching his reactions; when they start to cramp, "gathers" the pain out, lets him rest, turns as if her hands were full and POURS it into the taper: "Here you go -- get rid of that for us, will you?" Rests her hands and his leg.
+- NO ROLL: the contracture is winter work (ruled); the fear is already broken (total 7). This is the work itself.
+- @@* THE WORK: the two cords behind the knee hurt worst of all; he goes rigid, then -- because the fear is gone -- lets go when told; she gets them a fraction longer before the first cramp; the knee comes nearer straight than it has since spring (the last finger's width now half a finger).
+- GM DECISION @@* (Borderlands canon -- spirits are thought and emotion): Asher DOES get something -- the boy's let-go fear is real stuff, freely given. The flame jumps half a hand tall (Bram flinches), CRACKLES, spits a little shower of sharp red sparks that die on the hearthstone, then shrinks back to a contented gold.
+- @@* ASHER (mindspeech, startled and thrilled): "It IS spicy." A beat. "Old, though. Stale. Like a crust left on a sill." Then: "More?"
+- @@* BENNO: goggling at the flame; then a laugh -- a real one, from the belly, the first all night. "It ATE it!"
+- CARI'S HANDS: tired; a tremor starting (as she warned).
+- Cari calls EBBA over; shows her the HARD PART -- hurting him a little without harming him; guides her through the gentle practice of it; then: scoop the PAIN out in her hands and pour it like a mixing bowl of oatcake batter into the flame -- slowly.
+- NO ROLL (teaching; nothing resists; Ebba is willing, the boy is willing).
+- @@* EBBA (from character): her thumbs stop dead the first time he hisses -- she's spent a year and a half trying NOT to hurt that leg. Cari's hands over hers, guiding; the second time she holds through it; the third, she's steadier than Cari expected. Then the pour: slow, careful, both hands cupped, exactly as if tipping batter.
+- @@* ASHER takes it -- a softer flare this time, gold going briefly AMBER; no sparks. Mindspeech, puzzled, quieter: "That one wasn't his. That one was HERS." A pause. "Worry. Old as his. Sweet on top and bitter under." (Ebba's own -- the guilt of the ring and the leg, poured in with the boy's without her knowing.)
+- WKW: ONLY CARI hears Asher; Ebba sees only a flame turn amber.
+- @@* BENNO: eyelids drooping; the leg loose; "...it feels hot. Good hot."
+- Cari and EBBA take TURNS for a while ("she needs this too"). Ebba feels the OTHER leg to learn the differences and what to work on. Cari keeps a quiet commentary: exactly what, why, how best, what to expect -- not one night's work and done. "Kneading bread, massaging a boy's stiff leg -- much the same, without all the pounding. Save that part for his head," -- bonks him lightly.
+- NO ROLL (teaching; the work itself).
+- @@* BENNO (half asleep): "Ow." Not meaning it. A grin into the cushion.
+- @@* EBBA: learns fast -- the good leg long and soft, the bad one short and corded; by the third turn she finds the knot behind the knee on her own before Cari points. Asks the right questions (how hard; how long; every day even when he's cross; what if it swells -- Cari's answers are Lee's).
+- @@* BRAM (from character): at last leaves his chair; doesn't touch; kneels on the hearthstone at the boy's head, big hand resting on Benno's hair, and watches his wife's hands work. Says nothing. Doesn't need to.
+- @@* BENNO falls ASLEEP under the work, mouth open, one hand fisted in the cushion. The leg lies loose.
+- @@* ASHER: banked low in the taper, gold and contented, "full."
+- "Enough for one day." Cari sits, hands trembling in her lap (bread isn't the same). To EBBA: he'll be SORE tomorrow; don't skip days, especially now -- the knots come back "like the dust bunnies under the bed."
+- To BRAM: let him sleep a bit; move him when best settled, or sit with him in his lap a while; let him feel how much you love him, and that there's no shame in it -- "*There is not.* Injuries happen, and you did nothing wrong." Brushes the boy's hair back.
+- Tells them of NELL and the Red: a child who stopped speaking because someone took her truth and told a lie with it -- until Cari sat with her and made her understand that wasn't her fault.
+- WKW: EBBA and BRAM know Nell's story (no names of the house's business beyond it).
+- @@* BRAM (from character -- the hard man since the ring; Berra S10): very still through it. Then, low, to the sleeping boy's hair, not to her: "I gave it him. The ring. Took it off her hand myself, at this door." A breath. "He watched me do it." (The knot the Sight saw has TWO ends.)
+- @@* EBBA (from character): her hand finds Bram's on the boy's head. To Cari, quiet: "He's never said a word about it. Not one. But he's not let me hold his hand since." She looks at the ring on her own. "...Till tonight."
+- Cari (rubbing the boy's back): she found the ring because of the love in it; its loss was never a question against the boy's care -- "He knows." To Bram: it isn't anger -- it was SHAME and GUILT; he felt it was his fault, his leg, knowing what the ring means to them both; "If he didn't love the both of you so much, it would never have mattered. Why do you think he wants to climb that ladder? It's not because he likes ladders."
+- @@* BRAM (from character): the answer arrives in his face before his mouth -- "...To be up there with me." His voice goes. He gathers the sleeping boy up off the cushions, leg and all, careful of the knee as he's just seen it handled, and settles into the corner chair with Benno in his lap, the way Cari said; his cheek on the boy's hair. He doesn't hide that he's crying. (Berra's "hard man since the ring" -- the hardness goes out of him here.)
+- @@* EBBA: wipes her face with the back of an oily hand; laughs at the smear; tucks the cushion blanket round them both.
+- @@* BENNO: stirs, mumbles "Da," settles. Doesn't wake.
+- Cari rises; puts on the ORANGE; wipes her hands on the sleeve (pauses to appreciate the smell first -- rosemary and goose fat). "I should be going. You know where I am." When they need a Healer: tell them what's wrong, don't ask for anything -- it's our JOB; if one of her Order DEMANDS anything, do what you must, then LET US KNOW -- "That will not be tolerated." Low voice; eye contact to underline it.
+- Picks up her STAFF; cups ASHER into her hand. To Ebba: wounds are not only pain in the body; the soul aches when your child suffers; "I saw you pour your own pain into this light, and you did well to do so. I am here if you need to talk."
+- GEAR: Orange robe ON (sleeves still tied up @@); Blue sash, Yellow shawl back on @@ (assumed); staff in hand; ASHER in her cupped hand. Tallow dip left lit, ordinary.
+- @@* EBBA (from character): startled -- she didn't know it was seen. Then, slowly: "I felt lighter. I thought it was only for him." A nod. "I'll come. To the shrine, when you're there." Sees her to the door.
+- @@* BRAM (from the chair, the boy asleep on him): doesn't get up; one deep nod over the boy's head. "We'll send word. If any of 'em asks." He means it as a vow.
+- Out into the lane: night, frost, the river loud, the dog's tail thumping once from the end of its chain.
+- Cari (mindspeech): "Peek in on Calder for me? I do not trust him. Can you see how he feels about whatever he is writing?"
+- Asher goes (distance irrelevant -- Lee canon) back to the Calder-hearth light (Fax 3).
+- GM DECISION @@* (before the roll -- what he's writing, UNDECIDED till now; Lee may true it): TWO things. (1) A DEFENCE / ACCUSATION addressed to the Order's VISITOR -- the fire-witch, the Prior's weakness, his own commission; written in the open on the bed-table, by HER light (the only light in the room). (2) A SECOND, separate sheet he writes on and HIDES under his pillow -- about what sleeps beneath: since his grip was broken (S11), the "hand" on it is gone; he believes HE was the lid. (Cuthred's Watch: "keep a hand upon what sleeps beneath, and never let it go.")
+- WHO RESISTS: Calder -- knows the flame watches him; EL2 (Level 5, Injury 3). 2d.
+- ROLL: Asher fire EL7 1 1 1 1 1 1 1 = 7 (EXTREME SUCCESS) vs 2d 0 0 = 0 -> EFFECT 7 > his Level 5: FULL READ + an extreme side effect (7 dice: he gets NO opposition -- Calder never notices Asher came back).
+- EXTREME AWARDS (extreme-results.md: a free Token if the character has room): RULING @@* -- Asher is Cari's bound spirit acting for her -> the free Token goes to CARI: TOKENS 3 -> 4 (cap). GAP @@: an allied companion's Extreme -- whose Token, and does Karma earmark to the companion's score (Asher / True Name)? Ask Lee.
+- ASHER'S READ (effect 7) @@*: over the open pages -- COLD CERTAINTY and CONTEMPT, smooth as ice ("the fire-witch," the Prior "soft," his commission); he enjoys these. Over the hidden sheet -- TERROR, raw, and under the terror something like PLEADING. EXTREME SIDE EFFECT: Asher hears him WHISPER over it as he writes, to no one: "...it's turning over. It's turning over and nobody has a hand on it." Then he folds it small and pushes it under the pillow and lies there with his ruined hands on top of it, staring at Asher's light.
+- WKW: ASHER (and through him CARI) knows Calder's two papers, his feelings, and the whisper. Calder does NOT know he was read.
+- LEE: Asher's crit-KARMA is valid. Proposes a rank-1 Maneuver for him: AURA READING or DISPLAY (fire-glamour to seem more; maybe to communicate with others).
+- RULES READ: karma.md (Extreme -> mark the skill; at END OF SESSION credit 1 Karma toward the Role or Maneuver USED, considered spent toward advancing it; synergy -> player chooses among those used); magick/conjuring.md (DISPLAY: a spirit projects across the veil -- low ranks: ghostly images, spectral sounds, temperature, smells, seen and heard "if not clearly"; the commonest spirit Maneuver; "virtually all spirits have some of this ability"); roles/conjuror.md (AURA READING: skill in understanding what the Third Eye shows).
+- LILITA (consultant note, offered): by RAW the Karma goes to the skill USED -- the roll was a READING of feelings, so AURA READING is the clean, by-the-book fit. DISPLAY wasn't used on this roll -- taking it would be a house deviation (a fine one; Lee's call). Either is credited at the END OF SESSION.
+- ASHER KARMA: 1, earmarked; target PENDING Lee (Aura Reading by RAW, or Display by choice).
+- Cari to Asher: "That is ominous. I had hoped to keep you with me tonight, but I fear what that man might do, and what we might fail to learn if we *aren't* watching him. Alas, my friend -- he needs a savvy sentry, and no mortal could do it."
+- @@* ASHER (mindspeech): preens at "savvy" -- the bond goes warm. "No mortal could." Then, not quite sulking: "I'll watch. He'll not so much as turn a page I don't taste." A pause. "That was ONE. Remember." (The oath.) He stays in Calder's hearth. SENTINEL RESTORED.
+- Back to the COACH in the inn yard (no intention of putting anyone out or costing what she can't pay).
+- @@* (situation, no roll): the yard dark; the stable quiet; Olwin's snore from the loft over the stalls. On the coach step, wrapped in sacking: a HOT BRICK from Berra's oven, a heel of bread and a wedge of cheese in a cloth, and a second blanket folded square. No note. (Berra -- deeds, not speeches.)
+- Cari into the coach; door shut.
+- In the coach: she considers many things (Lee's interior, summary only): saves nothing this time -- remembers Olwin ("no use to you hungry") and EATS Berra's bread and cheese, with guilt, duty and gratitude; sets the self-pity, rage and unsolvable empathy "under the warm brick for tomorrow"; resolves to follow Berra's example -- do a thing instead. Curls under her robe, cradling aching, shaking arms. SLEEPS.
+
+## NIGHT Day 11 -> DAWN Day 12 (Crossroads; rolled in the open)
+- DAWN 12 Korrin's lantern (6, age 4) 1 1 1 1 1 1 = 6 (EXTREME SUCCESS) vs 4d 1 1 1 0 = 3 -> HOLDS at 6; DAWN RESET (age 1). (Cari at Token cap -- no free Token.)
+- DAWN 12 Larder Veil (1, age 6) 1 vs 6d 0 0 1 1 1 1 = 4 -> LOSS by 3 -> dims to 0: the LARDER VEIL is GONE (faded out).
+- DAWN 12 Scry eye (3, age 4) 1 0 0 = 1 vs 4d 0 1 1 1 = 3 -> LOSS by 2 -> DIMS 3 -> 1.
+- DAWN 12 Calder-hearth Fax (3, age 3) 0 0 0 = 0 (EXTREME FAILURE, the casting's own roll) vs 3d 0 1 1 = 2 -> SNUFFED. Asher's perch in Calder's hearth goes out at dawn.
+- DAWN 12 Lavabo Fax (4, age 4) 0 0 1 0 = 1 vs 4d 1 1 1 0 = 3 -> LOSS by 2 -> DIMS 4 -> 2.
+- IVRO: EL5 1 1 0 1 0 = 3 vs 3d 1 0 1 = 2 -> SUCCESS, effect 1: a good night (any standing Injury -1 @@ check his current number at the wrap).
+- CALDER: Lv5 0 1 0 0 0 = 1 vs Injury 3d 0 0 0 = 0 -> EFFECT 1: Injury 3 -> 2 (EL 3).
+- MERRIT: EL5 0 0 0 0 0 = 0 (EXTREME FAILURE, 5 dice) vs Injury 2d 0 0 = 0 -> no healing, and a setback. GM DECISION @@*: up in the night without his stick (stubborn), he fell on the infirmary step -- the stitches pulled. +1 COMPLICATION: Harm 2 + 1 = 3 > Lv2 -> DOWN again (Hannet has him; clears on his next success).
+- HARROW @@* (Lv2 + roof and care 2 = EL4): 1 1 0 0 = 2 vs 2d 0 1 = 1 -> sickness 2 -> 1.
+- TESSA'S BOY @@* (Lv1 + care 2 = EL3): 0 1 0 = 1 vs 2d 0 0 = 0 -> burn 2 -> 1.
+- @@* CONSEQUENCE OF THE SNUFF (situation; Lee may true): at dawn the light in Calder's hearth died all at once. In the sudden dark CALDER CRIED OUT -- not words, a sound. WYSTAN, on his dawn round, came running with a horn lamp; ASHER rode the lamp's flame back into the room before the door had shut. Watch restored, but on a borrowed lamp, not her casting. Calder saw her light die. What he makes of it: UNDECIDED (her weakness? her death? a sign?).
+
+## DAY 12 -- CROSSROADS, DAWN
+- NEW SCENE: the COACH / INN YARD, dawn, Day 12. Tokens 4 (cap). Hook budget refreshed.
+- Cari (mindspeech): would Asher try CHANNELLING a spell for her? Fax is only the raw construct some fire spirit once taught a Spellweaver, written into a ritual so she can pretend a moment to do what he already does; they can probably put it back; if he's uncomfortable she won't be disappointed or cross. (Worried for Merrit and Jem; can't help them -- this she can. Berra: do a thing.)
+- @@* ASHER (mindspeech, from character): a startled flare of pride -- "Through ME? Like a wick?" Then, curious and a little nervous: "...Yes. It'll tickle. Do it." (Benefits him -- a perch of his own. GM: no new debt; he WANTS it.)
+- RULES READ: spells.md Fax Iacta; traits.md (Persistent; no range Trait exists); spellcraft.md (spells work wonders with ANCHORS -- connected things stay connected, threads fade with time); roles/conjuror.md (spirits: range and proximity are purely conceptual) + Lee canon (distance irrelevant in the Borderlands).
+- RULING @@* (no rule for casting THROUGH a bound spirit): the BOND is the anchor; Asher is the place. DL = 0 + Persistent 1 + CHANNELLED 1 (improvised, like a Trait) = DL2. Hold at Fax improvising EL11; strength by framework roll at EL11 (S12 precedent). GAP @@: channelling a spell through a bound spirit -- procedure and DL.
+- ROLL HOLD: 1 1 1 0 0 0 0 0 0 1 1 = 5 vs DL2 1 1 = 2 -> HOLDS (binding safe).
+- ROLL STRENGTH: 1 0 0 0 1 0 0 1 1 1 1 = 6 -> STRENGTH 6.
+- RUNNING: FAX in CALDER'S HEARTH, CHANNELLED through ASHER (Persistent; strength 6; age 1 -- Dawn tests from Day 13). Blue-green, as her Fax always is -- but brighter. Asher rides it; WYSTAN'S LAMP freed. (Guidable NOT added -- Asher moves in it as he likes; Cari can't strike with it from here.)
+- @@* CALDER (from character, seen through Asher): the cold hearth CATCHES -- blue-green, out of nothing, brighter than before. He goes very still. Then turns his face to the wall.
+- LEE (design, OOC): CHANNELLED -- "good, I like that" (keep as an improvised Trait, @@ for the rules). PROPOSED new Traits for later study: SUSPENDABLE (duration continues but the EFFECT can be toggled on and off) and VARIABLE (can be turned DOWN). "Lots of interesting ideas and issues to work through" -- a good improvisational test. -> GAP LOG at the wrap.
+- Cari (thought to Calder, really to Asher): "That's right. We're still watching you, and you are not beyond our reach."
+- @@* ASHER (mindspeech): "He didn't hear you. I did." A small fierce glow: "Not beyond."
+- Cari takes the BRICK and empty sack back to BERRA: "Good morning. I would like to wash some dishes for you, or *something*. Thank you so much for my dinner, and that **brick**! That was a godsend. YOU are a godsend."
+- @@* BERRA (from character): "Speeches." (Callback.) Then, because a person who asks to work should be let: shoves a stiff brush and the porridge pot at her. "That, then. It's been soaking since I put Harrow's in." News, while Cari scrubs: HARROW slept the night through -- "first time he's not coughed me awake in a fortnight"; MOTHER ALDY was at the pump at first light telling anyone who'd stand still that "Corran's asleep at last, the Sister tucked him in"; and Dunny's been out since dawn telling the burn-boy's mother about the candle that EATS (the mill story is already loose -- via EBBA at the pump @@*).
+- Cari: "Just Asher." He's looking forward to helping Berra here AGAIN; on an important assignment just now -- probably not overnight, but maybe some during the day? [Lee: "again" -- Asher has helped at Berra's hearth before.]
+- WKW: BERRA knows Asher by name as Cari's (and that he's on "an assignment").
+- @@* BERRA (from character): a grunt that takes it as plain fact, the way she'd take news of a new lodger. "Days, then. He can keep my second batch from catching while I'm at the market." A look at the oven, then at Cari: "And he's not to eat anything of mine that I've not said."
+- TIME NOTE (GM, OOC): the Prior's order -- back in TWO days, THREE if the weather turns. She left the Mountain after sext, Day 10; today is Day 12, and the road up is a full day. (Not a clock forced -- a reminder.)
+- Cari laughs: "He is the very soul of discretion and politeness."
+- LEE (OOC): read the Prior's "two days, three if the weather turns" as two days HERE -- one day's travel each way would leave no time between.
+- GM RULING: the words were ambiguous (Day 10 l.~ "Two days. Three if the weather turns."); the Prior's INTENT decided in Lee's reading -- two days AT CROSSROADS (Day 11 and Day 12), road home Day 13; Day 14 if the weather turns. Today is hers to work.
+- Cari (mindspeech): Asher -- tend BERRA'S KITCHEN for the day? The guards can watch Calder by daylight.
+- @@* ASHER (mindspeech): "An OVEN." Sheer greed, instantly mastered: "...Politely." Leaves the channelled Fax in Calder's hearth (it burns on, strength 6, no eyes) and comes.
+- SENTINEL: Calder's hearth is LIGHT ONLY by day (Ruddock's men / Wystan / Hannet have him). Asher back at dusk @@ (Cari's plan: "not overnight" here).
+- @@* (situation): the bake-oven's banked glow brightens and evens out -- no hot spots, a steady gold -- and the flame at the oven mouth makes a small, deliberate BOW. BERRA watches it with folded arms. Then, to the oven, exactly as to a new kitchen boy: "You. Second batch. Don't let it catch, and keep out of the lard." The flame dips once. Berra: "Hm." (Approval, of a sort.)
+- Cari SCRUBS the porridge pot (arms like noodles; this, at least, she'll do) till it sparkles; puts it away. To the SHRINES: a quick morning prayer for herself; anything needing attending? Then (plan): GARROW the smith's; then back to be available.
+- NEW SCENE: the SHRINE CLUSTER, morning, Day 12. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): ROOK at the bowls. The Prior's letter-board is still up; someone has hung a sprig of holly on its peg. Under the prayer board, new things since yesterday: (1) a scrap of birch bark with a child's charcoal drawing -- a candle with a FACE (Dunny's story at work); (2) a strip of red ribbon tied round the post -- @@* Tessa's thanks; (3) a new shingle, unsigned, letters big and clumsy: "FOR THE BIG MAN THAT HE SLEEPS." (Olwin? Whose hand: UNDECIDED.)
+- @@* ROOK (from character): "Two came before light. Went off again when you weren't here. They'll be back." A beat. "One was the Fenn widow with her baby, the cough. The other wouldn't say."
+- Cari prays over each new thing on the board -- that their desires be heard and honoured according to the laws of the gods; begs protection and peace for each. To Rook: "I'm going to speak with the smith. I will be right back."
+- @@* ROOK: a nod. "I'll tell 'em."
+- NEW SCENE: GARROW'S SMITHY, morning, Day 12. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): off the square by the river road; open-fronted; a charcoal forge, a crucible of bronze cooling in sand, a leather bench at the back with harness hung over it. GARROW (@@* fifties, broad, forearms speckled with old burn scars, laconic) at the leather bench with a BOOT on the last -- Benno's left boot, a wedge of stacked leather being pegged into the heel. The muster's bronze spear from yesterday leans by the door. He looks up; sets down the awl; waits.
+- CHECKED (S09 prep + S09 ledger): GARROW HASK -- fifties, BALD, scorched forearms, leather apron; CARTERION'S man; wary of monastery robes, respects craft and fire; half-believes in OLD BELLOWS. The CARTERION ICON (iron-and-bronze -- iron is Carterion's own) hangs over the forge. OLD BELLOWS -- the forge's spirit; came home TEMPERED (black jet coal, a live ember sealed inside; needs no fuel) at Cari's hand (S09); his story of the SEA. Cari hears his words; others see the fire move. Garrow's late wife's sister lives in GREEN HAVEN.
+- Cari bows: "Good morning. I see that boot got here quick." Then turns to OLD BELLOWS in the forge: "Good morning to you as well, ser." Bows again, sincerely.
+- @@* BELLOWS (fire-speech; only Cari hears): the banked forge brightens all at once, white-gold at the heart where the jet coal sits. "SHE comes back. And bows. Hask, she BOWS to me--" (Garrow sees the flare.) Then, smug: "I've told the sea forty times. They've stopped listening. You'll listen." And, sly: "You smell of another fire. A bossy little one. In Berra's oven."
+- @@* GARROW (from character): sees the forge flare at her bow; touches two fingers to the Carterion icon without seeming to notice he's done it. On the boot: "Ebba was at my door before I'd the shutters off." Holds it up -- the heel built up a finger's width. "Wants to know will it serve."
+- Cari judges the height (no roll -- her effect-7 diagnosis knows the shortfall: a finger's width): "Maybe one more layer. It'll feel odd to him, but he'll get used to it." Nods approval: "That will go a long way toward making a boy feel like a boy again."
+- @@* GARROW (from character): "One more." Cuts a sole-leather lift on the bench, skives the edge, pegs it on; trims. Turns it in the light. Then, gruff, not looking at her: "No charge to Ebba. She's paid enough to this town for that leg." (The no-price word has reached the smithy.)
+- @@* BELLOWS: "He's soft. Thirty years, soft as tallow under the leather apron. Don't tell him I said."
+- Cari (to Bellows, smirking): "He's kind, and you know it."
+- Cari to GARROW: what are the chances he could make her a SMALL MIRROR, brass or bronze, whatever he has -- and what could she do to repay him? She's given away her last coin.
+- @@* GARROW (from character -- craftsman; wary of monastery robes, respects craft): can do it -- there's bronze in the crucible cooling now; cast a blank today, then the GRINDING and POLISHING is the long part -- by tomorrow's first light. First, the craftsman's question: "What's it for?" A level look. "Shaving glass, lady's glass -- or the other sort?" (He means scrying. He knows the Mountain uses mirrors.) The size, the curve and whether it wants a handle all hang on the answer.
+- @@* On payment: "Coin's not the only thing a body can pay with." A glance at the forge. "My Hild's sister lives in Green Haven. I've a letter for her I've not found a carter honest enough to carry." (Hild -- his late wife @@*.)
+- Cari: "I mean it for spellwork." She has a pilgrimage to Green Haven yet to finish -- after the Convocation at midwinter; honoured to carry his letter, but would do that anyway. "What can I do for *you*?" (Left simple; she trusts him.)
+- WKW: GARROW knows the mirror is for SPELLWORK; that she goes to Green Haven after midwinter.
+- @@* GARROW (from character): the plain answer earns a plain nod -- he'd have thought less of her for dressing it up. Craft first: "Then it wants to be true flat, not a lady's curve, and polished past where a lady'd stop. No handle -- a foot, so it stands." Then, slower, rubbing his scarred forearm, not looking at the forge: "...He talks to you. The fire." Not a question. "Thirty years I've fed him and never heard a word." A long breath. "Sit while I polish. Tell me what he says. True, mind. Not what you think I'd want." (That's his price.)
+- @@* BELLOWS (fire-speech): goes very bright and very quiet. Then, hoarse: "...He wants to hear the SEA."
+- Cari: the mirror can be much simpler -- POCKET-sized; no handle, no foot needed.
+- Cari laughs at "true, mind": she wouldn't lie to him; even if she would, Bellows would stop talking to her. Tells him TRUE: Bellows teases -- calls him SOFT for not charging Ebba, and told her NOT to tell him, because he cares what Garrow thinks. Fond, to the furnace: a great old grand-uncle who's seen more seasons than the young folk can imagine, says things in a context they can't follow, pretends to be grumpy while making sure they're ok -- "and I love him for it." She'll tell Rook to send any who need her here, then sit with him as long as he likes. Bows; out to the shrine.
+- WKW: GARROW now knows Bellows's words (true, through Cari) -- "soft," and that the fire cares what he thinks.
+- @@* BELLOWS (fire-speech, scandalised): "I said NOT to TELL him--" The forge spits a fountain of sparks up the flue. Then, very small, a grumble that is nothing like a grumble: "...grand-uncle."
+- @@* GARROW (from character): sees the sparks go up at "told me not to tell you" and LAUGHS -- one great bark that startles a dog in the street; then stops, eyes wet, and looks at his fire a long moment as if seeing it for the first time. "Soft, is it." To the forge, gruff: "I'll give you soft, you old cinder." He goes to the crucible for the blank. Pocket-sized: "Smaller's quicker. Noon, then, not morning."
+- MIRROR: GARROW -- a pocket mirror of bronze, true flat, for spellwork; ready about NOON. Price: sit with him while he polishes and tell him Bellows's words (and the SEA story). Plus the Green Haven LETTER to carry (after midwinter).
+- At the SHRINE: tells ROOK to send any who need her to Garrow's. @@* Just as she does: the FENN WIDOW coming across the square with a baby wrapped against her chest, and the baby's cough carrying -- a wet, barking cough.
+- Cari heads to meet the FENN WIDOW: "Oh, my, someone is having a rough day!" SEE THE ROOT on both, before she arrives.
+- ROLL BOOST: Conjuror EL8 1 1 0 1 1 1 0 1 = 6 vs her guard 1d 0 = 0 -> EFFECT 6 -> +6 dice.
+- ROLL DIAGNOSIS: Healer EL8 + 6 = 14d: 0 0 0 1 0 1 1 1 0 1 1 1 1 1 = 9 vs the illness 2d 0 1 = 1 -> EFFECT 8: the whole picture.
+- GM DECISION @@* (what's there):
+  - THE BABY (a girl, about a year): CROUP -- the seal's-bark cough, a hoarse cry, a thin WHISTLE on the in-breath when she cries (not at rest); a low fever; three nights of it, worst after dark. NOT yet dangerous. Danger signs: the whistle at REST, pulling in under the ribs, lips going dusky.
+  - THE MOTHER (LISS FENN @@*, the Fenn widow; the Fenn children who took the shrine bread are hers -- two, older): three nights without sleep, holding the baby upright; eating little (feeding the children first). THE ROOT (Sight): her FEAR is bigger than the illness -- her husband died COUGHING, of lung fever, last winter, and every bark is that winter again. The baby's aura: a small hot spark, cross and tired, strong underneath. The mother's: grey with exhaustion, and a cold knot of dread.
+- Croup Harm @@*: sickness 2 + a Complication (the bark and the night-whistle).
+- Cari makes a show of examining and soothing the baby (mostly to ease the mother): "And what's this one's name?"
+- @@* LISS FENN (from character): the words come back once the baby is in other hands for a moment: "Linnet." (@@* name.) Then all at once: "She barks like that all night, and I can't-- he coughed like that, my Davey, at the end--" Stops herself.
+- LEE (Cari's thought, summary): she knows how to treat the cough -- how to fix the PROBLEM? At least they have shelter. They need something like SALTWIND'S COMMUNITY POT, and it shouldn't all be on Berra.
+- Cari to ROOK: sorry for using him as a crier; she's going home with Mes Fenn to get the little one out of the cold; back as she can; let anyone who needs her know.
+- @@* ROOK: "Crier's a job. I've had worse." Then, after her: "Fenn's is the last cottage on the Ford road. Roof's bad on the north side."
+- NOTE (owed): GARROW at NOON -- sit with him while he polishes; the mirror and the sea story.
+- NEW SCENE: the FENN COTTAGE, late morning, Day 12. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation, no roll): one room, wattle and daub, the last cottage on the Ford road. A small hearth with a meagre fire of twigs and dung. The north side of the thatch is bad -- a dark stain down the wall, a bucket under the drip. Two children by the hearth: a boy of eight or so and a girl of six (the bread-takers), thin, staring at the Orange. A pallet; a cradle made from a flour-tub. Cold: breath shows indoors.
+- LEE: Garrow would be offended if his talk took precedence over a sick child; she'll make it up to him if she can't be there, but will still try.
+- The hovel brings back her own memories of cold nights and hunger -- the sympathy hits like a wall; she pushes through (making faces only hurts them). "Step back, loves -- let's get you a proper fire going, shall we?"
+- CASTING (Lee): draw power from the existing fire (gather Boost); ASHER'S SYNERGY drawn through his anchor line; then "*fiat conflagratio*!" -- Fax, PERSISTENT.
+- RULES (current sheet; S08 gap log): GATHERING MANA = Spellweaver Boost on free ranks (EL5) opposed by the place; goes on the hold or the cast -- GM put it on the CAST (strength), the obvious place. ASHER: True Name bonus applies to CONJUROR rolls involving him, not Spellweaver -> RULING @@*: his help on a Spellweaver casting is an ASSIST (assist-rule.md: helper's Boost capped by the helped character's Role rank -> Spellweaver 4). Drawn along the bond (distance irrelevant -- Lee canon). Asher at Berra's oven; he doesn't leave it.
+- ROLL GATHER: Spellweaver EL5 0 0 0 1 0 = 1 vs the place 2d 1 0 = 1 -> TIE: no Boost (a dung fire has little to give).
+- ROLL ASHER ASSIST: fire EL7 1 0 1 0 0 1 0 = 3 (cap 4) -> +3 dice.
+- ROLL HOLD: Fax improvising EL11 0 0 1 1 1 1 1 1 0 0 0 = 6 vs DL1 (Persistent) 0 -> HOLDS.
+- ROLL STRENGTH: EL11 + 3 = 14d: 1 1 0 0 1 1 0 1 1 0 1 1 0 0 = 8 -> STRENGTH 8.
+- RUNNING: FAX in the FENN HEARTH (Persistent; strength 8; age 1 -- Dawn tests from Day 13). Heat and light without fuel, as Cobb's hearth. Blue-green; flames it starts on wood burn normally (spells.md) -- the twigs catch too.
+- ASHER'S ASSIST: a favour, not excluded -> on his DEBT LEDGER @@* (or Cari excludes it).
+- @@* ASHER (mindspeech, from Berra's oven): "Children. Cold ones. I felt it." No joke at all. Then: "Hm. That one's yours. Not mine. Strong."
+- @@* (situation): the smoky dung fire goes blue-green and then up, clean and bright, a real hearth-fire's height, with no smoke. Warmth rolls across the one room; within minutes the breath stops showing; the drip-stain on the north wall starts to steam. The CHILDREN scramble back -- then, slowly, the girl holds out her hands to it. LISS sits down on the pallet very suddenly, as if her knees have gone.
+- Cari to LISS: "It will fade, but until then it needs no fuel. Have a teapot? Let's get some steam into her."
+- @@* LISS: no teapot -- a clay cooking pot; the boy (@@* TOM, eight) runs for water from the butt by the door; the pot onto the blue-green fire boils in no time.
+- RULING: Healer EL8 vs the croup 2d (steam, the baby upright on Cari's shoulder under a shawl-tent over the pot, slow calm talk).
+- ROLL: 0 0 0 1 1 1 1 0 = 4 vs 0 0 = 0 -> EFFECT 4 > Level 2: the COMPLICATION CLEARED -- the bark loosens, the whistle on the in-breath goes; she coughs, wet and productive, then breathes easy; the fever stays low. Sickness 2 remains to heal by days (care Boost for her nightly rolls). @@* Linnet falls asleep on Cari's shoulder under the shawl.
+- Cari to LISS: "Get some sleep." To TOM: tell Mer Garrow at the smithy where she is, and that she'll be there as soon as she can.
+- @@* TOM: gone like a shot. LISS (from character): starts to protest -- the baby, the children, the floor wants sweeping -- and is asleep on the pallet before the sentence ends, one hand still reaching toward the cradle.
+- @@* The GIRL (@@* MOLL, six): edges over and sits on the hearthstone by Cari's knee, watching the sleeping baby on Cari's shoulder; says nothing; leans, after a while, against Cari's leg.
+- @@* TOM back (a quarter-bell): "Mer Garrow says the bronze won't polish itself and neither will he, and you're to take your time." A breath. "And he says the old cinder's sulking."
+- Cari chuckles. "Thank you, Tom. Come sit with Moll and me and get warm." Holding the baby (Lee: "little LISSETT" -- GM named her LINNET; ASK which stands), arm round Moll; nods Tom over. "Do you fish?"
+- @@* TOM (from character -- eight, the man of the house since last winter, trying): sits, stiff, then lets the warmth in. "Da did. Eels, mostly, by the mill tail where the water's warm off the wheel." A beat, proud and ashamed at once: "I set his lines. Got two last week. One got away with the hook." (A bronze hook -- dear to lose.) "Mam says I'm not to go on the bank alone."
+- LEE: "Lissett" was faulty memory -> the baby is LINNET.
+- Cari to TOM: then don't go alone -- talk to DUNNY at the inn and BENNO the miller's son; still dangerous this time of year, be careful; "Eel makes a good soup, though."
+- Cari considers the bad roof: "Any straw to fix that?"
+- @@* TOM (from character): "No straw. Reed's what you want for thatch -- there's beds of it down the river past the burying ground. Nobody's cut it." A look at the stain. "Mer Corran was going to do ours. Before he fell." (CORRAN -- Mother Aldy's husband -- was the town THATCHER; he died last winter. Nobody in Crossroads thatches now @@*.)
+- GM NOTE: Crossroads lost its thatcher last winter; roofs are going unmended town-wide. (Story ammunition: the reed beds, the muster's hands, Aldy -- who held the ladder forty years and knows the work by watching.)
+- Cari strokes MOLL'S hair; lets her sleep. To TOM: "I bet Mother Aldy knows *how*, though... are you strong enough for a job like that, if she showed you?"
+- @@* TOM (from character): sits up straight as a post. "I can cut reed. Da's hook-knife's still on the peg." Then, honest, because he's eight and knows it: "I'm not strong enough to go up. Not on a roof." A beat. "But I can cut, and bundle, and carry, and hand it up. All day." Fierce: "If somebody'd go up." (The want is plain: something to DO.)
+- Cari to TOM (Lee's words, summary): talk to his mam once she's slept; cut reed and bundle it -- set some aside for their roof, then take the extra bundles to the SHRINE as offerings (other places need them too); talk to MOTHER ALDY about who might be strong enough -- tell her he remembers Mer Corran and how he kept the whole village's roofs; maybe even ROOK (she won't speak for him). (She'd do it herself, but she goes back to the Mountain in the morning -- LEE: road home Day 13.) "Folk have to take care of each other. A twig alone is just kindling; a thousand twigs is a pretty hot bonfire."
+- @@* TOM (from character): takes it in like orders from a captain. Mouths "a thousand twigs" to himself. Looks at the hook-knife on its peg, then at the sleeping baby, then at his mother; nods once, hard. "When Mam wakes." He doesn't move from the hearth -- he's on watch now.
+- Cari STAYS -- nothing she wants matters as much as a few more minutes' sleep for mother and child. (No roll.)
+- @@* (situation): the noon bell comes and goes from the square. A little past it LISS wakes -- all at once, in a panic, reaching for the cradle -- and finds the baby asleep on the Sister's shoulder, Moll asleep against her knee, Tom on the hearthstone on watch, and the room warm. She sits very still, taking it in. Then, low: "How long--" (About two bells; early afternoon.)
+- Cari: "Not near long enough, but come and listen."
+- @@* LISS: comes on her knees across the floor; lays her ear to the baby's back the way Cari did; listens a long time -- breath in, breath out, no whistle, no bark. Then sits back on her heels with her hand over her heart. "She's never breathed like that. Not since--" She doesn't finish; she doesn't need to.
+- Cari to LISS: "Warm. Moist and upright if it starts again." Tom had a couple of pretty good ideas -- "He's a brave lad." "Will you be ok for now? I hate to leave you..."
+- @@* LISS (from character): takes the baby, careful not to wake her. Looks at Tom; Tom, very fast: "Reed. And Mother Aldy." Liss, half a laugh: "Go on, then -- after you've eaten." To Cari: "We'll be ok. We're warm." She has nothing to give and knows it; presses Cari's hand to her own cheek instead. "Gods keep you, Sister." MOLL wakes enough to wave.
+- To GARROW'S SMITHY.
+- NEW SCENE: the SMITHY, early afternoon, Day 12. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): GARROW at the bench with the bronze blank -- palm-sized, cast and filed, on a leather pad; working it with pumice and water, round and round; already a dull gleam. BELLOWS low in the forge, the jet coal sullen and dark-red. Garrow doesn't look up: "He's been like that since Tom came." A jerk of the chin at the forge. "Sulking."
+- @@* BELLOWS (fire-speech): "I was going to tell her the SEA."
+- Cari sits on the spare stool, grinning: "Tell who, old man?"
+- @@* BELLOWS (fire-speech; the coal brightening as he goes): "You. And HIM. Through you." Then the SEA (GM-drafted in his voice; S06 facts: the west cove below Mira's, Shimmer held him for the quench, he came up tempered) -- part one, the going-in: three hundred years of wanting a thing he could only hear of in sailors' talk at the forge door; the long cold carry; the first smell of salt "like iron that had learned to dance"; the edge of the water; the dread; Shimmer's cold hands; the HISS -- "the loudest thing I ever said."
+- Cari grins; closes her eyes; PERFORMS it -- her best impersonation of the old fire's attitude.
+- RULING: being believed -- that it's truly the fire talking -- Open Hands EL10 vs Garrow's half-belief 2d.
+- ROLL: 1 0 0 0 1 1 0 0 0 0 = 3 vs 0 0 = 0 -> EFFECT 3 > Level 2: BELIEVED. Garrow stops being half a believer.
+- @@* (situation): the forge keeps time with her voice -- flaring on the hiss, sinking on the dark -- and Garrow watches the two together. When she finishes he sets the pumice down. "That's him." Not a question. "Three hundred years and the old cinder was afraid at the edge." His voice goes rough. "So was Hild. At the end. And went in anyway." He looks at the forge. "Go on, then. Under."
+- @@* BELLOWS (fire-speech, to Cari only, very quiet): "...He's never said her name to me. Not in eleven years."
+- Cari (softly): Garrow's mentioned Hild to her -- "But he says in eleven years you've never said her name to *him*."
+- @@* GARROW (from character): a long beat; the pumice still. Then, to the forge, not to her, the first time: "...Hild." Clears his throat. "Her name was Hild. You knew that." The forge brightens, slow, like a breath held and let go.
+- Cari casts PHANTASMAL VEIL -- openly a glamour, no pretence -- having established the image (the forge's voice), she uses it instead of her own: as Bellows speaks, the forge's own sounds (crackle, roar, the tick of cooling bronze) FORM HIS WORDS for Garrow.
+- RULING: Veil on a WILLING target (Garrow knows it's glamour) -> NO ROLL (S13 precedent, Ivro's drone). Held by focus while she listens and shapes; no Traits needed.
+- @@* BELLOWS'S SEA, part two -- UNDER (GM-drafted in his voice; S06 facts): the dark; the weight of all that water "like a mountain lying on me, kind"; the cold going in and in until there was nothing of him that wasn't cold -- except one spark at the very middle that he held onto "the way you hold a name"; Shimmer singing, he thinks, though he'd never heard water sing; the salt working into every crack and SEALING it; coming up black and glassy, "a stone that remembers being a fire." "I went in a coal. I came out... finished." And: "Hask. It doesn't end you, the cold. It FINISHES you. Tell him I said."
+- @@* GARROW (from character): hears it in his own forge's voice. Puts both scarred hands flat on the bench. Doesn't speak for a long time. Then: "...Finished." Nods, slow. Wipes his face with the back of his wrist and goes back to polishing, round and round, as if the bronze were the most important thing in the world.
+- Cari sits; gives him time. Then: "Is there anything you wanted to ask?"
+- @@* GARROW (from character): a long time polishing. Then, to the forge, gruff and low: "She sat by you. The last winter. When I was at the bench and she couldn't do much else." A breath. "Did she ever say anything. To you."
+- @@* BELLOWS (through the Veil, in the forge's voice): "She talked to me every day, you great lump. Every day for nineteen years." Softer: "The last winter she said: 'Keep him warm. And don't you let him bank you with green wood.'" A crackle that might be a laugh. "Eleven years I've been telling you about that green wood." (Callback: S09, "thirty years of green wood.")
+- @@* GARROW: a sound comes out of him that's half a laugh and half something else entirely. "...Green wood." He sets the bronze down. "She hated it. Said it spat." Wipes his eyes, openly now. "No more green wood, then."
+- MIRROR: nearly done -- the polish coming up bright under the pumice; rouge and leather next.
+- Cari grins: "I did tell you last time that he said that." Chuckles. (S09: Bellows's green-wood complaint, relayed.)
+- @@* GARROW: "You did." A snort. "Thought you were having me on." BELLOWS (forge-voice): "He thought you were having him ON." Garrow, to the fire: "I heard, you old cinder."
+- @@* Garrow finishes the MIRROR: rouge on a scrap of buff leather, a last long working; holds it up -- true flat, the bronze bright as still water, her face in it gold. Wipes it on his apron and holds it out on his palm. "Pocket-sized. True as I can make it." On the back, without being asked, a tiny mark punched in: a flame. "So you know whose."
+- GEAR: BRONZE POCKET MIRROR (true flat, for spellwork; a punched flame on the back) -> CARI.
+- @@* GARROW: the LETTER for Hild's sister in Green Haven -- "I'll write it tonight. You'll have it before you go."
+- Cari releases the Veil @@ (assumed when the talking's done).
+- Cari bows: "I will come back when I can. Old friends should be able to talk now and then."
+- @@* GARROW: a nod over the bench -- "Mind you do." Then, as she reaches the street, to the forge, quite naturally, the way a man talks to someone in the room: "Well. Green wood's for the burning-pile now." BELLOWS (fire-speech, to Cari, as she goes): "He TALKED to me. Did you hear? He just TALKED to me."
+- Out into the square, mid-afternoon, Day 12.
+- Cari steps back in: "I heard." To GARROW: perhaps some of it (the green wood) for the offering pile at the shrine, for those who have none in the winter.
+- @@* GARROW: "Green spits. Hild'd have my ears." A grunt. "Seasoned, then. I'll send a barrow down to the bowls before dark." (Firewood offering for the poor -> the SHRINE.)
+- To the SHRINE. Small things first (no rolls; summary @@*): a carter's boy with a splinter under a nail; an old man's chilblains -- salve; a woman who only wanted to look at her and go. Then ROOK, when no one else needs her.
+- @@* ROOK: "The one who wouldn't say came back. Stood by the well the best part of a bell, hood up, watching the bowls. Went off when she saw I'd seen her." (WHO: UNDECIDED.) Then he waits, rag still, to hear what Cari wants.
+- Cari to ROOK (Lee's words, summary): folk come here to pray and look for hope and help. TOM FENN sets eel lines (his mam doesn't want him alone); he'll cut reed for thatch and bring bundles for those who can't; he'll ask MOTHER ALDY to teach the repairs. Is there someone who could help folk with the work they can't do? HARROW -- not hale, but with a COAT could he FISH? Fish for the pot might earn a place at the widow Fenn's hearth and a bowl of the soup. Staring south at the ARCH in the winter haze: "Isn't that why we're here? To give people hope and help them find each other?" Asks nothing of him but his knowledge of these folk and his grip on their ears: get them talking to each other. Berra can't feed everyone -- but she'd likely take offerings for a SPARE POT at the back door. Everything helps.
+- NO ROLL (Rook is willing; he wrote "AND LET HIM BE HELD TO IT").
+- @@* ROOK (from character -- carter's son, early twenties, stubborn, knows the lane): listens without interrupting, which for Rook is a speech in itself. Then, practical, counting on his fingers:
+  - HANDS: "The muster lads. Half of 'em do nothing from first frost to plough but drink and throw dice at the inn. Garrow's got 'em knocking spears. He can get 'em up ladders." (The muster as the town's winter work-gang @@*.)
+  - HARROW: "Fished the Ford forty years before his chest went. Knows every eel-hole on this river." A beat. "My da's drover coat's on the peg at home -- he's on the Ganth road till spring and won't miss it." (Rook gives the coat.)
+  - THE POT: "Berra'll take it if it's offered and not asked. I'll see it's offered." The shrine's offering pile to feed a spare pot at the back door.
+  - Then, looking where she's looking, at the haze over the Arch: "...The circuit priests never said that. Not one." Gruff: "You're the first."
+- WKW: ROOK carries the plan: the muster's hands for roofs; Harrow to fish with Rook's da's coat; Tom with Harrow (not alone); offerings to a spare pot at Berra's door.
+- Cari (solemn): "Then we will teach them. I knew you were the person to ask." No one needs her just now -- what else can she do? No money doesn't mean nothing she can do. "How can I get the Fenns a meal *tonight*?"
+- @@* ROOK (from character): tips the bowls toward her. Today's offerings: three turnips, a fat onion, a twist of barley, a heel of rye, and -- someone's -- a lump of bacon rind. "That's a pottage, if somebody's got a pot and a fire." A look. "They've a fire now, I hear." Then: "And the mill. Bram's never turned a widow off his step, and he'd not turn you. A bowl of meal from him and Liss can bake on that hearth of yours." He's already putting the turnips in his cap.
+- Cari (hadn't thought to look in the BOWLS): cries a moment with sheer relief; hugs ROOK, face in his sleeve.
+- @@* ROOK: goes stiff as a gatepost; then, awkwardly, one pat between her shoulder blades. "...Go on, then." Ears red. Hands her the cap.
+- Cari gathers each piece, praying earnest thanks and begging blessings on everyone who offered so much as a turnip; hustles them to the FENN COTTAGE.
+- GEAR: shrine offerings (3 turnips, onion, barley, rye heel, bacon rind; in Rook's cap) -> the FENNS.
+- @@* FENN COTTAGE, late afternoon (situation): warm; Liss sweeping; Moll with the baby on the pallet; TOM not there -- "gone to Mother Aldy's," Liss says, "before I could feed him, the pest." Liss sees what's in the cap and has to sit down again. Moll gets hold of the onion and won't give it up. The clay pot goes on the blue-green fire.
+- Cari ransacks her pockets and satchel for herbs and odds and ends -- into the pot. @@* What's there (satchel standing kit "herbs, salt"): a twist of SALT, dried THYME and SAGE from her offerings stock, two bay leaves; NOT the brimstone, NOT the willow bark. To MOLL: "That onion will taste better in the stew, love. You sure you don't want it in?" Cleans each item -- no wasteful peeling; cuts away only what isn't fit to eat.
+- @@* MOLL (from character): considers the onion very seriously. Hands it over -- on terms: "Can I stir?" (She can.)
+- GEAR: satchel herbs and salt -- some used @@ (stock not counted).
+- @@* (situation): the pottage on the blue-green fire; the cottage fills with the smell of bacon rind, onion and thyme; Liss watches the pot as if it might vanish. Dusk coming on outside.
+- Cari to LISS (Lee's words, summary): HARROW is not well, has no home; Berra does her best. Rook says he's a talented fisherman; Tom's eager to earn his keep. If Harrow helps Tom catch a mess of eels, would she offer him a PALLET BY THE FIRE and a bowl of the soup? "We must all look after one another in these lean times." Hand on her arm: don't sell yourself short -- a formidable woman in a difficult situation, still the woman of the house, a fine mother and strong example; "Children remember." Going to see that Ebba remembers the knots in Benno's leg. "If I don't see you again, look to the gods, and take the lessons as they come." Hugs her; leaves.
+- NO ROLL (asked, not pressed; Liss is willing from character).
+- @@* LISS (from character): a beat of a widow's caution -- a man by her fire -- and then it goes. "Harrow." Almost a laugh. "He used to bring my Davey eels when Davey was laid up. Before." Firm: "He'll have the pallet, and the soup, and no eels needed." Then the rest lands, and her chin comes up. She hugs back hard. "Tell Ebba I said rub till her arms drop."
+- WKW: LISS agrees to take HARROW in (pallet by the fire), with Tom fishing alongside him.
+- To the MILL at dusk.
+- ASHER NOTE: Cari told Berra "not overnight" -- dusk now; Asher due back to Calder's hearth @@ (Lee's call when).
+- (Back a step) Cari tastes a pinch of Moll's drip off the hearthstone: "More stirring -- slower." Winks. To the mill.
+- Mindspeech to ASHER: make sure everything's settled as it should be at Berra's, then back to Calder at dusk. "Did you have fun?"
+- @@* ASHER (mindspeech, from character -- giddy, then dutiful): "FUN. Two batches. Not ONE caught. She said 'hm' TWICE." A beat. "I did not touch the lard." A shorter beat. "Much." Then: the oven banked even and low for the night; Berra's "Off with you, then" to the oven-mouth; and he goes. BACK in Calder's hearth (the channelled Fax, str 6): "He's asleep. He's holding the pillow like a shield."
+- SENTINEL RESTORED (Calder's hearth, overnight).
+- Cari offers the mill DOG a hand -- may she pet him? (His right to abstain.)
+- @@* DOG (from character, no roll): sniffs her fingers -- bacon rind, onion, thyme -- and is suddenly VERY interested; licks them clean, thoroughly; then shoves his head under her hand for the ears. Decided: in favour.
+- @@* EBBA at the door with a lamp, laughing at him: "Traitor. He's never let the tithe-man near him." Inside: Benno on the cushions by a built-up fire, the goose-fat pot warming, the leg out on its pillow -- ready and waiting.
+- Cari: not a traitor -- "an excellent judge of character"; probably helped she had bacon on her fingers. Sorry if late -- "It has been an...interesting day."
+- @@* EBBA (from character): "Late? We've heard about your day since noon. Half the lane came by the pump." Counting it off, delighted: the Fenns' cold hearth "lit with no wood"; Tom Fenn at Aldy's door asking about reed; "and Garrow Hask was heard TALKING TO HIS FORGE." A look. "Sit. Eat first." A bowl already set by.
+- @@* BENNO (from the cushions, trying to sound bored): "Mam's done it twice today already. She's good." (Ebba has been practising.)
+- Cari (smirk): "Did no one comment on the forge talking *back*?" Takes the bowl; smells it, eyes closed. To Benno: his mother was very good at this last night; she's only here to keep up appearances, so no one realizes he doesn't need her any more. Waits before eating -- making herself remember real hunger (Lee's interior, summary only: not "missed a meal" hungry -- losing weight, foraging for mushrooms and grubs, weighing unknown berries against the pain of hunger). First bite with trembling hands; forces herself to TASTE it.
+- @@* EBBA: "Old Tansy swears it said 'green wood.' Nobody believes Tansy." A beat. "...I do." The bowl @@*: a thick barley pottage with leeks and a little mutton, and a slab of the mill's own bread.
+- @@* EBBA (from character, watching): sees the trembling hands and the way the Sister eats -- slow, careful, every crumb -- and says nothing about it at all. When the bowl is half gone she fills it again without asking, and pushes the bread nearer. BENNO watches too, quiet, and stops pretending to be bored.
+- Cari takes her time -- a bowl of a wife and mother's love, shared like family (like sitting at JORY'S table); meets Ebba's eyes with adoring gratitude -- for the meal, and for the acceptance. Croaks: "Ok." Clears her throat: tonight MAM shows *her* how to do it -- explain the whole thing. Eats slowly; gives them all her attention between bites and earnest prayers of thanks.
+- NO ROLL (the daily work -- accumulated progress, ruled).
+- @@* EBBA'S TEACH-BACK (from character, in her own words): warm the room first; warm the fat with rosemary, "not so hot it bites"; big muscle first, long strokes, "like milking -- move it, don't wring it"; then the calf, "and that's the part that hurts, and that's the part that helps"; find the knots behind the knee -- "the bowstrings"; when they fight, gather it up and POUR it -- and she does, into her own ordinary hearth: Benno insists ("You have to feed it to the fire, Mam, or it comes back"). Rest. Mirror. Ask him.
+- @@* BENNO corrects her twice, smugly ("You forgot the mirror." "You didn't ASK me."). Ebba swats his good leg. Her hands are sure now; she finds the knot before her son flinches.
+- @@* BRAM (in from the mill, flour to the elbows): stands in the doorway watching; then, without a word, kneels at the boy's head again, as last night, his hand on his hair.
+- Cari grins at the hearth's part; watches in silence, ready to correct anything amiss. (GM: NOTHING amiss -- Ebba's hands are right.) "Someone is a right little taskmaster. It's ok to pinch the *good* leg, but I bet you knew that." To BRAM, with a big bite of bread: she's just eating them out of house and home while his lovely wife does her job; keeping up appearances, or people will realize they don't need her any more -- "Right, Ben?"
+- @@* BRAM (from character -- a rare joke, slow): "Eat, then. It's a mill." A beat. "There's more where that came from."
+- @@* BENNO: "Right." Then, not looking at her, into the cushion: "...Come back anyway."
+- Cari rubs Benno's back: it might be a while -- then: does he fish? TOM FENN sets eel lines here; lost a good hook. HARROW's a little better -- Rook says he was a fine fisherman; maybe the boys can get him to teach them and keep each other safe on the bank, especially in the cold; Liss may give Harrow space by her fire and share an eel soup. Waits for the boy to think it over.
+- @@* BENNO (from character): lifts his head. "Tom sets on OUR tail-race. Da lets him." Thinking: "...You don't need legs to SIT." Then, fast, to his father: "Da's got hooks in the tin."
+- @@* BRAM (from character): a long look at his son. "Bank's slick this time of year." A beat. "With Harrow there." Another. "...And not past the second post." It's a yes. Then, grudging, to Cari: "The Fenn lad can have a hook. Two. Davey Fenn pulled me out of that race once, when we were boys."
+- WKW: the OXLEYS know of the Harrow/Tom/eel plan; BENNO to sit-fish the tail-race with Tom and Harrow (not past the second post); BRAM gives Tom two hooks.
+- Cari: lots of little stories like that -- Harrow brought the Fenns eels before the fever; Corran was going to fix Liss's roof before he fell; Tom can cut and hand up reed all day but isn't big enough to thatch; Rook says there are a lot of young men with not much to do this time of year. Grins, chews: "I thought to myself that it seemed odd, with the widow Fenn being kind of pretty."
+- @@* EBBA (from character -- delighted; the pump is her parish): "Oh, there's ONE that's noticed. WAT PRYCE (@@* the roll-keeper's son, muster) has found a reason to walk the Ford road every day since harvest and never once found the nerve to knock." BRAM: "Ebba." (Meaning: don't.) EBBA: "What? He's a good lad. He can climb." BENNO, into the cushion: "Ewww."
+- WKW: EBBA (and so the pump) will put WAT PRYCE and the Fenn roof in the same sentence by morning.
+- Cari pokes Benno on the ticklish spot, good side: most young men think a pretty girl better than honey cakes, and being able to HELP makes them feel like a knight in a story. Points at BRAM: don't deny his delightful wife a chance to matchmake when it's good for everyone whether it works or not; people can be petty, but treat them as reasonable, admirable adults and they tend to try. Sops the bowl with the last heel; an indulgent groan of ecstasy.
+- @@* BENNO: yelps, kicks (good leg), giggles helplessly. BRAM (from character): both hands up, flour and all, in surrender: "I know when I'm beat." EBBA: triumphant; "Wat Pryce. Tomorrow. At the pump." BRAM, to the fire: "Gods help the lad."
+- GEAR NOTE: ROOK'S CAP left at the Fenns' with the pottage @@ (return it).
+- Cari (smug): "We just did." To the ceiling, grinning: "Didn't we?" @@* (ambiguous, by design): the hearth log pops and one spark spirals up the flue, slow, and goes out at the top.
+- Dusts her hands (my labour here is done); stands. To EBBA: an excellent student and a wonderful mother -- and, if her cooking's anything to go by, a fine wife. Kisses Benno's head; stage-whisper: "Get Dunny to help, too. He needs to do some fishing." Hugs BRAM'S enormous arm: thank you for letting her START to set things aright; politics will catch up to her ("how dare I tell people not to let themselves be taken advantage of!!") -- but truth is truth; "*This* is what we are here for. We forge each other, and that we shine in the fire." Bows to them all: hopes to see them again, soon and often. Leaves.
+- @@* BRAM (from character -- muster-captain): stands for her, which he didn't last night. Slow and heavy: "If they come up that road asking about you, Sister, they'll find forty in this town who'll tell 'em what you said. And why." (Witnesses -- the town's answer to the Purification List, whether he knows that or not.)
+- @@* EBBA: hugs her at the door, flour and goose fat and all. BENNO, from the cushions: "...Bye." Then, louder, as the door shuts: "SECOND POST!" (to himself, a promise).
+- Out: night, frost, the river. To the inn yard and the COACH.
+- (At the log's pop: Cari raises her eyebrows and gestures at it -- *See?* LEE: this will become a staple of her persona.)
+- To BERRA'S BACK DOOR to say good night: Ebba fed her like a visiting monarch; full to the gills of miller's bread; but she's had little chance to see Berra and Dunny this trip, and misses them both.
+- NEW SCENE: BERRA'S KITCHEN, night, Day 12. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): Berra at the board setting tomorrow's dough; DUNNY on a stool shelling beans and yawning; HARROW asleep upright on the settle by the oven wall, a cup gone cold in his hands, breathing easy. A second POT on the back of the hearth -- the spare pot: Rook's offering pile already in it (turnip-tops, a bone, Garrow's wood stacked by the door in a barrow).
+- @@* BERRA (from character): "Monarch." A snort. "Sit, then. You'll take tea if you'll not take food." A folded paper from under the salt-box: "Hask brought this. Said you'd know." (GARROW'S LETTER for Hild's sister in Green Haven.) And, not looking at the oven: "Your lodger's gone. Oven's cold without him." It isn't; it's the same oven. She means she noticed.
+- @@* DUNNY (wide awake at once): "TOM FENN says I'm FISHING -- he came by the door on his way back from Mother Aldy's. Is it true? With old Harrow? Mes Berra, can I?" BERRA: "If the pots are done."
+- GEAR: GARROW'S LETTER (folded, sealed with a blob of tallow and his thumb) -> CARI, for Green Haven after midwinter.
+- Cari: tea, and helps DUNNY shell (beans); musses his hair. Takes GARROW'S LETTER respectfully; tucks it away. On Asher: "He *really* loves helping with your oven" -- she pretends he's doing her a favour; he doesn't bother -- "like taking a boy to a swimming hole in summer." To DUNNY: don't forget Benno -- that makes him the oldest but for Mer Harrow -- "the *spryest*"; don't fall in the mill-race; "Not past the second post, ok?" Bounces a bean off him.
+- @@* BERRA: "Swimming hole." A grunt that is nearly a laugh. "He can swim in my oven any day he likes, so long as he minds the lard."
+- @@* DUNNY (twelve, suddenly the eldest): catches the bean, eats it, sits up very straight. "Second post. I'll see to 'em." Then, worried: "Benno can't run if he slips." CARI's answer pending; a beat --
+- @@* HARROW (waking on the settle, rusty, eyes still shut): "Nobody runs on a bank, lad. You SIT, and you WAIT. That's fishing." A wheezy chuckle. "Eels lie past the third post, mind." One eye opens. "But we'll not tell the miller."
+- Cari to HARROW (Lee's words, summary): wait till the cough's done -- no sitting in the cold till he's clear and has a good coat; the widow Fenn will appreciate eels; let her feel like a hostess -- if he fishes and she cooks, he can accept a bowl and a pallet by her fire; take her some of Garrow's wood -- the fire Cari put in her hearth won't last all winter; and don't corrupt Ben -- his father would forbid him, and he NEEDS to be helpful right now, even if it's by enjoying some fishing.
+- @@* HARROW (from character): both eyes open now. "Davey's widow." A slow nod. "Aye, Sister. When the chest's clear." A rusty, honest promise: "Second post." A wink at Dunny that says the third post is a matter for another year.
+- @@* BERRA (correcting, from the board): "Seasoned. Hask says green spits." Then, gruff: "I'll see Harrow's fed till he's fit. After that he's Liss's problem." Meaning: settled.
+- WKW: HARROW agrees -- the Fenn hearth and the eels when he's clear; Rook's da's coat to come.
+- Cari smiles and nods at the wink. Sits and shells beans with Dunny -- as happy as she expects to be for a while. (No roll; a quiet beat.)
+- @@* (situation): the kitchen settles -- Dunny's chatter running down to yawns; Harrow asleep again, easy; Berra's dough under its cloths. Near the end Berra sets a HOT BRICK wrapped in sacking on the stool by the door without a word -- for the coach.
+- Cari pats Berra's arm in thanks; takes the BRICK warm; back to the COACH for another night. Fond thoughts of Aubric's bed; thanks the gods for a cold carriage bench; SLEEPS.
+
+## NIGHT Day 12 -> DAWN Day 13 (Crossroads; rolled in the open)
+- DAWN 13 Korrin's lantern (6, age 2) 0 0 1 0 0 0 = 1 vs 2d 0 1 = 1 -> TIE, HOLDS at 6.
+- DAWN 13 Scry eye (1, age 5) 1 vs 5d 0 0 1 0 0 = 1 -> TIE, HOLDS at 1.
+- DAWN 13 Calder-hearth Fax, channelled (6, age 1) 1 1 0 0 0 1 = 3 vs 1d 1 = 1 -> HOLDS at 6.
+- DAWN 13 Lavabo Fax (2, age 5) 1 1 = 2 vs 5d 1 0 1 1 1 = 4 -> LOSS by 2 -> dims to 0: the LAVABO LIGHT is GONE. (The packet: still in the basin under Holm's plank and the lay brother's watch; no light now.)
+- DAWN 13 Fenn hearth Fax (8, age 1) 1 0 1 0 1 0 1 1 = 5 vs 1d 0 -> HOLDS at 8.
+- IVRO: EL5 0 0 1 0 0 = 1 vs sickness 3d 1 0 1 = 2 -> LOSS by 1 (sickness as ongoing opposition, S10/S11 precedent) -> +1 INJURY: a bad night, coughing. (Net: back where he stood before Day 12's gain @@ check number at the wrap.) Not Down.
+- CALDER: Lv5 0 1 0 1 1 = 3 vs Injury 2d 1 1 = 2 -> EFFECT 1: Injury 2 -> 1 (EL 4).
+- MERRIT: EL5 1 1 1 1 0 = 4 vs Injury 2d 1 0 = 1 -> EFFECT 3: Injury 2 -> 0; Complication CLEARED. NO LONGER DOWN -- mended (the stitches still to come out @@*).
+- HARROW: EL4 0 1 0 1 = 2 vs 1d 1 = 1 -> sickness 1 -> 0: CLEAR. Cough gone.
+- TESSA'S BOY: EL3 0 0 1 = 1 vs 1d 1 = 1 -> TIE: burn stays 1.
+- LINNET @@*: EL3 0 1 1 = 2 vs croup 2d 0 0 = 0 -> EFFECT 2: croup 2 -> 0: CLEAR.
+
+## DAY 13 -- CROSSROADS, DAWN (the road home)
+- NEW SCENE: the COACH / INN YARD, dawn, Day 13. Tokens 4 (cap). Hook budget refreshed.
+- @@* ASHER (mindspeech, dawn report): "The basin light went out. Just faded -- no one touched it; the lay brother's still sat there." "The old man coughed all night -- the library fire heard him. Hollis lay on his feet." "Merrit's UP. Hannet shouted at him and he laughed at her." "This one" (Calder) "slept. Holding the pillow."
+- @@* (situation): frost again; OLWIN already putting the pair to; the basket under the box, filled -- Berra's doing, no one saw her do it.
+- Cari climbs out; "good morning" to OLWIN through a yawn; pats his arm on her way to the shrines, trying to straighten her hair.
+- @@* OLWIN: "Morning, Sister." A beat, puzzled and pleased: "Ostler wouldn't take the second night's coin. Said the first was enough for the both." (The change stays in Olwin's pocket -- hers and his.) "We'll be off when you say."
+- NEW SCENE: the SHRINES, early morning, Day 13. Tokens 4 (cap). Hook budget refreshed.
+- @@* (situation): ROOK at the bowls. Garrow's barrow of SEASONED WOOD stacked by the board -- half gone already. Under the prayer board: a BUNDLE OF REED, fresh-cut, green-gold, tied with twine in a careful boy's knot (TOM'S FIRST). Rook's CAP on its peg, returned (Liss sent Moll with it). Down by the river, a small figure on a stool at the burying ground -- Mother Aldy, talking to a board.
+- Cari walks down to the burying ground to say goodbye to MOTHER ALDY.
+- @@* ALDY (from character): sees her coming; doesn't get up (knees). "He's sleeping sound. I can tell. The board's just a board this morning." Content, not sad. Then, brisk: "The Fenn lad came by yesterday asking about reed. Corran's tools are in my shed -- the leggett, the needles, the shearing hook. I'll show him the knots. I held that ladder forty years; I know every one by watching." A look at Cari: "And Wat Pryce's mother tells me Wat's to go up for Liss Fenn's roof." Sly: "The pump's quick this morning."
+- WKW: ALDY will teach Tom the thatcher's knots with Corran's tools; the Fenn roof is spoken for (Wat Pryce, per the pump).
+- Cari (grin): teach WAT the knots -- fine to pretend she's showing Tom; good for them both. Hugs her: "They are all young -- the Pre... *my father* says youth is wasted on the young. Guide them, Mother. They know the strength of your voice. Teach them their own strength when they take care of each other."
+- SLIP NOTE: "the Pre-- my father" -- said aloud. WKW: ALDY hears only "my father says" (she doesn't know who the Precentor is; nothing gained). Logged for the Ivro secret's sake.
+- @@* ALDY (from character): a cackle into Cari's shoulder. "Wat. Aye. Tom'll think it's him I'm teaching and Wat'll think it's Tom, and the roof'll go on either way." Pats Cari's back twice, hard. "Go on, girl. You've a road." Then, as Cari straightens: "Your father's right. Tell him an old woman said so."
+- CORRECTION (GM error): there is NO "Ivro secret." LEE CANON: IVRO BOUGHT CARI from her "real" father at NINE. He's been kind; she thinks of him as a father figure; "my father" has slipped out a couple of times; IVRO now calls her "DAUGHTER"; even the PRIOR refers to them familially -- everyone knows it's sentiment, an adoption of sorts. TECHNICALLY she is IVRO'S PROPERTY; he's never treated her as anything but a foundling, and no one has, to her knowledge, made an issue of it. (Lee's wink: a possible lever for someone, someday -- NOT advanced; Lee leads.)
+- Strike the "slip note" above as a secret-risk; Aldy hearing "my father" is ordinary.
+- WKW fix: "my father" (S12, Hannet) is NOT a secret either.
+- Back to the SHRINES: a morning prayer, and thanks for the keeper who tends them. Turns to ROOK and BOWS, sincerely.
+- @@* ROOK (from character): doesn't know what to do with a bow from a Sister of the Mountain. Puts his rag down. After a moment, he bows back -- stiff, a carter's son's bow, but a real one. "Come back." Gruff. "Bowls'll be kept."
+- To GARROW'S SMITHY -- open yet?
+- @@* (situation): shutters half up; GARROW at the forge with the bellows, waking it -- with SEASONED wood. The forge comes up bright and clean, no spitting. BELLOWS (fire-speech): "SEASONED. He gave me SEASONED." Garrow sees her and nods; then, without being asked, to the fire: "Morning, you old cinder."
+- Cari: "He's quite pleased with the seasoned wood." She's for the road -- take care, Master Garrow. A nod to the forge: "You as well, Old Bellows. I hope to see you both again soon and often."
+- @@* GARROW: "I'd guessed." A grunt that is nearly a smile. "Road's dry to the ford. Mind the third bend." (He's heard the same as Ruddock.) "Soon and often."
+- @@* BELLOWS (fire-speech): "Go on, then. Bring the bossy one back. I want to hear about his OVEN." Then, quieter: "...Thank you, girl."
+- Another bow to the forge. To the FENN COTTAGE -- anyone awake?
+- NEW SCENE: the FENN COTTAGE, early morning, Day 13. Tokens 4 (cap).
+- @@* (situation): warm (the Fenn hearth holds at 8); the pot scraped clean; LISS up, nursing LINNET by the fire -- no bark, no whistle, the baby feeding greedily; MOLL asleep on the pallet, the onion-stirring spoon still in her fist. TOM out since before light -- "cutting reed, the pest, in the frost, with his da's knife" (the bundle at the shrine). Liss looks like a woman who slept: still thin, still tired, but the grey is gone out of her face.
+- Cari: there was already a bundle at the bowls. Strokes Linnet's hair -- satisfied. Checks LISS (eyes, temperature; no roll): underweight and tired, no fever. "You need to eat more." The nursing baby alone requires that SHE eat; trust Tom to get more -- "He's a sharp lad." Conspiratorial: EBBA has decided to play MATCHMAKER. Laughs at Liss's face; don't dismiss it out of hand -- she's a lovely young woman; no need to lead a young man on to admit he's *interesting*; no disgrace to the children's father for her to have comfort if she wants it.
+- @@* LISS (from character): the face, exactly as expected -- "EBBA Oxley--" Then: "...Who?" At "Wat Pryce" she goes scarlet to the ears. "He walks past every day. I thought he was going to the ford." A long beat. "There's nothing at the ford." Then, quieter, looking at the fire: "Davey's not a year gone." She listens to the rest without arguing. At the end, very small, almost a laugh: "...He does carry a lot of reed."
+- Cari to LISS: "Help them. All of them. We are stronger together." Kisses her brow with an earnest blessing. Leaves.
+- @@* LISS: "Gods keep you on the road." Moll doesn't wake.
+- To the INN to return BERRA'S BRICK: "I had no idea this was a thing. Gods bless you for teaching me this."
+- @@* BERRA (from character): takes the brick, sets it back in the oven's mouth to heat for the next one who needs it. "Every inn on the north road does it. Nobody tells the Sisters, is all -- you've always had the guest-house." A look. "You'll know now." Then the basket: "That's for the road. Don't argue." DUNNY at the yard pump, already shouting to Tom across the square about EELS.
+- Cari takes the BASKET with a grin and says nothing. GEAR: road basket (Berra's) -> the coach.
+- Back to OLWIN: "Any last minute items to attend?"
+- @@* OLWIN (from character -- honest): "Pair's watered. Lamps full. Wheels greased." Then he digs in his coat and holds out her own little purse, the string tied: "Yours. What the ostler wouldn't take." (Her coppers back, less the one night's fee; his own kept separate.) Waits, hand out.
+- GEAR: Cari's PURSE (her coppers, less one night's stabling) -- offered back by Olwin; pending her taking it.
+- Cari takes the PURSE back (thinking it could help someone here; sets her jaw -- she's done what she can for now; holds on to it; WON'T count it). GEAR: purse (coppers, uncounted) -> CARI.
+- Up on the BOX with Olwin. Waits till they're out of town to open the basket.
+- NEW SCENE: the ROAD NORTH, morning, Day 13. Tokens 4 (cap). Hook budget refreshed.
+- @@* LEAVING (situation, no roll): across the square in the black coach with the orange daub -- this time the square looks. Rook lifts his rag. Dunny and Tom at the pump wave both arms. At the forge a gout of sparks goes up the flue as they pass. Ebba at the mill-lane corner with the dog. Nobody spits.
+- @@* THE BASKET (out past the last farm): a loaf, cheese, cold mutton pasties, apples, a stoppered bottle of small beer -- and, tucked down the side in a twist of cloth, a fresh bundle of DRIED HERBS (thyme, sage, bay, rosemary) and a twist of SALT. (Berra noticed her empty her satchel into the Fenns' pot.) No note.
+- GEAR: satchel herbs and salt RESTOCKED (Berra).
+- Cari hands OLWIN an apple. @@* He takes it with a nod, polishes it on his coat, eats it core and all, still whistling between bites.
+- LEE: SESSION WRAP. Paused on the road north, morning of Day 13, off the Crossroads farmland into the forest; the switchbacks and the Mountain ahead (arrival by evening).
+
+## WRAP (S13) -- pending Lee
+- KARMA (karma.md): carried 1 spendable + ATTENDANCE 1 + NO HOOK TRIGGERED this session (every scene logged "no trigger") -> the apology Karma 1 = 3 spendable. Pinned (unchanged): 1 -> Level 5, 1 -> Loremaster. GM PROPOSES +1 GOOD FUN (Corran laid to rest; Garrow and Bellows) -> 4 if Lee accepts.
+- ASHER: 1 Karma from his 7-die Extreme -> AURA READING (RAW: the skill used) or DISPLAY (Lee's choice; note S08 ruling: Display is built in at base rank for spirits). AWAITING LEE.
+- PLAN: S13 gap log; S14 handoff + resume brief; current sheet; Tenets lore (Orange cords and loops); quote sheet (S13 sayings).
+- LEE: ASHER -> AURA READING (rank 1) at the wrap. Didn't notice no Hook triggered ("she was busy"); didn't self-Hook; "sometimes it's good to just have things go along ok." GOOD FUN +1 implicitly accepted -> 4 spendable. Q: "What could I get with 4?"
+- RULES READ: spending-karma.md -- LEVEL costs the NEW Level (L5 = 5); everything else costs its CURRENT rating (Rank 2 -> 3 costs 2); nothing above Level; Maneuvers not above their Role; ONE score per session by default, at the end; can't KEEP more than the next Level's cost; Level needs Rested and fully healed.
+- SHEET ERROR FOUND: the sheet says "Loremaster 2 -> 3 costs 3" -- by spending-karma.md it costs 2 (current rating). (S11 purchases match the rule: Healer 3->4 = 3K; Spell Improvisation 2->3 = 2K.)
+- OPTIONS (4 spendable + pins): LEVEL 5 = 5 (1 pinned + 4) -- exactly; she has no Harm. LOREMASTER 3 = 2 (1 pinned + 1), with the deferred DOGMA & RELATED LORE; banks 3. Others: Performer 3->4 (3); Naturalist 1->2 (1); a new Maneuver at rank 1 (1) -- open slots Conjuror 3, Performer 2, Healer 2, Spellweaver 1.
+- LEE BUYS: LEVEL 4 -> 5 (5K: 1 pinned + 4 spendable). Wants Loremaster (Dogma & Related Lore) -- deferred again; L5 "probably where she'll be for a while, shoring up Roles and Maneuvers." (Naturalist: used for talking points a lot, never rolled.)
+- KARMA AFTER: 0 spendable. PINNED: 1 -> LOREMASTER (2 -> 3 costs 2; needs 1 more).
+- LEVEL 5 EFFECTS: every EL +1; Token cap 5; Down when Harm > 5; untrained EL 5; Roles may now rise to 5.
+- ASHER: +1 Karma -> AURA READING 1 (his first Maneuver of perception).
+- WRAP FILES WRITTEN (2026-10-20): S13 Gap Log (S13 entries); S14 HANDOFF (Start Here); S14 GM Resume Brief; Current Sheet (S13 END, LEVEL 5); Tenets lore (Orange cords and loops; S13 wear); Quote sheet (Crossroads sayings). Synced to the Project and the PC folder.
+- END OF S13.
+- POST-WRAP (Lee, OOC): forgot to ask after KADE in Crossroads -- Cari expected him to ride back with them. RECORD CHECK (S11 l.559, S12 Asher report): Kade escorted Fennick and Wenna "as far as Crossroads," left the train at the fork Day 8; must answer to the Almoner; Hollis stays with Cari. Nothing since. Where he is: UNDECIDED -> S14 Resume Brief, open threads.
