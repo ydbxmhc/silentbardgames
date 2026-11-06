@@ -18,7 +18,7 @@ Each entry: **[STATUS] Short title.** The ruling or question. *(Where it came fr
 
 Updated 2026-10-22: the four conflicts in section 23 resolved.
 Updated 2026-10-30: the late S14 rulings (Days 15-18) folded in.
-Updated 2026-11-06: healing by petition (sec 9), from the S17 talk.
+Updated 2026-11-06: healing by petition (sec 9); improvised cast EL and recast EL (sec 11); attendance Karma timing (sec 7) -- from the S17 talk.
 Updated 2026-11-04: the S15 rulings folded in (tagged S15).
 Updated 2026-11-06: the S16 rulings and Lee's S16 opposition guidance folded in (tagged S16); new section 25, the GM crib.
 
@@ -194,6 +194,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] "Use it to grow it," reaffirmed and sharpened** (S15 wrap). A "New" purchase is a Role or Maneuver NOT justified by the session's rolls or at least by relevant story events: Reputation after a public triumph is justified; Athlete for Riding after riding is justified; a sudden rank of Warrior is New. Advancing base Level is ALWAYS the New one. *(S15)* -> spending-karma.md sidebar, with the default "one score per session" beside it.
 - **[RULED] Good Fun, the solo reading** (answers the UNCLEAR above). Good Fun is the GM's discretionary pat on the back for good, vicarious, MEMORABLE roleplaying; it needn't be handed out every session. Its purposes: to reward and encourage uninhibited play, and as a GM BALANCE THROTTLE -- gently loading slower earners with a little extra Karma when others at the table are getting ahead. With one player it matters less and should go only to moments that stand out; two in most sessions is fine. *(S16, Lee)* -> karma.md, beside Good Fun.
 
+- **[RULED] Attendance Karma timing.** karma.md's "can't spend it on advancement till they get some downtime" means not BEFORE the session starts; spending it at session start is fine. *(S17 talk, Lee)* -> karma.md: say so.
+
 ## 8. Harm, Down, recovery, death
 
 - **[RULED] Harm counts against EL** (harm.md) -- Complication and Injury alike penalize any roll they sensibly apply to; they differ only in how they clear. Hindrances reduce EL but don't count toward Down. *(S06 Pt2; notes)* -> harm.md beside the type definitions.
@@ -244,6 +246,8 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 ## 11. Spellcraft: casting, improvisation, release
 
 - **[RULED] Improvised casting is TWO rolls, always.** (1) HOLD: a free-action resistance roll against the spell destabilizing, vs DL = 1 per added useful Trait (limiting Traits subtract); pass/fail; fail = the spell is lost until rebound. Hold EL = the spell's EL + Spell Improvisation. (2) CAST at full power; the hold doesn't reduce its effect. "I don't want to make it more effective by making it less effective." *(S04, S06 Pt2, S10, S11; notes)* -> shaping-effects.md: "then roll the cast normally."
+- **[RULED] The improvised CAST is at the plain recast EL; Spell Improvisation raises only the HOLD.** A Persistent Fax at recast 11 casts at 11, "NOT 13." The hold is a separate roll, only to add the modification and keep it stable; fail = the bound spell is lost (full ritual only until re-bound). Attempting the modification SNUFFS the caster's outstanding non-Persistent castings of that spell; Persistent ones survive. *(S17 talk, Lee; corrects the S15 Persistent recipe, which cast at the improvising EL)* -> shaping-effects.md.
+- **[IN BOOK] Recast EL = Level + ALL unbound Role ranks + ranks bound in the spell + all its Maneuver ranks** (spellcraft.md, Recasting). Cari's sheet had dropped the bound rank since about S14 (one die short). *(S17)*
 - **[RULED] Required Traits count toward Difficulty.** Scry as written is DL5; playtest: Guidable optional (+1), so DL4 base. *(S11; notes)* -> the Difficult-spell text.
 - **[RULED] Holding is not casting.** When the hold succeeds, the "casting" roll is the work itself (Scry: the seeking, at a GM-set DL). Scrying your own location is Astral Projection. *(S11)*
 - **[RULED] Gathering mana** = a Spellweaver Boost on free/unbound ranks, opposed by the place. It goes on the hold or the cast, not both -- ask first; normally the cast. A poor source gives nothing (a dung fire tied). *(S06 Pt2, S13; notes)* [PROPOSAL @@*] An object soaked in a deed (Olwin's cudgel) as a gather source could lower the place's opposition or add a die when the spell matches the deed. *(S10)*
