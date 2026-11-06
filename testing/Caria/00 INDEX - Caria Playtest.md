@@ -94,11 +94,11 @@ Latest handoff: `2026-11-06 HANDOFF - Caria Playtest - S17 Start Here (start a n
 | S16 | Ledger | 2026-11-04 | 2026-11-04 GM ONLY - Caria Playtest - S16 Ledger (spoilers).md |
 | S16 | Resume brief | 2026-11-04 | 2026-11-04 GM ONLY - Caria Playtest - S16 Resume Brief (spoilers).md |
 | S17 | Handoff | 2026-11-06 | 2026-11-06 HANDOFF - Caria Playtest - S17 Start Here (start a new chat with this).md |
+| S17 | Ledger | 2026-11-06 | 2026-11-06 GM ONLY - Caria Playtest - S17 Ledger (spoilers).md |
 | S17 | Resume brief | 2026-11-06 | 2026-11-06 GM ONLY - Caria Playtest - S17 Resume Brief (spoilers).md |
 | -- | Cast | 2026-10-01 | 2026-10-01 GM ONLY - Cast Card (spoilers).md |
 | -- | Cast | 2026-10-11 | 2026-10-11 GM ONLY - NPC Frames (spoilers).md |
 | -- | Character | 2026-10-01 | 2026-10-01 CHARACTER - Caria Greenhaven (master file, all sessions).md |
-| -- | Character |  | CHARACTER - Caria Greenhaven - Current Sheet (basics).md |
 | -- | Character |  | CHARACTER - Caria Playtest - Caria Greenhaven - Current Sheet (basics).md |
 | -- | Index |  | 00 README - Caria Playtest Index.md |
 | -- | Lore | 2026-10-18 | 2026-10-18 LORE - Rikitak - Scripture and Sayings (quote sheet).md |
@@ -115,11 +115,11 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 
 | Name | Kind | Note | First seen | Ledgers that mention it | Other files |
 |---|---|---|---|---|---|
-| Caria Greenhaven (Cari) | person | The PC. Initiate of Rikitak, nineteen; the white lock; Reader of the Charter (S15) | S01 | S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Index, Lore, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
-| Ivro | person | The Precentor; keeps the library; bought Cari at nine and calls her "daughter" | S01 | S01, S02, S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Lore, Prep, Resume brief, Session summary, Who Knows What, Transcript |
+| Caria Greenhaven (Cari) | person | The PC. Initiate of Rikitak, nineteen; the white lock; Reader of the Charter (S15) | S01 | S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16, S17 | Cast, Character, Gap log, Handoff, Index, Lore, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
+| Ivro | person | The Precentor; keeps the library; bought Cari at nine and calls her "daughter" | S01 | S01, S02, S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S09, S10, S11, S12, S13, S14, S15, S16, S17 | Cast, Character, Gap log, Handoff, Lore, Prep, Resume brief, Session summary, Who Knows What, Transcript |
 | Aldric Feyne (the Prior) | person | The Prior of the house; the frost-mark on his forearm | S01 | S01, S02, S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S10, S11, S12, S13, S14, S15, S16 | Character, Gap log, Handoff, Lore, Resume brief, Session summary, Transcript |
 | Hannet (Hannet Mawr) | person | Infirmarer; Cari trained under her | S01 | S01, S02, S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S10, S11, S12, S13, S14, S15, S16 | Character, Gap log, Handoff, Resume brief, Transcript |
-| Holm | person | Sacrist; keeps the keys, the church and the burying-roll | S11 | S11, S12, S13, S14, S15, S16 | Handoff, Resume brief |
+| Holm | person | Sacrist; keeps the keys, the church and the burying-roll | S11 | S11, S12, S13, S14, S15, S16 | Character, Handoff, Resume brief |
 | Odo | person | The Prior's clerk (not Almoner Odo Brask -- AMBIGUOUS first name) | S01 | S01, S02, S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S11, S12, S13, S14, S15, S16 | Cast, Handoff, Resume brief, Session summary, Transcript |
 | Mags | person | Runs the kitchen; the ladle; never asks how you are | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Prep, Resume brief, Session summary, Transcript |
 | Tilda | person | Kitchen girl | S10 | S10, S11, S12, S13, S15, S16 | Handoff, Resume brief |
@@ -133,12 +133,12 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 | Edwy | person | Brother; "So will I" | S14 | S14, S15, S16 | Handoff, Resume brief |
 | Lisle | person | Keeps the guest range ("Mouse") | S14 | S14, S15, S16 | Character, Handoff, Resume brief |
 | Teague | person | Young brother; Cari has his staff to return | S11 | S11, S12, S13, S15, S16 | Character, Gap log, Handoff, Lore, Resume brief |
-| Ruddock | person | The house's strong arm | S11 | S11, S12, S13, S14, S15, S16 | Character, Handoff, Resume brief |
+| Ruddock | person | The house's strong arm | S11 | S11, S12, S13, S14, S15, S16, S17 | Character, Handoff, Resume brief |
 | Wystan | person | Old brother; sweeps the guest chapel | S10 | S10, S11, S12, S13, S14, S15, S16 | Handoff, Resume brief |
 | Olwin | person | The stables | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Lore, Resume brief, Session summary, Setting, Transcript |
 | Osric | person | Porter at the lower gate | S10 | S10, S11, S12, S14, S15, S16 | Gap log, Handoff, Resume brief |
-| Dace | person | Runs the crew outside the gate and on the road | S14 | S14, S15, S16 | Handoff, Resume brief |
-| Piers | person | Dace's man at the third bend; the horn | S15 | S15, S16 | Resume brief |
+| Dace | person | Runs the crew outside the gate and on the road | S14 | S14, S15, S16, S17 | Handoff, Resume brief |
+| Piers | person | Dace's man at the third bend; the horn | S15 | S15, S16, S17 | Handoff, Resume brief |
 | Tobin (Tobin Marle) | person | The Almoner's clerk; his private tally | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Resume brief, Session summary, Setting, Who Knows What, Transcript |
 | Odo Brask (Brask) | person | The Almoner; put out of the house (S15) | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S10, S11, S12, S13, S14, S15, S16 | Cast, Gap log, Handoff, Prep, Resume brief, Session summary, Who Knows What, Transcript |
 | Voss Calder (Calder) | person | The Hierarch; put out of the Order (S15), taken to Ganth | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Lore, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
@@ -153,7 +153,7 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 | the undercroft | place | Under the west range | S11 | S11, S12, S14, S15, S16 | Handoff, Resume brief |
 | the west wing (west range) | place | Where the sureties were kept | S01 | S01, S02, S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S11, S14, S15, S16 | Handoff, Resume brief, Session summary, Transcript |
 | the burying-ground (burying ground) | place | Behind the church, north side; the yew | S13 | S13, S15, S16 | Resume brief |
-| third bend | place | The road shrine below the gate; the pewter holder | S13 | S13, S14, S15, S16 | Gap log, Handoff, Resume brief |
+| third bend | place | The road shrine below the gate; the pewter holder | S13 | S13, S14, S15, S16, S17 | Gap log, Handoff, Resume brief |
 | the garth | place | The cloister garden; the old fountain's flags | S01 | S11, S12, S13, S14, S15, S16 | Lore, Resume brief, Transcript |
 
 ### Crossroads
@@ -196,7 +196,7 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 | Wenna Tarro (Wenna) | person | Twelve; the surety Cari brought out | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Lore, Prep, Resume brief, Session summary, Who Knows What, Transcript |
 | Piran Tarro (Piran, Kindle) | person | Wenna's brother, dead six years; buried under the false name "Kindle"; taken home (S15-S16) | -- | S15, S16 | Character, Handoff, Lore, Resume brief |
 | Hamm | person | The Tarros' carter | S15 | S15, S16 | Handoff, Resume brief |
-| Korrin (Dasha Korrin) | person | Runs the caravan; Jem's guardian | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Index, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
+| Korrin (Dasha Korrin) | person | Runs the caravan; Jem's guardian | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16, S17 | Cast, Character, Gap log, Handoff, Index, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
 | Ondry Corvane (Corvane) | person | Salt-merchant | S06 | S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S13, S15, S16 | Cast, Character, Resume brief, Session summary, Setting, Who Knows What, Transcript |
 | Bryony Corvane (Bryony) | person | Ondry's daughter | S06 | S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S15, S16 | Cast, Character, Index, Resume brief, Session summary, Who Knows What, Transcript |
 | Fennick | person | A clerk who keeps copies of the truth | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15 | Cast, Character, Gap log, Handoff, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
@@ -215,7 +215,7 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 | Hal Pellow (Hal) | person | (not Harl) | S06 | S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative) | Cast, Resume brief, Session summary, Setting, Transcript |
 | Jory (Jory Pellow) | person | Sixteen; the collarbone | S05 | S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S13, S14, S15 | Cast, Character, Design note, Gap log, Handoff, Prep, Resume brief, Session summary, Setting, Transcript |
 | Annet Fallow (Annet) | person | Gutting tables | S06 | S06 Part 2, S1-S7 (cumulative), S08 | Cast, Gap log, Setting |
-| Cobb | person | The beekeeper; the permanent hearth | S06 Part 2 | S06 Part 2, S1-S7 (cumulative), S08, S09, S11, S13, S14, S15, S16 | Cast, Character, Design note, Handoff, Resume brief, Setting, Who Knows What |
+| Cobb | person | The beekeeper; the permanent hearth | S06 Part 2 | S06 Part 2, S1-S7 (cumulative), S08, S09, S11, S13, S14, S15, S16, S17 | Cast, Character, Design note, Handoff, Resume brief, Setting, Who Knows What |
 | Thimble | spirit | Brownie keeping Cobb's skeps | S08 | S08, S14, S15 | Cast, Character, Resume brief, Setting, Who Knows What |
 | Gallows Teeth (the Teeth) | place | The boulder field west of the village | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08 | Cast, Character, Resume brief, Session summary, Setting, Transcript |
 
@@ -223,8 +223,8 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 
 | Name | Kind | Note | First seen | Ledgers that mention it | Other files |
 |---|---|---|---|---|---|
-| Asher | spirit | Cari's ember sprite, called by True Name | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16 | Cast, Character, Gap log, Handoff, Lore, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
-| Green Haven (Greenhaven) | place | Cari's home village | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16 | Character, Handoff, Index, Lore, Prep, Resume brief, Session summary, Transcript |
+| Asher | spirit | Cari's ember sprite, called by True Name | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16, S17 | Cast, Character, Gap log, Handoff, Lore, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
+| Green Haven (Greenhaven) | place | Cari's home village | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S12, S13, S14, S15, S16, S17 | Character, Handoff, Index, Lore, Prep, Resume brief, Session summary, Transcript |
 | Eidolon (the Founder) | person | The Founder of the Order | S06 | S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S10, S11, S12, S13, S14, S15 | Cast, Gap log, Handoff, Lore, Resume brief, Transcript |
 | Rikitak | spirit | God of Strife and Healing | S01 | S01, S02, S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S09, S10, S11, S12, S13, S14, S15, S16 | Character, Gap log, Handoff, Index, Lore, Prep, Resume brief, Session summary, Setting, Who Knows What, Transcript |
 
@@ -232,7 +232,7 @@ Names flagged AMBIGUOUS in the note are shared by two people; the counts mix the
 
 | Name | Kind | Note | First seen | Ledgers that mention it | Other files |
 |---|---|---|---|---|---|
-| Weeping Court | place | The fey house in the woods on the road north | S04 | S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S08, S11, S13, S15, S16 | Character, Handoff, Index, Prep, Resume brief, Session summary, Setting, Transcript |
+| Weeping Court | place | The fey house in the woods on the road north | S04 | S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S08, S11, S13, S15, S16, S17 | Character, Handoff, Index, Prep, Resume brief, Session summary, Setting, Transcript |
 | Tam | person | Caravan hand; goat jokes | S03 | S03, S04, S05, S06 Part 2, S1-S6 (cumulative), S1-S7 (cumulative), S08, S09, S10, S11, S15 | Cast, Character, Design note, Gap log, Handoff, Resume brief, Session summary, Setting, Who Knows What, Transcript |
 | Tanner's Fords (Tanner's Ford) | place | On the road north | S04 | S03, S04, S05, S1-S6 (cumulative), S1-S7 (cumulative), S08, S14, S15 | Cast, Character, Gap log, Handoff, Index, Lore, Prep, Resume brief, Session summary, Setting, Transcript |
 
