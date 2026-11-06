@@ -2,7 +2,7 @@
 
 This is the one living sheet, holding current numbers only. Update it in place whenever anything changes. History, every advancement, the Accords ledger and open threads live in the master file (`2026-10-09 CHARACTER - Caria Greenhaven (master file, through S08).md`) and in the session ledgers.
 
-**Current as of:** S15 END (night of Day 27, asleep in Tessa's cottage at Crossroads). Updated 2026-11-04.
+**Current as of:** S16 END (late afternoon, Day 29, asleep at Ivro's feet in the Precentor's study). Updated 2026-11-06.
 
 ---
 
@@ -19,9 +19,9 @@ This is the one living sheet, holding current numbers only. Update it in place w
 | | |
 |---|---|
 | Level | **5** |
-| Luck Tokens | Session start: reset to cap. **1 at the start of every scene** if there's room. Cap = Level (**5**). Tokens may exceed the cap from Extremes or GM kudos. Anyone may spend a Token on ANY roll. **S15 ended at 4; S16 opens at 5.** |
+| Luck Tokens | Session start: reset to cap. **1 at the start of every scene** if there's room. Cap = Level (**5**). Tokens may exceed the cap from Extremes or GM kudos. Anyone may spend a Token on ANY roll. **S16 ended at 5; S17 opens at 5.** |
 | Down | when Injury + Complication > **5** |
-| Karma | **0** banked. (S16 attendance due at the start.) |
+| Karma | **4** banked, UNSPENT (S16 wrap; Lee choosing purchases at S17 start). (S17 attendance due at the start.) |
 | Harm | **none.** |
 | Armor | **1** (brass breastplate, bracers, boots). Breastplate and armour are in the LIBRARY; she wears the BRACERS on the road (Plot Armor [Lee]). |
 
@@ -35,6 +35,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
   - **ARTIFICE 2 -> 3** (2).
   - **TRAUMA CARE 1 -> 2** (1), RENAMED **TRAUMA HANDLING** (healer.md: emergency procedures, wound treatment, triage).
   - No "New" purchase taken. 0 banked.
+- **S16 wrap (2026-11-06):** Karma 4 = 1 attendance + 1 apology (no Hook trigger: both Hook taps were wanted) + 2 Good Fun (the sunrise consecration; the cell shown unkind). **Unspent.** Used in S16 (eligible): Loremaster 3->4 (3); Conjuror 4->5 (4); True Name of Asher 4->5 (4); Fax Iacta 2->3 (2); Spell Improvisation 3->4 (3); plus one New (Healer appeared in fiction only -- bone-washing with Hannet).
 - **House rule [Lee, S15]:** each session, advance anything she actually USED as far as Karma allows, plus ONE "New" (a Role or Maneuver not justified by the session's rolls or story). Advancing base Level is always the New one.
 
 ## Hook
@@ -70,10 +71,11 @@ This is the one living sheet, holding current numbers only. Update it in place w
 - **Astral Display; Scry mirror [Lee, S14]** -- as before.
 - **Dawn rule:** strength vs Nd (N = age). A loss DIMS by the margin; a TIE holds; an Extreme FAILURE on its own roll SNUFFS; an Extreme SUCCESS on its own roll, or an Extreme FAILURE on the AGE dice, RESETS its age to 1.
 - **Dismiss vs Release:** dismissing gives nothing back (no roll if seen; at range unseen, roll only if dramatic); RELEASE unbinds and buys a free action.
-- **Running castings (before the Day 28 dawn):**
-  - **Korrin's brass lantern** (Fax 7, age 6), in a Ganth market yard.
-  - **BEND #2** in the pewter holder at the third-bend shrine (Fax 12, age 3).
-  - **The CROSSROADS SHRINE light** (Fax 8, age 1) -- free-standing over the bowls, set Day 27 dusk; Asher witnessed her vow in it.
+- **Running castings (before the Day 30 dawn):**
+  - **Korrin's brass lantern** (Fax 7, age 8), in a Ganth market yard.
+  - **BEND #2** in the pewter holder at the third-bend shrine (Fax 12, age 5) -- burning BEHIND the fallen lintel (the niche broke in the Day 29 frost).
+  - **The CROSSROADS SHRINE light** (Fax 8, age 3) -- free-standing over the bowls, set Day 27 dusk; Asher witnessed her vow in it.
+  - **ENDED S16:** the GRAVE light on Piran's blank stone (Persistent 4, Day 28 night; dismissed Day 29).
   - **ENDED S15:** Kade's staff (dismissed, Day 18); Lavabo #3 (dismissed, Day 24); the Fenn hearth (out at the Day 25 dawn); the Calder-hearth (dismissed, Day 26); the Scry eye on Pellam's key (@@ not carried in S15's running lists -- treated as ended).
   - **Permanent:** Cobb's hearth (Fax 3, anchor line); the Weeping Court hearth.
 
@@ -85,6 +87,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
 - **The Hurting Potato (S14):** a Veil glamour that sends a patient's pain "down the scarf into the potato" -- its effect counts as a BOOST to the surgery.
 
 ## Gear
+- **S16 changes:** the COUNCIL OF CROSSROADS' ANSWER -> the PRIOR's desk (Day 28, unopened). In the LIBRARY: the YELLOW (worn Day 29), WHITE, RED, ORANGE as before; the silver hairpin. The rest as listed.
 - **With her (Day 27 night, at Tessa's):** the PILGRIM's GREY, BLUE SASH, boots, a warm cloak, the **ORANGE** (Healer's robe); BRACERS; the **PARAZONIUM** (back from Ruddock, Day 23); the short brass-bound STAFF; the SATCHEL (lying-in kit remainders; her LINIMENT crock; a bronze ear-scoop and loop); **WENNA's TALLY** ("OWED: to the Sister with the white hair -- one door opened. PAID: --"); **the COUNCIL OF CROSSROADS' ANSWER** to the Prior (sealed: red wool, cross-in-ring, three thumbs -- Pryce, Bram, Garrow); her PURSE (a few coppers; @@ Jem may still hold it); the hairpin.
 - **At the Monastery, the LIBRARY** (she sleeps on the day-bed by the west wall; Aubric's room went to Lisle for guests): the Colours (White, Yellow, Red, Blue silk robe, White sash); breastplate and armour; notebooks and letters; GARROW's LETTER for Green Haven; the **BRONZE MIRROR** on the shrine desk by Asher; MAGS's MORTAR (the library shrine); IVRO's good ink-horn (to return) and his little honey-pot (a gift).
 - **Elsewhere:** MIRA's HAG-STONE -> JEM. The Hierarch's LEAD TOKEN (@@ check the S15 ledger, Day 24 l.2240, for where it rests). Teague's staff -- to return @@.
@@ -95,7 +98,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
   - Distance is nothing to him. Keeps a SHRINE in the library. Day 27 night: on a self-appointed ROUND of Crossroads hearths (the shrine light, Aldy's kettle, Wynn's twins, Old Bellows).
   - **Witnessed her vow** at the Crossroads shrine (Day 27) -- "I'll keep it like a name."
   - **Accords:** offerings freely given build the bond, not debts; his self-appointed duties are his own (no debt).
-- **Jem** (14): at Crossroads, sleeping by Mother Aldy's fire on chores, with Tessa's boy Robbie. Holds Mira's hag-stone (has seen Bellows through it). Her friend and apprentice.
+- **Jem** (14): at the MONASTERY (rode up Day 28; carried Mes Tarro's valise). Holds Mira's hag-stone (has seen Bellows through it). Her friend and apprentice.
 - **Hollis** -- with KADE.
-- **Olwin**: the Monastery stables. **Dove** (the grey mare) and **Thistle**: at Berra's inn yard.
-- **Riding with her on Day 28:** ILSE TARRO, Wenna's mother.
+- **Olwin**: the Monastery stables. **Dove** (the grey mare) and **Thistle**: back in the Monastery stables (Day 28).
+- **The Tarros** (ILSE and OLEF) took Piran home to Ganth, Day 29. Ilse will send when Wenna is ready to be told.

@@ -512,5 +512,13 @@ New chat, 2026-11-04/05 (Wed night into Thu, ~midnight CT). Continues the S15 Le
 - Present: Cari; IVRO. ASHER (back to the shrine desk / coal @@).
 - @@* IVRO (from character -- dry, fond, the teacher; "daughter" in private): in his chair by the brazier with a book he isn't reading; looks up as she comes in grey and red-eyed in the Yellow. Says nothing at all. Moves his feet a little to make room on the rug. When she's curled there, he lays the rug from his own knees over her, one-handed, and then his hand on her hair, and leaves it there. After a long while, very low, the only thing he says: "...Well done, daughter." Then he turns a page he doesn't read, so she'll think he's reading.
 - SLEEP: Cari asleep at Ivro's feet, late afternoon Day 29. (Vespers @@ -- the Prior said lie down "before Vespers"; she may sleep through it -- the house will let her.)
-- (Pending Lee.)
+- SESSION ENDS here (Lee, Day 29 late afternoon, 2026-11-05 ~23:00 CT).
+
+## WRAP (2026-11-06, with Lee at work, by web)
+- KARMA 4 = attendance 1 + apology 1 (no unwanted-attention trigger; both Hook taps wanted) + Good Fun 2 (GM's award [Lee: "still yours to award"]: the sunrise consecration; the cell shown unkind). UNSPENT -- Lee choosing. Used (eligible): Loremaster 3->4 (3), Conjuror 4->5 (4), True Name of Asher 4->5 (4), Fax Iacta 2->3 (2), Spell Improvisation 3->4 (3); one New.
+- Tokens end 5. Castings (before Day 30 dawn): Korrin 7 (age 8), Bend #2 12 (age 5, behind the fallen lintel), Crossroads shrine 8 (age 3). Grave light ended. The Cold Down, Harm 11.
+- LEE's S16 REVIEW (system): opposition by Context x Drama around EL-2; frame NPCs and THINGS (Thornwall, action/athlete.md); Progress subtracts from the opposition's EL (GM had missed it); the opposition acts; mismatches fast (action/warrior.md); scenes called on purpose; any dice mechanism (the d12 ogre); side effects in the realm of the roll, wide GM leeway ("I liked all of those"); Good Fun solo reading. FORMAT: end beats on pressure; OOC cut points as a yes/no with a default; no prompting. S17 = the MICROSCOPE session.
+- All folded into the register (repo branch claude/playtest-rulings-register, sec 1, 2, 4, 5, 7, 9, 15, 19, 21, and new sec 25 GM crib). Gap log, S17 brief, S17 handoff, sheet: saved 2026-11-06 (repo testing/Caria, PC folder, Project).
+- GM self-review (owned): never opened /L1 in play; small inconsistent pools; effect tiers = ladders.
+
 - (old) TIERS of the leash read: effect OVER 2 = all of the above (fastened through the name; undo the name and it slips; a direct cut would be felt and remembered); effect 2 = the same, finest detail held back (what a direct cut would cost); effect 1 = the leash is thin and slack; a cut looks feasible; she can't tell where it's fastened; 0 or less = tired eyes; can't make it out.
