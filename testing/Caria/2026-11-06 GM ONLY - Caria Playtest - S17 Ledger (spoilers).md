@@ -19,7 +19,9 @@ Rules read before play (S17, this chat): mechanics, dice, resistance-and-opposit
 
 ## OOC, between beats (2026-11-06)
 - [Lee] RULED as an OPTION ("one way to keep magical healing interesting"): HEALING BY PETITION, a new Trick for Cari. Ceremony; Conjuror at EL minus a Wager; the Wager IS the answering spirit (residual roller, cap = Conjuror rank) making a recovery roll vs the wound's DL; what it removes passes to Cari as-is; no armor or Plot Armor, a Token to absorb a point is fine. Full text: register sec 9. Later: Maneuvers that raise the petition's EL but not the cap. To true up with the options in recovery.md.
-- Karma 5 still unspent (Lee was given the skill table to choose from).
+- [Lee] The Trick's working name: INVESTED PRAYER ("until we come up with something better").
+- [Lee] KARMA SPENT (5 -> 0): FAX IACTA 2->3 (2), DOGMA & RELATED LORE 2->3 (2), SINGING 1 (1, new Performer Maneuver). All justified by S16 story (the consecration and travel blessing; the dirge); no New taken. Fax now recast 10, improvising 13; Dogma 11; Singing 9.
+- RULE NOTE (karma.md): attendance Karma "can't be spent on advancement till they get some downtime, usually at the end of the session." The S17 attendance point went into this spend; her sleep at Ivro's feet stood as the downtime @@* (flagged to Lee).
 
 ## DAY 29 -- late afternoon: THE STUDY
 - Present: Cari (asleep); IVRO (in his chair). Asher in his lantern on the table.

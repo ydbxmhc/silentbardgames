@@ -2,7 +2,7 @@
 
 This is the one living sheet, holding current numbers only. Update it in place whenever anything changes. History, every advancement, the Accords ledger and open threads live in the master file (`2026-10-09 CHARACTER - Caria Greenhaven (master file, through S08).md`) and in the session ledgers.
 
-**Current as of:** S16 END (late afternoon, Day 29, asleep at Ivro's feet in the Precentor's study). Updated 2026-11-06.
+**Current as of:** S17 START (late afternoon, Day 29; Karma spent). Updated 2026-11-06.
 
 ---
 
@@ -21,7 +21,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
 | Level | **5** |
 | Luck Tokens | Session start: reset to cap. **1 at the start of every scene** if there's room. Cap = Level (**5**). Tokens may exceed the cap from Extremes or GM kudos. Anyone may spend a Token on ANY roll. **S16 ended at 5; S17 opens at 5.** |
 | Down | when Injury + Complication > **5** |
-| Karma | **4** banked, UNSPENT (S16 wrap; Lee choosing purchases at S17 start). (S17 attendance due at the start.) |
+| Karma | **0** (5 spent at S17 start: see the log). |
 | Harm | **none.** |
 | Armor | **1** (brass breastplate, bracers, boots). Breastplate and armour are in the LIBRARY; she wears the BRACERS on the road (Plot Armor [Lee]). |
 
@@ -36,6 +36,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
   - **TRAUMA CARE 1 -> 2** (1), RENAMED **TRAUMA HANDLING** (healer.md: emergency procedures, wound treatment, triage).
   - No "New" purchase taken. 0 banked.
 - **S16 wrap (2026-11-06):** Karma 4 = 1 attendance + 1 apology (no Hook trigger: both Hook taps were wanted) + 2 Good Fun (the sunrise consecration; the cell shown unkind). **Unspent.** Used in S16 (eligible): Loremaster 3->4 (3); Conjuror 4->5 (4); True Name of Asher 4->5 (4); Fax Iacta 2->3 (2); Spell Improvisation 3->4 (3); plus one New (Healer appeared in fiction only -- bone-washing with Hannet).
+- **S17 start (2026-11-06):** Karma 5 = 4 banked + 1 attendance. **FAX IACTA 2 -> 3** (2). **DOGMA & RELATED LORE 2 -> 3** (2; the consecration and the travel blessing). **SINGING 1** (1; new Performer Maneuver; the dirge, hummed at the grave and sung on the road down). All three justified by S16's story; no "New" taken. 0 banked.
 - **House rule [Lee, S15]:** each session, advance anything she actually USED as far as Karma allows, plus ONE "New" (a Role or Maneuver not justified by the session's rolls or story). Advancing base Level is always the New one.
 
 ## Hook
@@ -47,24 +48,24 @@ This is the one living sheet, holding current numbers only. Update it in place w
 ## Roles, Maneuvers and ELs (Level 5)
 | Role | Rank | Maneuvers | EL |
 |---|---|---|---|
-| Spellweaver | 4 | Fax Iacta 2; Spell Improvisation 3 (improvising only); **Artifice 3** | see Spells; unbound/counter/gather/ritual **7**; Artifice **10** |
+| Spellweaver | 4 | Fax Iacta **3**; Spell Improvisation 3 (improvising only); **Artifice 3** | see Spells; unbound/counter/gather/ritual **7**; Artifice **10** |
 | Conjuror | 4 | True Name of Asher 4; **Wards 1** | **9**; with Asher **13**; Wards **10** (with Asher too, **14**, when he can plausibly add value -- synergy is earned, not automatic [Lee]) |
 | Healer | 4 | Apothecary 3; **Trauma Handling 2** (emergency procedures, wound treatment, triage) | **9**; Apothecary **12**; Trauma Handling **11** |
-| Performer | 3 | Open Hands 3 (being believed, settling strife, negotiating) | **8**; Open Hands **11** |
-| Loremaster | 3 | Scry; Light (known spells); **Dogma & Related Lore 2** | **8**; Dogma **10**; about Scry or Light **9** (spells and knowledge only) |
+| Performer | 3 | Open Hands 3 (being believed, settling strife, negotiating); **Singing 1** | **8**; Open Hands **11**; Singing **9** |
+| Loremaster | 3 | Scry; Light (known spells); **Dogma & Related Lore 3** | **8**; Dogma **11**; about Scry or Light **9** (spells and knowledge only) |
 | Tinker | **2** | **Alchemy 2** | **7**; Alchemy **9** |
 | Naturalist | 1 | Foraging 1 | **6**; Foraging **7** |
 | Untrained | -- | -- | **5** (riding, S14) |
 
-- Room for more distinct Maneuvers (not free; bought with Karma): Conjuror 2, Performer 2, Healer 2, Spellweaver 1, Loremaster 0, Tinker 1.
+- Room for more distinct Maneuvers (not free; bought with Karma): Conjuror 2, Performer 1, Healer 2, Spellweaver 1, Loremaster 0, Tinker 1.
 
 ## Spells
 - **Known, free with Spellweaver ranks:** Phantasmal Veil; Fume (Poison Cloud); Tanglebones; Stone Shape. **Known as Maneuvers:** Fax Iacta (Spellweaver); Scry and Light (Loremaster).
 - **Bound** (2 ranks; **2 unbound**) -- unchanged in S15:
-  - **Fax Iacta** (Role 1 + Maneuver 2): recast **EL9**; **12** improvising (hold at the same EL).
+  - **Fax Iacta** (Role 1 + Maneuver 3): recast **EL10**; **13** improvising (hold at the same EL).
   - **Phantasmal Veil** (Role 1): recast **EL7**; **10** improvising. A willing target needs no roll to be affected.
 - **Unbound, full ritual at EL7:** Stone Shape, Fume, Tanglebones, Scry, Light.
-- **Persistent Fax recipe (S15):** HOLD at EL12 vs DL1; the CAST at EL12 = its STRENGTH.
+- **Persistent Fax recipe (S15):** HOLD at the improvising EL (now **13**) vs DL1; the CAST at that EL = its STRENGTH.
 - **Stone Shape [S15 rulings]:** Constrained can cost; release reverts if it can; a new permanent shape is an enchantment (item creation).
 - **Gathering mana:** a Spellweaver Boost on free ranks (EL7), opposed by the place; a Persistent Boost is wagered BEFORE the roll.
 - **CHANNELLED [Lee, S13]:** casting or Sight THROUGH Asher at any distance; +1 DL.
@@ -85,7 +86,7 @@ This is the one living sheet, holding current numbers only. Update it in place w
 - **Query the Candle:** ask Asher; his answer is a Boost.
 - **See the Root:** Second Sight Boosts a diagnosis, treatment, cut or rebuke.
 - **The Hurting Potato (S14):** a Veil glamour that sends a patient's pain "down the scarf into the potato" -- its effect counts as a BOOST to the surgery.
-- **@@ (unnamed) -- healing by petition [Lee, S17 talk; an option, not the only way]:** a ceremony, never mid-fight. Conjuror at EL minus a WAGER (max = Conjuror rank, 4) petitions the gods' servants for someone else; the Wager IS the spirit that answers, a residual roller at EL W making a recovery roll against the wound's DL. What it removes passes to CARI as-is, same type; no armor or Plot Armor (a Token to absorb a point is fine). She recovers normally after. Hooks and Tokens apply to both rolls. Full text: register sec 9.
+- **Invested Prayer** (working name [Lee]) -- healing by petition [Lee, S17 talk; an option, not the only way]: a ceremony, never mid-fight. Conjuror at EL minus a WAGER (max = Conjuror rank, 4) petitions the gods' servants for someone else; the Wager IS the spirit that answers, a residual roller at EL W making a recovery roll against the wound's DL. What it removes passes to CARI as-is, same type; no armor or Plot Armor (a Token to absorb a point is fine). She recovers normally after. Hooks and Tokens apply to both rolls. Full text: register sec 9.
 
 ## Gear
 - **S16 changes:** the COUNCIL OF CROSSROADS' ANSWER -> the PRIOR's desk (Day 28, unopened). In the LIBRARY: the YELLOW (worn Day 29), WHITE, RED, ORANGE as before; the silver hairpin. The rest as listed.
