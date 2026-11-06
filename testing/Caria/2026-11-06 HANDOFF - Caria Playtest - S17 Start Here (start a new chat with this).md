@@ -5,7 +5,8 @@ This file is spoiler-free, so Lee may read it. It replaces "S16 Start Here," sav
 ## STATUS: S17 IS ALREADY OPEN (updated 2026-11-06)
 S17 was opened at the end of the S16 chat, which then compacted, so play continues in a NEW chat. **Do not re-open the session.** Pick up from the last beat:
 - The GM read the core L1 rules pages first (listed at the top of the S17 ledger).
-- Karma is **5** (4 banked + 1 attendance), still UNSPENT. Lee spends whenever he likes, before the roll it would change.
+- Karma **SPENT** (5 -> 0) before play resumed: Fax Iacta 2->3, Dogma & Related Lore 2->3, Singing 1 (new Performer Maneuver). The sheet is current.
+- New Trick, ruled between beats as an option: **Invested Prayer** (healing by petition; register sec 9; on the sheet).
 - Tokens 5, Hook budget 4, GM Tokens 6, no Harm.
 - **The last beat delivered (player-visible):** late afternoon, Day 29, Cari woke on the rug in the Precentor's study to THREE SHORT BLASTS on the bend's horn far below (Ruddock's order is one long blast for a friend; nobody has ever used three short). Ivro's hand tightened on her hair. RUDDOCK at the study door, out of breath: "The bend. Piers. That's *trouble*, that is." The switchbacks below already in shadow. **Lee's move is next.**
 - The S17 ledger (`GM ONLY - S17 Ledger (spoilers)`) holds the opening state and the GM truth set before play. Read it with the brief.
@@ -43,12 +44,11 @@ Format [Lee, S16]: end beats on pressure, not atmosphere. Don't prompt. When soa
 ## Where we are: S17 opens
 - **Late afternoon, Day 29, the Monastery.** Cari is asleep on the rug at Ivro's feet in the Precentor's study, after a day and a night without sleep.
 - **What she did (S16):** woke in Tessa's bed at Crossroads and sent her to Aldy's; rode the Mountain road with Jem and Ilse Tarro; warned the Prior first; sat with Ilse while the Prior told her plainly and named the man; showed her Wenna as she was found, and where she was safe; found Piran in the burying-roll under a false name, in the Almoner's clerk's hand; burned the false name off his stone; kept vigil in the frost; saw him dug out at sunrise and consecrated him by his true name with his mother beside her; washed his bones with Hannet; walked him down the Mountain with his mother and father, the house behind them. Still hasn't killed anyone.
-- **Caria:** Level 5. Tokens 5 at session start. **Karma 5 (4 banked + attendance), unspent.** No Harm.
+- **Caria:** Level 5. Tokens 5 at session start. **Karma 0 (spent at S17 start).** No Harm.
 - **Asher:** with her; witnessed the vow's keeping. **Jem:** at the Monastery.
 - **Known and waiting:** the third-bend road shrine is broken (its lintel fell in the frost); Ilse will send when Wenna is ready to be told; Olef means to "pay it on"; Pryce's answer still sits unopened on the Prior's desk.
 
 ## Paperwork still owed (not blocking play)
-- Karma purchases (S17 start).
 - Summary pages (HTML) for S06 Part 2 through S16.
 - Master character file through S16.
 - CAST and Gazetteer for Crossroads and the Monastery (the index is a start).
