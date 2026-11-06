@@ -18,6 +18,7 @@ Each entry: **[STATUS] Short title.** The ruling or question. *(Where it came fr
 
 Updated 2026-10-22: the four conflicts in section 23 resolved.
 Updated 2026-10-30: the late S14 rulings (Days 15-18) folded in.
+Updated 2026-11-06: healing by petition (sec 9), from the S17 talk.
 Updated 2026-11-04: the S15 rulings folded in (tagged S15).
 Updated 2026-11-06: the S16 rulings and Lee's S16 opposition guidance folded in (tagged S16); new section 25, the GM crib.
 
@@ -225,6 +226,7 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 - **[RULED] A healer's honest prognosis can split one case into layers** with different mechanics (bone knit short = done; contracture = accumulated progress, no rolls; learned fear = tonight's contest). *(S13)*
 - **[RULED] Cooking** is base Level until a Naturalist rank; an expert's guidance is a passed, rolled Boost. *(S06 Pt2)*
 - **[RULED] See the Root (Trick).** Where a problem has a living or spiritual trace, Second Sight Boosts the analysis or diagnosis; against the mundane, psychometry at best. Diagnosis and treatment are separate rolls. *(S05, S12, S13)* Good model of a Trick naming its mechanism (tricks.md).
+- **[RULED] Healing by petition (Trick; an OPTION, one way to keep magical healing interesting, not "how it's done").** A ceremony, never mid-fight: she petitions the gods' servants (the Celestial Bureaucracy) for someone else. The petition is a Conjuror roll at EL minus a WAGER, against the judge; ceremony Boosts, Hooks and Tokens apply (Maneuvers may raise this EL but never the cap -- later). The Wager IS the spirit that answers: capped at Conjuror rank, it is a residual roller at EL W (wagered-actions.md, Residual Effects -- the fire that rolls on its own). On a successful petition it makes a recovery roll against the wound's DL (a named wound if one was named; otherwise the Harm, unspecified by default); Tokens may be spent on that roll too. Whatever it removes passes to the PETITIONER as-is, keeping its type: armor and Plot Armor don't apply (they are Gear); a Luck Token to absorb a point does ("not that bad, child"). She recovers normally after. The Wager is never her bonus. Timing against the post-fight roll is the table's call when it serves the drama. The spirit comes or it doesn't; that's what dice are for. *(S17 talk, 2026-11-06, Lee)* -> recovery.md, with Making It Dark and Second Wind as an option; tricks.md as an example. Trick name: @@ unnamed.
 - **[RULED] Applying medicine is not making it.** Making a medicine from what's at hand needs the Role (Apothecary). Applying it (rubbing in a balm or liniment) is something ANYONE can do: base Level, as a simple Boost, not the Assist Rule. The Boost's dice may allow an Extreme, "as likely bad as good." A balm made by someone with no Apothecary rank is mundane gear (+1). *(S15)* -> healer.md beside the dose cap.
 
 ## 10. Spellcraft: known, bound, unbound
