@@ -16,6 +16,8 @@ Each entry: **[STATUS] Short title.** The ruling or question. *(Where it came fr
 - **[SUPERSEDED]** -- kept for history; the later ruling is named.
 - **[CONFLICT]** -- two of Lee's own rulings disagree. Needs one line from Lee.
 
+Updated 2026-10-22: the four conflicts in section 23 resolved.
+
 Sources: S01-S14 = session; "Add." = the pre-S09 Addendum (2026-10-11 design talk); "notes" = Lee's standing rulings notes.
 
 Maintenance: add new rulings under their topic, newest last, with the session tag. When Lee ratifies a proposal, change its tag. When text lands in the repo, change the target to "-> DONE: page.md".
@@ -146,7 +148,7 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 
 ## 7. Karma and advancement
 
-- **[RULED] Costs.** Level costs the NEW Level; every other score costs its CURRENT rating to advance; a NEW Role or Maneuver costs 1. Level 1 is free; each Role rank brings a Maneuver rank. *(S01, S07, S13 read of spending-karma.md)* -> spending-karma.md: one clause, "a new Role or Maneuver costs 1." See 23 for a conflicting note.
+- **[RULED] Costs.** Level costs the NEW Level ("higher"); pretty much everything else costs its CURRENT rating to advance [Lee, 2026-10-22]; a NEW Role or Maneuver costs 1. Level 1 is free; each Role rank brings a Maneuver rank. *(S01, S07, S13 read of spending-karma.md)* -> spending-karma.md: one clause, "a new Role or Maneuver costs 1." See 23 for a conflicting note.
 - **[RULED] PLAYTEST RULE "Use it to grow it."** Each session ONE optional purchase: something NEW, or Level (Level always takes this slot). Beyond it, any number of paid improvements to Roles and Maneuvers USED this session. A new Maneuver counts as used if it would have applied to a roll actually made (bare Role or unarguable Synergy). "Used" means a roll that mattered. Fiction-only use defaults to the new-purchase slot. Raising an UNUSED existing score takes the slot. *(S07, S08, S09)* Lee, S11: growth "feels meaningful, probably better... about right."
 - **[RULED] Outside the limit:** Hook rank-ups; Extreme-earmarked advances; in-play Enchantment (an item with its own costs); carry cap = cost of the next Level. *(S01, S03, S07)*
 - **[RULED] Maneuver limit is a COUNT.** A Role holds no more Maneuvers than its rank (each Maneuver's rank capped by the Role). *(S11; notes)* -> maneuvers.md: "count, not ranks."
@@ -281,21 +283,21 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 
 - **[RULED] Folk charms.** Salt for the dead, silver for demons (the Death/demonic corruption), iron for fey. Old magic usable by anyone with intent and commitment; usually enough for a small spirit. A threshold works against any spirit if you have a right to it and believe it. Garlic is no better than roses, but neither is useless. Vulnerability tracks how far a being has leaned into its nature. *(S03, S08)* -> strong sidebar candidate.
 - **[RULED] Iron vs fey without a practitioner.** Anyone holding iron and praying rolls base Level; on a success the iron's value (by quantity and arrangement) adds as automatic successes; it never helps someone who rolls none. Passive iron can be slipped round by lure or glamour; iron worked into a Ward adds fully. [PROPOSAL @@*] this is the existing Protected trait keyed to the fey's Vulnerable (iron). *(S03)*
-- **[CONFLICT] Iron's status.** See 23.
+- **[RULED] Iron and steel (Lee, 2026-10-22; reconciles S01 and S13).** Both are true; neither is deterministic. Iron is rare, valuable and sacred -- "more like silver than platinum," sacred the way a holy book commonly is: people cringe if you toss one or start pulling pages, and they notice, frown and maybe talk, but there's no iron gestapo, no pitchforks and torches. An iron-bound box or an iron-shod staff signals opulence and prestige, or something ominous, but it happens. An adventurer with a STEEL sword basically has a magic item, even unenchanted: it will have a name, even if it didn't. *(S01, S13, 2026-10-22)* -> setting overview; fix the Saltwind doc's line; settle Carterian/Carterion spelling.
 
 ## 17. Items and crafting
 
 - **[RULED] Fiction sets the time and resources.** "You don't forge a katana in camp after dinner." No tie to downtime unless players choose to work on projects then. *(Add.; supersedes item-creation.md's "one roll per session")*
 - **[RULED] Only the Traits the maker could add.** Traits are not skill: an item can't grant ranks without magic, and then it's a table ruling that always costs Karma. *(Add.)*
 - **[RULED] The crafting Role isn't named by the rule** (Tinker, or Spellweaver Artifice, etc., by build, with GM approval). *(Add.; notes)*
-- **[RULED] Lasting Work is STANDARD ATTRITION, "like any fight."** The crafter's Harm counts against her EL; her effect wears the item's opposition down. "A setback doesn't mean you lose, but it really makes it more likely that you'll need to just scrap the work and start over." *(S14)* -> item-creation.md: REVISE "the opposition never gets easier."
+- **[RULED] Lasting Work is STANDARD ATTRITION, "like any fight" (confirmed 2026-10-22).** The crafter's Harm counts against her EL; her effect wears the item's opposition down. "A setback doesn't mean you lose, but it really makes it more likely that you'll need to just scrap the work and start over." *(S14)* Lee, 2026-10-22: "never gets easier" was an attempt to keep every PC from churning out toys; it isn't needed once time and the Gear rule that STUFF BREAKS are accounted for. Making a sword Unbreakable is another Trait, driving the difficulty up -- and it still doesn't keep it from going overboard into the bay. -> item-creation.md: REMOVE "the opposition never gets easier" and its follow-on lines.
 - **[RULED] Finishing.** A NEW item must have its resistance EL reduced to ZERO. When ADDING Traits to an existing item, "you can just take it to Down" / the opposition worn below the item's previous rank. *(S06 Pt2, S14)* [OPEN] what "Down" means for an item -- see 24.
 - **[RULED] Failure.** Down = the project fails (time and materials gone; when improving, the ITEM is destroyed). Ceding is always open: lose the investment, keep the item. *(item-creation.md draft)*
 - **[RULED] Tokens and Karma at the bench.** No Luck Tokens; Karma may stand in for a Token. Extra Effort per dice.md. *(item-creation.md draft; S14)*
 - **[RULED] A spell in an item is a Trait.** The caster rolls as usual with her own EL (the item adds none). A failed cast fries it; Gear rules apply (disarmed, destroyed, stolen). An artificer can carry several, freeing bound ranks -- intended: "power increased significantly at the cost of dependence on the item." An item that itself carries RANKS needs real Karma and uses the Assist rule. *(Add.)*
 - **[RULED] Required Traits ride along.** An embedded spell brings its spells.md "Required" Traits with it. *(S14)*
 - **[RULED] Only baked Traits.** "An item cannot implement any Trait not built into it. In use, the caster still has to roll as usual, but can ONLY Improvise Traits baked into the item." *(S14)*
-- **[RULED] Rating by rank (spell items).** The spell is rank 1; each Trait in the item (Required or baked) adds a rank; the RATING is what a Maneuver of that rank costs: 1, 2, 4, 7, 11, 16. Veil + Subtle + Area + Guidable + Persistent = rank 5 = rating 11. Fax + Persistent + Guidable = rank 3 = rating 4. Scry (five Required) = rank 6 = rating 16. "Minor items really easy, more powerful items a lot harder." *(S14)* See 23 for the older points scale.
+- **[RULED] Rating by rank -- ALL items, the common scale (Lee, 2026-10-22).** One scale for everything, no special exceptions "without a REALLY good reason." Each Trait in an item is a rank (for a spell item, the spell itself is rank 1); each Trait in the item (Required or baked) adds a rank; the RATING is what a Maneuver of that rank costs: 1, 2, 4, 7, 11, 16. Veil + Subtle + Area + Guidable + Persistent = rank 5 = rating 11. Fax + Persistent + Guidable = rank 3 = rating 4. Scry (five Required) = rank 6 = rating 16. "Minor items really easy, more powerful items a lot harder." Two- and three-Trait items are relatively minor but "still pretty damned handy": they FEEL like magic items, and still make you bump into their limits and want the legendary Thing-O-Power. Beyond three Traits the cost ramps drastically -- a real master, maybe with "a cabal of competent assistants passing Boosts." *(S14; 2026-10-22, supersedes the S06 triangular 1, 3, 6, 10 scale)* -> item-creation.md: replace the Level-progression pot with this.
 - **[RULED] Rating-1 items are right for DISPOSABLES**; fragility (breaks on any failed cast; Gear rules) is largely the point of durable spell items. *(S14)*
 - **[RULED] Pinned Work for disposables** (item-creation.md draft): a Wager on the Residual model, pinned by encumbering a Token; the effect is fixed and does not roll; trigger, effect and target declared; "the declaration is the item"; anyone can supply the Token knowingly. Answers "is a one-shot item a scroll?" for disposables. *(S06 Pt2, S14)* [OPEN] whether Pinned Work survives as its own mechanic beside "disposables are Boosts under the Gear rules." *(Add.)*
 - **[RULED] Harm from crafting** -- probably no special rule: loss of nerve as a Hindrance, Complication, Injury or even a Hook, per the fiction. *(Add.)*
@@ -357,14 +359,14 @@ Maintenance: add new rulings under their topic, newest last, with the session ta
 
 ---
 
-## 23. Conflicts to resolve
+## 23. Conflicts resolved
 
-These are places where two of Lee's own rulings, or a ruling and the repo, disagree. One line from Lee settles each.
+All four were settled by Lee on 2026-10-22. Kept here as a record; the rulings live in their sections.
 
-1. **Iron.** S01: "iron is merely RARE; STEEL is sacred to Carterion; iron may be revered by Grolikarnigan's followers -- using it casually is at most mildly rude" (and the Saltwind doc's "iron sacred to both" was to be corrected). S13: "NO CASUAL IRON. Iron is sacred to Grolikarnigan and Carterion; steel belongs to Carterion's temple." Play since S13 follows S13. Which stands? (Spelling drift: Carterian / Carterion.)
-2. **Advancement cost wording.** Lee's standing notes say "Level costs current Level value; all Roles and Maneuvers cost new rank value." The S13 read of spending-karma.md, and every purchase since S07, use the opposite: Level costs the NEW Level; everything else costs its CURRENT rating (Healer 3 -> 4 = 3K). Play follows spending-karma.md; the note may simply be a slip.
-3. **Item point scales.** S06 (the draft as discussed then): item points follow the Level progression 1, 3, 6, 10 (Sharp 1 + Sturdy = rank 2; a rank-3 sword is 1+2+3; adding a Trait +4 = 10, worn down to 2). S14 (spell items): rating = Maneuver cost by rank, 1, 2, 4, 7, 11, 16. Does the Maneuver scale replace the triangular one for ALL items, or only for spell items?
-4. **Lasting Work attrition.** item-creation.md draft: "the opposition never gets easier." S14: standard attrition. The draft line needs revising (Lee's own ruling supersedes it).
+1. **Iron** (S01 "merely rare" vs S13 "sacred") -> both true, neither deterministic. See 16.
+2. **Advancement cost wording** -> Level costs the NEW value; pretty much everything else the CURRENT value. A standing note that said the reverse was a failed experiment, since dropped [Lee]. See 7.
+3. **Item point scales** (S06 triangular vs S14 Maneuver cost) -> the common Maneuver-cost scale for ALL items. See 17.
+4. **"The opposition never gets easier"** -> dropped; standard attrition. See 17.
 
 ## 24. Open questions index
 
@@ -385,4 +387,4 @@ Quick list of everything still [OPEN] or [UNCLEAR] above, by section.
 - 18: Companion Training timing.
 - 19: opposition and DL anchors.
 - 21: Bare Oracle weighting; clocks.
-- 23: all four conflicts.
+- 23: none open.
